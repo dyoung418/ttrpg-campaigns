@@ -1,0 +1,17 @@
+# Obsidian workspace state (user-specific, changes on every open)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian plugin data (not tracked — reinstall from community plugins)
+.obsidian/plugins/
+
+# Copyrighted reference material (excluded from git — add your own copy locally)
+TTRPG-general-references/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
