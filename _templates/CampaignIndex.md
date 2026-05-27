@@ -24,9 +24,11 @@ status: active
 
 ## The Party
 
-| Character | Player | Class/Role | Background Hook | Item Wish List |
-|-----------|--------|------------|-----------------|----------------|
-|           |        |            |                 |                |
+| Character | Player | Class/Role |
+|-----------|--------|------------|
+| [[]]      |        |            |
+
+*Full character details (backstory, motivations, item wish lists) → see `characters/` folder*
 
 ## Key NPCs
 

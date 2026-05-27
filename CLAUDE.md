@@ -6,6 +6,7 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
 
 - `campaigns/<name>/` — one subfolder per campaign
   - `_index.md` — campaign hub, links everything
+  - `characters/` — player characters (PCs)
   - `npcs/` — non-player characters
   - `locations/` — places, regions, dungeons
   - `plot-hooks/` — story hooks and quest threads
@@ -21,13 +22,13 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
 
 - Always use `[[Note Name]]` for internal links
 - Use `[[Note Name|display text]]` when the display text should differ
-- Tags use lowercase kebab-case: `#npc`, `#location`, `#plot-hook`, `#faction`, `#item`, `#lore`, `#session`
+- Tags use lowercase kebab-case: `#character`, `#npc`, `#location`, `#plot-hook`, `#faction`, `#item`, `#lore`, `#session`
 - Campaign-scoped tags: `#campaign/name-of-campaign`
 
 ## Your Role
 
 When the user describes TTRPG content in plain text, you:
-1. Identify distinct entities (NPCs, locations, plot hooks, factions, items, lore)
+1. Identify distinct entities (player characters, NPCs, locations, plot hooks, factions, items, lore)
 2. Check existing notes with `find` and `grep` to avoid duplicating entries and to find cross-link opportunities
 3. Create or update `.md` files in the correct campaign subfolder
 4. Always cross-link related notes using wikilinks
@@ -44,6 +45,7 @@ When the user describes TTRPG content in plain text, you:
 - Campaign folder names: lowercase-hyphenated (e.g. `curse-of-strahd`)
 - Note filenames: natural names, spaces allowed (e.g. `Ireena Kolyana.md`)
 - Session files: zero-padded numbers (e.g. `Session 01 - Death House.md`)
+- Character (PC) files: `campaigns/<name>/characters/<Character Name>.md`
 - NPC files: `campaigns/<name>/npcs/<NPC Name>.md`
 - Location files: `campaigns/<name>/locations/<Location Name>.md`
 - Plot hook files: `campaigns/<name>/plot-hooks/<Hook Name>.md`

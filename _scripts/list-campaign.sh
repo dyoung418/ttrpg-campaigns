@@ -27,7 +27,7 @@ fi
 echo "=== CAMPAIGN: $CAMPAIGN ==="
 echo ""
 
-for TYPE in npcs locations plot-hooks factions items lore sessions; do
+for TYPE in characters npcs locations plot-hooks factions items lore sessions; do
   COUNT=$(find "$DIR/$TYPE" -name "*.md" 2>/dev/null | wc -l | tr -d ' ')
   if [ "$COUNT" -gt 0 ]; then
     LABEL=$(echo "$TYPE" | tr '[:lower:]' '[:upper:]')

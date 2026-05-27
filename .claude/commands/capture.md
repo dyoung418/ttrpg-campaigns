@@ -28,12 +28,13 @@ Read `campaigns/<name>/_index.md` to understand what already exists.
 
 If the user has already provided their brainstorm text in this message, use it directly.
 
-Otherwise ask: "Tell me what you've got — NPCs, locations, plot hooks, lore, factions, items. Just describe it naturally."
+Otherwise ask: "Tell me what you've got — player characters, NPCs, locations, plot hooks, lore, factions, items. Just describe it naturally."
 
 ## Step 4 — Identify Entities
 
 Parse the user's text and identify every distinct entity:
-- **NPC**: a named person, creature, or being with a personality or role
+- **Character (PC)**: a player character — someone a player controls. Track: player name, class/race, backstory hook, motivations, character arc, magic item wish list
+- **NPC**: a named non-player character with a personality or role
 - **Location**: a named place — city, dungeon, building, region, room
 - **Plot Hook**: a story thread, quest, rumor, or unresolved tension
 - **Faction**: an organization, guild, cult, government, or group
@@ -53,6 +54,7 @@ If a file already exists, plan to **update** it rather than create a duplicate.
 Use the templates in `_templates/` as structure guides. Fill in only what the user actually provided — do not invent details. Leave template sections empty if the user didn't mention them.
 
 **File paths:**
+- `campaigns/<name>/characters/<Character Name>.md`
 - `campaigns/<name>/npcs/<NPC Name>.md`
 - `campaigns/<name>/locations/<Location Name>.md`
 - `campaigns/<name>/plot-hooks/<Hook Name>.md`
@@ -61,9 +63,10 @@ Use the templates in `_templates/` as structure guides. Fill in only what the us
 - `campaigns/<name>/lore/<Topic Name>.md`
 
 **Cross-linking rules:**
+- Every Character file → wikilink to NPCs they have relationships with, Plot Hooks tied to their backstory
 - Every NPC file → wikilink to their home Location, their Faction, and any Plot Hooks they're involved in
 - Every Location → wikilink to NPCs found there and Plot Hooks tied to it
-- Every Plot Hook → wikilink to NPCs and Locations involved
+- Every Plot Hook → wikilink to Characters and NPCs involved, and Locations
 - Factions → wikilink to member NPCs and their base Location
 - If a referenced entity doesn't have a file yet, create a minimal stub with just the frontmatter and a one-line description, and flag it for the user
 

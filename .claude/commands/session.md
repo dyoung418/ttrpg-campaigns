@@ -31,13 +31,20 @@ New session number = count + 1, zero-padded to 2 digits (01, 02, … 10, 11).
 
 ## Step 1 — Review the Characters
 
-Read the Party table from `_index.md`. Present each PC's name, background hook, and item wish list to the user.
+Read all character files:
+```bash
+find /home/danny/ttrpg_campaigns/campaigns/<name>/characters -name "*.md" 2>/dev/null | sort
+```
 
-Ask: "Has anything changed with the characters? Any new backgrounds, goals, or items they're after?"
+Read each one. For each PC, extract: name, player, class, backstory hook, motivations, character arc, and magic item wish list.
 
-Goal: wire the characters into your mind before the rest of prep. Everything else should connect back to them.
+If no character files exist yet, read the Party table from `_index.md` as a fallback and suggest creating proper character files with `/capture`.
 
-*Reference: `05_review_the_characters.md`*
+Present a brief summary of each PC to the user — remind them who everyone is and what they want. Then ask: "Has anything changed since last session? New goals, updated wish lists, anything I should know?"
+
+Goal: wire each character into your mind before the rest of prep. As you work through Steps 2–8, keep asking: how does this connect to a specific character's backstory, goals, or arc?
+
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/05_review_the_characters.md`*
 
 ---
 
@@ -50,7 +57,7 @@ Guide toward specificity. Push for *in medias res* — start as close to the act
 - What's the point? (the hook that sends characters into the adventure)
 - Where's the action? (start close to it — when in doubt, start with combat)
 
-*Reference: `06_create_a_strong_start.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/06_create_a_strong_start.md`*
 
 ---
 
@@ -60,7 +67,7 @@ Ask: "Sketch 3–6 scenes you think might happen — just a few words each. Thes
 
 Remind the user: 1–2 scenes per hour of play is enough. They don't need to be sequential. Be ready to throw them away.
 
-*Reference: `07_outline_potential_scenes.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/07_outline_potential_scenes.md`*
 
 ---
 
@@ -75,7 +82,7 @@ Then collaboratively brainstorm up to 10 single-sentence secrets the characters 
 
 Key rule: keep secrets **abstract from their discovery method** — don't decide how they'll be found. That gets improvised at the table.
 
-*Reference: `08_define_secrets_and_clues.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/08_define_secrets_and_clues.md`*
 
 ---
 
@@ -89,7 +96,7 @@ Check existing location files and link them where applicable. Create stubs for n
 
 Aim for 1–2 locations per hour of play. Tip: scale (huge/ancient things) makes locations fantastic.
 
-*Reference: `09_develop_fantastic_locations.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/09_develop_fantastic_locations.md`*
 
 ---
 
@@ -102,7 +109,7 @@ For NPCs critical to this session (quest givers, villains, key contacts), note:
 
 Check `campaigns/<name>/npcs/` for existing files. Create stubs for new NPCs and offer to `/capture` them afterward.
 
-*Reference: `10_outline_important_npcs.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/10_outline_important_npcs.md`*
 
 ---
 
@@ -114,13 +121,13 @@ Use challenge rating only as a loose gauge of difficulty — don't balance encou
 
 If there's a boss fight, ask a few extra questions about the boss's capabilities and what would make it memorable.
 
-*Reference: `11_choose_relevant_monsters.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/11_choose_relevant_monsters.md`*
 
 ---
 
 ## Step 8 — Select Magic Item Rewards
 
-Check the item wish lists in the Party table from `_index.md`.
+Check the "Magic Item Wish List" section from each character file in `campaigns/<name>/characters/`. Fall back to the Party table in `_index.md` if character files don't have wish lists yet.
 
 Suggest 1 magic item that fits the session's story. Consider:
 - Does it match a character's wish list?
@@ -129,7 +136,7 @@ Suggest 1 magic item that fits the session's story. Consider:
 
 Can also suggest rolling randomly if the user prefers surprise.
 
-*Reference: `12_select_magic_item_rewards.md`*
+*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/12_select_magic_item_rewards.md`*
 
 ---
 

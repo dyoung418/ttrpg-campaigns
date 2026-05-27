@@ -38,7 +38,7 @@ Present a clean summary table.
 
 2. **Create folder structure**:
 ```bash
-mkdir -p /home/danny/ttrpg_campaigns/campaigns/<name>/{npcs,locations,plot-hooks,factions,items,lore,sessions}
+mkdir -p /home/danny/ttrpg_campaigns/campaigns/<name>/{characters,npcs,locations,plot-hooks,factions,items,lore,sessions}
 ```
 
 3. **Create `_index.md`** from the `_templates/CampaignIndex.md` structure. Fill in:
@@ -48,7 +48,7 @@ mkdir -p /home/danny/ttrpg_campaigns/campaigns/<name>/{npcs,locations,plot-hooks
 
 4. **Update `Home.md`**: Add `[[campaigns/<name>/_index|<Display Name>]]` under the "All Campaigns" section.
 
-5. Report success and prompt: "Use `/capture <name>` to start adding NPCs, locations, and plot hooks."
+5. Report success and prompt: "Use `/capture <name>` to start adding player characters, NPCs, locations, and plot hooks."
 
 ---
 
