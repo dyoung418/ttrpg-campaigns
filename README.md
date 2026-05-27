@@ -10,7 +10,7 @@ An Obsidian vault for managing tabletop RPG campaigns, maintained with [Claude C
 
 ## Usage
 
-Talk to Claude in plain text. Three slash commands are available:
+Talk to Claude in plain text. At the beginning, use /campaign new.  Three slash commands are available:
 
 | Command | What it does |
 |---------|-------------|
