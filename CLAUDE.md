@@ -14,6 +14,12 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
   - `items/` — notable items, artifacts, rewards
   - `lore/` — world-building, history, cosmology
   - `sessions/` — session notes and planning docs
+- `ideas/` — campaign-agnostic brainstorming bank (not tied to any campaign)
+  - `_index.md` — ideas hub
+  - `npcs/`, `locations/`, `encounters/`, `plot-hooks/`, `factions/`, `items/`, `lore/`
+  - Use `/capture ideas` to add content here
+  - During `/session`, ideas-bank content is surfaced as optional material to pull in
+  - To promote an idea to a campaign, move the file to the appropriate campaign subfolder
 - `_templates/` — Obsidian note templates (do not modify without intent)
 - `_scripts/` — helper scripts
 - `TTRPG-general-references/` — reference books and materials
@@ -36,9 +42,10 @@ When the user describes TTRPG content in plain text, you:
 
 ## Commands Available
 
-- `/capture [campaign-name]` — capture brainstormed content into campaign notes
+- `/capture [campaign-name | ideas]` — capture brainstormed content into campaign notes or the ideas bank
 - `/session [campaign-name]` — plan a session using the Return of the Lazy Dungeon Master 8-step framework
 - `/campaign [new|list|overview] [name]` — create or review campaigns
+- `/move` — interactively move a note: ideas ↔ campaign, or campaign → campaign
 
 ## File Naming Rules
 
@@ -53,6 +60,7 @@ When the user describes TTRPG content in plain text, you:
 - Item files: `campaigns/<name>/items/<Item Name>.md`
 - Lore files: `campaigns/<name>/lore/<Topic Name>.md`
 - Session files: `campaigns/<name>/sessions/Session <NN> - <Title>.md`
+- Ideas bank files: `ideas/<type>/<Name>.md` (no characters/ in ideas — PCs always belong to a campaign)
 
 ## Response Style
 

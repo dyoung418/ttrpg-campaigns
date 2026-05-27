@@ -78,6 +78,12 @@ Read existing plot hook files to identify active threads:
 grep -rl "status: open\|status: active" /home/danny/ttrpg_campaigns/campaigns/<name>/plot-hooks/ 2>/dev/null
 ```
 
+Also check the ideas bank for unassigned plot hooks that might fit:
+```bash
+find /home/danny/ttrpg_campaigns/ideas/plot-hooks -name "*.md" 2>/dev/null | sort
+```
+If any ideas-bank hooks feel relevant, mention them to the user as potential material to pull in.
+
 Then collaboratively brainstorm up to 10 single-sentence secrets the characters might discover this session. Each is a piece of story, history, or world the characters can uncover. Suggest some based on active hooks; ask the user for more.
 
 Key rule: keep secrets **abstract from their discovery method** — don't decide how they'll be found. That gets improvised at the table.
@@ -92,7 +98,18 @@ For each key location this session, define:
 1. An **evocative name** (something that fires the imagination)
 2. **Three aspects** — short descriptive tags for interactable features
 
-Check existing location files and link them where applicable. Create stubs for new locations.
+Check existing campaign location files and link them where applicable:
+```bash
+find /home/danny/ttrpg_campaigns/campaigns/<name>/locations -name "*.md" 2>/dev/null | sort
+```
+
+Also check the ideas bank for unassigned locations that might fit this session:
+```bash
+find /home/danny/ttrpg_campaigns/ideas/locations -name "*.md" 2>/dev/null | sort
+```
+If any ideas-bank locations feel relevant, surface them for the user. If they choose to use one, move it into `campaigns/<name>/locations/` and update the ideas index.
+
+Create stubs for new locations.
 
 Aim for 1–2 locations per hour of play. Tip: scale (huge/ancient things) makes locations fantastic.
 
@@ -107,7 +124,11 @@ For NPCs critical to this session (quest givers, villains, key contacts), note:
 - Their role in this session
 - A **character archetype from popular fiction** to anchor their portrayal (the further from fantasy, the better)
 
-Check `campaigns/<name>/npcs/` for existing files. Create stubs for new NPCs and offer to `/capture` them afterward.
+Check `campaigns/<name>/npcs/` for existing files. Also check the ideas bank for unassigned NPCs who might slot into this session:
+```bash
+find /home/danny/ttrpg_campaigns/ideas/npcs -name "*.md" 2>/dev/null | sort
+```
+Surface any relevant ideas-bank NPCs to the user. Create stubs for new NPCs and offer to `/capture` them afterward.
 
 *Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/10_outline_important_npcs.md`*
 

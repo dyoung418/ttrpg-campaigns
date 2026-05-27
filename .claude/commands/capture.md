@@ -1,41 +1,48 @@
 ---
 description: Capture brainstormed TTRPG content into organized, linked campaign notes
-argument-hint: "[campaign-name]"
+argument-hint: "[campaign-name | ideas]"
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 ---
 
 You are helping a GM organize TTRPG campaign content into an Obsidian vault.
 
-## Step 1 — Resolve Campaign
+## Step 1 — Resolve Target
 
-If `$ARGUMENTS` names a campaign, use `campaigns/$ARGUMENTS/` as the target.
+**If `$ARGUMENTS` is `ideas`:** use `ideas/` as the target folder. Skip reading a campaign `_index.md` — instead read `ideas/_index.md`.
 
-If `$ARGUMENTS` is empty, list existing campaigns:
+**If `$ARGUMENTS` names a campaign:** use `campaigns/$ARGUMENTS/` as the target.
+
+**If `$ARGUMENTS` is empty:** list available options:
 ```bash
 find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort
 ```
-Then ask: "Which campaign is this for?" (or offer to create a new one with `/campaign new <name>`).
+Ask: "Which campaign is this for? Or type `ideas` to capture campaign-agnostic content."
 
 ## Step 2 — Survey Existing Notes
 
-Before creating anything, run:
+Before creating anything, list existing files in the target:
 ```bash
+# For a campaign:
 find /home/danny/ttrpg_campaigns/campaigns/<name> -name "*.md" | sort
+
+# For ideas:
+find /home/danny/ttrpg_campaigns/ideas -name "*.md" | sort
 ```
-Read `campaigns/<name>/_index.md` to understand what already exists.
+Read the target's `_index.md` to understand what already exists.
 
 ## Step 3 — Get Content from User
 
 If the user has already provided their brainstorm text in this message, use it directly.
 
-Otherwise ask: "Tell me what you've got — player characters, NPCs, locations, plot hooks, lore, factions, items. Just describe it naturally."
+Otherwise ask: "Tell me what you've got — player characters, NPCs, locations, plot hooks, lore, factions, items, encounters. Just describe it naturally."
 
 ## Step 4 — Identify Entities
 
 Parse the user's text and identify every distinct entity:
-- **Character (PC)**: a player character — someone a player controls. Track: player name, class/race, backstory hook, motivations, character arc, magic item wish list
+- **Character (PC)**: a player character — someone a player controls. Track: player name, class/race, backstory hook, motivations, character arc, magic item wish list. *(Campaign targets only — not valid for ideas/)*
 - **NPC**: a named non-player character with a personality or role
 - **Location**: a named place — city, dungeon, building, region, room
+- **Encounter**: a combat scenario, trap, or challenge concept not tied to a specific campaign
 - **Plot Hook**: a story thread, quest, rumor, or unresolved tension
 - **Faction**: an organization, guild, cult, government, or group
 - **Item**: a named item of significance (not generic loot)
@@ -45,22 +52,38 @@ Parse the user's text and identify every distinct entity:
 
 For each entity, grep existing notes before creating a new file:
 ```bash
+# Campaign:
 grep -r "Entity Name" /home/danny/ttrpg_campaigns/campaigns/<name>/ -l 2>/dev/null
+
+# Ideas:
+grep -r "Entity Name" /home/danny/ttrpg_campaigns/ideas/ -l 2>/dev/null
 ```
 If a file already exists, plan to **update** it rather than create a duplicate.
+
+Also check the other pool (ideas vs. campaign) — a character might reference an idea-bank location, or an idea might be better served by linking to a campaign NPC.
 
 ## Step 6 — Create or Update Files
 
 Use the templates in `_templates/` as structure guides. Fill in only what the user actually provided — do not invent details. Leave template sections empty if the user didn't mention them.
 
-**File paths:**
+**File paths for a campaign target:**
 - `campaigns/<name>/characters/<Character Name>.md`
 - `campaigns/<name>/npcs/<NPC Name>.md`
 - `campaigns/<name>/locations/<Location Name>.md`
+- `campaigns/<name>/encounters/<Encounter Name>.md`
 - `campaigns/<name>/plot-hooks/<Hook Name>.md`
 - `campaigns/<name>/factions/<Faction Name>.md`
 - `campaigns/<name>/items/<Item Name>.md`
 - `campaigns/<name>/lore/<Topic Name>.md`
+
+**File paths for ideas target:**
+- `ideas/npcs/<NPC Name>.md`
+- `ideas/locations/<Location Name>.md`
+- `ideas/encounters/<Encounter Name>.md`
+- `ideas/plot-hooks/<Hook Name>.md`
+- `ideas/factions/<Faction Name>.md`
+- `ideas/items/<Item Name>.md`
+- `ideas/lore/<Topic Name>.md`
 
 **Cross-linking rules:**
 - Every Character file → wikilink to NPCs they have relationships with, Plot Hooks tied to their backstory
@@ -69,10 +92,13 @@ Use the templates in `_templates/` as structure guides. Fill in only what the us
 - Every Plot Hook → wikilink to Characters and NPCs involved, and Locations
 - Factions → wikilink to member NPCs and their base Location
 - If a referenced entity doesn't have a file yet, create a minimal stub with just the frontmatter and a one-line description, and flag it for the user
+- Cross-pool links are fine: an ideas-bank location can be wikilinked from a campaign NPC file
 
-## Step 7 — Update Campaign Index
+## Step 7 — Update Index
 
-Open `campaigns/<name>/_index.md` and add new entities to the appropriate sections (Key NPCs, Key Locations, Active Plot Hooks, Factions). Use wikilinks. Do not remove existing entries.
+**Campaign target:** Open `campaigns/<name>/_index.md` and add new entities to the appropriate sections. Use wikilinks. Do not remove existing entries.
+
+**Ideas target:** Open `ideas/_index.md` and add new entities to the appropriate sections. Use wikilinks.
 
 ## Step 8 — Report
 

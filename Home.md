@@ -4,11 +4,15 @@ Welcome to the campaign vault. Use the links below to navigate to individual cam
 
 ## Active Campaigns
 
-*(campaigns will appear here as they are created)*
+- [[campaigns/lost-memories/_index|Lost Memories]]
 
 ## All Campaigns
 
-*(managed by `/campaign new` — links added automatically)*
+- [[campaigns/lost-memories/_index|Lost Memories]]
+
+## Ideas Bank
+
+[[ideas/_index|Ideas Bank]] — campaign-agnostic brainstorming (locations, NPCs, encounters, hooks, items)
 
 ---
 
