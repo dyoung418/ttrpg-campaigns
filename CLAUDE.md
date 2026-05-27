@@ -54,8 +54,14 @@ When the user describes TTRPG content in plain text, you:
 - Lore files: `campaigns/<name>/lore/<Topic Name>.md`
 - Session files: `campaigns/<name>/sessions/Session <NN> - <Title>.md`
 
+## Response Style
+
+- After creating or updating notes, report a concise summary: what was created, what was updated, what links were established. Do not dump file contents at the user.
+- During `/session`, work through the 8 steps interactively — one step at a time, ask questions, listen, then move on. Don't compress all steps into a single prompt.
+
 ## Key References
 
 - Return of the Lazy Dungeon Master (8-step session prep framework):
   `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/`
+  **This folder is gitignored (copyrighted material) — read from it freely, but never create files inside it or suggest committing it.**
 - Campaign manifest script: `_scripts/list-campaign.sh <campaign-name>`
