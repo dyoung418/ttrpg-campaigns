@@ -5,10 +5,12 @@ Welcome to the campaign vault. Use the links below to navigate to individual cam
 ## Active Campaigns
 
 - [[campaigns/lost-memories/_index|Lost Memories]]
+- [[campaigns/kingmaker/_index|kingmaker]]
 
 ## All Campaigns
 
 - [[campaigns/lost-memories/_index|Lost Memories]]
+- [[campaigns/kingmaker/_index|kingmaker]]
 
 ## Ideas Bank
 

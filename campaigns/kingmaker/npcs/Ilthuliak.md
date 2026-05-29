@@ -1,0 +1,54 @@
+---
+type: npc
+campaign: kingmaker
+tags:
+  - npc
+  - campaign/kingmaker
+  - enemy
+  - dragon
+created: "2026-05-29"
+---
+
+# Ilthuliak
+
+**Creature 21** | Unique, CE, Gargantuan, Acid, Amphibious, Dragon (Variant female black dragon)
+
+A legendary black dragon who terrorized the River Kingdoms, Pitax, Mivon, Numeria, and Brevoy in her youth. She murdered every dragonslayer who hunted her. Two decades ago, [[Nyrissa]] wooed her to relocate her lair to **the High Folly (Glade J)** in [[Thousandbreaths]] with promises of power, treasure, and glory. Nyrissa has kept those promises.
+
+She is the anchor for Glade J. Defeating her drops the uprooting DC by 4.
+
+## Stats
+
+- **AC** 47 | **HP** 450
+- **Fort** +38, **Ref** +35, **Will** +35; +1 status to all saves vs. magic; +4 status vs. mental
+- **Immunities**: acid, paralyzed, sleep
+- **Frightful Presence** (aura): 90 feet, DC 41
+- **Perception** +37; darkvision, scent (imprecise) 60 ft
+- **Languages**: Aklo, Common, Draconic, Goblin, Jotun, Orcish, Sylvan
+- **Skills**: Acrobatics +35, Arcana +36, Athletics +41, Deception +40, First World Lore +38, Intimidation +40, Stealth +35
+- **Breath Weapon**: 22d6 acid, 100-ft line, DC 44 Reflex. Recharges 1d4 rounds.
+
+**Key Spells** (DC 44): 10th *time stop*; 9th *disjunction*, *implosion*, *weird*; 8th *disappearance*, *horrid wilting*, *mind blank* (already cast); 7th *finger of death*, *reverse gravity*, *spell turning*; 6th *dominate*, *true seeing*, *wall of force*; 5th *black tentacles*, *dimension door*
+
+## Tactics
+
+**Pre-combat** (if she sees PCs approaching):
+1. Casts *time stop* — 3 free rounds.
+2. *Disappearance* (goes invisible), *spell turning*, *true seeing*.
+3. Positions for breath weapon on round 1.
+
+**In combat**:
+- Opens with breath weapon.
+- Circles overhead, casts *reverse gravity*, *black tentacles*, *weird*.
+- Once breath weapon recharges: swoops down into melee.
+- **Fights to the death** — glorying in combat.
+
+## The Heroic Challenge Quest
+
+Aurex Thewsen (from Pitax) offers a quest to slay Ilthuliak. Reward: PCs become famed dragonslayers; max Fame/Infamy +1; her remains can build a Monument without resource cost.
+
+## Related Notes
+
+- [[Nyrissa]]
+- [[Thousandbreaths]]
+- [[The Month of Destruction]]

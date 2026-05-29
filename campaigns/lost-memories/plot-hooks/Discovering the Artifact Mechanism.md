@@ -63,6 +63,14 @@ They have no memory. They are prisoners. Something was done to them here — the
 
 The memories dispersed into objects weighted with Aldric's own sentimentality — things from his personal history that were present at the ritual or already existed in the world when it was performed. The objects are passive vessels. Contact is enough to trigger fragments. The PCs could begin recovering themselves the moment they touch the right thing — they just don't know it yet.
 
+## A Connection You Noticed
+  
+  The ritual was designed to extract power from lived experience — to steal the accumulated weight of a life fully practiced, to skip the decades of work. The whole campaign is about the PCs doing the opposite: earning themselves back from scratch, with no context, one fragment at a time.  Aldric wanted the shortcut. The campaign is the proof that it doesn't exist. That's not backstory — that's the theme. Every session the PCs spend figuring out who they are is an argument against everything Aldric believes.
+
+##  A Question Worth Sitting With
+
+  The memories are stored in things dear to Aldric — objects weighted with his sentimentality, his history, his loss. Recovering a piece of yourself means obtaining something he values. So: is getting themselves back something he has to lose? And what does it mean to a man who has decided people are resources — when the PCs force him to choose between his treasures and his ambition? Does he give anything up willingly? Does he even know what he's carrying?
+
 ## NPCs Involved
 
 - [[Magister Aldric]] — his notes, his artifacts, his emotional history are the key
