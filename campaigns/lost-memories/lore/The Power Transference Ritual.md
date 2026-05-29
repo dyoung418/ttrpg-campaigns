@@ -46,7 +46,7 @@ Neither [[Magister Aldric]] nor the PCs know this yet. The discovery mechanism �
 
 ## Open Questions (GM to decide)
 
-- [ ] What is the discovery mechanism — how do Aldric and the PCs each learn the memories went into artifacts?
+- [x] What is the discovery mechanism — how do Aldric and the PCs each learn the memories went into artifacts? → See [[Discovering the Artifact Mechanism]] for three possible seeds
 - [ ] Could the PCs use knowledge of the ritual to restore their memories once they understand the artifact connection?
 - [ ] Which specific artifacts are still in the tower vs. scattered in the world?
 

@@ -42,6 +42,7 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 
 - [[The Wizard's Abduction]] — open, high priority — why are we here, who took us, what did they do to us?
 - [[The Switched Backstories]] — GM technique (see file); players ghost-wrote each other's real backstories without knowing it
+- [[Discovering the Artifact Mechanism]] — GM planning doc; three seeds for how the PCs learn their memories are stored in Aldric's artifacts
 
 ## Factions
 
