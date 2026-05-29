@@ -20,18 +20,24 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Current State
 
-*Where are the players right now? What's the most pressing situation?*
+The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. The PCs are now facing [[The Month of Destruction]] — [[Nyrissa]]'s bloom assault on the kingdom — which will lead them into [[Thousandbreaths]] and ultimately the [[House at the Edge of Time]].
 
 ## The Party
 
 | Character | Player | Class/Role |
 |-----------|--------|------------|
-| [[]]      |        |            |
+| [[Riven]] | Wes | |
+| [[Pavel]] | Darren | |
+| [[Milo]] | Billy | |
+| [[Lucas]] | Jon | |
+| [[Lee]] | Tom | |
+| [[Astor]] | Slava | |
 
 *Full character details (backstory, motivations, item wish lists) → see `characters/` folder*
 
 ## Key NPCs
 
+**Current Threats**
 - [[Nyrissa]] — The Heartless Queen, true villain; nymph queen seeking to complete the Apology
 - [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar
 - [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks in Throne Room K17
@@ -40,8 +46,32 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 - [[Ilthuliak]] — Black dragon; Glade J (High Folly)
 - [[Phomandala]] — Medusa sorcerer; Ruined Halls M3
 
+**Allies & Campaign NPCs**
+- [[Lady Jamandi Aldori]] — Noble patron who issued the PCs their charter
+- [[Benedin]] — Dwarven companion; Bronzeshield Hold community
+
+**Defeated**
+- [[The Stag Lord]] — Bandit lord; first major adversary
+- [[Vordakai]] — Ancient cyclops lich; defeated mid-campaign
+- [[King Irovetti]] — Tyrant of Pitax; Nyrissa's pawn
+- [[Hannis Drevlev]] — Treacherous charter-holder; allied with Pitax and Tiger Lords
+- [[Maegar Varn]] — Good-man charter-holder; founded Varnhold; killed by Vordakai
+
 ## Key Locations
 
+**The Kingdom of Freehaven**
+- [[Nightmarch]] — Capital city
+- [[Leveton]] — Trade town (grew from Oleg's Trading Post)
+- [[Vesket]] — Lizardfolk/human integrated town
+- [[Serenko]] — Industrial hub
+- [[Silverstep]] — Scholarly lakeside town
+- [[Bronzeshield Hold]] — Reclaimed dwarven hold
+- [[Ashenfel]] — Nomen Centaur town
+- [[Varnhold]] — Town recovered from Vordakai's soul-harvest; founder Maegar Varn killed
+- [[Pitax]] — Former rival capital, now part of Freehaven
+- [[Fort Drevlev]] — Former Drevlev settlement, now part of Freehaven
+
+**Current Adventure Locations**
 - [[Thousandbreaths]] — Nyrissa's demiplane; nine glades to clear
 - [[House at the Edge of Time]] — Nyrissa's mansion; three-level manor + the Fables
 
@@ -51,7 +81,8 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Factions
 
-- [[]] — stance toward party
+- [[Freehaven]] — the PCs' own kingdom (oligarchy)
+- [[Nomen Centaurs]] — allied; integrated into Freehaven
 
 ## Sessions
 
@@ -59,6 +90,7 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Lore & World Notes
 
+- [[The Founding of Freehaven]] — kingdom history, milestones, governance
 - [[Kingmaker Campaign Summary]] — full adventure path overview and Nyrissa backstory
 - [[Chapter 10 - Sound of a Thousand Screams]] — Part 1/2/3 structure, Briar awakening, chapter outcomes
 
