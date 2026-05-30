@@ -12,7 +12,7 @@ created: "2026-05-29"
 
 *A parting gift from [[Lyriel]] to [[Riven]] — a symbol of her love*
 
-An amulet given by [[Lyriel]] to [[Riven]] when he left [[Kyonin|Kyonin]].
+An amulet given by [[Lyriel]] to [[Riven]] when he left [[Kyonin|Kyonin]]. An exquisite rendering of a moon and a rose.
 
 When Riven made the heart-wrenching decision to leave, Lyriel pleaded with him to stay. He promised he would return — though even as the words left his lips, they felt uncertain. As they parted, she pressed this amulet into his hands.
 

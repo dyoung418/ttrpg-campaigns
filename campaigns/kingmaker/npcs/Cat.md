@@ -21,7 +21,7 @@ created: "2026-05-29"
 
 ## Description
 
-A large black panther. Has no name beyond "Cat." Showed up out of the dark one evening when [[Pavel]] was sitting alone at the end of his army service, feeling lonely. Pavel shared his food. Cat sat with him. Cat has followed him ever since.
+A large black panther. Has no name beyond "Cat." **Blue eyes** — an unusual feature for a black panther, noted multiple times. Showed up out of the dark one evening when [[Pavel]] was sitting alone at the end of his army service, feeling lonely. Pavel shared his food. Cat sat with him. Cat has followed him ever since.
 
 ## Background
 
@@ -29,12 +29,29 @@ The army's regulations didn't accommodate a panther, so Cat's arrival was direct
 
 Cat is the relationship Pavel trusts most. Animals are predictable. Cat has never given him reason to doubt that.
 
+## Supernatural Abilities
+
+Cat has demonstrated perception and authority over the spirit world far beyond what any ordinary animal should possess:
+
+- **Perceives ancestor spirits** — circled and physically interacted with an ancestor presence next to [[Lucas]] (post-Vordakai morning), as if rubbing against something invisible
+- **Detects spiritual possession** — immediately detected when [[Great Uncle Olaf]] possessed [[Pavel]]; grew to twice her normal size in response
+- **Authority over spirits** — a single roar physically destroyed Olaf's possession and dissolved the entire ancestor vision; [[Lucas]]'s ancestors are frightened of her
+- **Guarded Lucas** — after the Olaf vision, circled his sleeping body three times, sat at his head, and watched through the night until dawn; in the morning, stared into Pavel's eyes to verify he was truly himself before releasing him
+
+Olaf's screaming telepathic cry during the vision: *"That BEAST isn't supposed to be here! I can feel it reaching for me. It's… that's impossible!"* The ancestors know what she is. The party does not.
+
 ## Relationships
 
 - [[Pavel]] — her person; she chose him, not the other way around
+- [[Lucas]] — independent relationship; senses ancestor spirits near him; took it upon herself to guard him through the night after the Olaf vision
 
 ## GM Notes
 
 - Cat is not a wild animal in any meaningful sense anymore — she is deeply bonded to Pavel.
 - How Cat responds to other party members, strangers, or enemies can be a useful roleplaying signal for Pavel's own trust levels.
 - Pavel's Beastmaster and Druid dedications reinforce the depth of this bond mechanically and narratively.
+- **Cat's nature is an open mystery** — the ancestors fear her, she can overpower spirits, and Olaf's terror implies she is something the spirit world recognizes as a genuine threat. What is she? Why did she choose Pavel?
+- Cat can perceive ancestor spirits near Lucas — good recurring beat. When Cat reacts strangely near Lucas, there's always a reason.
+- Cat has opinions about food: rejected dried meat from Lucas by sniffing and walking away.
+- The morning check after the possession (staring into Pavel's eyes, apparently satisfied he was himself) shows she takes protecting her people seriously in ways that extend beyond the physical.
+- **Monitoring from outside** — during the Great Feast, Cat was outside the hall but clearly tracking [[Pavel]]. When he went drunk and furious toward [[Astor]], Cat issued a **cough-like warning roar** that stopped the crowd and briefly gave Pavel pause. She intervened from a distance, through sound alone, before [[Edina Aldori]] physically stepped in. She can redirect Pavel even when she's not in the room.

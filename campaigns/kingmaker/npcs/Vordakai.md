@@ -39,6 +39,10 @@ He also captured the daughter of the [[Nomen Centaurs|Nomen Centaur]] ruler. The
 - His defeat and the rescue of the Nomen ruler's daughter led to the Nomen Centaurs joining Freehaven.
 - The freeing of Varnhold's souls and death of Maegar Varn led the surviving townspeople to join Freehaven.
 
+## Items
+
+- [[Vordakai's Eye-Gem]] — his gem eye, taken by the party after his defeat; currently wrapped in cloth in a satchel; exerts a psychic pull on those nearby
+
 ## Session History
 
 - Mid-campaign antagonist; defeated by the PCs

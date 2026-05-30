@@ -23,8 +23,12 @@ created: "2026-05-29"
 
 ## Background
 
-A notorious bandit leader who controlled the lawless Stolen Lands. The PCs were tasked by [[Lady Jamandi Aldori]] to eliminate him as a condition of receiving the right to establish their own barony. Defeating the Stag Lord was the founding act of [[Freehaven]].
+A notorious bandit leader who controlled the lawless Stolen Lands from his fort. The PCs were tasked by [[Lady Jamandi Aldori]] to eliminate him as a condition of receiving the right to establish their own barony. Defeating the Stag Lord was the founding act of [[Freehaven]].
+
+[[Astor]] claimed his magical stag horn helmet ([[Stag Lord's Helm]]) after the battle. He still wears it.
+
+[[Nightmarch]], the capital of Freehaven, was built on the site of his fort.
 
 ## Session History
 
-- Defeated: Early campaign (prerequisite to founding Freehaven)
+- Defeated: Early campaign (prerequisite to founding Freehaven); fort became the site of Nightmarch

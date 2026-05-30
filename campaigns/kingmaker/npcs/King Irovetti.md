@@ -31,6 +31,16 @@ Unknown to most, Irovetti was a pawn of [[Nyrissa]] — his madness was engineer
 
 He also conspired with [[Hannis Drevlev]] and the Tiger Lords against Freehaven.
 
+## Secret History (Intelligence from Lady Jamandi)
+
+"Castruccio Irovetti" was not his birth name. [[Lady Jamandi Aldori]]'s agents uncovered:
+- Born an illegitimate son; never knew his father
+- His mother died when he was in his early twenties, leaving him an orphan
+- Birth name believed to be **Mandalarucio**
+- Past intersects with the **Technic League** (possibly why he changed his name)
+- Came into possession of powerful devices — likely Technic League in origin — which fueled his rise to power from obscurity to king
+- [[Riven]] noted that Irovetti's rise "left scars on more than just his enemies" — he has personal history with Irovetti from his time with [[The Few]] (Irovetti was one of the petty tyrants The Few aided under Rowan Half Dark)
+
 ## Relationships
 
 - [[Nyrissa]] — his patron and manipulator (he may not have known the extent of it)
@@ -39,4 +49,5 @@ He also conspired with [[Hannis Drevlev]] and the Tiger Lords against Freehaven.
 
 ## Session History
 
-- Defeated by the PCs; Pitax absorbed into Freehaven
+- **Grand Tournament of Freehaven — the trap**: Attended in person. Pitax entered all events and cheated at the Archery Contest (spells and adamantine arrows; still finished dead last). Irovetti wanted to bet on the overall outcome. The tournament was a calculated trap: at the final event, with all of Freehaven's rulers gathered in one place, Irovetti launched a coordinated military assault on Freehaven's cities. He had correctly identified that the tournament would concentrate the kingdom's leadership and thin the borders.
+- **Defeat**: While [[Riven]] stayed in [[Freehaven]] to command the armies against the invasion, the rest of the party infiltrated [[Pitax]] and overthrew Irovetti from within. They were aided by **[[Gaspere Liacenza]]**, a Pitaxian bard who turned against the king. Irovetti was defeated. Pitax was absorbed into Freehaven.

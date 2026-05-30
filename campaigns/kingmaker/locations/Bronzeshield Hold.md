@@ -34,6 +34,18 @@ Built from the ancient remains of a dwarven stronghold. When the PCs first arriv
 
 - [[Nightmarch]] — capital
 
+## Former Occupiers
+
+- [[Hargulka]] — troll king who led the clan that overran the hold and drove the dwarves into exile; defeated by the PCs
+
+## Current State
+
+A village (<400 people). Linzi's Freehaven Gazette article worked — some young dwarven cousins (<100 years old) have moved in. Benedin describes them as "mostly useless, the lot" but expects them to grow into it. The population is still mostly builders and merchants alongside the new arrivals.
+
+**Active threat:** An arsonist — a "red-haired devil" — has been emboldened by the party's absence. [[Benedin]] isn't sure how to deal with them: he's not suited to lying in wait, and trap rituals risk catching innocent townsfolk. He plans to stay home after the Vordakai arc in hopes his presence will deter the arsonist or give him a chance to catch them in the act. See: [[The Arsonist of Bronzeshield Hold]].
+
+Linzi noted that "when the troll scent dies down," Bronzeshield Hold will likely become Freehaven's most active vacation destination.
+
 ## GM Notes
 
 The dwarves were in exile before the PCs cleared the troll infestation and invited them back.

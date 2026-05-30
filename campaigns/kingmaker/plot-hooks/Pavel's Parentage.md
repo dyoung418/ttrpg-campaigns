@@ -33,7 +33,19 @@ Someone cared enough to keep him off the streets. Pavel has never learned who se
 - **The lord is still alive** — and wants to meet the son he quietly watched over from a distance for decades.
 - **It was never the lord** — the person who saved Pavel was someone else entirely; the lord connection is a red herring. Who really cared, and why?
 
+## Key In-Play Moment
+
+After the Stag Lord battle, [[Pavel]] approached [[Lucas]] to ask about the old woman he'd seen during healing — [[Great Aunt Sumi]], one of Lucas's foxfolk ancestors. The conversation about ancestors led Lucas to offer: *"We could see if Aunt Sumi has anything to say to you... Or maybe you'd be interested in hearing from one of your ancestors?"*
+
+This is the first time Pavel actively said the words out loud: *"I never knew my father. I never even knew if my mother was telling the truth or if she was a liar and a strumpet like everyone said."* And then: *"I would very much like to meet my father's family."*
+
+He immediately followed this with a threat — he will not be made a fool on this question, not by theatrics, not by anyone. He then stalked away before Lucas could do anything. [[Cat]] remained, staring at Lucas.
+
+Lucas's parting advice (to Cat): *"If he truly wishes to know more about his family, Oracles and sages are usually much less helpful than journals and going back to one's home."*
+
 ## Key NPCs
 
 - [[Pavel]] — the one at the center of the mystery
+- [[Lucas]] — offered to connect Pavel with his ancestors; received a threat in return; has genuine ability that might actually help
+- [[Great Aunt Sumi]] — Lucas's ancestor; her appearance to Pavel is what cracked open this conversation
 - The Lord of the Castle (unnamed) — possible father; identity unconfirmed

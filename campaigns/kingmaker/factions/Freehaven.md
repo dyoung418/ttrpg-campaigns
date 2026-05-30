@@ -4,10 +4,11 @@ campaign: kingmaker
 tags:
   - faction
   - campaign/kingmaker
+  - location
 aliases: []
 status: active
 alignment: ""
-created: "2026-05-29"
+created: 2026-05-29
 ---
 
 # Freehaven
@@ -15,7 +16,8 @@ created: "2026-05-29"
 > **Type**: Government — Oligarchy
 > **Alignment**:
 > **Status**: Active
-
+> 
+![[freehaven-flag.png]]
 ## Summary
 
 Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from a royal charter granted by [[Lady Jamandi Aldori]] of Brevoy. What started as a small barony formed after defeating the [[Stag Lord]] has grown into a recognized kingdom spanning the Stolen Lands. Its governance is an oligarchy led by the PCs themselves.

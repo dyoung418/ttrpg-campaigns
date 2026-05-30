@@ -18,7 +18,9 @@ created: "2026-05-29"
 
 ## Description
 
-The ancient elven city within the lush, mystical forests of [[Kyonin]] where [[Riven]] was born and raised. Home to the elven scouts and their commanders. A place steeped in tradition, duty, and the sacred charge to protect the elven homeland from undead and demonic threats.
+The ancient elven city within the lush, mystical forests of [[Kyonin]] where [[Riven]] was born and raised. Home to the elven scouts and their commanders. A place of beauty and exquisite art, and of the sacred charge to protect the elven homeland from undead and demonic threats.
+
+The primary threat: [[Treerazer]], a demon who holds the [[Tanglebriar]] to the south and has never been fully expelled. The elves repelled him from the heart of Kyonin but lost the Tanglebriar to him permanently. [[Riven]] fought Treerazer's undead for over fifty years before leaving.
 
 Riven left Avennara in shame after his court-martial, and has not returned.
 

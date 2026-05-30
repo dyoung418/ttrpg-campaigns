@@ -4,7 +4,7 @@ campaign: kingmaker
 tags:
   - npc
   - campaign/kingmaker
-aliases: []
+aliases: ["Lyriel Anarindë"]
 status: unknown
 role: "Riven's former love; connected to his fall from grace"
 faction: ""

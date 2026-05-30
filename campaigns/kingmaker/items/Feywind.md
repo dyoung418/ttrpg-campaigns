@@ -16,6 +16,8 @@ created: "2026-05-29"
 
 The longbow of [[Aelir and Lytha|Aelir]], Riven's father — a skilled elven ranger of [[Kyonin]] who was killed in a demon ambush. Riven has carried Feywind ever since, mastering the bow to a degree that earned him the rank of captain among the elven scouts and eventually the Eldritch Archer dedication.
 
+In battle, Feywind burns in [[Riven]]'s hands — fire and astral light curl around each shot. The bow's runes glow faintly at rest; in action, every arrow loosed carries both flame and something older, something that belongs to the stars.
+
 Feywind is more than a weapon. It is a physical covenant — the tangible weight of Riven's oath to carry on his parents' legacy, and the thread connecting him to who he was before the guilt.
 
 ## Significance

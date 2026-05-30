@@ -24,6 +24,18 @@ Is Lyriel still waiting? Has she moved on — married someone else, healed, buil
 
 Either answer is painful. Either answer is a story.
 
+## Current Status
+
+At Silverstep, [[Riven]] said aloud for the first time — to the full party — that he is thinking of reaching out to Lyriel. He pulled out the amulet, named it a foolish mistake to have left, and asked [[Linzi]] whether he should write a letter or return to Kyonin. Linzi offered to help him write the letter.
+
+**The letter was sent.** With Linzi's help, Riven wrote to Lyriel and specifically invited her to attend the Grand Tournament of Freehaven with the Kyonin delegation.
+
+**She did not come.** At the Archery Contest, Riven won gold — and spent every shot and every moment afterward scanning the stands for her. She was not there. That night, on the outer wall of Nightmarch while the city celebrated below, he said quietly to the night: *"She wasn't there."* [[Pavel]] and [[Astor]] found him watching the road. Riven told Pavel: *"Hope's not much of a reason, but it kept me looking."*
+
+Linzi's quiet comfort at the Starberry Press, before the tournament: *"But with so many kingdoms gathering here… she might just bring her answer herself."* She didn't.
+
+**The hook is still open.** The letter produced no response — or the response is still traveling.
+
 ## Possible Developments
 
 - **A letter arrives** — from Kyonin, from Faelir, or even from Lyriel herself. She has heard of the kingdom-builder in the Stolen Lands and wonders.
