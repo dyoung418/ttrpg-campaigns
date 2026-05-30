@@ -11,7 +11,7 @@ faction: ""
 location: "Brevoy (Restov)"
 created: "2026-05-29"
 ---
-
+![[jamandi.png]]
 # Lady Jamandi Aldori
 
 > **Role**: Noble patron (Brevoy/Restov); the party's original charter-grantor; secret ally

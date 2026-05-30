@@ -1,6 +1,9 @@
-# Obsidian workspace state (user-specific, changes on every open)
+# Obsidian app settings and state (user-specific, changes frequently)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/bookmarks.json
 
 # Obsidian plugin data (not tracked — reinstall from community plugins)
 .obsidian/plugins/

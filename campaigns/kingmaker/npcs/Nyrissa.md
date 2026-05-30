@@ -53,6 +53,8 @@ See [[Kingmaker Campaign Summary]] for full backstory. Short version: she earned
 
 She has been watching the PCs since they arrived in the Stolen Lands, subtly helping threats against them to make their kingdom stronger and more worthy of being the 1,000th kingdom. She is genuinely surprised and increasingly terrified that they might actually stop her.
 
+**A critical blind spot**: [[King Irovetti]] discovered [[Briar]] and kept it in his palace — *without Nyrissa's knowledge*. Her own pawn was sitting on the one object that could destroy her. The PCs found it when they killed him. Nyrissa does not know how long it was hidden from her, or what she missed while Briar was out of her awareness.
+
 ## Key Allies
 
 - [[The Wriggling Man]] — arcane advisor, in throne room K17

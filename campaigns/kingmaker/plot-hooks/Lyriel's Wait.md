@@ -4,7 +4,7 @@ campaign: kingmaker
 tags:
   - plot-hook
   - campaign/kingmaker
-status: open
+status: resolving
 created: "2026-05-29"
 ---
 
@@ -34,7 +34,7 @@ At Silverstep, [[Riven]] said aloud for the first time — to the full party —
 
 Linzi's quiet comfort at the Starberry Press, before the tournament: *"But with so many kingdoms gathering here… she might just bring her answer herself."* She didn't.
 
-**The hook is still open.** The letter produced no response — or the response is still traveling.
+**The wait is over — but not as imagined.** [[Lyriel]] did come. She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by [[The Wriggling Man]] in disguise (acting on [[Nyrissa]]'s orders) and a group of trolls. She dropped Riven's letter in the struggle. [[Linzi]] sent Riven a Sending mid-bloom: *"A woman just arriving into Nightmarch was abducted by a fey and trolls. They got away. In the fight, she dropped your letter to Lyriel."* Lyriel is now captive in the [[House at the Edge of Time]]. Nyrissa holds her as leverage.
 
 ## Possible Developments
 

@@ -66,6 +66,7 @@ See also: [[Eclipsed Incantations]] item file.
 
 ## GM Notes
 
+- **Fully NPC as of Session 100.** Previously played by Slava (who also played [[Eri Malai]]); Slava has returned to [[Astor]] for the remainder of the campaign. Benedin is now a background NPC at [[Bronzeshield Hold]] — present by letter, cameo, or offscreen reference.
 - Benedin's defensiveness about judging fallen leaders is a well of roleplay potential: when other communities fail or are destroyed, he will instinctively defend them.
 - His lorekeeper training makes him the keeper of clan history — he knows things about the dwarven presence in this region that others don't.
 - The magic the trolls used to take the hold was unusual — veils, glamours, reshaping stone. Was that just Hargulka's particular clan, or something more? Worth exploring if relevant.

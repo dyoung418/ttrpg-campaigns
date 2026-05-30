@@ -21,15 +21,17 @@ created: "2026-05-29"
 
 ## Description
 
-A halfling bard. Small in stature, enormous in energy.
+A young halfling woman wearing leather armor and a weather-worn cloak. She keeps a large leather-bound journal in front of her at all times, into which she sketches profiles of people and scribbles notes and verses for tunes she'll probably never finish.
 
 ## Personality
 
-Full of energy. Well-suited to the Emissary role — she handles all communications for the kingdom, which requires someone who can talk to anyone, keep track of everything, and make people feel heard.
+Perky, chatty, and very excited about nearly everything. She called the Aldori feast the *"Feast of Heroes"* and meant it without irony. Friendly to a fault and possibly a touch over-talkative — both qualities that, it turns out, make her excellent at her job.
 
 ## Background
 
-Serves as Emissary of [[Freehaven]], managing the kingdom's communications — correspondence, diplomatic messages, inter-settlement coordination. The role suits her perfectly.
+Linzi attended [[Lady Jamandi Aldori]]'s feast at Restov as one of the adventurers invited to settle the Stolen Lands — she came hoping to chronicle the heroic establishment of a new nation. She'd spent a fair amount of time in [[Pitax]] before this, but left that kingdom after growing frustrated with [[King Irovetti]]'s persecution and oppression of the arts.
+
+She joined the party's expedition and eventually took up the role of Emissary of [[Freehaven]], managing the kingdom's communications — correspondence, diplomatic messages, inter-settlement coordination. The role suits her perfectly.
 
 She publishes the **Freehaven Gazette** — the kingdom's chronicle/newspaper. She writes accounts of the party's adventures, profiles of settlements, and kingdom news. [[Lucas]] has referenced her publications sarcastically (the party is perhaps more heroic in print than in person). The Gazette is presumably widely circulated within Freehaven.
 

@@ -48,14 +48,21 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 **Allies & Campaign NPCs**
 - [[Lady Jamandi Aldori]] — Noble patron; charter-grantor; attended Great Feast in disguise; seeking cautious alliance with Freehaven
+- [[Evindra]] — Nereid (water fey); befriended by the party; provided key intelligence on Nyrissa, Briar, and the Thousandbreaths entrance
+- [[Amiri]] — Human barbarian; met the party at Jamandi's feast; arm-wrestled Astor; settled in Nightmarch
+- [[Harrim]] — Dwarf cleric of Groetus; met the party at Jamandi's feast; Viceroy of Freehaven; seeks lost dwarven ruins
+- [[Valerie]] — Human fighter; met the party at Jamandi's feast; former Shelyn aspirant; allied with the PCs
 - [[Benedin]] — Dwarven companion; Bronzeshield Hold community
 - [[Octavia]] — Ally; offered mayorship of Varnhold (pending her answer)
 - [[Cassandra]] — Silverstep Guard captain; **deceased** — died at [[Willowshade]] defending Silverstep from the [[Golden Talons]]
 - [[Edina Aldori]] — Visiting from Restov; verbal sparring partner for Astor; Pavel took notice
 
 **Other NPCs**
-- [[Grigori]] — Former Pitax envoy; caused significant trouble inside Freehaven; referenced as precedent during the Grand Tournament
-- [[Gaspere Liacenza]] — Pitaxian bard; defected to help the PCs overthrow Irovetti from within during the Pitax War
+- [[Grigori]] — Former Pitax envoy; caused significant trouble inside Freehaven as he spread propoganda.  Was exiled/eliminated by the PCs.
+- [[Gaspere Liacenza]] — Pitaxian bard; defected to help the PCs overthrow [[King Irovetti]] from within during the Pitax War
+- [[Eri Malai]] — Nagaji monk; traveled with the party; came to the Grand Tournament as "[[Eri Malai|Saint Flint (pseudonym)]]" (borrowed from his Master); reunited with her post-war
+- [[Saint Flint]] — Leader of the [[Nagaji Monastic Order]]; the real Saint Flint; was in hiding during the Pitax War; sternly returned post-war
+- [[Engelidis]] — Naga; former Pitax palace resident; accidentally caused the Master to flee; blithely revealed everything to Eri Malai while walking to Nightmarch
 - [[Tovan]] — Scarred veteran; Riven's second among the Rangers during the Pitax War
 - [[Almon d'Avoine]] — Pitax intelligence operative; survived the Silverstep road ambush by feigning death; whereabouts unknown post-war
 - [[Lord Darian]] — Pitax military commander; led the Golden Talons at Silverstep; killed by Riven's arrow at [[Willowshade]]
@@ -77,6 +84,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Xamanthe]] — Aecora's daughter; captured by Vordakai; rescued by the party; leg curse removed; pledged a debt to the party
 
 **Defeated**
+- [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party
 - [[The Stag Lord]] — Bandit lord; first major adversary
 - [[Vordakai]] — Ancient cyclops lich; defeated mid-campaign
 - [[King Irovetti]] — Tyrant of Pitax; Nyrissa's pawn
@@ -100,6 +108,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Fort Drevlev]] — Former Drevlev settlement, now part of Freehaven
 
 **Regions**
+- [[Candlemere Island]] — island in the Stolen Lands; ancient cult sanctum beneath it, built for an Outer God; features the Star Hole (a pit revealing the heavens); cleared by the party (Session 23)
 - [[Willowshade]] — valley ford near Silverstep; site of the decisive Battle of Willowshade; where Cassandra died
 - [[Nomen Heights]] — wild steppes east of the kingdom; Nomen Centaur territory
 - [[Tors of Levenies]] — formidable mountain formation at the edge of the Nomen Heights
@@ -152,6 +161,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[The Few]] — Riven's former freedom-fighters-turned-bandits; Talia leads; hunting Riven
 - [[Iron Wraiths]] — another charter-holder group; went dark; assumed dead
 - [[Golden Talons]] — Two Pitax battalions; marched on Silverstep during the war; defeated
+- [[Nagaji Monastic Order]] — nagaji religious order; operated underground in Pitax; re-emerged post-war; led by Saint Flint
 
 ## Campaign Arc
 

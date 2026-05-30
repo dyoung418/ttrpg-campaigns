@@ -5,10 +5,10 @@ tags:
   - npc
   - campaign/kingmaker
 aliases: ["Lyriel Anarindë"]
-status: unknown
-role: "Riven's former love; connected to his fall from grace"
+status: captive
+role: "Riven's former love; captive of Nyrissa in the House at the Edge of Time"
 faction: ""
-location: "Kyonin (presumably)"
+location: "House at the Edge of Time (captive)"
 created: "2026-05-29"
 ---
 
@@ -38,7 +38,7 @@ She carries the grief of the village incident too — because he came to see *he
 
 ## Current Status
 
-Presumably still in [[Avennara]]. Whether she is still waiting, has moved on, or has been searching for word of Riven is unknown. See [[Lyriel's Wait]].
+**Captive in the [[House at the Edge of Time]].** She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by a fey and trolls (the fey was [[The Wriggling Man]] in disguise, acting on [[Nyrissa]]'s orders). In the struggle she dropped [[Riven's Letter to Lyriel|Riven's letter]], which was found by witnesses and reported to [[Linzi]], who sent Riven a Sending mid-bloom. [[Nyrissa]] holds her as leverage — alive, not as a trophy. [[Nyrissa]] knew she was coming because she had been mining Riven's dreams.
 
 ## Relationships
 

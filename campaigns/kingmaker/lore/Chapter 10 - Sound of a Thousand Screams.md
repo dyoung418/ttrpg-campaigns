@@ -26,7 +26,7 @@ Chapter 10 should not begin until:
 
 ## Key Setup Hooks
 
-**Evindra's Warning** — Evindra (nereid NPC) warns the PCs that First World forces will assault the Stolen Lands. She explains Briar, Nyrissa's background, and points toward Thousandbreaths in the Thousand Voices forest.
+**[[Evindra]]'s Warning** — [[Evindra]] (nereid; fey ally) warns the PCs that First World forces will assault the Stolen Lands. She explains [[Briar]], [[Nyrissa]]'s background and fall from grace, and points toward [[Thousandbreaths]] in the Thousand Voices forest. The PCs befriended her and gained her trust before she shared this intelligence.
 
 **The Houten Legacy** (30 XP) — Aristocrat Belinda Houten will give the PCs a copy of *Zuddiger's Picnic* (a children's book that maps Thousandbreaths) if they build a Theater and four Monuments in her honor. **Critical item for navigating Part 2.**
 

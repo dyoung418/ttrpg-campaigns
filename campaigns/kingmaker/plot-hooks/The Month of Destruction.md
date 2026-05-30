@@ -58,8 +58,13 @@ Secret kingdom skill check when a bloom manifests:
 
 If PCs enter Thousandbreaths before a bloom manifests in the Stolen Lands, the corresponding glade becomes a **Severe 18 encounter** instead of Moderate 18. Defeating all glade guardians before a bloom's scheduled day prevents it from appearing.
 
+## Current State (as of Session 23)
+
+Several blooms have been cleared. The party has a lead on how to find [[Nyrissa]] — the bloom phase is functionally converging toward the path into [[Thousandbreaths]]. Next session context: Briar is nearly fully awakened, the PCs are close to being able to confront Nyrissa, and she is desperate — Freehaven is her 1,000th and final kingdom, and she will fight to absorb it.
+
 ## Related Notes
 
 - [[Thousandbreaths]]
 - [[The Horned Hunter]]
 - [[Chapter 10 - Sound of a Thousand Screams]]
+- [[Briar]] — the sword that can kill or redeem Nyrissa; in [[Pavel]]'s possession

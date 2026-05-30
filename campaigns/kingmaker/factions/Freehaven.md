@@ -30,6 +30,7 @@ Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from 
 - [[Lucas]] — Magister
 - [[Milo]] — Treasurer
 - [[Pavel]] — Warden
+- [[Harrim]] — Viceroy
 
 ## Base of Operations
 
