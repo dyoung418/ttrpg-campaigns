@@ -50,9 +50,10 @@ She expressed concern for her herd after the encounter: Vordakai was far worse t
 
 ## GM Notes
 
-- Her dry humor is a good handle: she insults them while smiling. The kinderfoal race is warmth, not cruelty — it's her personality reasserting itself.
-- Her concern about what brought Vordakai back is worth tracking — she may push the party or her mother to follow up on that question.
-- The spring festival and its kinderfoal race are a potential future scene: a moment of levity and relationship-building with the Nomen Centaurs.
+> [!secret] GM Only
+> - Her dry humor is a good handle: she insults them while smiling. The kinderfoal race is warmth, not cruelty — it's her personality reasserting itself.
+> - Her concern about what brought Vordakai back is worth tracking — she may push the party or her mother to follow up on that question.
+> - The spring festival and its kinderfoal race are a potential future scene: a moment of levity and relationship-building with the Nomen Centaurs.
 
 ## Session History
 

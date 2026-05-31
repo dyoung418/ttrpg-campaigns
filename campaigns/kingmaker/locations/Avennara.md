@@ -32,5 +32,6 @@ Riven left Avennara in shame after his court-martial, and has not returned.
 
 ## GM Notes
 
-- Avennara represents Riven's past — what he was, what he lost, and what he's afraid to face.
-- A return to Avennara (or news arriving from it) could be a major emotional story beat.
+> [!secret] GM Only
+> - Avennara represents Riven's past — what he was, what he lost, and what he's afraid to face.
+> - A return to Avennara (or news arriving from it) could be a major emotional story beat.

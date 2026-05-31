@@ -52,3 +52,4 @@ Neither [[Magister Aldric]] nor the PCs know this yet. The discovery mechanism â
 
 ## GM Notes
 
+> [!secret] GM Only

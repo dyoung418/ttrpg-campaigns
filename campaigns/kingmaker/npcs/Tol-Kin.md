@@ -50,10 +50,11 @@ He was interested enough in the announced [[Grand Tournament of Freehaven]] that
 
 ## GM Notes
 
-- His month with Lucas and Linzi is what triggered Lucas's Bard Dedication retraining. Whatever adventure they had offscreen during that month is deliberately unspecified — the GM can flesh it out or leave it as backstory.
-- The rumor he mentioned investigating is undefined — a good hook for a future side story or as flavor for why Lucas gained Bard Dedication.
-- He is likely to return for the Grand Tournament's Battle of the Bards event; treat him as a reliable (if unpredictable) future NPC presence.
-- His assessment of Lucas: genuine talent, but rushes to the exciting part; has a life worthy of being a tale.
+> [!secret] GM Only
+> - His month with Lucas and Linzi is what triggered Lucas's Bard Dedication retraining. Whatever adventure they had offscreen during that month is deliberately unspecified — the GM can flesh it out or leave it as backstory.
+> - The rumor he mentioned investigating is undefined — a good hook for a future side story or as flavor for why Lucas gained Bard Dedication.
+> - He is likely to return for the Grand Tournament's Battle of the Bards event; treat him as a reliable (if unpredictable) future NPC presence.
+> - His assessment of Lucas: genuine talent, but rushes to the exciting part; has a life worthy of being a tale.
 
 ## Session History
 

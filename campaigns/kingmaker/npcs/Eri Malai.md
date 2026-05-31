@@ -56,7 +56,8 @@ After Irovetti's fall, Eri Malai helped the order come out of hiding, searched t
 
 ## GM Notes
 
-- **Fully NPC as of Session 100.** Previously played by Slava (who also played [[Benedin]]); Slava has returned to [[Astor]] for the remainder of the campaign. Eri Malai is now a background NPC affiliated with the [[Nagaji Monastic Order]] — present by cameo or offscreen reference.
+> [!secret] GM Only
+> - **Fully NPC as of Session 100.** Previously played by Slava (who also played [[Benedin]]); Slava has returned to [[Astor]] for the remainder of the campaign. Eri Malai is now a background NPC affiliated with the [[Nagaji Monastic Order]] — present by cameo or offscreen reference.
 
 ## Session History
 

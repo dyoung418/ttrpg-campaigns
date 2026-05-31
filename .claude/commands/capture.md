@@ -1,7 +1,7 @@
 ---
 description: Capture brainstormed TTRPG content into organized, linked campaign notes
 argument-hint: "[campaign-name | ideas]"
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 ---
 
 You are helping a GM organize TTRPG campaign content into an Obsidian vault.
@@ -20,7 +20,7 @@ Ask: "Which campaign is this for? Or type `ideas` to capture campaign-agnostic c
 
 ## Step 2 — Survey Existing Notes
 
-Before creating anything, list existing files in the target:
+Before creating anything, use `obsidian:obsidian-cli` to search the live vault and list existing notes in the target. If unavailable, fall back to:
 ```bash
 # For a campaign:
 find /home/danny/ttrpg_campaigns/campaigns/<name> -name "*.md" | sort
@@ -50,7 +50,7 @@ Parse the user's text and identify every distinct entity:
 
 ## Step 5 — Check for Duplicates
 
-For each entity, grep existing notes before creating a new file:
+For each entity, use `obsidian:obsidian-cli` to search before creating a new file — it searches by note title, content, and properties, catching matches that filename-only `find` would miss. Fall back to grep if unavailable:
 ```bash
 # Campaign:
 grep -r "Entity Name" /home/danny/ttrpg_campaigns/campaigns/<name>/ -l 2>/dev/null
@@ -65,6 +65,11 @@ Also check the other pool (ideas vs. campaign) — a character might reference a
 ## Step 6 — Create or Update Files
 
 Use the templates in `_templates/` as structure guides. Fill in only what the user actually provided — do not invent details. Leave template sections empty if the user didn't mention them.
+
+Use `obsidian:obsidian-markdown` to write note body content so Obsidian-flavored syntax is applied correctly. For GM-only information, use callouts:
+- `> [!secret] GM Only` — hidden backstory, secret motives, plot reveals
+- `> [!note]` — context or background worth flagging
+- `![[Note Name]]` — embed a closely related note inline (use sparingly)
 
 **File paths for a campaign target:**
 - `campaigns/<name>/characters/<Character Name>.md`
@@ -101,6 +106,8 @@ Use the templates in `_templates/` as structure guides. Fill in only what the us
 **Ideas target:** Open `ideas/_index.md` and add new entities to the appropriate sections. Use wikilinks.
 
 ## Step 8 — Report
+
+After writing all files, open the primary new note in Obsidian using `obsidian:obsidian-cli` so the GM can see it immediately.
 
 Tell the user concisely:
 - Which files were **created** (with relative paths)

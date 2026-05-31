@@ -49,7 +49,8 @@ At the final event — with all of Freehaven's rulers gathered in one place — 
 
 ## GM Notes
 
-- [[Tol-Kin]] expressed interest in returning for the Battle of the Bards, but the tournament was cut short by the Pitax attack
-- [[Riven]] wrote a second, separate letter to [[Lyriel]] specifically inviting her to attend with the Kyonin delegation; she did not appear; see [[Lyriel's Wait]]
-- Riven won the Archery Contest and scanned the stands for Lyriel with every shot — she was not there; see his Notable Moment
-- The tournament's other events (Test of the Axe, Midnight Joust) may never have happened — the Pitax attack intervened before they were completed
+> [!secret] GM Only
+> - [[Tol-Kin]] expressed interest in returning for the Battle of the Bards, but the tournament was cut short by the Pitax attack
+> - [[Riven]] wrote a second, separate letter to [[Lyriel]] specifically inviting her to attend with the Kyonin delegation; she did not appear; see [[Lyriel's Wait]]
+> - Riven won the Archery Contest and scanned the stands for Lyriel with every shot — she was not there; see his Notable Moment
+> - The tournament's other events (Test of the Axe, Midnight Joust) may never have happened — the Pitax attack intervened before they were completed

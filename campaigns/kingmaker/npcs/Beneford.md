@@ -29,5 +29,6 @@ It was Linzi's request — on Beneford's behalf, or through his connection — t
 
 ## GM Notes
 
-- Beneford is largely a reference character. He connects Linzi to Tol-Kin and gives Tol-Kin a reason to have appeared at the feast.
-- Not developed further unless the party travels east and encounters his employer's court.
+> [!secret] GM Only
+> - Beneford is largely a reference character. He connects Linzi to Tol-Kin and gives Tol-Kin a reason to have appeared at the feast.
+> - Not developed further unless the party travels east and encounters his employer's court.

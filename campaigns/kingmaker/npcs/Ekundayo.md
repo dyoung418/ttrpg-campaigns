@@ -49,8 +49,9 @@ There he met a woman he fell in love with and proposed to. She was a relative of
 
 ## GM Notes
 
-- Ekundayo has personal stakes in the stability of [[Freehaven]] — it's his home, and the woman he intends to marry is there.
-- His involvement in the Stag Lord fight gives him history with the party that predates the kingdom.
+> [!secret] GM Only
+> - Ekundayo has personal stakes in the stability of [[Freehaven]] — it's his home, and the woman he intends to marry is there.
+> - His involvement in the Stag Lord fight gives him history with the party that predates the kingdom.
 
 ## Session History
 

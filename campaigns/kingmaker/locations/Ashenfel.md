@@ -31,4 +31,5 @@ A [[Nomen Centaurs|Nomen Centaur]] town. After the PCs rescued one of the Nomen 
 
 ## GM Notes
 
-The Nomen ruler's daughter was rescued from Vordakai — this event is what earned the Nomens' loyalty to the PCs.
+> [!secret] GM Only
+> The Nomen ruler's daughter was rescued from Vordakai — this event is what earned the Nomens' loyalty to the PCs.

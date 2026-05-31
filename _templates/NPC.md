@@ -41,7 +41,8 @@ created: ""
 
 ## GM Notes
 
-*Information the GM tracks but players don't know.*
+> [!secret] GM Only
+> *Information the GM tracks but players don't know.*
 
 ## Session History
 

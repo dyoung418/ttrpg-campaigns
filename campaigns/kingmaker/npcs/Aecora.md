@@ -47,8 +47,9 @@ After the Vordakai affair (in which her people's relationship with the party was
 
 ## GM Notes
 
-- Riven's admiration for Aecora is genuine and specific: her fierce protectiveness is something he aspires to but struggles to feel he embodies.
-- The centaur escort warriors whose expressions shifted during the party's walk — they report back to Aecora; she now has a more nuanced view of the party than before.
+> [!secret] GM Only
+> - Riven's admiration for Aecora is genuine and specific: her fierce protectiveness is something he aspires to but struggles to feel he embodies.
+> - The centaur escort warriors whose expressions shifted during the party's walk — they report back to Aecora; she now has a more nuanced view of the party than before.
 
 ## Session History
 

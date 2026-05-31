@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("campaigns/lost-memories/plot-hooks")
+
+properties:
+  status:
+    displayName: Status
+  priority:
+    displayName: Priority
+
+views:
+  - type: table
+    name: "Active Hooks"
+    filters:
+      not:
+        - 'status == "resolved"'
+    order:
+      - file.name
+      - status
+      - priority
+    groupBy:
+      property: priority
+      direction: DESC
+
+  - type: table
+    name: "All Hooks"
+    order:
+      - file.name
+      - status
+      - priority

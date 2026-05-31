@@ -39,11 +39,11 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
 ## Motivations
 
-*To be filled in.*
+> [!todo] Needs content
 
 ## Character Arc
 
-*To be filled in.*
+> [!todo] Needs content
 
 ## Personality & Quirks
 
@@ -70,7 +70,7 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
 ## Magic Item Wish List
 
-- 
+> [!todo] Needs content
 
 ## Notable Moments
 

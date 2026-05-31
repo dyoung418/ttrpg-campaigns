@@ -50,8 +50,9 @@ The PCs befriended Evindra and gained her trust. In return, she warned them that
 
 ## GM Notes
 
-- Her motivations for helping the PCs are worth defining: does she have personal history with Nyrissa? Is she a servant of the Lantern King passing on intelligence? Or simply a fey who opposes what Nyrissa has become?
-- She could resurface at the House or as a post-campaign contact if the forgiveness path is taken.
+> [!secret] GM Only
+> - Her motivations for helping the PCs are worth defining: does she have personal history with Nyrissa? Is she a servant of the Lantern King passing on intelligence? Or simply a fey who opposes what Nyrissa has become?
+> - She could resurface at the House or as a post-campaign contact if the forgiveness path is taken.
 
 ## Session History
 

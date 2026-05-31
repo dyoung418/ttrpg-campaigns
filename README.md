@@ -5,20 +5,28 @@ An Obsidian vault for managing tabletop RPG campaigns, maintained with [Claude C
 ## Setup
 
 1. Clone this repo
-2. Open the folder as an vault in [Obsidian](https://obsidian.md)
+2. Open the folder as a vault in [Obsidian](https://obsidian.md)
 3. Open the folder in Claude Code
+4. Install the Obsidian skills plugin — run these two slash commands in Claude Code:
+   ```
+   /plugin marketplace add kepano/obsidian-skills
+   /plugin install obsidian
+   ```
+   This enables rich Obsidian integration: live vault search, callout formatting, Bases tracker views, and Canvas diagrams.
 
 ## Usage
 
 Talk to Claude in plain text. At the beginning, use /campaign new.  Three slash commands are available:
 
-| Command | What it does |
-|---------|-------------|
-| `/campaign new <name>` | Create a new campaign with full folder structure |
-| `/campaign list` | List all campaigns with entity counts |
-| `/campaign overview <name>` | Summarize a campaign's current state |
-| `/capture [campaign]` | Convert brainstormed ideas into organized, linked notes |
-| `/session [campaign]` | Plan a session using the 8-step Lazy Dungeon Master framework |
+| Command                     | What it does                                                                                                                                                             |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `/campaign new <name>`      | Create a new campaign with full folder structure                                                                                                                         |
+| `/campaign list`            | List all campaigns with entity counts                                                                                                                                    |
+| `/campaign overview <name>` | Summarize a campaign's current state                                                                                                                                     |
+| `/capture [campaign]`       | Convert brainstormed ideas into organized, linked notes                                                                                                                  |
+| `/session [campaign]`       | Plan a session using the 8-step Lazy Dungeon Master framework                                                                                                            |
+| /flesh-it-out [campaign]    | Claude grills you with questions to close open questions that it sees in your campaign notes (e.g. what is the evil wizard's name? why has he abducted our heroes, etc.) |
+| /ideate [campaign] [prompt] | Claude helps you brainstorm new ideas around the topic that you supply with the prompt.                                                                                  |
 
 ## Capturing your thoughts
 Once a campaign is created /capture [campaign] is your main tool for letting claude help you capture information into the campaign vault.  Speak in open dialog about whatever you want to capture and claude will create or edit .md files and put in wikilinks to link up all the pages as appropriate.

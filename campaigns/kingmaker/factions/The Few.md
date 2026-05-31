@@ -48,6 +48,7 @@ Embeth Forest / River Kingdoms (mobile)
 
 ## GM Notes
 
-- The Few don't know yet (or may have just learned) that Riven is the Ruler of [[Freehaven]].
-- If Talia discovers this, does she escalate to political warfare, assassination, or outright attack?
-- Are there former members of the Few who knew Riven when the group was still righteous — who might be conflicted about Talia's vendetta?
+> [!secret] GM Only
+> - The Few don't know yet (or may have just learned) that Riven is the Ruler of [[Freehaven]].
+> - If Talia discovers this, does she escalate to political warfare, assassination, or outright attack?
+> - Are there former members of the Few who knew Riven when the group was still righteous — who might be conflicted about Talia's vendetta?

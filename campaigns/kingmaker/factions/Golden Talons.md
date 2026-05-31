@@ -45,4 +45,5 @@ Professional military march, coordinated with the broader Pitax offensive that u
 
 ## GM Notes
 
-The Golden Talons were a named force that [[Almon d'Avoine]] heard [[Riven]] reference. He now knows the Rangers were rushing to protect Cassandra before the Talons arrived. Whether the Talons were ultimately defeated at Silverstep or elsewhere in the war is not yet established — worth clarifying if it becomes relevant.
+> [!secret] GM Only
+> The Golden Talons were a named force that [[Almon d'Avoine]] heard [[Riven]] reference. He now knows the Rangers were rushing to protect Cassandra before the Talons arrived. Whether the Talons were ultimately defeated at Silverstep or elsewhere in the war is not yet established — worth clarifying if it becomes relevant.

@@ -32,4 +32,5 @@ A settlement originally founded by [[Hannis Drevlev]], one of the other adventur
 
 ## GM Notes
 
-The Tiger Lords were one of the factions Drevlev aligned with against Freehaven. Both the Tiger Lords and Drevlev were defeated before Fort Drevlev joined the kingdom.
+> [!secret] GM Only
+> The Tiger Lords were one of the factions Drevlev aligned with against Freehaven. Both the Tiger Lords and Drevlev were defeated before Fort Drevlev joined the kingdom.

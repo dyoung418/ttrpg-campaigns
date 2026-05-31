@@ -25,5 +25,6 @@ A legendary weapon. Referenced as "the legendary Ovinrbaane" by the GM; its woun
 
 ## GM Notes
 
-- Name only established in the roleplay by context — fill in mechanical details when relevant
-- If it's still in the party's possession or the world, worth establishing what it does
+> [!secret] GM Only
+> - Name only established in the roleplay by context — fill in mechanical details when relevant
+> - If it's still in the party's possession or the world, worth establishing what it does

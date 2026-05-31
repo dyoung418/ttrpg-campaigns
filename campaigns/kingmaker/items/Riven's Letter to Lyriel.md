@@ -34,9 +34,10 @@ A letter written by [[Riven]] to [[Lyriel]] — the woman he left in Kyonin when
 
 ## GM Notes
 
-- Astor's response: *"I'll keep your letter, and with a little luck, I'll be returning it to you on MY deathbed."* He understands the weight.
-- Does the letter explain everything? Apologize? Simply say he's alive? The contents are unknown.
-- If Lyriel ever receives it, it changes the shape of [[Lyriel's Wait]] completely.
+> [!secret] GM Only
+> - Astor's response: *"I'll keep your letter, and with a little luck, I'll be returning it to you on MY deathbed."* He understands the weight.
+> - Does the letter explain everything? Apologize? Simply say he's alive? The contents are unknown.
+> - If Lyriel ever receives it, it changes the shape of [[Lyriel's Wait]] completely.
 
 ## Related
 

@@ -32,6 +32,7 @@ His specific role, motivations for defecting, and what he did during the infiltr
 
 ## GM Notes
 
-- Stub only — flesh out his personality, motivations, and role in the infiltration when relevant.
-- He's a bard from a city known for its arts patronage under Irovetti. His reasons for turning against the king are worth developing.
-- Could be a recurring Pitax contact now that the city is part of Freehaven.
+> [!secret] GM Only
+> - Stub only — flesh out his personality, motivations, and role in the infiltration when relevant.
+> - He's a bard from a city known for its arts patronage under Irovetti. His reasons for turning against the king are worth developing.
+> - Could be a recurring Pitax contact now that the city is part of Freehaven.

@@ -31,11 +31,12 @@ The combination of a felt psychic compulsion and unknown scope of power has made
 
 ## GM Notes
 
-- The passive compulsion at the campfire scene is a useful recurring pressure point — it doesn't have to do anything dramatic to stay present in the narrative
-- What *does* it actually do? What did Vordakai use it for?
-- Could it be connected to [[Benedin]]'s research into the *[[Eclipsed Incantations]]* — specifically the imprisonment ritual? An eye that can perceive souls + a ritual that can trap them forever is a dangerous combination
-- Could be relevant to the Nyrissa endgame — Nyrissa's condition involves her soul being severed; Vordakai harvested souls; the eye saw things ordinary sight cannot
-- If someone were to use it — willingly or under compulsion — that would be a significant story moment
+> [!secret] GM Only
+> - The passive compulsion at the campfire scene is a useful recurring pressure point — it doesn't have to do anything dramatic to stay present in the narrative
+> - What *does* it actually do? What did Vordakai use it for?
+> - Could it be connected to [[Benedin]]'s research into the *[[Eclipsed Incantations]]* — specifically the imprisonment ritual? An eye that can perceive souls + a ritual that can trap them forever is a dangerous combination
+> - Could be relevant to the Nyrissa endgame — Nyrissa's condition involves her soul being severed; Vordakai harvested souls; the eye saw things ordinary sight cannot
+> - If someone were to use it — willingly or under compulsion — that would be a significant story moment
 
 ## Session History
 

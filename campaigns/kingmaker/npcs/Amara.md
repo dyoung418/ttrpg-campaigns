@@ -34,6 +34,7 @@ Amara's words touched Riven but didn't fully penetrate. He acknowledged her wisd
 
 ## GM Notes
 
-- Amara represents the voice of Sarenrae's doctrine: redemption is real, available to all, and comes through genuine change — not just deeds.
-- She could appear again as a mirror to show Riven how far (or how little) he has grown.
-- Does she know what became of him? Is she still wandering Mivon, or has she heard of the kingdom-builder of the Stolen Lands?
+> [!secret] GM Only
+> - Amara represents the voice of Sarenrae's doctrine: redemption is real, available to all, and comes through genuine change — not just deeds.
+> - She could appear again as a mirror to show Riven how far (or how little) he has grown.
+> - Does she know what became of him? Is she still wandering Mivon, or has she heard of the kingdom-builder of the Stolen Lands?

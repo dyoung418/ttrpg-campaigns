@@ -68,10 +68,11 @@ Grants [[Lucas]] the **Healing** Oracle Ancestor ability.
 
 ## GM Notes
 
-- Sumi is a useful tool to make [[Lucas]] uncomfortable — she appears when he does something she disapproves of.
-- Her appearance to [[Pavel]] is a significant moment: it cracked open Pavel's guarded exterior and led to his most vulnerable disclosure yet.
-- She "disdains non-magic ways of doing things" — this is a good handle if Lucas ever relies on mundane methods.
-- She is close enough a relative that the Stolen Lands' unusual attunement to the spirit world makes her easier to contact than older legendary ancestors.
+> [!secret] GM Only
+> - Sumi is a useful tool to make [[Lucas]] uncomfortable — she appears when he does something she disapproves of.
+> - Her appearance to [[Pavel]] is a significant moment: it cracked open Pavel's guarded exterior and led to his most vulnerable disclosure yet.
+> - She "disdains non-magic ways of doing things" — this is a good handle if Lucas ever relies on mundane methods.
+> - She is close enough a relative that the Stolen Lands' unusual attunement to the spirit world makes her easier to contact than older legendary ancestors.
 
 ## Session History
 

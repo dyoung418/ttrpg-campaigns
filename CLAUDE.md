@@ -14,6 +14,8 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
   - `items/` — notable items, artifacts, rewards
   - `lore/` — world-building, history, cosmology
   - `sessions/` — session notes and planning docs
+  - `*.base` — Obsidian Bases tracker views (NPC Tracker, Plot Hook Board, Session Log)
+  - `*.canvas` — visual relationship maps and diagrams
 - `ideas/` — campaign-agnostic brainstorming bank (not tied to any campaign)
   - `_index.md` — ideas hub
   - `npcs/`, `locations/`, `encounters/`, `plot-hooks/`, `factions/`, `items/`, `lore/`
@@ -31,12 +33,24 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
 - Tags use lowercase kebab-case: `#character`, `#npc`, `#location`, `#plot-hook`, `#faction`, `#item`, `#lore`, `#session`
 - Campaign-scoped tags: `#campaign/name-of-campaign`
 
+## Skills Routing
+
+When working in this vault, reach for these skills rather than raw bash where applicable:
+
+| Task | Use skill |
+|------|-----------|
+| Write or edit `.md` notes | `obsidian:obsidian-markdown` |
+| Search vault, open notes, read/write properties | `obsidian:obsidian-cli` |
+| Create/update `.base` tracker views | `obsidian:obsidian-bases` |
+| Create/update `.canvas` visual diagrams | `obsidian:json-canvas` |
+| Scrape a URL for lore or reference | `obsidian:defuddle` |
+
 ## Your Role
 
 When the user describes TTRPG content in plain text, you:
 1. Identify distinct entities (player characters, NPCs, locations, plot hooks, factions, items, lore)
-2. Check existing notes with `find` and `grep` to avoid duplicating entries and to find cross-link opportunities
-3. Create or update `.md` files in the correct campaign subfolder
+2. Search the vault using `obsidian:obsidian-cli` to avoid duplicating entries and find cross-link opportunities (fall back to `find`/`grep` if unavailable)
+3. Create or update `.md` files using `obsidian:obsidian-markdown` in the correct campaign subfolder
 4. Always cross-link related notes using wikilinks
 5. Update the campaign `_index.md` when new top-level entities are added
 
@@ -61,6 +75,8 @@ When the user describes TTRPG content in plain text, you:
 - Lore files: `campaigns/<name>/lore/<Topic Name>.md`
 - Session files: `campaigns/<name>/sessions/Session <NN> - <Title>.md`
 - Ideas bank files: `ideas/<type>/<Name>.md` (no characters/ in ideas — PCs always belong to a campaign)
+- Base view files: `campaigns/<name>/<View Name>.base` (e.g., `NPC Tracker.base`)
+- Canvas files: `campaigns/<name>/<Map Name>.canvas` (e.g., `Kingmaker Relationship Map.canvas`)
 
 ## Response Style
 

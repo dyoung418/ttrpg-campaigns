@@ -1,7 +1,7 @@
 ---
 description: Create a new campaign, list all campaigns, or get an overview of an existing one
 argument-hint: "new <name> | list | overview <name>"
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 ---
 
 You are helping a GM manage TTRPG campaigns in an Obsidian vault.
@@ -48,7 +48,12 @@ mkdir -p /home/danny/ttrpg_campaigns/campaigns/<name>/{characters,npcs,locations
 
 4. **Update `Home.md`**: Add `[[campaigns/<name>/_index|<Display Name>]]` under the "All Campaigns" section.
 
-5. Report success and prompt: "Use `/capture <name>` to start adding player characters, NPCs, locations, and plot hooks."
+5. **Create campaign tracker views** using `obsidian:obsidian-bases`:
+   - `campaigns/<name>/NPC Tracker.base` — columns: name, status, faction, location, role
+   - `campaigns/<name>/Plot Hook Board.base` — columns: name, status, priority
+   - `campaigns/<name>/Session Log.base` — columns: session_number, title, date, status
+
+6. Report success and prompt: "Use `/capture <name>` to start adding player characters, NPCs, locations, and plot hooks."
 
 ---
 

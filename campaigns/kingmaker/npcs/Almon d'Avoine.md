@@ -39,9 +39,10 @@ Embedded as cover in a [[Pitax]] supply convoy during the war — likely running
 
 ## GM Notes
 
-Almon survived the Pitax War's conclusion with this intelligence intact. He may be working independently, for a Pitax successor, or for another power entirely. The party does not know he exists. He knows [[Cassandra]]'s name and strategic significance — he overheard it from [[Riven]] himself.
-
-His key advantage: he is a face the party has never seen, in a theater they didn't know was watched.
+> [!secret] GM Only
+> Almon survived the Pitax War's conclusion with this intelligence intact. He may be working independently, for a Pitax successor, or for another power entirely. The party does not know he exists. He knows [[Cassandra]]'s name and strategic significance — he overheard it from [[Riven]] himself.
+>
+> His key advantage: he is a face the party has never seen, in a theater they didn't know was watched.
 
 ## Relationships
 

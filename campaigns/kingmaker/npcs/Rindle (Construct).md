@@ -41,9 +41,10 @@ Rindle in dissassembled state:![[rindle-pile.png]]
 
 ## GM Notes
 
-- Mechanically this is Milo's Inventor construct (class feature).
-- The construct being named after a missing person gives it quiet emotional weight — every time someone calls its name, they're saying Rindle's name.
-- Has been present for the full arc of Freehaven's rise: Stag Lord, Hargulka, Vordakai, Pitax.
+> [!secret] GM Only
+> - Mechanically this is Milo's Inventor construct (class feature).
+> - The construct being named after a missing person gives it quiet emotional weight — every time someone calls its name, they're saying Rindle's name.
+> - Has been present for the full arc of Freehaven's rise: Stag Lord, Hargulka, Vordakai, Pitax.
 
 ## Session History
 

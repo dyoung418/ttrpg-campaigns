@@ -58,8 +58,9 @@ A mix of physical locks, human mercenary guards, and magical wards. Not impenetr
 
 ## GM Notes
 
-- Aldric cannot risk bringing this location to light — it would expose his secret to the Order immediately
-- The ritual chamber is the most important room to design: it holds physical clues about what was done to the PCs and may contain artifacts that hold their memories
-- Some previous subjects have had accidental memory flashes from touching objects — this is a seed for the PCs to understand the artifact mechanism
-- What do the mercenary guards know? They're paid for silence, not loyalty — cracks are possible
-- When the PCs escape, they emerge onto an empty coast with no sense of where they are in the world
+> [!secret] GM Only
+> - Aldric cannot risk bringing this location to light — it would expose his secret to the Order immediately
+> - The ritual chamber is the most important room to design: it holds physical clues about what was done to the PCs and may contain artifacts that hold their memories
+> - Some previous subjects have had accidental memory flashes from touching objects — this is a seed for the PCs to understand the artifact mechanism
+> - What do the mercenary guards know? They're paid for silence, not loyalty — cracks are possible
+> - When the PCs escape, they emerge onto an empty coast with no sense of where they are in the world

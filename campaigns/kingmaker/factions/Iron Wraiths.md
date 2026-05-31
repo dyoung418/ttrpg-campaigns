@@ -32,5 +32,6 @@ One of the other charter-holder groups issued a charter by [[Lady Jamandi Aldori
 
 ## GM Notes
 
-- Mentioned by [[Lady Jamandi Aldori]] in her internal monologue at the Great Feast, alongside the fall of Varnhold and Hannis Drevlev's collapse. The picture is: of all the charter-holders, only Freehaven is standing.
-- Could be used as a mystery or backstory seed — what did the Iron Wraiths encounter?
+> [!secret] GM Only
+> - Mentioned by [[Lady Jamandi Aldori]] in her internal monologue at the Great Feast, alongside the fall of Varnhold and Hannis Drevlev's collapse. The picture is: of all the charter-holders, only Freehaven is standing.
+> - Could be used as a mystery or backstory seed — what did the Iron Wraiths encounter?

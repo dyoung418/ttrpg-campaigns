@@ -48,4 +48,5 @@ Linzi noted that "when the troll scent dies down," Bronzeshield Hold will likely
 
 ## GM Notes
 
-The dwarves were in exile before the PCs cleared the troll infestation and invited them back.
+> [!secret] GM Only
+> The dwarves were in exile before the PCs cleared the troll infestation and invited them back.

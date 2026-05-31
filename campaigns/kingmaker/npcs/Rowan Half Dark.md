@@ -32,4 +32,5 @@ When Rowan ordered [[The Few]] to begin killing innocent civilians, [[Riven]] re
 
 ## GM Notes
 
-Rowan is dead, but his shadow persists through Talia's revenge campaign against Riven.
+> [!secret] GM Only
+> Rowan is dead, but his shadow persists through Talia's revenge campaign against Riven.

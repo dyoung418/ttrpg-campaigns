@@ -52,6 +52,7 @@ One unnamed rival Magister has grown suspicious of Aldric. Whether this person i
 
 ## GM Notes
 
-- The Order is a potential resource for the PCs once they're out in the world — if they can reach the right person
-- The rival Magister is the most obvious entry point; decide their trustworthiness before the PCs are in a position to seek help
-- The Order's political reach means bringing down Aldric through its mechanisms could be as significant as defeating him directly
+> [!secret] GM Only
+> - The Order is a potential resource for the PCs once they're out in the world — if they can reach the right person
+> - The rival Magister is the most obvious entry point; decide their trustworthiness before the PCs are in a position to seek help
+> - The Order's political reach means bringing down Aldric through its mechanisms could be as significant as defeating him directly

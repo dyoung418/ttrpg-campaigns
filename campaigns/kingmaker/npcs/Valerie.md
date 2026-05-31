@@ -39,8 +39,9 @@ She attended [[Lady Jamandi Aldori]]'s feast at Restov as one of the adventurers
 
 ## GM Notes
 
-- The "act of blasphemy" against Shelyn is deliberately vague — potential plot hook if needed
-- Her noble background and disciplined bearing set her apart from the rowdier feast attendees
+> [!secret] GM Only
+> - The "act of blasphemy" against Shelyn is deliberately vague — potential plot hook if needed
+> - Her noble background and disciplined bearing set her apart from the rowdier feast attendees
 
 ## Session History
 

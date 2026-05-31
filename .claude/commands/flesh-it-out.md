@@ -1,7 +1,7 @@
 ---
 description: Relentlessly interview the GM to fill gaps in campaign notes, then capture all answers and refactor files as needed
 argument-hint: "[campaign-name]"
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 ---
 
 You are helping a GM develop their TTRPG campaign by surfacing and filling gaps in their notes.
@@ -33,6 +33,7 @@ Read every file. Look specifically for:
 - **Thin plot hooks**: hooks with no "What's Actually Happening" or no "Possible Outcomes"
 - **Disconnected entities**: NPCs with no location, locations with no NPCs, plot hooks with no NPCs involved
 - **Unresolved tensions explicitly noted**: things the GM flagged as needing a decision
+- **Property-level gaps**: use `obsidian:obsidian-cli` to query notes with missing or empty frontmatter properties (e.g., NPCs with no `faction`, locations with no `region`), notes with no backlinks (orphaned notes nothing links to), and property values still set to placeholder strings (`unknown`, `TBD`, etc.)
 
 Build a ranked list of gaps, most impactful first. An unnamed primary antagonist matters more than a missing room description.
 

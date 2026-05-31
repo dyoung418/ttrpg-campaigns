@@ -45,4 +45,5 @@ After Irovetti's defeat, the order came out of hiding. [[Saint Flint]] returned 
 
 ## GM Notes
 
-The order's actual name is not established in the RP. Worth naming if they become more prominent.
+> [!secret] GM Only
+> The order's actual name is not established in the RP. Worth naming if they become more prominent.

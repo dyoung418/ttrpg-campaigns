@@ -66,10 +66,11 @@ Neither Aldric nor the PCs know the memories ended up in these objects yet. *(Di
 
 ## GM Notes
 
-- His pursuit of the PCs after escape has two motivations: they're still valuable subjects AND they're a liability who know his secret
-- He does not need the same PCs specifically — any sufficiently accomplished individuals will do — but these ones are both desirable and dangerous to leave free
-- The failed ritual has made him more reckless. His next attempt may be worse.
-- A rival Magister suspects him — develop this NPC before the PCs are in a position to reach the Order
+> [!secret] GM Only
+> - His pursuit of the PCs after escape has two motivations: they're still valuable subjects AND they're a liability who know his secret
+> - He does not need the same PCs specifically — any sufficiently accomplished individuals will do — but these ones are both desirable and dangerous to leave free
+> - The failed ritual has made him more reckless. His next attempt may be worse.
+> - A rival Magister suspects him — develop this NPC before the PCs are in a position to reach the Order
 
 ## Session History
 

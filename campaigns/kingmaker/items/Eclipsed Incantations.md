@@ -26,5 +26,6 @@ created: "2026-05-29"
 
 ## GM Notes
 
-- The imprisonment ritual is a potential story tool: does the party use it on Nyrissa instead of destroying or redeeming her?
-- What else is in the tome that Benedin hasn't decoded yet?
+> [!secret] GM Only
+> - The imprisonment ritual is a potential story tool: does the party use it on Nyrissa instead of destroying or redeeming her?
+> - What else is in the tome that Benedin hasn't decoded yet?

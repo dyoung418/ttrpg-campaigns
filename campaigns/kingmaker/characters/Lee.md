@@ -27,11 +27,11 @@ Sword Scion background — trained in the Aldori dueling tradition. His Aldori D
 
 ## Motivations
 
-*To be filled in.*
+> [!todo] Needs content
 
 ## Character Arc
 
-*To be filled in.*
+> [!todo] Needs content
 
 ## Personality & Quirks
 
@@ -47,11 +47,11 @@ Sword Scion background — trained in the Aldori dueling tradition. His Aldori D
 
 ## Magic Item Wish List
 
-- 
+> [!todo] Needs content
 
 ## Notable Moments
 
-- 
+> [!todo] Needs content
 
 ## Current Status
 

@@ -31,4 +31,5 @@ A bustling trade town that grew from the foundations of Oleg's Trading Post — 
 
 ## GM Notes
 
-Oleg's Trading Post was one of the first destinations the PCs traveled to early in the campaign.
+> [!secret] GM Only
+> Oleg's Trading Post was one of the first destinations the PCs traveled to early in the campaign.

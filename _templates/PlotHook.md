@@ -32,7 +32,8 @@ created: ""
 
 ## What's Actually Happening
 
-*The GM-side truth.*
+> [!secret] GM Only
+> *The GM-side truth.*
 
 ## Possible Outcomes
 

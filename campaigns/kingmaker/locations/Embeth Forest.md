@@ -26,5 +26,6 @@ A wild forest in the River Kingdoms where [[Riven]] encountered [[The Few]] afte
 
 ## GM Notes
 
-- Embeth Forest is effectively The Few's home territory.
-- If Talia is hunting Riven, agents from the Embeth Forest are the likely vector.
+> [!secret] GM Only
+> - Embeth Forest is effectively The Few's home territory.
+> - If Talia is hunting Riven, agents from the Embeth Forest are the likely vector.

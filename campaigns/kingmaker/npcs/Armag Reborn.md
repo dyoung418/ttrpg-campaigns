@@ -26,5 +26,6 @@ Referenced by [[Riven]] as one of the party's major accomplishments: *"you freed
 
 ## GM Notes
 
-- Armag Reborn's skull tooth appears in the trophy room of [[Thousandbreaths]] (Nyrissa's demiplane) — among other trophies from across the Stolen Lands.
-- Stub only — flesh out if the party encounters references to him or his legacy.
+> [!secret] GM Only
+> - Armag Reborn's skull tooth appears in the trophy room of [[Thousandbreaths]] (Nyrissa's demiplane) — among other trophies from across the Stolen Lands.
+> - Stub only — flesh out if the party encounters references to him or his legacy.

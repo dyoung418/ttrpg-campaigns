@@ -66,20 +66,21 @@ See also: [[Eclipsed Incantations]] item file.
 
 ## GM Notes
 
-- **Fully NPC as of Session 100.** Previously played by Slava (who also played [[Eri Malai]]); Slava has returned to [[Astor]] for the remainder of the campaign. Benedin is now a background NPC at [[Bronzeshield Hold]] — present by letter, cameo, or offscreen reference.
-- Benedin's defensiveness about judging fallen leaders is a well of roleplay potential: when other communities fail or are destroyed, he will instinctively defend them.
-- His lorekeeper training makes him the keeper of clan history — he knows things about the dwarven presence in this region that others don't.
-- The magic the trolls used to take the hold was unusual — veils, glamours, reshaping stone. Was that just Hargulka's particular clan, or something more? Worth exploring if relevant.
-
-- **"You're part of us now." (campfire on the road back from Drevlev)**: Wounded deep by [[Ovinrbaane]] in the Drevlev fight — Lucas and Pavel treated him masterfully, but he was still winking as he sat down. He leaned against [[Hyram]], who had already curled up to sleep. After dinner (Milo's dinner rolls, inexplicably perfect), he cleared his throat and told the group he'd been meaning to thank them — all of them. He struggled to find the words, then landed on the difference between his upbringing and what he'd found in this group: he grew up knowing favors must be repaid, the more help you receive the more you owe, and he'd gotten the sense the party doesn't keep score. He named specific debts: they'd beaten him to Hargulka but then recognized his ancestral claim to the Hold after bleeding for it; they'd rebuilt the keep and spread word so his surviving cousins could find their way home.
-
-  Then he announced: he was leaving. He wanted to return to [[Bronzeshield Hold]] — properly. He'd been brandishing the crown regalia in battle but had never worn it. He hadn't earned that right yet. He needed to be among his people to have a chance at it.
-
-  [[Pavel]] tried to argue that Hyrum wouldn't be happy there. The Hold smells like smoke, leather, metal polish, forges, sweaty dwarf. *"Industry and people."* He nodded emphatically as if he'd made a compelling point. When Benedin just looked back at him, Pavel dropped his gaze: *"Why? You're part of us now."*
-
-  Benedin met his eye and held it even when Pavel looked away. Then: *"You're right, of course. I am one of you now, and I think I always will be. And I'm glad you've been to Bronzeshield Hold. I'll see what I can do about the smell."* He then gave Pavel a lesson — slowly enunciated, as if to help it stick: for a demon, you want cold iron; for a devil, you want silver. *"I'll write it down. It'll be clearer."*
-
-  After Riven's speech, Benedin offered his own farewell to the group: he named what Riven had grown into — a leader who turns few away, who believes all people can live together, who manages culture clashes with respect. *"Whenever I feel stubborn, I'll remember your open-mindedness."* He added plans: kitchen improvements, new herbs for the garden, wards to block any scrying sensors. Milo can expect engineering questions by letter.
+> [!secret] GM Only
+> - **Fully NPC as of Session 100.** Previously played by Slava (who also played [[Eri Malai]]); Slava has returned to [[Astor]] for the remainder of the campaign. Benedin is now a background NPC at [[Bronzeshield Hold]] — present by letter, cameo, or offscreen reference.
+> - Benedin's defensiveness about judging fallen leaders is a well of roleplay potential: when other communities fail or are destroyed, he will instinctively defend them.
+> - His lorekeeper training makes him the keeper of clan history — he knows things about the dwarven presence in this region that others don't.
+> - The magic the trolls used to take the hold was unusual — veils, glamours, reshaping stone. Was that just Hargulka's particular clan, or something more? Worth exploring if relevant.
+>
+> - **"You're part of us now." (campfire on the road back from Drevlev)**: Wounded deep by [[Ovinrbaane]] in the Drevlev fight — Lucas and Pavel treated him masterfully, but he was still winking as he sat down. He leaned against [[Hyram]], who had already curled up to sleep. After dinner (Milo's dinner rolls, inexplicably perfect), he cleared his throat and told the group he'd been meaning to thank them — all of them. He struggled to find the words, then landed on the difference between his upbringing and what he'd found in this group: he grew up knowing favors must be repaid, the more help you receive the more you owe, and he'd gotten the sense the party doesn't keep score. He named specific debts: they'd beaten him to Hargulka but then recognized his ancestral claim to the Hold after bleeding for it; they'd rebuilt the keep and spread word so his surviving cousins could find their way home.
+>
+>   Then he announced: he was leaving. He wanted to return to [[Bronzeshield Hold]] — properly. He'd been brandishing the crown regalia in battle but had never worn it. He hadn't earned that right yet. He needed to be among his people to have a chance at it.
+>
+>   [[Pavel]] tried to argue that Hyrum wouldn't be happy there. The Hold smells like smoke, leather, metal polish, forges, sweaty dwarf. *"Industry and people."* He nodded emphatically as if he'd made a compelling point. When Benedin just looked back at him, Pavel dropped his gaze: *"Why? You're part of us now."*
+>
+>   Benedin met his eye and held it even when Pavel looked away. Then: *"You're right, of course. I am one of you now, and I think I always will be. And I'm glad you've been to Bronzeshield Hold. I'll see what I can do about the smell."* He then gave Pavel a lesson — slowly enunciated, as if to help it stick: for a demon, you want cold iron; for a devil, you want silver. *"I'll write it down. It'll be clearer."*
+>
+>   After Riven's speech, Benedin offered his own farewell to the group: he named what Riven had grown into — a leader who turns few away, who believes all people can live together, who manages culture clashes with respect. *"Whenever I feel stubborn, I'll remember your open-mindedness."* He added plans: kitchen improvements, new herbs for the garden, wards to block any scrying sensors. Milo can expect engineering questions by letter.
 
 ## Session History
 

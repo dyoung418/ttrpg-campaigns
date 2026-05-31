@@ -47,9 +47,10 @@ When the vision broke, Sumi was beating him on the head shouting *"GET US OUT OF
 
 ## GM Notes
 
-- Grants [[Lucas]] his Poltergeist Oracle ability.
-- Olaf's terror of Cat is a mystery worth preserving — he knows what Cat is (or what she shouldn't be), even if the party doesn't.
-- He could be used comedically, but his knowledge of Cat's nature is genuine information.
+> [!secret] GM Only
+> - Grants [[Lucas]] his Poltergeist Oracle ability.
+> - Olaf's terror of Cat is a mystery worth preserving — he knows what Cat is (or what she shouldn't be), even if the party doesn't.
+> - He could be used comedically, but his knowledge of Cat's nature is genuine information.
 
 ## Session History
 

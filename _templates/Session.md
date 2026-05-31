@@ -30,7 +30,8 @@ created: ""
 
 ## Step 2 — Strong Start
 
-*One vivid sentence or short paragraph. In medias res. What's happening? What's the hook? Where's the action?*
+> [!info] Read-Aloud
+> *One vivid sentence or short paragraph. In medias res. What's happening? What's the hook? Where's the action?*
 
 ---
 
@@ -48,7 +49,7 @@ created: ""
 
 ## Step 4 — Secrets and Clues
 
-*Up to 10 single-sentence secrets the characters might discover. Keep abstract from discovery method.*
+> [!secret] GM Only — keep abstract from discovery method
 
 1.
 2.
@@ -108,7 +109,8 @@ created: ""
 
 ## GM Notes
 
-*Private reminders, voices to prepare, props, anything else.*
+> [!warning] GM Only
+> *Private reminders, voices to prepare, props, anything else.*
 
 ---
 

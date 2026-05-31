@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("campaigns/lost-memories/npcs")
+
+properties:
+  status:
+    displayName: Status
+  faction:
+    displayName: Faction
+  location:
+    displayName: Location
+  role:
+    displayName: Role
+
+views:
+  - type: table
+    name: "All NPCs"
+    order:
+      - file.name
+      - status
+      - role
+      - faction
+      - location
+    groupBy:
+      property: status
+      direction: ASC

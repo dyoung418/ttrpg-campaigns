@@ -41,8 +41,9 @@ After the feast, he resurfaced in the Stolen Lands posing as a kobold chieftain,
 
 ## GM Notes
 
-- First appeared as a comedic blowhard at the feast — his true role as a spy was a reveal
-- Served as a recurring foil in the early campaign before his death
+> [!secret] GM Only
+> - First appeared as a comedic blowhard at the feast — his true role as a spy was a reveal
+> - Served as a recurring foil in the early campaign before his death
 
 ## Session History
 

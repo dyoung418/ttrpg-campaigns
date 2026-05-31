@@ -1,12 +1,36 @@
 ---
 description: Plan a session using the Return of the Lazy Dungeon Master 8-step framework
 argument-hint: "[campaign-name]"
-allowed-tools: Read, Write, Edit, Bash, Glob, Grep
+allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 ---
 
 You are helping a GM plan a TTRPG session using the 8-step framework from *Return of the Lazy Dungeon Master* (RLDM). The full text is at `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/` — consult it if the user wants guidance on any step.
 
 Work through the steps **interactively**, one at a time. Ask questions, listen to answers, then move to the next step. Don't rush through everything at once.
+
+---
+
+## RLDM 8-Step Framework (Embedded Reference)
+
+*This summary is embedded here so you can run effective session prep even if the reference files at `TTRPG-general-references/` are unavailable.*
+
+**Step 1 — Review the Characters.** Before anything else, re-read each PC's name, background, and motivations. The goal is to prime your mind so every other prep decision flows from what these specific characters want. Wire the characters into your head first; then every scene, secret, location, and item you create can tie back to them.
+
+**Step 2 — Create a Strong Start.** Write a single vivid sentence (or short paragraph) describing exactly how the session opens. Frame it around three questions: *What's happening?* (a live event in the world), *What's the point?* (the hook that propels the characters forward), and *Where's the action?* (start as close to it as possible — *in medias res*). When in doubt, start with combat.
+
+**Step 3 — Outline Potential Scenes.** Jot a few words per likely scene — just enough to feel prepared, not so much you can't bear to throw it away. One or two scenes per hour of play is sufficient. These can be sequential, parallel, or branching. Expect to improvise; the list exists for your peace of mind, not as a script.
+
+**Step 4 — Define Secrets and Clues.** Write up to 10 single-sentence secrets the characters might discover — facts about NPCs, world history, or the current situation that *matter* to the story. Crucially, keep secrets **abstract from their delivery method**: don't decide which NPC says what or which item holds which clue. Improvise the discovery at the table. Secrets only become real when revealed; unused ones are fine to discard.
+
+**Step 5 — Develop Fantastic Locations.** For each scene backdrop, give it an *evocative name* and *three aspects* (short, interactable features). Aim for 1–2 locations per hour of play. Scale — vast size, great age, strange history — is the fastest way to make a location feel fantastic. Don't over-invest in any single location; you may never use it.
+
+**Step 6 — Outline Important NPCs.** For NPCs critical to this session (quest-givers, villains, key contacts), note their name, their role, and a **character archetype from popular fiction** (the further outside fantasy the better) to anchor your portrayal. Keep notes brief; a name + role + archetype is usually enough. Be ready to reassign information to a different NPC if the planned one falls out of play.
+
+**Step 7 — Choose Relevant Monsters.** List monsters that fit the story, situation, and location — don't balance encounters mathematically. Use challenge rating only as a rough gauge of difficulty. Let the narrative guide encounter size and composition. For boss fights, think about what would make the fight memorable without negating the characters' strengths; add minions, use terrain, and account for the boss having fewer actions than the party.
+
+**Step 8 — Select Magic Item Rewards.** Aim to drop one interesting item per session. Consult each player's wish list (collect these at campaign start and revisit every six sessions). Choose an item that fits the story, ties to a secret or clue, or spotlights a specific character. You can also roll randomly and curate the result for surprise and flavor.
+
+---
 
 ## Setup
 
@@ -167,6 +191,13 @@ Once all 8 steps are complete, create the session file at:
 `campaigns/<name>/sessions/Session <NN> - <Title>.md`
 
 Use `_templates/Session.md` as the structure. Fill in all 8 sections with the content gathered. Add wikilinks to every NPC, Location, and Plot Hook mentioned.
+
+Use `obsidian:obsidian-markdown` when writing the session note. Key callout sections:
+- Strong Start → `> [!info] Read-Aloud` callout wrapping the opening text
+- Secrets & Clues → `> [!secret] GM Only` label before the secrets list
+- GM Notes → `> [!warning] GM Only` wrapping private prep notes
+
+After creating the session file, open it in Obsidian using `obsidian:obsidian-cli`.
 
 ## Wrap Up
 

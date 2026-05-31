@@ -38,5 +38,6 @@ Riven's framing: *"Kyonin is beautiful and full of exquisite art, but we let our
 
 ## GM Notes
 
-- Treerazer is background lore for Riven's character, not an active threat to the Stolen Lands campaign. He explains *why* Riven recognizes evil and undead with such experienced eyes.
-- Could be invoked as a threat to Kyonin in future plot developments — news from home, a request for aid, or Lyriel/Faelir being endangered.
+> [!secret] GM Only
+> - Treerazer is background lore for Riven's character, not an active threat to the Stolen Lands campaign. He explains *why* Riven recognizes evil and undead with such experienced eyes.
+> - Could be invoked as a threat to Kyonin in future plot developments — news from home, a request for aid, or Lyriel/Faelir being endangered.

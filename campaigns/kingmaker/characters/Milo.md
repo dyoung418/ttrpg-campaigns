@@ -58,11 +58,11 @@ Milo Tinkerfoot's belief system revolves around the pursuit of justice, the prot
 
 ## Character Arc
 
-*To be filled in.*
+> [!todo] Needs content
 
 ## Personality & Quirks
 
-*To be filled in.*
+> [!todo] Needs content
 
 ## Relationships
 
@@ -73,11 +73,11 @@ Milo Tinkerfoot's belief system revolves around the pursuit of justice, the prot
 
 ## Magic Item Wish List
 
-- 
+> [!todo] Needs content
 
 ## Notable Moments
 
-- 
+> [!todo] Needs content
 
 ## Current Status
 

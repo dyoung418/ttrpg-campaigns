@@ -26,6 +26,7 @@ One of two Aldori sisters (nieces of [[Lady Jamandi Aldori]]) who participated i
 
 ## GM Notes
 
-- Her name is not yet established — fill in when decided.
-- Her death is the origin of the connection between [[Pavel]] and [[Edina Aldori]]: it bound them in shared loss and set Pavel searching for Edina in Restov afterward.
-- How Edina has processed her sister's death — especially knowing the party tried to save her — is unexplored and worth developing.
+> [!secret] GM Only
+> - Her name is not yet established — fill in when decided.
+> - Her death is the origin of the connection between [[Pavel]] and [[Edina Aldori]]: it bound them in shared loss and set Pavel searching for Edina in Restov afterward.
+> - How Edina has processed her sister's death — especially knowing the party tried to save her — is unexplored and worth developing.

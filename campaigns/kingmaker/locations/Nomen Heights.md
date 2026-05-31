@@ -38,5 +38,6 @@ Wild, open steppes stretching toward the mountains. The grass runs long and the 
 
 ## GM Notes
 
-- The party traveled through here escorted by two seasoned Nomen centaur warriors en route to the Tors.
-- The centaur escorts' expressions shifted from stern disapproval to thoughtful appreciation as they overheard the party's conversation — centaurs have finer hearing than the party realized.
+> [!secret] GM Only
+> - The party traveled through here escorted by two seasoned Nomen centaur warriors en route to the Tors.
+> - The centaur escorts' expressions shifted from stern disapproval to thoughtful appreciation as they overheard the party's conversation — centaurs have finer hearing than the party realized.

@@ -49,7 +49,8 @@ She offered to help [[Riven]] write a letter to [[Lyriel]] — *"Writing is my t
 
 ## GM Notes
 
-- Linzi's energy and bardic skills make her an ideal face for the kingdom's communications — she can charm, persuade, and adapt her message to her audience.
+> [!secret] GM Only
+> - Linzi's energy and bardic skills make her an ideal face for the kingdom's communications — she can charm, persuade, and adapt her message to her audience.
 
 ## Session History
 

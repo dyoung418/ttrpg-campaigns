@@ -53,9 +53,10 @@ Grigori is an agent of [[Pitax]] — but he doesn't know it. [[King Irovetti]] u
 
 ## GM Notes
 
-- Grigori's legal caution is the sharpest edge of his antagonism — the PCs can't touch him without becoming exactly what he says they are
-- His ignorance of Irovetti's involvement is a detail that could surface in interrogation if he's captured rather than exiled
-- Referenced by Riven during the Grand Tournament as a precedent for Pitax's willingness to operate through proxies inside Freehaven
+> [!secret] GM Only
+> - Grigori's legal caution is the sharpest edge of his antagonism — the PCs can't touch him without becoming exactly what he says they are
+> - His ignorance of Irovetti's involvement is a detail that could surface in interrogation if he's captured rather than exiled
+> - Referenced by Riven during the Grand Tournament as a precedent for Pitax's willingness to operate through proxies inside Freehaven
 
 ## Session History
 

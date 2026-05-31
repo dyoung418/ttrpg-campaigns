@@ -40,8 +40,9 @@ One of the adventurers who answered [[Lady Jamandi Aldori]]'s call to settle the
 
 ## GM Notes
 
-- Met the party at the Aldori feast before the Stolen Lands expedition began
-- Settled in Nightmarch rather than taking any formal government role
+> [!secret] GM Only
+> - Met the party at the Aldori feast before the Stolen Lands expedition began
+> - Settled in Nightmarch rather than taking any formal government role
 
 ## Session History
 

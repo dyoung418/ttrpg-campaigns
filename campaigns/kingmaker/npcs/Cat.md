@@ -47,11 +47,12 @@ Olaf's screaming telepathic cry during the vision: *"That BEAST isn't supposed t
 
 ## GM Notes
 
-- Cat is not a wild animal in any meaningful sense anymore — she is deeply bonded to Pavel.
-- How Cat responds to other party members, strangers, or enemies can be a useful roleplaying signal for Pavel's own trust levels.
-- Pavel's Beastmaster and Druid dedications reinforce the depth of this bond mechanically and narratively.
-- **Cat's nature is an open mystery** — the ancestors fear her, she can overpower spirits, and Olaf's terror implies she is something the spirit world recognizes as a genuine threat. What is she? Why did she choose Pavel?
-- Cat can perceive ancestor spirits near Lucas — good recurring beat. When Cat reacts strangely near Lucas, there's always a reason.
-- Cat has opinions about food: rejected dried meat from Lucas by sniffing and walking away.
-- The morning check after the possession (staring into Pavel's eyes, apparently satisfied he was himself) shows she takes protecting her people seriously in ways that extend beyond the physical.
-- **Monitoring from outside** — during the Great Feast, Cat was outside the hall but clearly tracking [[Pavel]]. When he went drunk and furious toward [[Astor]], Cat issued a **cough-like warning roar** that stopped the crowd and briefly gave Pavel pause. She intervened from a distance, through sound alone, before [[Edina Aldori]] physically stepped in. She can redirect Pavel even when she's not in the room.
+> [!secret] GM Only
+> - Cat is not a wild animal in any meaningful sense anymore — she is deeply bonded to Pavel.
+> - How Cat responds to other party members, strangers, or enemies can be a useful roleplaying signal for Pavel's own trust levels.
+> - Pavel's Beastmaster and Druid dedications reinforce the depth of this bond mechanically and narratively.
+> - **Cat's nature is an open mystery** — the ancestors fear her, she can overpower spirits, and Olaf's terror implies she is something the spirit world recognizes as a genuine threat. What is she? Why did she choose Pavel?
+> - Cat can perceive ancestor spirits near Lucas — good recurring beat. When Cat reacts strangely near Lucas, there's always a reason.
+> - Cat has opinions about food: rejected dried meat from Lucas by sniffing and walking away.
+> - The morning check after the possession (staring into Pavel's eyes, apparently satisfied he was himself) shows she takes protecting her people seriously in ways that extend beyond the physical.
+> - **Monitoring from outside** — during the Great Feast, Cat was outside the hall but clearly tracking [[Pavel]]. When he went drunk and furious toward [[Astor]], Cat issued a **cough-like warning roar** that stopped the crowd and briefly gave Pavel pause. She intervened from a distance, through sound alone, before [[Edina Aldori]] physically stepped in. She can redirect Pavel even when she's not in the room.

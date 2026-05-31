@@ -38,7 +38,8 @@ Sister of [[Rowan Half Dark]]. After [[Riven]] killed Rowan to escape [[The Few]
 
 ## GM Notes
 
-- How much does Talia know about Riven's current location? Does she know he's now a king?
-- If she discovers Riven is the Ruler of [[Freehaven]], does she escalate to political intrigue or direct assault?
-- Is she purely driven by grief and loyalty, or does she have her own ambitions for the Few?
-- Could she be reasoned with, or is this blood vendetta non-negotiable?
+> [!secret] GM Only
+> - How much does Talia know about Riven's current location? Does she know he's now a king?
+> - If she discovers Riven is the Ruler of [[Freehaven]], does she escalate to political intrigue or direct assault?
+> - Is she purely driven by grief and loyalty, or does she have her own ambitions for the Few?
+> - Could she be reasoned with, or is this blood vendetta non-negotiable?

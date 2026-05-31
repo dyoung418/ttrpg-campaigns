@@ -43,4 +43,5 @@ The PCs discovered and solved the mystery of Varnhold's disappearance by locatin
 
 ## GM Notes
 
-Varnhold is one of the campaign's most striking set-pieces — an entire living town emptied overnight, every meal still on the table, every door still open. The mystery of what happened here was a major story beat.
+> [!secret] GM Only
+> Varnhold is one of the campaign's most striking set-pieces — an entire living town emptied overnight, every meal still on the table, every door still open. The mystery of what happened here was a major story beat.

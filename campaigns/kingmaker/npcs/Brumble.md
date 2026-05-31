@@ -34,8 +34,9 @@ When the party's path grew too dangerous, Riven left Brumble in [[Nightmarch]]. 
 
 ## GM Notes
 
-- A tool for Riven's emotional life: mentions of Brumble reveal what Riven values and what he's sacrificed for this quest.
-- Brumble is in Nightmarch and could be encountered if the party returns.
+> [!secret] GM Only
+> - A tool for Riven's emotional life: mentions of Brumble reveal what Riven values and what he's sacrificed for this quest.
+> - Brumble is in Nightmarch and could be encountered if the party returns.
 
 ## Session History
 

@@ -29,5 +29,6 @@ When the ancestor vision produced a potential wedding between [[Great Aunt Sumi]
 
 ## GM Notes
 
-- Why did Hargulka have this? Was it looted from a kitsune, found in the Stolen Lands ruins, or something else? Worth asking.
-- Could contain information about the ancestors that Lucas doesn't yet know — or about [[Cat]]'s nature, if kitsune tradition has any lore about creatures that the dead fear.
+> [!secret] GM Only
+> - Why did Hargulka have this? Was it looted from a kitsune, found in the Stolen Lands ruins, or something else? Worth asking.
+> - Could contain information about the ancestors that Lucas doesn't yet know — or about [[Cat]]'s nature, if kitsune tradition has any lore about creatures that the dead fear.

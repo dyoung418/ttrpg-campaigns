@@ -68,6 +68,8 @@ Riven understands before anyone asks. She came. She came because of his letter. 
 
 ## Step 4 — Secrets and Clues
 
+> [!secret] GM Only — keep abstract from discovery method
+
 1. The woman abducted in [[Nightmarch]] was [[Lyriel]] Anarindë — she came because of Riven's invitation.
 2. [[Nyrissa]] has been mining Riven's dreams — she knew Lyriel was coming before Lyriel arrived.
 3. The fey who led the abduction had mortal-world agents the party didn't know about — Nyrissa's reach extends beyond [[Thousandbreaths]].
@@ -143,25 +145,26 @@ Riven understands before anyone asks. She came. She came because of his letter. 
 
 ## GM Notes
 
-**The Wriggling Man reveal (save for next session — K17):**
-When the party finds him on the throne disguised as an 8-ft golden-skinned angel, the recognition opportunity is there: if anyone present at the Nightmarch abduction can describe the fey, or if the party uses *true seeing*, they may realize this is the same entity. He used *veil* + *project image* + *ventriloquism* to set up his deception. His Deception is +39. His contingency: *dimension door* to area M6 at ≤50 HP.
-
-**Riven and the Sending:**
-Riven will understand what the message means the moment he hears "dropped your letter to Lyriel." The party may not. Let that gap breathe — he doesn't have to explain immediately.
-
-**The Byway moment:**
-[[Pavel]] walks through the iron arch carrying [[Briar]]. The sword and both statues blaze green. +1 Sharpness Point. Nyrissa notices. Don't announce the mechanical effect — describe what the party sees and feels.
-
-**Cat and the Black Smilodons:**
-Eight corrupted First World versions of Cat prowl the Baleful Lantern. How Cat responds to them is a free roleplaying signal — don't pre-plan it; just be ready for it.
-
-**Session cliffhanger:**
-The party defeats Ilthuliak, earns the bridge, and sees the House across the water. Tarlaxian is coiled at the far end. The faces on the doors are laughing, frowning, frightened. Somewhere inside, Lyriel is alive. End there.
-
-**Lyriel's Wait plot hook:**
-Update status to `resolving` after this session — the wait is over, but not in any way she or Riven imagined.
-
----
+> [!secret] GM Only
+> **The Wriggling Man reveal (save for next session — K17):**
+> When the party finds him on the throne disguised as an 8-ft golden-skinned angel, the recognition opportunity is there: if anyone present at the Nightmarch abduction can describe the fey, or if the party uses *true seeing*, they may realize this is the same entity. He used *veil* + *project image* + *ventriloquism* to set up his deception. His Deception is +39. His contingency: *dimension door* to area M6 at ≤50 HP.
+>
+> **Riven and the Sending:**
+> Riven will understand what the message means the moment he hears "dropped your letter to Lyriel." The party may not. Let that gap breathe — he doesn't have to explain immediately.
+>
+> **The Byway moment:**
+> [[Pavel]] walks through the iron arch carrying [[Briar]]. The sword and both statues blaze green. +1 Sharpness Point. Nyrissa notices. Don't announce the mechanical effect — describe what the party sees and feels.
+>
+> **Cat and the Black Smilodons:**
+> Eight corrupted First World versions of Cat prowl the Baleful Lantern. How Cat responds to them is a free roleplaying signal — don't pre-plan it; just be ready for it.
+>
+> **Session cliffhanger:**
+> The party defeats Ilthuliak, earns the bridge, and sees the House across the water. Tarlaxian is coiled at the far end. The faces on the doors are laughing, frowning, frightened. Somewhere inside, Lyriel is alive. End there.
+>
+> **Lyriel's Wait plot hook:**
+> Update status to `resolving` after this session — the wait is over, but not in any way she or Riven imagined.
+>
+> ---
 
 ## Post-Session *(fill in after play)*
 

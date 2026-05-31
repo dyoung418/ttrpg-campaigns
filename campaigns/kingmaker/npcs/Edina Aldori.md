@@ -54,11 +54,12 @@ Her grief is real, but it is not directed at the party.
 
 ## GM Notes
 
-- Edina's feelings toward the party are established: genuine respect for their choice to help competitors, gratitude for her own life, clear-eyed grief for her sister.
-- The interesting question is not whether she blames them — she doesn't — but what it means to her that [[Pavel]] specifically sought her out afterward, and what she makes of him.
-- She chose Astor over Restov nobles as her Suitor — was that deliberate social signaling, or just preference?
-- Her gray, unreadable eyes are a trait worth leaning into — she is hard to read even for Pavel, who is usually good at reading animals and bad at reading people.
-- She noticed Pavel in his dark corner. He didn't think he was visible.
+> [!secret] GM Only
+> - Edina's feelings toward the party are established: genuine respect for their choice to help competitors, gratitude for her own life, clear-eyed grief for her sister.
+> - The interesting question is not whether she blames them — she doesn't — but what it means to her that [[Pavel]] specifically sought her out afterward, and what she makes of him.
+> - She chose Astor over Restov nobles as her Suitor — was that deliberate social signaling, or just preference?
+> - Her gray, unreadable eyes are a trait worth leaning into — she is hard to read even for Pavel, who is usually good at reading animals and bad at reading people.
+> - She noticed Pavel in his dark corner. He didn't think he was visible.
 
 ## Session History
 

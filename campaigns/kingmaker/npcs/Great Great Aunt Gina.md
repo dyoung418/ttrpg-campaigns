@@ -46,9 +46,10 @@ Grants him both the **Ancestral Touch** and **Inner Radiance Torrent** Oracle An
 
 ## GM Notes
 
-- Gina is becoming more active because of the party's undead/shadow foes — she hated undead in life and is energized by the current fight.
-- Grants [[Lucas]] both Ancestral Touch and Inner Radiance Torrent — two abilities from one ancestor reflects her power; worth exploring why.
-- Could be a source of lore about the kitsune history in the Stolen Lands — she lived long enough to span generations of that hidden settlement.
+> [!secret] GM Only
+> - Gina is becoming more active because of the party's undead/shadow foes — she hated undead in life and is energized by the current fight.
+> - Grants [[Lucas]] both Ancestral Touch and Inner Radiance Torrent — two abilities from one ancestor reflects her power; worth exploring why.
+> - Could be a source of lore about the kitsune history in the Stolen Lands — she lived long enough to span generations of that hidden settlement.
 
 ## Session History
 

@@ -28,4 +28,5 @@ After losing his brother [[Rindle]] to bandits on a later expedition, Milo found
 
 ## GM Notes
 
-- Glimmerhaven is Milo's origin — the site of both his greatest losses and the beginning of his path as an inventor.
+> [!secret] GM Only
+> - Glimmerhaven is Milo's origin — the site of both his greatest losses and the beginning of his path as an inventor.

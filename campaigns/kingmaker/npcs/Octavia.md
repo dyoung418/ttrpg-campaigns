@@ -42,8 +42,9 @@ Has provided magical support or service to [[Freehaven]]. At the Great Feast, [[
 
 ## GM Notes
 
-- Her decision on the mayorship is pending — good material for a follow-up scene.
-- What *has* she done for Freehaven? Her specific contribution isn't detailed — worth establishing.
+> [!secret] GM Only
+> - Her decision on the mayorship is pending — good material for a follow-up scene.
+> - What *has* she done for Freehaven? Her specific contribution isn't detailed — worth establishing.
 
 ## Session History
 

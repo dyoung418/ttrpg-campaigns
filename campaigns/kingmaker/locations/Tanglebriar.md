@@ -24,5 +24,6 @@ A blighted, corrupted forest south of the elven homeland of [[Avennara|Kyonin]],
 
 ## GM Notes
 
-- Background lore for Riven. He uses the Tanglebriar as a concrete example of what happens when you let corruption take root: *"I've seen what happens when corruption is left to fester."*
-- Could become plot-relevant if news arrives from Kyonin.
+> [!secret] GM Only
+> - Background lore for Riven. He uses the Tanglebriar as a concrete example of what happens when you let corruption take root: *"I've seen what happens when corruption is left to fester."*
+> - Could become plot-relevant if news arrives from Kyonin.

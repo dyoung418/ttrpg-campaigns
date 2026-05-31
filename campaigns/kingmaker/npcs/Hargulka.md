@@ -38,7 +38,8 @@ Hargulka led the troll clan that had overrun [[Bronzeshield Hold]], the ancient 
 
 ## GM Notes
 
-- Defeated and done. Cited retrospectively as a byword for tyranny and brutishness.
+> [!secret] GM Only
+> - Defeated and done. Cited retrospectively as a byword for tyranny and brutishness.
 
 ## Session History
 

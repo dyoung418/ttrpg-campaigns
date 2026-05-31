@@ -25,11 +25,12 @@ They woke up as prisoners. They have no memory of who they are or how they got h
 
 ## What's Actually Happening
 
-- The PCs are accomplished individuals who were deliberately targeted and abducted because of their skills
-- [[Magister Aldric]] performed his ritual on them — it failed to transfer their power to him
-- A side effect of the failed ritual wiped their memories
-- [[Magister Aldric]] knows the ritual failed; he has since discovered the memory-loss side effect and is simultaneously fascinated and furious
-- The PCs are not the first subjects — there may be evidence of previous attempts
+> [!secret] GM Only
+> - The PCs are accomplished individuals who were deliberately targeted and abducted because of their skills
+> - [[Magister Aldric]] performed his ritual on them — it failed to transfer their power to him
+> - A side effect of the failed ritual wiped their memories
+> - [[Magister Aldric]] knows the ritual failed; he has since discovered the memory-loss side effect and is simultaneously fascinated and furious
+> - The PCs are not the first subjects — there may be evidence of previous attempts
 
 ## The Mystery (layers to reveal over the campaign)
 

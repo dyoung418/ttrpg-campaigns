@@ -57,13 +57,14 @@ Once all backstories are collected, **secretly redistribute them** before Sessio
 
 ## GM Notes
 
-*Record the backstory assignments here (GM eyes only) once the swap is done.*
-
-| Player | Created Backstory For | Assigned Backstory From |
-|--------|-----------------------|------------------------|
-|        |                       |                        |
-
----
+> [!secret] GM Only
+> *Record the backstory assignments here (GM eyes only) once the swap is done.*
+>
+> | Player | Created Backstory For | Assigned Backstory From |
+> |--------|-----------------------|------------------------|
+> |        |                       |                        |
+>
+> ---
 
 ## Post-Session *(fill in after play)*
 

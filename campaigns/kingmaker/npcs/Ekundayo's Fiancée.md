@@ -36,8 +36,9 @@ She is a relative of [[Hannis Drevlev]]. When Drevlev conspired with [[King Irov
 
 ## GM Notes
 
-- Her name is not yet recorded — fill in when confirmed.
-- Her connection to Drevlev could resurface as a complication (does she mourn him? resent his legacy? carry his name?).
+> [!secret] GM Only
+> - Her name is not yet recorded — fill in when confirmed.
+> - Her connection to Drevlev could resurface as a complication (does she mourn him? resent his legacy? carry his name?).
 
 ## Session History
 

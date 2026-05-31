@@ -42,8 +42,9 @@ His interest in the dwarven ruins may connect to the history of [[Bronzeshield H
 
 ## GM Notes
 
-- Serves as Viceroy — a government role not held by any of the PCs; position should be reflected in Freehaven's leadership
-- His doom-and-gloom preaching is balanced by genuine warmth and pastoral skill
+> [!secret] GM Only
+> - Serves as Viceroy — a government role not held by any of the PCs; position should be reflected in Freehaven's leadership
+> - His doom-and-gloom preaching is balanced by genuine warmth and pastoral skill
 
 ## Session History
 

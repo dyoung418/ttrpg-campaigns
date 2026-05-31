@@ -32,6 +32,7 @@ They were killed in an ambush by a demon when Riven was young. Their deaths shat
 
 ## GM Notes
 
-- The demon that killed Aelir and Lytha has never been named or confronted. This is an open plot thread.
-- See [[The Demon's Legacy]] — potential future hook.
-- Riven's fixation on external redemption is rooted in his belief that he must prove himself worthy of their sacrifice.
+> [!secret] GM Only
+> - The demon that killed Aelir and Lytha has never been named or confronted. This is an open plot thread.
+> - See [[The Demon's Legacy]] — potential future hook.
+> - Riven's fixation on external redemption is rooted in his belief that he must prove himself worthy of their sacrifice.

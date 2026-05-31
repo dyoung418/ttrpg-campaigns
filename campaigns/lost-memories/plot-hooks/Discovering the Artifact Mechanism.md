@@ -61,7 +61,8 @@ They have no memory. They are prisoners. Something was done to them here — the
 
 ## What's Actually Happening
 
-The memories dispersed into objects weighted with Aldric's own sentimentality — things from his personal history that were present at the ritual or already existed in the world when it was performed. The objects are passive vessels. Contact is enough to trigger fragments. The PCs could begin recovering themselves the moment they touch the right thing — they just don't know it yet.
+> [!secret] GM Only
+> The memories dispersed into objects weighted with Aldric's own sentimentality — things from his personal history that were present at the ritual or already existed in the world when it was performed. The objects are passive vessels. Contact is enough to trigger fragments. The PCs could begin recovering themselves the moment they touch the right thing — they just don't know it yet.
 
 ## A Connection You Noticed
   

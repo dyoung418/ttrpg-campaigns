@@ -34,7 +34,8 @@ Faelir never appears to have been involved in the village incident or the court-
 
 ## GM Notes
 
-- Does Faelir know where Riven went after leaving Kyonin?
-- Would he support or oppose Riven if they met again — with pride or disappointment?
-- His dedication to harmony vs. Riven's life of war could make for a meaningful reunion scene.
-- Potential plot beat: Faelir could arrive in the Stolen Lands as a messenger from Kyonin, or Riven could receive word of him.
+> [!secret] GM Only
+> - Does Faelir know where Riven went after leaving Kyonin?
+> - Would he support or oppose Riven if they met again — with pride or disappointment?
+> - His dedication to harmony vs. Riven's life of war could make for a meaningful reunion scene.
+> - Potential plot beat: Faelir could arrive in the Stolen Lands as a messenger from Kyonin, or Riven could receive word of him.

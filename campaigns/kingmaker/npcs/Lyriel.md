@@ -51,7 +51,8 @@ She carries the grief of the village incident too — because he came to see *he
 
 ## GM Notes
 
-- Lyriel is not just a love interest — she is a mirror for Riven's arc. Facing her means he can no longer hide behind heroic deeds.
-- Does she know what became of him? Has she heard of the kingdom-builder in the Stolen Lands?
-- She may carry guilt of her own — not for anything she did, but for *being the reason he came to her* that day.
-- A reunion between Riven and Lyriel should be earned, not easy.
+> [!secret] GM Only
+> - Lyriel is not just a love interest — she is a mirror for Riven's arc. Facing her means he can no longer hide behind heroic deeds.
+> - Does she know what became of him? Has she heard of the kingdom-builder in the Stolen Lands?
+> - She may carry guilt of her own — not for anything she did, but for *being the reason he came to her* that day.
+> - A reunion between Riven and Lyriel should be earned, not easy.

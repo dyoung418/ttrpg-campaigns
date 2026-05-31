@@ -32,7 +32,8 @@ The capital city of the former Pitax kingdom. Once ruled by the vain and antagon
 
 ## GM Notes
 
-Per the campaign summary: Pitax was merely Nyrissa's pawn. Irovetti's madness was engineered by her to make Freehaven stronger and more worthy of being her final kingdom. The sword [[Briar]] was hidden in Irovetti's palace.
+> [!secret] GM Only
+> Per the campaign summary: Pitax was merely Nyrissa's pawn. Irovetti's madness was engineered by her to make Freehaven stronger and more worthy of being her final kingdom. The sword [[Briar]] was hidden in Irovetti's palace.
 
 ## Plot Hooks Tied Here
 

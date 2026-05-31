@@ -52,9 +52,10 @@ She wants to forge a closer alliance with Freehaven without triggering backlash 
 
 ## GM Notes
 
-- Lady Jamandi is now actively moving toward an alliance with Freehaven — she sees it as strategically essential, not just courtesy.
-- The secrecy of her visit matters: if it became known she attended the feast, it could inflame Brevoy's reactionaries.
-- She is scared of Nyrissa — and doesn't know where to start to address the threat beyond drawing closer to the six.
+> [!secret] GM Only
+> - Lady Jamandi is now actively moving toward an alliance with Freehaven — she sees it as strategically essential, not just courtesy.
+> - The secrecy of her visit matters: if it became known she attended the feast, it could inflame Brevoy's reactionaries.
+> - She is scared of Nyrissa — and doesn't know where to start to address the threat beyond drawing closer to the six.
 
 ## Session History
 

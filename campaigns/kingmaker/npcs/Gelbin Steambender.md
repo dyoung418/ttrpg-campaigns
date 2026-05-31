@@ -37,5 +37,6 @@ Gelbin took [[Milo]] on as a mentee after the pocket watch reunion. Under his tu
 
 ## GM Notes
 
-- Gelbin is a positive figure in Milo's life — one of the few. He could resurface as an ally, a source of information, or someone who needs help.
-- His pocket watch is the object that connected them — it may have more significance than it appears.
+> [!secret] GM Only
+> - Gelbin is a positive figure in Milo's life — one of the few. He could resurface as an ally, a source of information, or someone who needs help.
+> - His pocket watch is the object that connected them — it may have more significance than it appears.
