@@ -10,14 +10,14 @@ priority: high
 created: "2026-05-27"
 ---
 
-# Magister Aldric's Abduction
+# The Wizard's Abduction
 
 > **Status**: Open
 > **Priority**: High
 
 ## Summary
 
-The PCs are already accomplished individuals — skilled, experienced, with reputations in their respective fields. This made them targets. [[Magister Aldric]] identified them and abducted them to use as subjects in his [[The Power Transference Ritual|Power Transference Ritual]], a magical experiment intended to sap the power of lived mastery from skilled individuals and transfer it to himself. The ritual failed — he gained nothing. But the side effect was that the PCs lost all their memories. The PCs wake in [[Magister Aldric's Prison]] in Session 1 not knowing any of this.
+The PCs are already accomplished individuals — skilled, experienced, with reputations in their respective fields. This made them targets. [[Magister Aldric]] identified them and abducted them to use as subjects in his [[The Power Transference Ritual|Power Transference Ritual]], a magical experiment intended to sap the power of lived mastery from skilled individuals and transfer it to himself. The ritual failed — he gained nothing. But the side effect was that the PCs lost all their memories. The PCs wake in [[The Wizard's Prison]] in Session 1 not knowing any of this.
 
 ## What the Players Know
 
@@ -48,12 +48,12 @@ They woke up as prisoners. They have no memory of who they are or how they got h
 ## Connections
 
 - [[Magister Aldric]] — perpetrator
-- [[Magister Aldric's Prison]] — location
+- [[The Wizard's Prison]] — location
 - [[The Power Transference Ritual]] — the mechanism
 - [[The Switched Backstories]] — a parallel mystery running alongside this one
 
 ## Session History
 
 - Introduced: Session 01
-- Advanced:
-- Resolved:
+
+> [!todo] Needs content

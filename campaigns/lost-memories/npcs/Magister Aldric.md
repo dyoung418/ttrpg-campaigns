@@ -74,4 +74,4 @@ Neither Aldric nor the PCs know the memories ended up in these objects yet. *(Di
 
 ## Session History
 
-- First appeared:
+> [!todo] Needs content

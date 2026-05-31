@@ -18,17 +18,13 @@ created: "2026-05-27"
 
 ## Description
 
-A tall, multi-level tower built in secret by [[Magister Aldric]] on a desolate stretch of coastline. This is not his official residence — it is entirely off the books, unknown to his colleagues in the [[campaigns/lost-memories/factions/Order of the Silver Chalice|Order of the Silver Chalice]]. The PCs wake here at the start of Session 1 with no memory of how they arrived.
+A tall, multi-level tower built in secret by [[Magister Aldric]] on a desolate stretch of coastline. This is not his official residence — it is entirely off the books, unknown to his colleagues in the [[Order of the Silver Chalice]]. The PCs wake here at the start of Session 1 with no memory of how they arrived.
 
 The coast outside is grey and empty. The isolation is complete — escape from the tower puts the PCs on an unfamiliar shore with no clear direction toward civilization.
 
-*Specific sensory details, floor layouts, and room descriptions TBD during session prep.*
-
 ## Aspects
 
-1. *(TBD — fill in during prep)*
-2.
-3.
+> [!todo] Needs content
 
 ## Notable Features
 
@@ -49,7 +45,7 @@ A mix of physical locks, human mercenary guards, and magical wards. Not impenetr
 ## Connected Locations
 
 - The desolate coast outside — unknown territory once the PCs escape
-- [[campaigns/lost-memories/factions/Order of the Silver Chalice]] central hall — Aldric's official home; the tower is its secret shadow
+- [[Order of the Silver Chalice]] central hall — Aldric's official home; the tower is its secret shadow
 
 ## Plot Hooks Tied Here
 

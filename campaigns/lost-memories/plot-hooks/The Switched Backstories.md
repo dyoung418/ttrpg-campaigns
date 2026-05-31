@@ -72,5 +72,5 @@ No GM engineering required. The irony arrives on its own.
 ## Session History
 
 - Introduced: Session 01
-- Advanced:
-- Resolved:
+
+> [!todo] Needs content

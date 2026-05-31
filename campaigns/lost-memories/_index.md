@@ -3,6 +3,7 @@ type: campaign-index
 campaign: "Lost Memories"
 tags:
   - campaign-index
+  - campaign/lost-memories
 system: "Daggerheart"
 created: "2026-05-27"
 status: active
@@ -20,13 +21,13 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 
 ## Current State
 
-*Where are the players right now? What's the most pressing situation?*
+> [!todo] Needs content
 
 ## The Party
 
 | Character | Player | Class/Role |
 |-----------|--------|------------|
-| [[]]      |        |            |
+|           |        |            |
 
 *Full character details (backstory, motivations, item wish lists) → see `characters/` folder*
 
@@ -46,7 +47,7 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 
 ## Factions
 
-- [[campaigns/lost-memories/factions/Order of the Silver Chalice]] — cross-kingdom magical peace council; Aldric is a Magister going rogue within it
+- [[Order of the Silver Chalice]] — cross-kingdom magical peace council; Aldric is a Magister going rogue within it
 
 ## Sessions
 
@@ -55,7 +56,7 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 
 ## World
 
-- **Name**: *(TBD — custom world, unnamed)*
+- **Name**: *(unnamed — custom world)*
 - **System**: Daggerheart
 
 ## Lore & World Notes
@@ -64,4 +65,4 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 
 ## Campaign Arc
 
-The PCs wake as prisoners of [[Magister Aldric]] — a Magister of the [[campaigns/lost-memories/factions/Order of the Silver Chalice|Order of the Silver Chalice]] secretly conducting illegal experiments on accomplished individuals. His [[The Power Transference Ritual|Power Transference Ritual]] failed, but erased their memories as a side effect — dispersing who they are into artifacts scattered across the world. Act 1: survive, observe, and escape [[The Wizard's Prison]] on a desolate coast. The larger arc: find the artifacts, recover who they were, and reckon with a mage who has powerful institutional cover and every reason to silence them. Beneath it all, a player-level irony: each player ghost-wrote the true backstory of someone else's character without knowing it — and they'll recognize it when it surfaces.
+The PCs wake as prisoners of [[Magister Aldric]] — a Magister of the [[Order of the Silver Chalice]] secretly conducting illegal experiments on accomplished individuals. His [[The Power Transference Ritual|Power Transference Ritual]] failed, but erased their memories as a side effect — dispersing who they are into artifacts scattered across the world. Act 1: survive, observe, and escape [[The Wizard's Prison]] on a desolate coast. The larger arc: find the artifacts, recover who they were, and reckon with a mage who has powerful institutional cover and every reason to silence them. Beneath it all, a player-level irony: each player ghost-wrote the true backstory of someone else's character without knowing it — and they'll recognize it when it surfaces.
