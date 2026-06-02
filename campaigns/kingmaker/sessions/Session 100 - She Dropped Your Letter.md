@@ -37,7 +37,7 @@ created: "2026-05-30"
 | [[Lee]] | Tom | Woodland Elf Swashbuckler — General | Kill the dragon | — |
 
 *Arc notes relevant to this session:*
-- **Riven**: His worst fear and deepest hope have just collided. Lyriel came because he finally asked. She was taken the moment she arrived. He will understand what Linzi's message means before anyone else does — and he will have to keep fighting a bloom while he absorbs it.
+- **Riven**: The cruelest possible timing — Lyriel chose to come of her own accord, after months of correspondence following his reunion with her in Kyonin. She arrived at his gate without fanfare, without an invitation to answer. She came because she decided to. He will know what the Sending means the moment he hears "your handwriting... addressed to Lyriel." He will have to keep fighting a bloom while he absorbs it.
 - **Pavel**: Carries [[Briar]] and knows the worst is coming. Sat at the Candlemere star pit and thought *"it better be worth it."* Walking through the Byway arch will make the sword blaze green in his hands — a public signal that something has shifted.
 - **Astor**: Back from retirement. He has a family to protect and holds Riven's letter to [[Lyriel]] in safekeeping. The stakes of this session are everything he came back for.
 - **Lee**: Hates aerial foes. [[Ilthuliak]] is a gargantuan flying dragon. This is Lee's nightmare fight — and his chance to define himself against it.
@@ -48,9 +48,9 @@ created: "2026-05-30"
 
 The party is mid-bloom, fighting. [[Riven]] receives a Sending from [[Linzi]]:
 
-> *"A woman just arriving into Nightmarch was abducted by a fey and trolls. They got away. In the fight, she dropped your letter to Lyriel."*
+> *"A woman taken at the city gate — fey and trolls. She dropped a letter. Your handwriting, Riven. Addressed to Lyriel Anarindë. She came."*
 
-Riven understands before anyone asks. She came. She came because of his letter. And she is gone.
+Riven understands before anyone asks. She came of her own choosing. And she is gone.
 
 ---
 
@@ -70,7 +70,7 @@ Riven understands before anyone asks. She came. She came because of his letter. 
 
 > [!secret] GM Only — keep abstract from discovery method
 
-1. The woman abducted in [[Nightmarch]] was [[Lyriel]] Anarindë — she came because of Riven's invitation.
+1. The woman abducted in [[Nightmarch]] was [[Lyriel]] Anarindë — she came of her own choosing, after months of correspondence with Riven following his diplomatic visit to Kyonin and their reunion there.
 2. [[Nyrissa]] has been mining Riven's dreams — she knew Lyriel was coming before Lyriel arrived.
 3. The fey who led the abduction had mortal-world agents the party didn't know about — Nyrissa's reach extends beyond [[Thousandbreaths]].
 4. [[Lyriel]] is alive inside the [[House at the Edge of Time]] — taken as leverage, not a trophy.
@@ -111,7 +111,7 @@ Riven understands before anyone asks. She came. She came because of his letter. 
 | [[Linzi]] | Delivers the Sending; has the facts, not the meaning | Junior reporter calling in a breaking story |
 | [[Ilthuliak]] | Session boss; the fight that earns the bridge | Aging champion who has never lost and intends to die undefeated |
 | [[Nyrissa]] | Absent but present in everything — the board was set days ago | Chess grandmaster watching from another room |
-| [[Lyriel]] | Hostage; not seen this session — her absence does the work | The person who stayed and finally came when called |
+| [[Lyriel]] | Hostage; not seen this session — her absence does the work | The person who finally chose to come of her own accord |
 | [[The Wriggling Man]] | The actual abductor, in disguise — not yet known to the party | The fixer who gets his hands dirty so the boss stays clean |
 
 ---
@@ -150,7 +150,7 @@ Riven understands before anyone asks. She came. She came because of his letter. 
 > When the party finds him on the throne disguised as an 8-ft golden-skinned angel, the recognition opportunity is there: if anyone present at the Nightmarch abduction can describe the fey, or if the party uses *true seeing*, they may realize this is the same entity. He used *veil* + *project image* + *ventriloquism* to set up his deception. His Deception is +39. His contingency: *dimension door* to area M6 at ≤50 HP.
 >
 > **Riven and the Sending:**
-> Riven will understand what the message means the moment he hears "dropped your letter to Lyriel." The party may not. Let that gap breathe — he doesn't have to explain immediately.
+> Riven will understand what the message means the moment he hears "your handwriting... addressed to Lyriel." The party may not — they don't know about the correspondence, or that she was coming. Let that gap breathe — he doesn't have to explain immediately. The weight is that she came on her own terms, and he wasn't there.
 >
 > **The Byway moment:**
 > [[Pavel]] walks through the iron arch carrying [[Briar]]. The sword and both statues blaze green. +1 Sharpness Point. Nyrissa notices. Don't announce the mechanical effect — describe what the party sees and feels.

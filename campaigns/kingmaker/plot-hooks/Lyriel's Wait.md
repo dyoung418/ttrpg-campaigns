@@ -34,7 +34,13 @@ At Silverstep, [[Riven]] said aloud for the first time — to the full party —
 
 Linzi's quiet comfort at the Starberry Press, before the tournament: *"But with so many kingdoms gathering here… she might just bring her answer herself."* She didn't.
 
-**The wait is over — but not as imagined.** [[Lyriel]] did come. She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by [[The Wriggling Man]] in disguise (acting on [[Nyrissa]]'s orders) and a group of trolls. She dropped Riven's letter in the struggle. [[Linzi]] sent Riven a Sending mid-bloom: *"A woman just arriving into Nightmarch was abducted by a fey and trolls. They got away. In the fight, she dropped your letter to Lyriel."* Lyriel is now captive in the [[House at the Edge of Time]]. Nyrissa holds her as leverage.
+**The reunion happened — in Kyonin.** Three months after the Grand Tournament, Riven led a diplomatic mission to Kyonin. He found Lyriel in her garden, painting birches. They spoke. He told her the truth; she told him she would have stayed. She asked him to write ordinary letters — not formal ones, not declarations. Which flowers come first in spring. What the council argues about. Whether the bear is real. He said he would. She said she might answer. See full account under [[Lyriel]].
+
+**She came — but not as imagined.** After months of correspondence, Lyriel decided to make the journey to [[Nightmarch]] of her own accord. No invitation — her choice. She arrived at the gate and was abducted by [[The Wriggling Man]] in disguise (acting on [[Nyrissa]]'s orders) and a group of trolls. She dropped Riven's most recent letter in the struggle. A guard found it. The report reached [[Linzi]], who saw the handwriting, read the address — *Lyriel Anarindë* — and sent Riven a Sending mid-bloom:
+
+> *"A woman taken at the city gate — fey and trolls. She dropped a letter. Your handwriting, Riven. Addressed to Lyriel Anarindë. She came."*
+
+Lyriel is now captive in the [[House at the Edge of Time]]. [[Nyrissa]] holds her as leverage — she had been mining Riven's dreams and knew Lyriel was coming before Lyriel arrived. The timing was deliberate: she waited until the relationship was healing to strike.
 
 ## Possible Developments
 

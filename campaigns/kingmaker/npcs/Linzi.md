@@ -6,7 +6,7 @@ tags:
   - campaign/kingmaker
 aliases: []
 status: alive
-role: "Emissary of Freehaven; halfling bard; handles all kingdom communications"
+role: "Emissary and Foreign Minister of Freehaven; halfling bard; handles all kingdom communications"
 faction: "Freehaven"
 location: "Nightmarch"
 created: "2026-05-29"
@@ -38,6 +38,12 @@ She publishes the **Freehaven Gazette** — the kingdom's chronicle/newspaper. S
 She has deliberately not published an article about [[Silverstep]] despite it being a natural subject — she loves the town too much and fears an article would overrun it with visitors. She does not view this as slacking: she has an article on [[Bronzeshield Hold]] nearly finished. When she mentioned this to [[Benedin]], she immediately panicked and over-corrected.
 
 She offered to help [[Riven]] write a letter to [[Lyriel]] — *"Writing is my thing, you know."* Riven accepted.
+
+She traveled with Riven as councilor and foreign minister on the three-month diplomatic mission to [[Kyonin]], handling tariffs, recognition, and embassies while Riven handled terrain and field matters. She introduced herself to Kyonin's representatives as *"councilor, foreign minister, and the only thing standing between our king and several preventable diplomatic incidents."* One of Kyonin's captains reportedly began watching her the way men watch drawn steel. [[Jameel Visser]], the ranger commander of [[Embeth Forest]], advised Riven to keep her close: *"She makes you almost approachable."*
+
+She was on the road home when Riven said quietly: *"I think she may come."* Her reply: *"Then you write the first letter and try not to make it unbearable."*
+
+When [[Lyriel]] was abducted at Nightmarch's gate, Linzi was not there to witness it. But the report came to her — and with it, the letter Lyriel had dropped in the struggle. Riven's handwriting. Addressed to Lyriel Anarindë. Linzi sent the Sending.
 
 ## Relationships
 

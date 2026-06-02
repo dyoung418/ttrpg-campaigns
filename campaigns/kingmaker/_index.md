@@ -82,6 +82,8 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Great Uncle Olaf]] — Lucas's foxfolk ancestor; grants Poltergeist ability
 - [[Great Great Aunt Gina]] — Lucas's foxfolk ancestor (more distant); grants Ancestral Touch & Inner Radiance Torrent abilities
 - [[Xamanthe]] — Aecora's daughter; captured by Vordakai; rescued by the party; leg curse removed; pledged a debt to the party
+- [[Jameel Visser]] — ranger commander of the [[Embeth Forest]] wardens; old contact of Riven's; reached the Embeth Agreement with Freehaven during the Kyonin diplomatic mission
+- [[Thaelirian]] — elf in Kyonin; mutual acquaintance of Riven and Lyriel; gave Riven directions to Lyriel's house
 
 **Defeated**
 - [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party
@@ -143,6 +145,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Kingmaker Campaign Summary]] — full adventure path overview and Nyrissa backstory
 - [[Chapter 10 - Sound of a Thousand Screams]] — Part 1/2/3 structure, Briar awakening, chapter outcomes
 - [[The Sword and the Suitor]] — Brevic/Restov courtly dance; performed at the Great Feast by Edina and Astor
+- [[Freehaven-Kyonin Treaty]] — treaty signed during Riven's three-month diplomatic mission; Kyonin recognizes Freehaven as a sovereign neighbor; trade and ruins access agreed
 
 ## Items
 
