@@ -15,3 +15,19 @@
 6. ### Darren [Pavel] _—_ 4/29/26, 2:45 AM
     
     Pavel holds up Briar to show that Eri's staff is not, in fact, lying in his lap underneath it. "You checked everywhere? What about the guy I pushed into the star hole? I don't remember him holding a staff." He frowns.
+### Wes [Riven] — 11:59 AM
+Riven stood behind Pavel a moment, gazing into the abyss.
+
+“Aye,” he said at last. “A grim lesson. I leave you to your own judgment, and you defeat an ancient evil, retain Briar, and live to be smug about it.”
+
+He glanced at Briar, then at Cat sleeping beside Pavel.
+
+“Try not to make a habit of proving you don’t need me.”
+
+The jest was dry, but there was warmth under it. Riven set a hand briefly on Pavel’s shoulder.
+
+“You did well. All of you. Mess or no,” glancing at the bodies of the cultists about the room.
+
+Then, toward Eri:
+
+“And no one becomes a hermit until we’ve searched the room properly.”
