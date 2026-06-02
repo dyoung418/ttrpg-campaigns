@@ -47,7 +47,7 @@ Pavel doesn't follow politics much, but he considers himself a true child of Ros
 - Autonomy — he left the army specifically to stop answering to other people's rules; being Warden of [[Freehaven]] is as close to "his own boss" as he's found
 - Loyalty to the people and animals he actually trusts — a short list, but absolute
 - Rostlandic pride — he doesn't follow politics closely, but he is a true child of Rostland; if the Issians push too hard, he won't hesitate to take up arms
-
+![[pavel-fire.png]]
 ## Character Arc
 
 Pavel's arc is about trust and belonging. He prefers animals to people because animals are predictable — they don't lie, scheme, or disappoint in the ways people do. The question is whether the fellowship he's built through years of adventuring with the party has changed his calculus. Can people be relied on after all?

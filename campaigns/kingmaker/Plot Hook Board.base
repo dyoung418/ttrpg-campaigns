@@ -1,29 +1,26 @@
 filters:
   and:
     - file.inFolder("campaigns/kingmaker/plot-hooks")
-
 properties:
   status:
     displayName: Status
   priority:
     displayName: Priority
-
 views:
   - type: table
-    name: "Active Hooks"
+    name: Active Hooks
     filters:
       not:
-        - 'status == "resolved"'
+        - status == "resolved"
+    groupBy:
+      property: priority
+      direction: DESC
     order:
       - file.name
       - status
       - priority
-    groupBy:
-      property: priority
-      direction: DESC
-
   - type: table
-    name: "All Hooks"
+    name: All Hooks
     order:
       - file.name
       - status

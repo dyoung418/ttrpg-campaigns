@@ -4,14 +4,15 @@ campaign: kingmaker
 tags:
   - character
   - campaign/kingmaker
-aliases: []
-player: "Wes"
-class: "Ranger (Eldritch Archer dedication)"
-race: "Elf (Ancient Elf heritage, Druid dedication)"
-background: "Field Medic"
+aliases:
+  - Riven Sylvaranth
+player: Wes
+class: Ranger (Eldritch Archer dedication)
+race: Elf (Ancient Elf heritage, Druid dedication)
+background: Field Medic
 level: 17
 status: active
-created: "2026-05-29"
+created: 2026-05-29
 ---
 
 # Riven

@@ -1,7 +1,6 @@
 filters:
   and:
     - file.inFolder("campaigns/kingmaker/sessions")
-
 properties:
   session_number:
     displayName: "Session #"
@@ -9,15 +8,14 @@ properties:
     displayName: Date
   status:
     displayName: Status
-
 views:
   - type: table
-    name: "Session Log"
+    name: Session Log
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - session_number
       - date
       - status
-    groupBy:
-      property: status
-      direction: ASC

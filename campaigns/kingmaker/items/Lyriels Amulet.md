@@ -9,7 +9,7 @@ created: "2026-05-29"
 ---
 
 # Lyriel's Amulet
-
+![[lyriel-gift.webp]]
 *A parting gift from [[Lyriel]] to [[Riven]] — a symbol of her love*
 
 An amulet given by [[Lyriel]] to [[Riven]] when he left [[Kyonin|Kyonin]]. An exquisite rendering of a moon and a rose.
