@@ -29,7 +29,7 @@ Sharp and at home in social situations — comfortable trading verbal barbs with
 
 ## Background
 
-Niece of [[Lady Jamandi Aldori]]. Both Edina and her sister were invited to the same hunting competition as the party — a contest held in dangerous territory where contestants earned points for defeating creatures. When the PCs came upon the two Aldori sisters mid-competition, the sisters were in serious trouble with a stronger-than-expected beast. The party intervened and helped bring it down — but not in time. [[Edina's Sister]] died from her wounds before the fight was over.
+Niece of [[Lady Jamandi Aldori]]. Both Edina and her sister were invited to the same hunting competition as the party — a contest held in dangerous territory where contestants earned points for defeating creatures. When the PCs came upon the two Aldori sisters mid-competition, the sisters were in serious trouble with a stronger-than-expected beast. The party intervened and helped bring it down — but not in time. [[Jolia Aldori]] died from her wounds before the fight was over.
 
 [[Pavel]] was there through all of it: the fight, the failure to save her, and the aftermath. He later sought Edina out in Restov — going looking for glimpses of her, moments with her — convinced she wouldn't remember him and that he was beneath her station. He was wrong on both counts.
 
@@ -37,12 +37,12 @@ At the Great Feast of Freehaven, she performed **The Sword and the Suitor** in t
 
 ## The Sister
 
-[[Edina's Sister]] (name not yet established) was killed during the hunting competition when the party and the Aldori sisters faced a beast together. The PCs tried to save her. They defeated the creature. It wasn't enough. She died from her wounds.
+[[Jolia Aldori]] (name not yet established) was killed during the hunting competition when the party and the Aldori sisters faced a beast together. The PCs tried to save her. They defeated the creature. It wasn't enough. She died from her wounds.
 
 ## Relationships
 
 - [[Lady Jamandi Aldori]] — aunt; Edina is her niece
-- [[Edina's Sister]] — her sister; died during the hunting competition when the PCs and sisters faced a beast together
+- [[Jolia Aldori]] — her sister; died during the hunting competition when the PCs and sisters faced a beast together
 - [[Astor]] — verbal sparring partner; her Suitor in the dance; she seemed to choose him deliberately over the visiting Restov nobles
 - [[Pavel]] — was present when her sister died; sought her out afterward in Restov; she remembers him and knows his name; he vomited on her boots; it's complicated
 

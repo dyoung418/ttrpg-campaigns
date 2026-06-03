@@ -31,3 +31,16 @@ The jest was dry, but there was warmth under it. Riven set a hand briefly on Pav
 Then, toward Eri:
 
 “And no one becomes a hermit until we’ve searched the room properly.”
+## Darren [Pavel] — 12:14 AM
+Pavel looks up at Riven.  He's pretty sure Riven was joking, so he's gratified to see a small smile tugging at Riven's mouth.
+
+"Riven, this was bad," he says quietly.  "Cat was bleeding out.  I had to put him into his statue while we ran for our lives, because there was no way to heal him.  And no matter where we ran, they kept coming."
+
+He pauses for a moment, thinking back.  "There was this one guy, a powerful mage.  More powerful than anyone I've ever seen.  But we managed to trap him in a box, and he couldn't cast spells, and he died flailing away with his fist like a child.  I'm glad we beat him, but it seemed so ... wrong.  Like the gods were having a laugh at his expense."
+
+Pavel stops again, frowning as he wrestles with unfamiliar emotions.  "Riven, when did it get so complicated?" he finally whispers.  "Everything used to be so clear.  You fought for your life, and for your friend's lives, because they were your friends.  Your pack.  You watched each other's backs.  Nothing else mattered.  You worried about today, and if you were lucky enough and strong enough, you lived until tomorrow.
+
+"When I fought that wizard, I thought I was going to die.  I was exhausted.  I was bleeding in so many places.  And I couldn't accept it.  Dying is completely natural, you know?  And yet I was ashamed of it.  I was ashamed that... that I let you down.  That you might never know what happened to us.  And I kept thinking about all the people in Nightmarch who depend on us.  What was going to happen to them if we failed, and lost Briar down here, and nobody could stop Neryssa?  Linzi, and Astor, and Brumble.  Ekundayo....  Edina."  The last word is so soft that even Riven's sharpened hearing almost doesn't pick it up.
+
+"I don't know what's happened to me, Riven," he says finally.  "I have all these worries now.  I don't feel right."
+

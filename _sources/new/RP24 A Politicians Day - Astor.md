@@ -19,8 +19,7 @@ He pulled the glass back, and drank the hot tea in one gulp.  The training had l
 Slava [Astor] [FROG],  — 12:16 AM
 The walk home took him through the lower market, shuttered now, and across the memorial square where the fountain ran year-round even when the basin froze. 
 
-He passed the stone where the propagandist had stood, years ago, but he always noticed it. 
-Always remembered the crowd, the shouted accusations, the sick feeling of watching trust crack and break in real time. The man had been dealt with, severely.  A more lenient sentence for the people to hear than what his King had planned. Just because the man would never come back...didn't mean another would not come.
+He passed the stone where the propagandist Grigori had stood, years ago, but he always noticed it.  Always remembered the crowd, the shouted accusations, the sick feeling of watching trust crack and break in real time. The man had been dealt with, severely.  A more lenient sentence for the people to hear than what his King had planned. Just because the man would never come back...didn't mean another would not come.
 
 He didn't slow his pace. Just noticed the stone, as he always did, and kept walking.
 

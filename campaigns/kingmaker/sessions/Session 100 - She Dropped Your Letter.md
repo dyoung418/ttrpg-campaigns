@@ -48,7 +48,9 @@ created: "2026-05-30"
 
 The party is mid-bloom, fighting. [[Riven]] receives a Sending from [[Linzi]]:
 
-> *"A woman taken at the city gate — fey and trolls. She dropped a letter. Your handwriting, Riven. Addressed to Lyriel Anarindë. She came."*
+
+> *"woman abducted at city gate by fey and trolls. They brought me a letter she dropped.  It was a letter from you to Lyriel.  She came"*
+
 
 Riven understands before anyone asks. She came of her own choosing. And she is gone.
 
@@ -137,8 +139,8 @@ Riven understands before anyone asks. She came of her own choosing. And she is g
 
 ## Step 8 — Magic Item Rewards
 
-| Item | For Character | Story Connection |
-|------|--------------|-----------------|
+| Item                   | For Character     | Story Connection                                                                                                                                                                                                                              |
+| ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Amulet of the Fey Ward | Party (to assign) | Found in [[Ilthuliak]]'s hoard; fey-made, old, feels protective — the party won't automatically know its specific power. It wards the wearer against the [[House at the Edge of Time]]'s teleport trap. Let them discover it when it matters. |
 
 ---
@@ -169,9 +171,25 @@ Riven understands before anyone asks. She came of her own choosing. And she is g
 ## Post-Session *(fill in after play)*
 
 **What actually happened:**
+After getting the Sending, Riven believed that the abduction was in progress and wanted to teleport there immediately to try to save Lyriel.  Lucas started the teleport spell from the scroll, but it takes 10 minutes and by the time they finished it, the battle with the two remaining trolls was done (and the team was able to heal and prepare for what they thought would be a battle)
+
+However, when they got to the gates of Nightmarch, they found Linzi, Harrim and town guards there.  The abduction had happened 1 hour earlier and they were still investigating.
+
+The PCs questioned the guards.  The kidnappers had been invisible and became visible when they attacked Lyriel.  A battle ensued with gate guards during which one troll and several guards were killed.  The kidnappers escaped with Lyriel by going out the gate and eventually teleporting.
+
+The PCs bought a scroll of Pinpoint and used Lyriel's amulet as the artifact.  The pinpoint spell made clear to them that Lyriel was in the Thousandbreaths demiplane at a location called either "House at the edge of time" or "Castle of Knives" (because both are in the same location, but on different planes.)
+
+Milo did a recall knowledge check and knew about the location of the Castle of Knives.  They went there, but as soon as Pavel pulled Briar out, the scene changed from the Castle of Knives to The Byways and the swords held by the women statutes started to glow as well.
+
+The group walks through the gate.  It takes them into the Thousandbreaths, with its strange perspective and the constant voices.  They make their way into the path and, after about a mile, come to the Baleful Lantern.  It is guarded by the misbegotten troll and 8 black smiledons.
+The PCs attach the troll from over 100 feet away and quickly bloodies the massive beast.  He instructs the Smiledons to attack, starting with the archers in the back who had so successfully attacked him, then he runs into the Lantern to regroup.
+
+The session ended with the PCs surrounded by Smiledons, but still holding their own in the battle.  The Troll has not re-emerged from the Lantern yet.
 
 **Threads opened:**
+Lyriel's kidnapping
 
 **Threads closed:**
+The town of Vesket under attack.
 
 **Next session setup:**

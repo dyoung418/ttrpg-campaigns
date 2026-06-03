@@ -14,7 +14,7 @@ created: "2026-05-29"
 
 ## Summary
 
-Early in the campaign, the party was invited to a hunting competition in dangerous territory. [[Edina Aldori]] and her sister (both nieces of [[Lady Jamandi Aldori]]) were also competing. The party came upon the sisters in serious trouble with a stronger-than-expected beast. They fought together and won. [[Edina's Sister]] died from her wounds anyway. [[Pavel]] was there for all of it.
+Early in the campaign, the party was invited to a hunting competition in dangerous territory. [[Edina Aldori]] and her sister (both nieces of [[Lady Jamandi Aldori]]) were also competing. The party came upon the sisters in serious trouble with a stronger-than-expected beast. They fought together and won. [[Jolia Aldori]] died from her wounds anyway. [[Pavel]] was there for all of it.
 
 Afterward, Pavel sought Edina out in Restov — looking for glimpses of her, moments with her — convinced she wouldn't remember him. At the Great Feast of Freehaven, she stepped between him and [[Astor]] during a near-brawl and said his name. He discovered he was wrong about being forgotten. Then he vomited on her boots.
 
