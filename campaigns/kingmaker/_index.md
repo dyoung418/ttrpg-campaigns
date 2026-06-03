@@ -84,6 +84,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Xamanthe]] — Aecora's daughter; captured by Vordakai; rescued by the party; leg curse removed; pledged a debt to the party
 - [[Jameel Visser]] — ranger commander of the [[Embeth Forest]] wardens; old contact of Riven's; reached the Embeth Agreement with Freehaven during the Kyonin diplomatic mission
 - [[Thaelirian]] — elf in Kyonin; mutual acquaintance of Riven and Lyriel; gave Riven directions to Lyriel's house
+- [[The Old Beldame]] — hermit witch in the Stolen Lands; taught Astor herbalism and alchemy during his retirement; eccentric, skeptical of him from the start
 
 **Defeated**
 - [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party

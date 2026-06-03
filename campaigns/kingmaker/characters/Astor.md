@@ -51,6 +51,10 @@ The current arc is about what it means to fight for something rather than just t
 - Early career: boisterous, physical, competitive; the kind of man who defaults to a strength challenge
 - Now: more measured; the Guardian's discipline has replaced the barbarian's impulse without erasing the underlying toughness
 - Worships Erastil — god of family, community, and the hunt; this faith has deepened during his years of quiet kingdom-building
+- **Age**: 42
+- **Former faith**: Cayden Cailean — in his youth he modeled his life after the Accidental God, living large, gripping the world with both hands. He moved to Erastil as he settled into family and kingdom life.
+- **Governing philosophy**: *"A judgment that leaves everyone mildly unhappy is often the mark of a fair one."*
+- **Daily habit**: Drinks a hot herbal tea for headaches — a brew he learned from [[The Old Beldame]]. She taught him to judge it by color: *"it should look like the end of Spring."* The training toughened his mouth against heat burns; he now takes it one gulp from a shot glass.
 
 ## Relationships
 
@@ -58,6 +62,9 @@ The current arc is about what it means to fight for something rather than just t
 - [[Benedin]] — fellow traveler; Lucas considers Benedin the better leader; Astor and Benedin have history together
 - [[Lady Jamandi Aldori]] — the noblewoman whose feast launched the campaign; Astor's noble background meant he fit into that setting in ways others didn't
 - [[Nyrissa]] — the threat that brought him back; he has a family to protect now
+- [[The Old Beldame]] — taught him herbalism and alchemy during his retirement years; skeptical of him from the start and probably hasn't changed her first impression; refused his wedding invitation but tolerated his children
+- **Wife** (unnamed) — heard through the windows; her voice in the house is what home sounds like to him
+- **Two children** (unnamed) — at least two; the youngest still very young (still dissolving into giggles)
 
 ## Magic Item Wish List
 
@@ -82,6 +89,8 @@ The current arc is about what it means to fight for something rather than just t
 - **Mugs and a coat / the outer wall (night of the Archery Contest)**: Found [[Riven]] and [[Pavel]] on the outer wall watching the road. Announced himself by clearing his throat — his footsteps aren't quiet. Offered Riven a mug; Riven waved it off; Astor dropped a heavy fuzzy coat on his hand instead. Offered Pavel one too. *"It's a cold night. You should take care and stay warm."* He looked up at the stars, set down his mug, and asked what they were talking about. Answer: *"Hope."* Riven mentioned Kyonin as home. Astor caught it, puzzled — isn't home *here?* He filed it without comment and snapped back when Riven shifted to tournament strategy.
 
   On the **Test of the Axe**: *"I wouldn't worry too much. Freehaven's strength has always been our acceptance of so many people. Pitax is putting all their hopes on one mountain of a man. But what if we have a great lumberjack in our kingdom?"* He spread his hands as if presenting a great idea — find someone who knows the trade's tricks the way a hunter knows the difference between target shooting and the field. He plans to find Nightmarch's lumberjacks at their usual drinking spot and buy a few rounds. Riven pointed out the first industry Nightmarch ever started was the lumber camp, over a decade ago. He learned separately from the groundskeeper that Pitax used adamantine arrows at the Archery Contest. He kept it quiet: Riven won clean, and raising the accusation without knowing who fired the arrows risks making the winner look like the cheater.
+
+- **A Politician's Day (RP24)**: A long day as Councilor of [[Freehaven]] — land disputes, herbal tea in a shot glass, the walk home through the lower market. He passed the stone where [[Grigori]] used to stand. He always notices it. He came home to his wife's voice and a child's laughter dissolving into giggles, and stood on the doorstep letting it wash over him before going inside.
 
 ## Current Status
 
