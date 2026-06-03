@@ -24,6 +24,9 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
   - To promote an idea to a campaign, move the file to the appropriate campaign subfolder
 - `_templates/` — Obsidian note templates (do not modify without intent)
 - `_scripts/` — helper scripts
+- `_sources/` — source-of-truth documents (RP exports, lore docs, anything the GM dropped in to ingest). **Never modified by Claude.**
+  - `_sources/new/` — files awaiting ingest (process with `/ingest`)
+  - `_sources/processed/` — files already ingested; subdirectory structure mirrors `new/`
 - `TTRPG-general-references/` — reference books and materials
 
 ## Wikilink Conventions
@@ -57,9 +60,12 @@ When the user describes TTRPG content in plain text, you:
 ## Commands Available
 
 - `/capture [campaign-name | ideas]` — capture brainstormed content into campaign notes or the ideas bank
+- `/ingest [path|glob]` — ingest source files from `_sources/new/` into campaign notes; move processed files to `_sources/processed/`
 - `/session [campaign-name]` — plan a session using the Return of the Lazy Dungeon Master 8-step framework
 - `/campaign [new|list|overview] [name]` — create or review campaigns
 - `/move` — interactively move a note: ideas ↔ campaign, or campaign → campaign
+- `/lint [scope]` — tactical vault check; auto-fix safe frontmatter/tag issues, triage unsafe ones (broken links, orphans, missing embeds)
+- `/reconcile <sources>` — reconcile vault content against source files; interactively update vault notes (never source files)
 
 ## File Naming Rules
 
@@ -89,3 +95,4 @@ When the user describes TTRPG content in plain text, you:
   `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/`
   **This folder is gitignored (copyrighted material) — read from it freely, but never create files inside it or suggest committing it.**
 - Campaign manifest script: `_scripts/list-campaign.sh <campaign-name>`
+- Vault lint manifest script: `_scripts/lint-vault.sh [scope-dir]` — emits a TSV manifest used by `/lint`

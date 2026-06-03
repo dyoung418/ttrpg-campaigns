@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash _scripts/lint-vault.sh /home/danny/ttrpg_campaigns/campaigns/kingmaker)",
+      "Bash(bash _scripts/lint-vault.sh)",
+      "Skill(lint)",
+      "Bash(git add *)"
+    ]
+  }
+}

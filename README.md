@@ -16,7 +16,7 @@ An Obsidian vault for managing tabletop RPG campaigns, maintained with [Claude C
 
 ## Usage
 
-Talk to Claude in plain text. At the beginning, use /campaign new.  Three slash commands are available:
+Talk to Claude in plain text. At the beginning, use /campaign new.  These slash commands are available:
 
 | Command                     | What it does                                                                                                                                                                                                                  |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,10 +24,13 @@ Talk to Claude in plain text. At the beginning, use /campaign new.  Three slash 
 | `/campaign list`            | List all campaigns with entity counts                                                                                                                                                                                         |
 | `/campaign overview <name>` | Summarize a campaign's current state                                                                                                                                                                                          |
 | `/capture [campaign]`       | Convert brainstormed ideas into organized, linked notes.  Use '/capture ideas' to capture general ideas that are not part of a campaign yet.  In general 'ideas' can be used as a campaign name in any of the commands below. |
+| `/ingest [path]`            | Process source files dropped in `_sources/new/` (RP exports, lore docs, etc.) into vault notes, then move them to `_sources/processed/`. Source files are never modified.                                                     |
 | `/session [campaign]`       | Plan a session using the 8-step Lazy Dungeon Master framework                                                                                                                                                                 |
 | /flesh-it-out [campaign]    | Claude grills you with questions to close open questions that it sees in your campaign notes (e.g. what is the evil wizard's name? why has he abducted our heroes, etc.)                                                      |
 | /ideate [campaign] [prompt] | Claude helps you brainstorm new ideas around the topic that you supply with the prompt.                                                                                                                                       |
 | /move                       | Moves a vault file (NPC, plot hook, etc.) from one campaign to another, or from ideas to a campaign or back.                                                                                                                  |
+| `/lint [scope]`             | Tactical vault sanity check. Auto-fixes safe issues (missing `created` dates, tag normalization). Reports broken wikilinks, orphan files, missing embeds for you to triage.                                                   |
+| `/reconcile <sources>`      | Compares vault content against source-of-truth files you point at (typically under `_sources/`). Walks you through contradictions one by one. Only vault notes get updated — source files are never touched.                  |
 
 ## Capturing your thoughts
 Once a campaign is created /capture [campaign] is your main tool for letting claude help you capture information into the campaign vault.  Speak in open dialog about whatever you want to capture and claude will create or edit .md files and put in wikilinks to link up all the pages as appropriate.
@@ -62,4 +65,8 @@ campaigns/<name>/
 ├── items/
 ├── lore/
 └── sessions/
+
+_sources/              # Source-of-truth documents — never modified by Claude
+├── new/               # Drop new files here, then run /ingest
+└── processed/         # /ingest moves files here after they're captured
 ```
