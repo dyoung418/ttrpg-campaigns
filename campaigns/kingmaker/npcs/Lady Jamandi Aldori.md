@@ -30,7 +30,7 @@ She is worried. Nyrissa, the rising danger from the south (Irovetti's ambition),
 
 ## Background
 
-Lady Jamandi Aldori of Brevoy invited the PCs to settle the lawless Stolen Lands and granted them a charter to do so. She also issued a charter to [[Hannis Drevlev]] and others. The PCs first had to defeat the [[Stag Lord]] before they could establish their barony, which eventually became [[Freehaven]].
+Lady Jamandi Aldori of Brevoy invited the PCs to settle the lawless Stolen Lands and granted them a charter to do so. She also issued a charter to [[Hannis Drevlev]] and others. The PCs first had to defeat the [[The Stag Lord|Stag Lord]] before they could establish their barony, which eventually became [[Freehaven]].
 
 She attended the **Great Feast of Freehaven** in secret — hooded and glamoured, on [[Pavel]]'s watch — to assess Freehaven firsthand. Her internal verdict: she had badly underestimated the six. She was astonished by their diplomatic successes (the Nomen Centaurs! The economy rivaling Restov!), and embarrassed that she'd dismissed them as "good in a fight" who might struggle to rule. She now sees drawing closer to Freehaven as potentially more important than the political battles in Brevoy.
 

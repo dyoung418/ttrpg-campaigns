@@ -20,7 +20,7 @@ created: 2026-05-29
 ![[freehaven-flag.png]]
 ## Summary
 
-Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from a royal charter granted by [[Lady Jamandi Aldori]] of Brevoy. What started as a small barony formed after defeating the [[Stag Lord]] has grown into a recognized kingdom spanning the Stolen Lands. Its governance is an oligarchy led by the PCs themselves.
+Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from a royal charter granted by [[Lady Jamandi Aldori]] of Brevoy. What started as a small barony formed after defeating the [[The Stag Lord|Stag Lord]] has grown into a recognized kingdom spanning the Stolen Lands. Its governance is an oligarchy led by the PCs themselves.
 
 ## Leadership
 
@@ -50,7 +50,7 @@ Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from 
 
 ## Origins
 
-Founded after the PCs defeated the [[Stag Lord]] and received the right to establish a barony from [[Lady Jamandi Aldori]]. Grew through years of exploration, diplomacy, and conflict into a kingdom spanning the full Stolen Lands region.
+Founded after the PCs defeated the [[The Stag Lord|Stag Lord]] and received the right to establish a barony from [[Lady Jamandi Aldori]]. Grew through years of exploration, diplomacy, and conflict into a kingdom spanning the full Stolen Lands region.
 
 ## Goals
 

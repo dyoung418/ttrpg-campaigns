@@ -17,7 +17,7 @@ The PCs were invited by [[Lady Jamandi Aldori]] of Brevoy to settle the lawless 
 
 ## Defeating the Stag Lord
 
-Before their barony could be established, the PCs had to eliminate the [[Stag Lord]], a notorious bandit lord who had made the Stolen Lands his domain. His defeat cleared the way for the founding of [[Nightmarch]] and the formation of the barony.
+Before their barony could be established, the PCs had to eliminate the [[The Stag Lord|Stag Lord]], a notorious bandit lord who had made the Stolen Lands his domain. His defeat cleared the way for the founding of [[Nightmarch]] and the formation of the barony.
 
 ## Growth and Expansion
 

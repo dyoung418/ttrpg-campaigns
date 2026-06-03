@@ -72,7 +72,7 @@ Waterfall between carved stone hands into a crystal pool. **The one safe rest ar
 *No associated bloom*. Creatures: 2× Winged Owlbears (CR 18) — territorial pair, not Nyrissa's agents.
 
 ### G. The Mire (Moderate 18)
-Foul-smelling marsh, about a mile across. Average 10 ft deep with 30-ft troughs; ridges just below surface. Moving along ridges: DC 30 Acrobatics or fall into 30-ft trough. The [[Wriggling Man]] normally lives here but is in the House. **Anchor**: Wriggling Man (his glade tether, fought in area K17).
+Foul-smelling marsh, about a mile across. Average 10 ft deep with 30-ft troughs; ridges just below surface. Moving along ridges: DC 30 Acrobatics or fall into 30-ft trough. The [[The Wriggling Man|Wriggling Man]] normally lives here but is in the House. **Anchor**: Wriggling Man (his glade tether, fought in area K17).
 *Bloom trophy*: Twitching worms (linked to Rise of the Mire Worms bloom).
 
 ### H. The Knurly House (Moderate 18)

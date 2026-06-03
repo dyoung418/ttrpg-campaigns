@@ -137,7 +137,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Sessions
 
-- [[Session 01 - Title]]
+- [[Session 100 - She Dropped Your Letter]] — strong start: Sending arrives mid-bloom; party marches to Thousandbreaths after Lyriel is taken
 
 ## Lore & World Notes
 
