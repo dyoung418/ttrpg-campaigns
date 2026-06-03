@@ -193,3 +193,23 @@ Lyriel's kidnapping
 The town of Vesket under attack.
 
 **Next session setup:**
+
+---
+
+## Pre-Session Scene — Edina Shoots Her Shot (RP25)
+
+*Setting:* Inner courtyard of the Old Fortress at [[Nightmarch]], early morning. Three days ago, [[Nyrissa]]'s forces hit a settlement to the south — what the scouts found there, people repeat only once and then stop. The courtyard is busy with the way of things that precede terrible events: provisions being checked and loaded, bowstrings tested in silence, the council leaning over a map.
+
+[[Riven]] is inside with the council. [[Lucas]] is at his prayers. [[Pavel]] is in the corner where the old wall meets the stable block, checking the lashings on his pack one final time — each one, in order. [[Cat]] is curled at his feet, tail across her nose.
+
+[[Edina Aldori]] — who has come to Nightmarch — waited in the corridor archway longer than she planned, then crossed the courtyard on a direct line and stopped a few feet away. New boots; no preamble. She apologized for the feast (he waved it off — he acted like an ass that night and hoped it would be forgiven). She thanked him for the hunting competition and for being beside her when [[Jolia Aldori]] died: *"You don't forget the person who makes sure you're not alone in a moment like that."* Then she said it plainly: *"I think about you, Pavel. More than I have any ordinary reason to. I have for a long time."*
+
+Pavel went completely still. Then suspicion: *"Did Astor put you up to this?"* — pain and anger. [[Cat]] nipped at his hand, stepped between them, and circled Edina's legs protectively, siding with Edina without hesitation. Edina pushed back: *"I respect you too much to toy with you. Don't accuse me of insincerity."* Pavel's cheeks reddened. *"Oh. Oh."* Then, almost inaudible: *"Are you saying you'd like to be ... friends?"* Cat growled and swiped at him.
+
+*"Yes, that is exactly what I'm saying."*
+
+She lifted his pack and held it for him; he obediently slipped his arms through; she tightened the front lashings the way he would have done. Hand on his shoulder: *"Be careful. I don't want our new friendship to end just as it's getting started."* She told Cat to take care of him and walked away.
+
+*Status after the scene:* Pavel and Edina are explicitly "friends" — both knowing it is more. Cat chose Edina without hesitation. Pavel will carry this with him through the march, the Sending, and the bloom.
+
+*Source:* `_sources/processed/RP25 Before the Latest Bloom - Edina Shoots her Shot.md`

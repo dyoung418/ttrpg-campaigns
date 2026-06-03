@@ -12,7 +12,7 @@ location: "Restov (visiting Nightmarch)"
 first_appeared: "Great Feast of Freehaven"
 created: "2026-05-29"
 ---
-
+![[edina aldori.png]]
 # Edina Aldori
 
 > **Role**: Visitor from Restov; Aldori family connection
@@ -37,20 +37,36 @@ At the Great Feast of Freehaven, she performed **The Sword and the Suitor** in t
 
 ## The Sister
 
-[[Jolia Aldori]] (name not yet established) was killed during the hunting competition when the party and the Aldori sisters faced a beast together. The PCs tried to save her. They defeated the creature. It wasn't enough. She died from her wounds.
+[[Jolia Aldori]]  was killed during the hunting competition when the party and the Aldori sisters faced a beast together. The PCs tried to save her. They defeated the creature. It wasn't enough. She died from her wounds.
 
 ## Relationships
 
 - [[Lady Jamandi Aldori]] — aunt; Edina is her niece
 - [[Jolia Aldori]] — her sister; died during the hunting competition when the PCs and sisters faced a beast together
 - [[Astor]] — verbal sparring partner; her Suitor in the dance; she seemed to choose him deliberately over the visiting Restov nobles
-- [[Pavel]] — was present when her sister died; sought her out afterward in Restov; she remembers him and knows his name; he vomited on her boots; it's complicated
+- [[Pavel]] — was present when her sister died; she has thought about him "more than any ordinary reason" for a long time; sought him out at [[Nightmarch]] before the latest bloom and stated her feelings plainly; mutually accepted "friendship" — both knowing it's more; helped him fasten his pack as he left
 
 ## On the Sister's Death
 
 Edina is clear-eyed about what happened: the party helped her and her sister despite being competitors in the same contest. She knows that without the party's intervention, she would have died alongside her sister. She appreciates that they tried to save her sister, knowing they had no obligation to — they were opponents, and helping came at a cost to their own competition. That they did it anyway is something she respects.
 
 Her grief is real, but it is not directed at the party.
+
+## At Nightmarch — Before the Latest Bloom (RP25)
+
+Edina traveled to [[Nightmarch]] and waited in the corridor archway of the Old Fortress courtyard, watching [[Pavel]] check the lashings on his pack one final time before the party marched. She told herself she'd approach him when she was ready, and recognized that "ready is not somewhere she is going to arrive on her own." She crossed the courtyard on a direct line. New boots; no preamble.
+
+She apologized for the feast. He waved it off, taking responsibility for his own behavior. She thanked him for what the party did at the hunting competition — for stopping to fight the creature even though it cost them points in the contest — and for being beside her when [[Jolia Aldori]] died. *"You don't forget the person who makes sure you're not alone in a moment like that."*
+
+Then she said it plainly: *"I think about you, Pavel. More than I have any ordinary reason to. I have for a long time."* She told him directly that she likes the Sword and the Suitor dance, but doesn't think it's a good model for a real relationship — *"I don't want to keep someone guessing if I care about them."*
+
+Pavel went still — long, complete stillness. Then suspicion: *"Did Astor put you up to this?"* Pain and anger. [[Cat]] nipped at his hand, stepped between them, then circled Edina's legs protectively — choosing Edina's side without hesitation. Edina pushed back: *"I respect you too much to toy with you. Don't accuse me of insincerity."* Pavel's cheeks reddened. *"Oh. Oh."* Then, almost inaudible: *"Are you saying you'd like to be ... friends?"* Cat growled and swiped at him.
+
+*"Yes, that is exactly what I'm saying."*
+
+She picked up his pack and held it for him; he obediently slipped his arms through. She tightened the front lashings the way he would have done. Hand on his shoulder: *"Be careful. I don't want our new friendship to end just as it's getting started."* She told Cat to take care of him and walked away.
+
+She wore new boots that day. She told him the old ones had been due for replacement for months — joking, maybe.
 
 ## GM Notes
 
@@ -60,7 +76,9 @@ Her grief is real, but it is not directed at the party.
 > - She chose Astor over Restov nobles as her Suitor — was that deliberate social signaling, or just preference?
 > - Her gray, unreadable eyes are a trait worth leaning into — she is hard to read even for Pavel, who is usually good at reading animals and bad at reading people.
 > - She noticed Pavel in his dark corner. He didn't think he was visible.
+> - **After RP25**: Edina's feelings toward Pavel are no longer subtext — they are explicit between them. She is brave and direct in personal matters as she is in social ones. The "friendship" framing is mutually understood as a placeholder both for what's already there. [[Cat]] chose her side without hesitation.
 
 ## Session History
 
 - First appeared: Great Feast of Freehaven — verbal sparring with Astor; dancing the Sword and the Suitor; stepping between Pavel and Astor; addressed Pavel by name; boots ruined
+- **RP25 — Before the Latest Bloom** ("Edina Shoots Her Shot"): traveled to [[Nightmarch]] before the party marched; confessed her feelings to [[Pavel]] directly; mutually accepted "friendship"; helped him fasten his pack; told [[Cat]] to take care of him
