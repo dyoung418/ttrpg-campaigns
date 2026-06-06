@@ -10,7 +10,7 @@ created: "2026-05-29"
 
 # Lyriel's Wait
 
-**Status**: Open — a wound that hasn't healed
+**Status**: Resolving — she came, and she was taken; the rescue is in motion
 
 ## Summary
 

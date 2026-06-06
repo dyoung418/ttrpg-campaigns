@@ -13,7 +13,7 @@ created: 2026-06-03
 source: "RP24 A Politicians Day - Astor"
 ---
 
-# Session 24 — A Politician's Day
+# RP 24 — A Politician's Day
 
 > **Source**: RP24 (solo vignette — Slava/Astor)
 > **Status**: `rp-scene`

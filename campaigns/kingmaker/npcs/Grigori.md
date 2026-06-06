@@ -63,4 +63,4 @@ Grigori is an agent of [[Pitax]] — but he doesn't know it. [[King Irovetti]] u
 - First appeared: Early Freehaven arc; arrived in Nightmarch while PCs were away
 - Outcome: Exiled or eliminated by the PCs
 - Referenced again: Grand Tournament of Freehaven (by Riven, as context for authorizing Pavel's intelligence operation against Irovetti)
-- Referenced again: [[Session 24 — A Politician's Day]] — [[Astor]] passes the stone in the lower market where Grigori used to stand; he always notices it, never stops. *"The sick feeling of watching trust crack and break in real time."* He keeps walking.
+- Referenced again: [[RP 24 — A Politician's Day]] — [[Astor]] passes the stone in the lower market where Grigori used to stand; he always notices it, never stops. *"The sick feeling of watching trust crack and break in real time."* He keeps walking.

@@ -4,7 +4,10 @@
       "Bash(bash _scripts/lint-vault.sh /home/danny/ttrpg_campaigns/campaigns/kingmaker)",
       "Bash(bash _scripts/lint-vault.sh)",
       "Skill(lint)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git check-ignore *)",
+      "Bash(git commit -m ' *)",
+      "Skill(session)"
     ]
   }
 }
