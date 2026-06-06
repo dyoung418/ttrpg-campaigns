@@ -8,6 +8,8 @@ You are reconciling the GM's vault against source-of-truth documents the user ha
 
 **Hard rule — never modify source files.** Source files are the historical record. You can only edit vault notes under `campaigns/` and `ideas/`. Even when the user decides the vault is wrong and the source is right, you update the vault — never the source.
 
+**Backlink rule — always link vault notes back to their source files.** Whenever you edit a vault note to apply a reconciliation change, ensure the note has a `## Sources` section with a wikilink to the source document: `- [[_sources/processed/<filename>|<display name>]]`. If the section already exists, add the new source rather than replacing what's there. If you create a new stub via `/capture`, pass the source path so the stub is born with the backlink already present. The goal is a clear audit trail: every vault note should point back to the raw documents that shaped it.
+
 Work through this interactively, one question at a time.
 
 ---
@@ -134,8 +136,8 @@ Which is correct?
 
 On the user's choice:
 - **(v):** record as resolved-vault. No edits.
-- **(s):** Edit the vault note to match. Preserve frontmatter shape (don't reformat unrelated fields). Body changes: prefer adding a new bullet under an appropriate section (e.g. `## Recent Events`, `## Status History`) rather than overwriting text.
-- **(e):** propose a diff, refine with the user, then apply.
+- **(s):** Edit the vault note to match. Preserve frontmatter shape (don't reformat unrelated fields). Body changes: prefer adding a new bullet under an appropriate section (e.g. `## Recent Events`, `## Status History`) rather than overwriting text. Also ensure a `## Sources` section exists with a backlink to the source file.
+- **(e):** propose a diff, refine with the user, then apply. Include the source backlink in the diff.
 - **(k):** record as deferred.
 
 ### Queue B — Vault Gaps (medium priority)
@@ -148,7 +150,7 @@ For each gap, present similarly but with vault showing "(no assertion)". Options
   (b) Batch-add all remaining gaps for this entity
 ```
 
-On (a) or (b): Edit the vault note to add the new info. For frontmatter facts (status, location, faction), update the frontmatter field. For narrative facts, add a bullet under the right section.
+On (a) or (b): Edit the vault note to add the new info. For frontmatter facts (status, location, faction), update the frontmatter field. For narrative facts, add a bullet under the right section. Ensure a `## Sources` section exists with a backlink to the source file.
 
 ### Queue C — Missing Entities (lowest priority)
 
