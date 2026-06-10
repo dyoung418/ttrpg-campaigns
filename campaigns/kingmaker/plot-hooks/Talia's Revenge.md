@@ -4,8 +4,8 @@ campaign: kingmaker
 tags:
   - plot-hook
   - campaign/kingmaker
-status: active
-created: "2026-05-29"
+status: closed
+created: 2026-05-29
 ---
 
 # Talia's Revenge
