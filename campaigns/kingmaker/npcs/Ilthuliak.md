@@ -27,6 +27,7 @@ She is the anchor for Glade J. Defeating her drops the uprooting DC by 4.
 - **Languages**: Aklo, Common, Draconic, Goblin, Jotun, Orcish, Sylvan
 - **Skills**: Acrobatics +35, Arcana +36, Athletics +41, Deception +40, First World Lore +38, Intimidation +40, Stealth +35
 - **Breath Weapon**: 22d6 acid, 100-ft line, DC 44 Reflex. Recharges 1d4 rounds.
+- **Animate Troops** [two-actions] (concentrate, arcane): Ilthuliak raises **3** of the petrified First World soldiers around her tower and commands them to fight her foes. The risen soldiers act on her initiative. **Recharge 1d4 rounds.** A renewable tap she controls — the host is effectively endless while she lives; **when she dies, every animated soldier falls still again.** Statblock: the Frozen Vanguard (Creature 15) in [[Glade J — The High Folly]].
 
 **Key Spells** (DC 44): 10th *time stop*; 9th *disjunction*, *implosion*, *weird*; 8th *disappearance*, *horrid wilting*, *mind blank* (already cast); 7th *finger of death*, *reverse gravity*, *spell turning*; 6th *dominate*, *true seeing*, *wall of force*; 5th *black tentacles*, *dimension door*
 
@@ -34,14 +35,16 @@ She is the anchor for Glade J. Defeating her drops the uprooting DC by 4.
 
 **Pre-combat** (if she sees PCs approaching):
 1. Casts *time stop* — 3 free rounds.
-2. *Disappearance* (goes invisible), *spell turning*, *true seeing*.
-3. Positions for breath weapon on round 1.
+2. **Animate Troops** — raises an opening batch of 3 soldiers.
+3. *Disappearance* (goes invisible), *spell turning*, *true seeing*.
+4. Positions for breath weapon on round 1.
 
 **In combat**:
 - Opens with breath weapon.
+- **Re-uses Animate Troops the moment it recharges** to keep 3+ soldiers on the party at all times — this is what stops six PCs from focus-firing her down.
 - Circles overhead, casts *reverse gravity*, *black tentacles*, *weird*.
 - Once breath weapon recharges: swoops down into melee.
-- **Fights to the death** — glorying in combat.
+- **Fights to the death** — glorying in combat. The host falls still when she does.
 
 ## The Heroic Challenge Quest
 

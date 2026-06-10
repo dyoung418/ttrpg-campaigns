@@ -6,7 +6,7 @@ tags:
   - campaign/kingmaker
 date: ""
 session_number: 101
-status: planned
+status: complete
 players_present:
   - Wes (Riven)
   - Darren (Pavel)
@@ -20,8 +20,9 @@ created: "2026-06-05"
 # Session 101 — The Heads Still Dream
 
 > **Date**:
-> **Status**: Planned
+> **Status**: Complete
 > **Previous Session**: [[Session 100 - She Dropped Your Letter]]
+> **Next Session**: [[Session 102 - The Undefeated]]
 
 ---
 
@@ -172,9 +173,19 @@ Resume straight into the Smilodon fight. The troll returns **fully healed** a ro
 ## Post-Session *(fill in after play)*
 
 **What actually happened:**
+It took all session just to finish the battle at the Baleful Lantern.
+* The party was battling the smiledons when about 4 rounds into the battle, the misbegotten troll emerged from his underground tunnel at the rear of the battle.
+* The Smiledons were very effective and the GM gave them a custom ability called the "Jump Bite" where they could leap up to 15 ft to bite someone who was in the air (it used their normal jaws attack, but had a -2 circumstance penalty to the hit roll).  If they successfully bit them, they could make a grapple role to see if they could hold onto them with their teeth, thus dangling from them.  If they successfully hold onto them, they can continue to attach with their claws.  This happened a couple of times with Milo.
+* Pavel, Riven and Lee took extensive damage.  All were healed in time to never fall unconscious.
+* Lucas cast a very effective spell which caused many of the Smiledons and the Troll to have to spend at least 1 action per turn to admire him.  Depending on their saving throw, they had to do this for 2 or 6 actions.  I think it was called fascination.  This effectively put a "slow" spell on nearly all the enemies.  It was a 9th level spell.  The GM didn't realize until several rounds into this that an NPC could use all 3 actions to admire him, thus lowering the countdown more quickly.
+* Eventually, the troll was the last standing combatant.  With just a few hit points left, he tried to escape back to the hole and tunnel back to the baleful lantern, but Milo sent Rindle to go there and explode, thus killing the troll (and Rindle can be repaired).
 
 **Threads opened:**
+- The Smilodons were confirmed as corrupted echoes of [[Cat]] in play — what Cat *is* remains an open ache for [[Pavel]] (carried forward as Secret 4 in [[Session 102 - The Undefeated]]).
+- [[Rindle (Construct)]] was destroyed delivering the killing blow on the [[Misbegotten Troll]] — repairable, and repaired before Session 102.
 
 **Threads closed:**
+- The [[Glade I — The Baleful Lantern]] fight is resolved: all eight Black Smilodons and the [[Misbegotten Troll]] are dead; the glade released the party.
 
 **Next session setup:**
+In the next session, the PCs move forward through the [[Thousandbreaths]] to the [[Glade J — The High Folly|High Folly]] and [[Ilthuliak]]. → [[Session 102 - The Undefeated]]
