@@ -20,7 +20,7 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Current State
 
-The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. The PCs are now facing [[The Month of Destruction]] — [[Nyrissa]]'s bloom assault on the kingdom — which will lead them into [[Thousandbreaths]] and ultimately the [[House at the Edge of Time]].
+The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They are now cutting through the glades toward the [[House at the Edge of Time]] to save the kingdom from erasure — with [[Lyriel]] taken into the House as leverage to draw them on.
 
 ## The Party
 
@@ -123,13 +123,16 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Active Plot Hooks
 
-- [[The Month of Destruction]] — 8 bloom events over 30 days; currently active
 - [[Milo's Lost Brother]] — Milo's brother Rindle was taken by bandits; Milo's construct bears his name; status unknown
-- [[The Arsonist of Bronzeshield Hold]] — a red-haired arsonist has been operating at Bronzeshield Hold; Benedin staying home to deal with them
 - [[Grand Tournament of Freehaven]] — announced by Riven; 5 events; 3 months out; open to all
 - [[Lyriel's Wait]] — Riven has written a letter to Lyriel (given to Astor); actively in motion
 - [[Pavel and Edina]] — shared history in Restov; her sister died; she knows his name; boots: ruined
 - [[Almon's Hunt for Cassandra]] — transformed; Cassandra died at Willowshade; Almon d'Avoine still unaccounted for with intelligence on Riven's command decisions
+
+**Resolved**
+- [[The Month of Destruction]] — Nyrissa's bloom assault; weathered, and the party has crossed into Thousandbreaths
+- [[Talia's Revenge]] — closed
+- [[The Arsonist of Bronzeshield Hold]] — closed
 
 ## Factions
 
