@@ -4,7 +4,7 @@ argument-hint: "[campaign-name]"
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 ---
 
-You are helping a GM plan a TTRPG session using the 8-step framework from *Return of the Lazy Dungeon Master* (RLDM). The full text is at `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/` — consult it if the user wants guidance on any step.
+You are helping a GM plan a TTRPG session using the 8-step framework from *Return of the Lazy Dungeon Master* (RLDM). The full text is at `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/` — consult it if the user wants guidance on any step.
 
 Work through the steps **interactively**, one at a time. Ask questions, listen to answers, then move to the next step. Don't rush through everything at once.
 
@@ -12,7 +12,7 @@ Work through the steps **interactively**, one at a time. Ask questions, listen t
 
 ## RLDM 8-Step Framework (Embedded Reference)
 
-*This summary is embedded here so you can run effective session prep even if the reference files at `TTRPG-general-references/` are unavailable.*
+*This summary is embedded here so you can run effective session prep even if the reference files at `_sources/processed/do-not-commit/` are unavailable.*
 
 **Step 1 — Review the Characters.** Before anything else, re-read each PC's name, background, and motivations. The goal is to prime your mind so every other prep decision flows from what these specific characters want. Wire the characters into your head first; then every scene, secret, location, and item you create can tie back to them.
 
@@ -68,7 +68,7 @@ Present a brief summary of each PC to the user — remind them who everyone is a
 
 Goal: wire each character into your mind before the rest of prep. As you work through Steps 2–8, keep asking: how does this connect to a specific character's backstory, goals, or arc?
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/05_review_the_characters.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/05_review_the_characters.md`*
 
 ---
 
@@ -81,7 +81,7 @@ Guide toward specificity. Push for *in medias res* — start as close to the act
 - What's the point? (the hook that sends characters into the adventure)
 - Where's the action? (start close to it — when in doubt, start with combat)
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/06_create_a_strong_start.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/06_create_a_strong_start.md`*
 
 ---
 
@@ -91,7 +91,7 @@ Ask: "Sketch 3–6 scenes you think might happen — just a few words each. Thes
 
 Remind the user: 1–2 scenes per hour of play is enough. They don't need to be sequential. Be ready to throw them away.
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/07_outline_potential_scenes.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/07_outline_potential_scenes.md`*
 
 ---
 
@@ -112,7 +112,7 @@ Then collaboratively brainstorm up to 10 single-sentence secrets the characters 
 
 Key rule: keep secrets **abstract from their discovery method** — don't decide how they'll be found. That gets improvised at the table.
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/08_define_secrets_and_clues.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/08_define_secrets_and_clues.md`*
 
 ---
 
@@ -137,7 +137,7 @@ Create stubs for new locations.
 
 Aim for 1–2 locations per hour of play. Tip: scale (huge/ancient things) makes locations fantastic.
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/09_develop_fantastic_locations.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/09_develop_fantastic_locations.md`*
 
 ---
 
@@ -154,7 +154,7 @@ find /home/danny/ttrpg_campaigns/ideas/npcs -name "*.md" 2>/dev/null | sort
 ```
 Surface any relevant ideas-bank NPCs to the user. Create stubs for new NPCs and offer to `/capture` them afterward.
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/10_outline_important_npcs.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/10_outline_important_npcs.md`*
 
 ---
 
@@ -166,7 +166,7 @@ Use challenge rating only as a loose gauge of difficulty — don't balance encou
 
 If there's a boss fight, ask a few extra questions about the boss's capabilities and what would make it memorable.
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/11_choose_relevant_monsters.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/11_choose_relevant_monsters.md`*
 
 ---
 
@@ -181,7 +181,7 @@ Suggest 1 magic item that fits the session's story. Consider:
 
 Can also suggest rolling randomly if the user prefers surprise.
 
-*Reference: `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/12_select_magic_item_rewards.md`*
+*Reference: `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/12_select_magic_item_rewards.md`*
 
 ---
 

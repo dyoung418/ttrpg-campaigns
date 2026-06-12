@@ -9,7 +9,7 @@
 .obsidian/plugins/
 
 # Copyrighted reference material (excluded from git — add your own copy locally)
-TTRPG-general-references/
+_sources/processed/do-not-commit/
 
 # OS
 .DS_Store

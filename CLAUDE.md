@@ -27,7 +27,7 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
 - `_sources/` — source-of-truth documents (RP exports, lore docs, anything the GM dropped in to ingest). **Never modified by Claude.**
   - `_sources/new/` — files awaiting ingest (process with `/ingest`)
   - `_sources/processed/` — files already ingested; subdirectory structure mirrors `new/`
-- `TTRPG-general-references/` — reference books and materials
+  - `_sources/processed/do-not-commit/` — processed sources that must **never** be committed (copyrighted reference material, e.g. the *Return of the Lazy Dungeon Master* markdown and Kingmaker chapter text). This subdirectory is gitignored — read from it freely, but never commit its contents.
 
 ## Wikilink Conventions
 
@@ -92,7 +92,7 @@ When the user describes TTRPG content in plain text, you:
 ## Key References
 
 - Return of the Lazy Dungeon Master (8-step session prep framework):
-  `TTRPG-general-references/Return of the Lazy Dungeon Master Markdown/`
+  `_sources/processed/do-not-commit/Return of the Lazy Dungeon Master Markdown/`
   **This folder is gitignored (copyrighted material) — read from it freely, but never create files inside it or suggest committing it.**
 - Campaign manifest script: `_scripts/list-campaign.sh <campaign-name>`
 - Vault lint manifest script: `_scripts/lint-vault.sh [scope-dir]` — emits a TSV manifest used by `/lint`

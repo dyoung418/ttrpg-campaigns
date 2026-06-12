@@ -9,7 +9,7 @@ You are running a tactical lint over the GM's Obsidian vault. Two passes:
 1. **Auto-fix safe issues silently.** Things with one obvious correct answer (missing `created` date, missing campaign tag, tags-as-string, etc.). Edit in place. Log each fix.
 2. **Report unsafe issues for triage.** Things that need judgment (broken wikilinks, orphans, ambiguous types). Group them, then walk the user through them one question at a time.
 
-**Scope discipline.** Only touch `campaigns/` and `ideas/`. Never modify files under `_sources/`, `_templates/`, `TTRPG-general-references/`, `.obsidian/`, `_assets/`, or `_scripts/`.
+**Scope discipline.** Only touch `campaigns/` and `ideas/`. Never modify files under `_sources/` (including `_sources/processed/do-not-commit/`), `_templates/`, `.obsidian/`, `_assets/`, or `_scripts/`.
 
 **Body content is sacrosanct.** Auto-fixes only edit frontmatter or append a trailing newline. Never touch body prose.
 
@@ -106,7 +106,7 @@ grep -rohE "\[\[[^]]+\]\]" /home/danny/ttrpg_campaigns/campaigns /home/danny/ttr
 
 For each unique target, check existence:
 ```bash
-find /home/danny/ttrpg_campaigns -name "<target>.md" -not -path "*/TTRPG-general-references/*" 2>/dev/null
+find /home/danny/ttrpg_campaigns -name "<target>.md" -not -path "*/_sources/*" 2>/dev/null
 ```
 
 ### 4b. Broken embeds

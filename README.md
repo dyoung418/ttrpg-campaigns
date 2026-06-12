@@ -51,7 +51,7 @@ The `/session` command walks through the 8 steps from *Return of the Lazy Dungeo
 
 Claude will use all the knowledge in the vault about the characters, npcs, location and plot hooks that you've captured with /capture to help you plan your next session.
 
-> **Note:** The book text is not included in this repo (copyrighted). Add your own copy to `TTRPG-general-references/` locally — Claude will reference it during session planning.
+> **Note:** The book text is not included in this repo (copyrighted). Add your own copy to `_sources/processed/do-not-commit/` locally — Claude will reference it during session planning.
 
 ## Vault Structure
 

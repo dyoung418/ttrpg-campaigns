@@ -35,7 +35,6 @@ fi
 printf "PATH\tFOLDER\tHAS_FM\tHAS_TYPE\tHAS_CAMPAIGN\tHAS_CREATED\tTAGS_FORM\tOUTBOUND_LINKS\tOUTBOUND_EMBEDS\n"
 
 find "$SCOPE" -name "*.md" -type f \
-  -not -path "*/TTRPG-general-references/*" \
   -not -path "*/_templates/*" \
   -not -path "*/.obsidian/*" \
   -not -path "*/.claude/*" \
