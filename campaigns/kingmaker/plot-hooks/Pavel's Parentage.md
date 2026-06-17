@@ -18,12 +18,24 @@ created: "2026-05-29"
 
 Someone cared enough to keep him off the streets. Pavel has never learned who sent that stranger, or why.
 
+## The Mother's Side — Kyonin (RP23)
+
+In the long conversation at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Under Candlemere]]), a second half of the mystery surfaced. Pavel's mother was an **elf who left the elven homeland, [[Kyonin]]**. Pavel has always assumed she left *because of him* — that she couldn't remain having borne a half-human son, that homeland elves wouldn't tolerate someone like him.
+
+[[Riven]] gently complicated that story. He **knew Pavel's mother's name**, met her once or twice years ago, and knew her family well enough to be sure of one thing: *"she was not a woman easily driven by shame."* People rarely leave home for a single reason — *"Maybe she left partly because of you. Maybe because of Kyonin. Maybe for love of your father. But if she chose you over that place, Pavel, that is not a mark against you."*
+
+Riven offered to take Pavel to [[Kyonin]] himself — *"your mother's homeland... It should not be a mystery or something to fear for you. You could learn more about yourself, your mother and your family."*
+
+This reframes the parentage hook entirely: the father (the human lord of the castle) is only half of it. The mother was a Kyonin elf with a name and a family that [[Riven]] can actually point to — a concrete thread Pavel could pull on if he ever chooses to.
+
 ## The Questions
 
 - **Was the lord really his father?** His mother believed it. The townspeople laughed. But the timing of Pavel's rescue after her death is hard to explain otherwise.
 - **Who sent the stranger?** Did the lord himself arrange it? Did someone else at the castle know about Pavel? Is someone still keeping an eye on him?
 - **Does the lord know what Pavel has become?** Pavel is now the Warden of [[Freehaven]] — one of the most powerful figures in the Stolen Lands. If the lord (or his heirs) are paying attention, they know this.
-- **Does Pavel want to know?** He's never pursued it. It doesn't drive him. But it hasn't gone away either.
+- **Why did his mother really leave [[Kyonin]]?** Pavel assumed shame at bearing him. [[Riven]] doubts that — he knew her, and she was not easily shamed. So what drove an elf of Kyonin to leave for a human town and a human lord?
+- **Who was she, to Riven and to Kyonin?** Riven knew her name and family. That's a living lead — Riven, [[Thaelirian]], or the Kyonin court could fill in a mother Pavel barely remembers.
+- **Does Pavel want to know?** He's never pursued it. It doesn't drive him. But it hasn't gone away either — and now there's a road (Kyonin) and a guide (Riven) if he ever wants to walk it.
 
 ## Possible Developments
 
@@ -48,4 +60,10 @@ Lucas's parting advice (to Cat): *"If he truly wishes to know more about his fam
 - [[Pavel]] — the one at the center of the mystery
 - [[Lucas]] — offered to connect Pavel with his ancestors; received a threat in return; has genuine ability that might actually help
 - [[Great Aunt Sumi]] — Lucas's ancestor; her appearance to Pavel is what cracked open this conversation
+- [[Riven]] — knew Pavel's mother's name and family; doubts she left Kyonin out of shame; offered to take Pavel to [[Kyonin]] to learn about her
 - The Lord of the Castle (unnamed) — possible father; identity unconfirmed
+- Pavel's mother (unnamed) — an elf of [[Kyonin]] who left the homeland; claimed Pavel was the lord's son
+
+## Sources
+
+- [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]]

@@ -15,6 +15,7 @@ created: 2026-06-03
 # The Old Beldame
 
 > **Role**: Hermit witch; herbalist; alchemist
+> **AKA**: Elga Verniex
 > **Location**: [[Stolen Lands]] (isolated hut)
 > **Status**: Alive
 

@@ -63,7 +63,8 @@ The current arc is about what it means to fight for something rather than just t
 - [[Lady Jamandi Aldori]] — the noblewoman whose feast launched the campaign; Astor's noble background meant he fit into that setting in ways others didn't
 - [[Nyrissa]] — the threat that brought him back; he has a family to protect now
 - [[The Old Beldame]] — taught him herbalism and alchemy during his retirement years; skeptical of him from the start and probably hasn't changed her first impression; refused his wedding invitation but tolerated his children
-- **Wife** (unnamed) — heard through the windows; her voice in the house is what home sounds like to him
+- **Wife** (unnamed) — heard through the windows; her voice in the house is what home sounds like to him. Notably, Astor *opened* their relationship by telling her he wanted to be **friends** — *"because I was scared it might be too much to ask for more."* (RP25.1)
+- **In-laws** (unnamed) — gave Astor a dainty "travel-sized" tea set; he frets that his wife will be furious if he loses or breaks it (RP25.1)
 - **Two children** (unnamed) — at least two; the youngest still very young (still dissolving into giggles)
 
 ## Magic Item Wish List
@@ -91,6 +92,12 @@ The current arc is about what it means to fight for something rather than just t
   On the **Test of the Axe**: *"I wouldn't worry too much. Freehaven's strength has always been our acceptance of so many people. Pitax is putting all their hopes on one mountain of a man. But what if we have a great lumberjack in our kingdom?"* He spread his hands as if presenting a great idea — find someone who knows the trade's tricks the way a hunter knows the difference between target shooting and the field. He plans to find Nightmarch's lumberjacks at their usual drinking spot and buy a few rounds. Riven pointed out the first industry Nightmarch ever started was the lumber camp, over a decade ago. He learned separately from the groundskeeper that Pitax used adamantine arrows at the Archery Contest. He kept it quiet: Riven won clean, and raising the accusation without knowing who fired the arrows risks making the winner look like the cheater.
 
 - **A Politician's Day (RP24)**: A long day as Councilor of [[Freehaven]] — land disputes, herbal tea in a shot glass, the walk home through the lower market. He passed the stone where [[Grigori]] used to stand. He always notices it. He came home to his wife's voice and a child's laughter dissolving into giggles, and stood on the doorstep letting it wash over him before going inside.
+
+- **"Friends aren't the people you take lives with." (above Oaktop — RP25.1)**: On a hilltop overlooking the [[Oaktop]] silver mine the night before an ambush on [[Nyrissa]]'s forces, Astor coordinated the plan ([[Riven]]'s force feints from the west to bait the trolls and satyrs into pursuit) while a distracted [[Pavel]] kept asking him about women. Brewing tea from his "travel-sized" set the whole time — and pouring it badly, spilling onto the earth — Astor fielded Pavel's question about what it means when a woman wants to be *friends*. He answered honestly that he'd opened with the same line to his now-wife, *"because I was scared it might be too much to ask for more."* When the battle began he grabbed his horned helm, cursed (the tea set was a gift from his in-laws), and gave Pavel the real answer: *"Friends aren't the people you take lives with. They're the people you share life with! ... The rest of you catch that? Remember them in the moments to come!"* See [[Pavel and Edina]].
+
+## Sources
+
+- [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]
 
 ## Current Status
 

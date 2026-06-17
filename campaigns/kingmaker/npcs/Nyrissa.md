@@ -65,9 +65,18 @@ She has been watching the PCs since they arrived in the Stolen Lands, subtly hel
 - [[Phomandala]] — medusa sorcerer, in ruined halls M3
 - 8× Defaced Naiad Queens — in Nyrissa's chambers L8; she blinded them herself
 
+## Forces in the Field (Stolen Lands)
+
+During the bloom assault (see [[The Month of Destruction]]), her forces struck settlements across the kingdom. At [[Oaktop]] in the south, redcaps, trolls, and satyrs under a fur-robed troll shaman burned the village and worked its **silver mine**, hauling ore to sledges — until the party ambushed them (see [[RP 25.1 — Pavel's Confusion]]).
+
 ## Related Notes
 
 - [[Briar]]
 - [[House at the Edge of Time]]
 - [[Thousandbreaths]]
 - [[Kingmaker Campaign Summary]]
+- [[Oaktop]]
+
+## Sources
+
+- [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]] — her forces at the Oaktop silver mine

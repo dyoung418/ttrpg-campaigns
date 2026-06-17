@@ -54,3 +54,7 @@ If the PCs choose the forgiveness path (see Chapter 11), Briar can be the instru
 - [[Nyrissa]]
 - [[The Horned Hunter]]
 - [[Chapter 10 - Sound of a Thousand Screams]]
+
+## Sources
+
+- [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — Pavel holds Briar at the Star Hole (*"it better be worth it"*)

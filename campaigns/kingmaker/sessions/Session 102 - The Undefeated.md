@@ -77,12 +77,12 @@ The road **earns** the dragon (chosen over a cold open). It threads the only saf
 2. Nyrissa has been mining [[Riven]]'s dreams and knew Lyriel was coming before Lyriel did — the abduction was *timed*.
 3. The abduction was staged to draw the party to the House *now*, before they grow stronger — and because Nyrissa suspects they carry [[Briar]].
 4. *(ambient — do not resolve)* What [[Cat]] is, and where she truly comes from, is older and stranger than [[Pavel]] knows; the corrupted Smilodons were only a glimpse.
-5. The petrified host were champions like them — an army that came to end Nyrissa's sorrow and got only as far as the dragon; the party walks the same road the last ones walked.
+5. **The petrified host were champions like them — an army that came to end Nyrissa's sorrow and got only as far as the dragon; the party walks the same road the last ones walked.**
 6. [[Ilthuliak]] has never lost and intends to die undefeated — ancient, proud; no retreat, no negotiation.
 7. Hidden in the dragon's hoard is a fey-made amulet ([[Amulet of the Fey Ward]]) that wards its wearer against the House's teleport trap — they won't know its power until it matters.
-8. [[Thousandbreaths]] is a wound, not a fortress — the demiplane is Nyrissa's stolen-soul grief made into geography; the glades are stages of one sorrow.
-9. Straying from the path isn't just dangerous — the demiplane rearranges itself to separate and disorient those who leave it.
-10. *(keep faint)* Whoever led Lyriel's abduction wore a mortal face and was no common fey. *(seeds [[The Wriggling Man]] for next session's throne room)*
+8. **[[Thousandbreaths]] is a wound, not a fortress — the demiplane is Nyrissa's stolen-soul grief made into geography; the glades are stages of one sorrow.**
+9. **Straying from the path isn't just dangerous — the demiplane rearranges itself to separate and disorient those who leave it.**
+10. ***(keep faint)* Whoever led Lyriel's abduction wore a mortal face and was no common fey. *(seeds [[The Wriggling Man]] for next session's throne room)***
 
 ---
 

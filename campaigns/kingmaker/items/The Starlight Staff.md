@@ -40,3 +40,7 @@ The staff may have gone into the Star Hole (the pit from which stars are visible
 
 - [[Saint Flint]]
 - [[Eri Malai]]
+
+## Sources
+
+- [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — lost during the Candlemere fight

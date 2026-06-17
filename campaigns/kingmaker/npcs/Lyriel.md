@@ -54,6 +54,8 @@ He invited her to come to Freehaven. She did not answer at once. He added that e
 
 After he left Kyonin, he wrote. She answered. In time, she decided to come.
 
+Later, at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Under Candlemere]]), [[Riven]] spoke of her to [[Pavel]] with bare hope: he had gone to her only after he *"stopped trying to become the man who deserved to be loved,"* offering himself *"faults and all."* He said he longed to show her the sunrise over [[Silverstep]] Lake, and that he'd written to her about all his companions — *"she has heard a great deal about all of you. Especially about brave Pavel."* He promised Pavel the party would meet her. (This conversation predates her abduction.)
+
 ## Current Status
 
 **Captive in the [[House at the Edge of Time]].** She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by a fey and trolls (the fey was [[The Wriggling Man]] in disguise, acting on [[Nyrissa]]'s orders). In the struggle she dropped [[Riven's Letter to Lyriel|Riven's letter]], which was found by witnesses and reported to [[Linzi]], who sent Riven a Sending mid-bloom. [[Nyrissa]] holds her as leverage — alive, not as a trophy. [[Nyrissa]] knew she was coming because she had been mining Riven's dreams.
@@ -66,6 +68,10 @@ After he left Kyonin, he wrote. She answered. In time, she decided to come.
 ## Plot Hooks Involved
 
 - [[Lyriel's Wait]]
+
+## Sources
+
+- [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — Riven speaks of her to Pavel
 
 ## GM Notes
 

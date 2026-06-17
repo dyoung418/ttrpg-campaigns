@@ -82,3 +82,8 @@ She wore new boots that day. She told him the old ones had been due for replacem
 
 - First appeared: Great Feast of Freehaven — verbal sparring with Astor; dancing the Sword and the Suitor; stepping between Pavel and Astor; addressed Pavel by name; boots ruined
 - **RP25 — Before the Latest Bloom** ("Edina Shoots Her Shot"): traveled to [[Nightmarch]] before the party marched; confessed her feelings to [[Pavel]] directly; mutually accepted "friendship"; helped him fasten his pack; told [[Cat]] to take care of him
+- **RP25.1 — Pavel's Confusion** (offscreen, via Pavel): days later, [[Pavel]] is still turning her words over — interrogating [[Astor]] about what a woman means by wanting to be "friends" on the eve of the [[Oaktop]] battle. He hasn't reached back to her yet. See [[RP 25.1 — Pavel's Confusion]].
+
+## Sources
+
+- [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]] — Pavel processing her confession

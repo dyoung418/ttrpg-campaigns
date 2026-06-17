@@ -4,9 +4,9 @@ campaign: kingmaker
 tags:
   - session
   - campaign/kingmaker
-date: "2026-05-30"
+date: 2026-05-30
 session_number: 100
-status: planned
+status: complete
 players_present:
   - Wes (Riven)
   - Darren (Pavel)
@@ -14,7 +14,7 @@ players_present:
   - Jon (Lucas)
   - Billy (Milo)
   - Tom (Lee)
-created: "2026-05-30"
+created: 2026-05-30
 ---
 
 # Session 100 — She Dropped Your Letter

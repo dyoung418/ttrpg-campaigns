@@ -111,7 +111,8 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Fort Drevlev]] — Former Drevlev settlement, now part of Freehaven
 
 **Regions**
-- [[Candlemere Island]] — island in the Stolen Lands; ancient cult sanctum beneath it, built for an Outer God; features the Star Hole (a pit revealing the heavens); cleared by the party (Session 23)
+- [[Candlemere Island]] — island in the Stolen Lands; ancient cult sanctum beneath it, built for an Outer God; features the Star Hole (a pit revealing the heavens); cleared by the party (Session 23 / RP23)
+- [[Oaktop]] — southern village burned by [[Nyrissa]]'s bloom forces; its silver mine worked by trolls and redcaps until the party ambushed them (RP25.1)
 - [[Willowshade]] — valley ford near Silverstep; site of the decisive Battle of Willowshade; where Cassandra died
 - [[Nomen Heights]] — wild steppes east of the kingdom; Nomen Centaur territory
 - [[Tors of Levenies]] — formidable mountain formation at the edge of the Nomen Heights
@@ -141,6 +142,9 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Sessions
 
+- [[RP 23 — Deep Under Candlemere]] — *(rp-scene)* Candlemere aftermath at the Star Hole; Riven & Pavel's heart-to-heart; Pavel's Kyonin-elf mother surfaces
+- [[RP 24 — A Politician's Day]] — *(rp-scene)* Astor's quiet day as Councilor of Freehaven
+- [[RP 25.1 — Pavel's Confusion]] — *(rp-scene)* Pavel quizzes Astor about Edina's "friendship" on the eve of the Oaktop battle
 - [[Session 100 - She Dropped Your Letter]] — strong start: Sending arrives mid-bloom; party marches to Thousandbreaths after Lyriel is taken
 - [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the road on toward Ilthuliak and the House
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger

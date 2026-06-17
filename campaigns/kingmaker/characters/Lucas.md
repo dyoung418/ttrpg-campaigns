@@ -94,6 +94,12 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
   **Result**: Lucas retrained, dropping his Psychic dedication and gaining the **Bard Dedication**. Whatever the three of them found during that month on the road — including a rumor Tol-Kin had been sitting on — is unspecified.
 
+- **The illusion at Oaktop (RP25.1)**: During the night ambush on [[Nyrissa]]'s forces at the [[Oaktop]] silver mine, the enemy troll shaman loosed a fireball into the grouped archers. Lucas's illusion magic turned the moment to the party's advantage — half the "casualties" vanished in illusory mist while the rest feigned a panicked rout, baiting the trolls and satyrs into a charge straight into the ambush. [[Pavel]] noted dryly that Lucas would be bragging about it for a week.
+
+## Sources
+
+- [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]
+
 ## Current Status
 
 **Level**: 17

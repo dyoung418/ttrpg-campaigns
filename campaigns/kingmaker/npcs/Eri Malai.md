@@ -66,4 +66,8 @@ After Irovetti's fall, Eri Malai helped the order come out of hiding, searched t
 - Post-war: helped the order re-emerge; searched unsuccessfully for his Master
 - Road to Nightmarch (with Engelidis): learned about the Guiding Star property of the staff; cast the spell that night
 - One week later: reunited with his Master mid-sermon; received a bop on the head; staff returned to Saint Flint
-- **Session 23 — Candlemere Island**: Fought alongside the party as a blazing torch through the sanctum corridors. In the aftermath, realized [[The Starlight Staff]] was missing — more panicked about this than about the cult. Considered running away to live as a hermit rather than face Saint Flint. [[Pavel]] suggested the staff might have gone into the star pit with someone he'd pushed in, but the question was unresolved.
+- **Session 23 / RP23 — Candlemere Island**: Fought alongside the party as a blazing torch through the sanctum corridors. In the aftermath, realized [[The Starlight Staff]] was missing — more panicked about this than about the cult. Considered running away to live as a hermit rather than face Saint Flint. [[Pavel]] suggested the staff might have gone into the star pit with someone he'd pushed in, but the question was unresolved.
+
+## Sources
+
+- [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — the lost staff in the Candlemere aftermath

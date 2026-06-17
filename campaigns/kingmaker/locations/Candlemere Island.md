@@ -29,7 +29,7 @@ An island in the Stolen Lands harboring a deep underground sanctum built in serv
 
 The party fought and defeated an ancient cult beneath the island. The battle was costly: [[Rindle (Construct)|Rindle]] was destroyed (or badly damaged) and had to be collected in pieces by [[Milo]] for eventual repair. [[Eri Malai]] lost [[The Starlight Staff]] somewhere in the fight — it may have gone into the Star Hole with someone [[Pavel]] pushed in.
 
-In the aftermath, [[Pavel]] sat at the Star Hole's edge with [[Cat]] curled up beside him, holding [[Briar]] in his lap and staring into the stars below while the rest of the party regrouped.
+In the aftermath, [[Pavel]] sat at the Star Hole's edge with [[Cat]] curled up beside him, holding [[Briar]] in his lap and staring into the stars below while the rest of the party regrouped. There [[Riven]] joined him for a long, quiet heart-to-heart (see [[RP 23 — Deep Under Candlemere]]) — Pavel's shame and new-found dread, Riven's confession about [[Lyriel]] and [[Kyonin]], and the revelation that Pavel's mother was an elf of Kyonin whom Riven once knew.
 
 ## NPCs Found Here
 
@@ -43,3 +43,8 @@ In the aftermath, [[Pavel]] sat at the Star Hole's edge with [[Cat]] curled up b
 ## Plot Hooks Tied Here
 
 - [[The Starlight Staff]] — lost during the fight; may be down the Star Hole; [[Eri Malai]] has to tell [[Saint Flint]]
+- [[Pavel's Parentage]] — the Star Hole conversation surfaced that Pavel's mother was an elf of [[Kyonin]]
+
+## Sources
+
+- [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]]
