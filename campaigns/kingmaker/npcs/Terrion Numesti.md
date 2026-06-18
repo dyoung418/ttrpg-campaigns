@@ -20,19 +20,20 @@ created: "2026-06-17"
 
 ## Description
 
-One of [[Hannis Drevlev]]'s generals, and father to [[Kisandra Numesti]] and her sister.
+One of [[Hannis Drevlev]]'s generals, and father to [[Kisandra Numesti]] and [[Tamary Numesti]].
 
 ## Background
 
-When the [[Tiger Lords]] forced Hannis Drevlev to surrender hostages as proof of loyalty, the selfish Drevlev ordered Terrion to give up one of his daughters. Terrion refused — and was thrown into prison for it, while his daughter was taken forcibly by the Tiger Lords. His other daughter, [[Kisandra Numesti]], fled to warn [[Bronzeshield Hold]] of the coming attack and to seek help for her father and sister.
+When the [[Tiger Lords]] forced Hannis Drevlev to surrender hostages as proof of loyalty, the selfish Drevlev ordered Terrion to give up one of his daughters. Terrion refused — and was thrown into prison for it, while his daughter [[Tamary Numesti]] was taken forcibly by the Tiger Lords. His other daughter, [[Kisandra Numesti]], fled to warn [[Bronzeshield Hold]] of the coming attack and to seek help for her father and sister.
 
 When the PCs took [[Fort Drevlev]] (Session 60), they freed Terrion. His captured daughter had by then been hauled off by the Tiger Lords and their leader [[Armag Reborn]]; the PCs later rescued her (Session 65).
 
 ## Relationships
 
-- [[Kisandra Numesti]] — his daughter; [[Ekundayo]]'s fiancée
+- [[Kisandra Numesti]] — his daughter; [[Ekundayo]]'s fiancée; escaped to warn Freehaven
+- [[Tamary Numesti]] — his daughter taken captive by the Tiger Lords; rescued by the PCs
 - [[Hannis Drevlev]] — his lord, who ordered him to give up a daughter
-- [[Tiger Lords]] — took his other daughter captive
+- [[Tiger Lords]] — took [[Tamary Numesti]] captive
 
 ## Sources
 

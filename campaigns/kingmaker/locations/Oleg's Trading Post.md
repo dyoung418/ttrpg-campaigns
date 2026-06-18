@@ -33,8 +33,8 @@ The trade town of [[Leveton]] later grew from the post's foundations and carries
 
 ## Scenes Set Here
 
-- [[RP1 Camping with Ekundayo]]
-- [[RP2 After the Thylacine Fight]]
+- [[RP 1 — Camping with Ekundayo]]
+- [[RP 2 — After the Thylacine Fight]]
 
 ## Connected Locations
 

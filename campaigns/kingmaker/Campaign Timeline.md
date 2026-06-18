@@ -30,8 +30,8 @@ created: "2026-06-17"
 
 - The PCs travel to their region; their first stop is **[[Oleg's Trading Post]]**, run by [[Oleg Leveton]] and his wife [[Svetlana Leveton]], who report bandits terrorizing them.
 - They meet [[Ekundayo]] here.
-  - *[[RP1 Camping with Ekundayo]]* takes place here.
-  - *[[RP2 After the Thylacine Fight]]* takes place here.
+  - *[[RP 1 — Camping with Ekundayo]]* takes place here.
+  - *[[RP 2 — After the Thylacine Fight]]* takes place here.
 - The PCs track the bandits to their [[Thorn River Camp]] and battle them. Here they meet [[Cassandra]], a bandit who wishes to break from [[The Stag Lord]].
 
 ## Session 6 — The Stag Lord's Fort
@@ -39,7 +39,7 @@ created: "2026-06-17"
 - The PCs come to **[[The Stag Lord's Fort]]** and plan its overthrow — some infiltrate disguised as recruits, others attack from outside.
 - After a long battle they kill the Stag Lord and his imprisoned father.
 - They make the fort their base, founding the town of [[Nightmarch]] and the kingdom of [[Freehaven]].
-  - *[[RP3 After the Stag Lord Fight]]* takes place here.
+  - *[[RP 3 — After the Stag Lord Fight]]* takes place here.
 
 ## Sessions 7–19 — Expanding the Greenbelt
 
@@ -58,8 +58,8 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - **Session 20:** A **werewolf** (a man named Kundal) stalks Nightmarch; the PCs track and end him.
 - **Session 21:** **[[Grigori]]**, a cunning propagandist, sows discontent against the PCs' rule (secretly sent by [[Pitax]]). The PCs try and exile him — and see to it he doesn't get far.
 - **Session 23:** The troll leader **[[Hargulka]]** raids Freehaven settlements. The PCs defeat him and reclaim his lair — an old dwarven fortress. The returning dwarves, including [[Benedin]], join the kingdom; the town becomes [[Bronzeshield Hold]]. Evidence suggests the green-haired fey [[Nyrissa]] had contact with Hargulka.
-  - *[[RP4 Returning to Nightmarch after Hargulka's Fortress]]* takes place here.
-  - *[[RP5 One Night in Nightmarch]]* takes place here.
+  - *[[RP 4 — Returning to Nightmarch after Hargulka's Fortress]]* takes place here.
+  - *[[RP 5 — One Night in Nightmarch]]* takes place here.
 - **Session 24:** A huge **Owlbear** nearly destroys a town. The PCs track and fight it (and the undead remains of its mate). A hunter had been given a magic ring — by a green-haired fey ([[Nyrissa]]) — that enthralled the beast.
 
 ## Session 25 — Continued Exploration
@@ -68,7 +68,7 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - They save an expedition of nine gnomes under [[Jubilost Narthropple]] from going over a waterfall; Jubilost joins the kingdom.
 - They fight a [[Hateful Hermit]].
 - They meet Elga Verniex, the [[The Old Beldame|Old Beldame]] — feared as a hag, but found to have none of a hag's cruelty in her actions. She joins the kingdom and shares her elixir-craft.
-  - *[[RP5dot5 Ekundayo's Feast]]* takes place around this time.
+  - *[[RP 5.5 — Ekundayo's Feast]]* takes place around this time.
 
 ## Session 30 — The Hunting Competition & the Cult of the Bloom
 
@@ -82,28 +82,30 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - **Varnhold Vanishing** — treasure hunter [[Willas Gunderson]] mistranslated an ancient map, mistaking a warning of magical *danger* for magical *wealth*, and woke the cyclops lich [[Vordakai]] from a thousand-year slumber. Vordakai abducted the entire town of [[Varnhold]] to harvest its knowledge.
 - At [[Lady Jamandi Aldori]]'s request the PCs investigate Varnhold, finding it empty. After fighting off Spriggans, they follow clues toward the [[Nomen Centaurs|Nomen]].
 - **Encountering the Nomen** — initially suspicious, the Nomen warm slightly when the PCs return the prized bow Skybolt. Their ruler [[Aecora|Aecora Silverfire]] fears for her daughter [[Xamanthe]], who broke the taboo of entering the [[Valley of the Dead]] and has gone missing.
-  - *[[RP6 Reflections while traveling]]* takes place on the steppes of the [[Nomen Heights]] toward the [[Tors of Levenies]].
-  - *[[RP7 On the steps of the Tors of Levenies]]* takes place here.
+  - *[[RP 6 — Reflections While Traveling]]* takes place on the steppes of the [[Nomen Heights]] toward the [[Tors of Levenies]].
+  - *[[RP 7 — On the steps of the Tors of Levenies]]* takes place here.
 
 ## Session 50 — Vordakai's Tomb
 
 - **Rescuing Xamanthe** — past the Valley of the Dead, the PCs reach [[Vordakai's Island]], free [[Xamanthe]], and send her out to wait.
-  - *[[RP9 In the Sepulchar Chamber]]* takes place here.
+  - *[[RP 9 — In the Sepulchar Chamber]]* takes place here.
 - **Killing Vordakai** — through horrors including Varnhold's dead and the ghost of [[Willas Gunderson]], the PCs confront Vordakai. He believes he is mind-controlling [[Lucas]] (he is not — Lucas fools him), which helps the PCs overcome him. They recover [[Vordakai's Eye-Gem]] and free the jarred souls of Varnhold's survivors. ([[Maegar Varn]] had already been killed.)
 - Varnhold later petitions to join [[Freehaven]].
-  - *[[RP7 Patching up after the Undead Mage]]* takes place here.
+  - *[[RP 7 — Patching up after the Undead Mage]]* takes place here.
 - **Returning Xamanthe** — the grateful Nomen later add their settlement to Freehaven.
-  - *[[RP10 Traveling back to the Nomen Heights with Xamanthe]]* takes place here.
-  - *[[RP12 Once again traveling to Nomen Heights]]* takes place here.
+  - *[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]* takes place here.
+  - *[[RP 12 — Once again traveling to Nomen Heights]]* takes place here.
+- During the rest afterward, the party recuperates at [[Silverstep]], where [[Riven]] first opens up about [[Lyriel]] (seeding [[Lyriel's Wait]]).
+  - *[[RP 11 — Rest and Relaxation at Silverstep]]* takes place here.
 
 ## Session 55 — The Great Feast of Freehaven
 
 - A great feast in Nightmarch celebrates the victory over Vordakai and Varnhold's restoration. [[Lady Jamandi Aldori]], [[Edina Aldori]], the Nomen, and many others attend.
-  - *[[RP13 Through the Dunsward to Restov]]* takes place here.
-  - *[[RP14 The Great Feast of Freehaven]]* takes place here.
-  - *[[RP14.1 Pavel Shoots his Shot]]* takes place here.
-  - *[[RP14.2 Lucas and the Bards]]* takes place here.
-  - *[[RP15 Holiday Shopping]]* takes place here.
+  - *[[RP 13 — Through the Dunsward to Restov]]* takes place here.
+  - *[[RP 14 — The Great Feast of Freehaven]]* takes place here.
+  - *[[RP 14.1 — Pavel Shoots his Shot]]* takes place here.
+  - *[[RP 14.2 — Lucas and the Bards]]* takes place here.
+  - *[[RP 15 — Holiday Shopping]]* takes place here.
 
 ## Session 60 — The Attack on Bronzeshield Hold & Fort Drevlev
 
@@ -113,13 +115,13 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - **[[Fort Drevlev]]** — the PCs infiltrate via the inn of [[Satinder Morne]] (a resistance member), enlist in the guard, and fight their way to Drevlev Keep.
   - Defeating Hannis Drevlev, they also fight his brother-in-law the magician [[Imeckus Stroon]], and meet the formidable Baroness [[Pavetta Stroon-Drevlev]], whom they send to [[Restov]].
   - They free [[Terrion Numesti]], but his captured daughter had been hauled off by the [[Tiger Lords]] and [[Armag Reborn]].
-  - *[[RP16 Drevlev Infiltrations]]* takes place here.
+  - *[[RP 16 — Drevlev Infiltrations]]* takes place here.
 
 ## Session 65 — The Tiger Lords & the Twice-Born Warlord
 
 - [[Armag Reborn]], leader of the [[Tiger Lords]], believes he is the reincarnation of the ancient warlord Armag, prophesied to wield the sword [[Ovinrbaane]].
 - The PCs find the Tiger Lords at the vault of the old Armag's sword; Armag has already claimed [[Ovinrbaane]] and slain his own henchmen. The PCs defeat him, rescue the kidnapped daughter, and return home.
-  - *[[RP17 Long road home]]* takes place here.
+  - *[[RP 17 — Long Road Home]]* takes place here.
 
 ## Session 70 — The Nightmarch Games
 
@@ -127,22 +129,22 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - Pitax leads early, but [[Riven]]'s archery shot in the final event wins it for Freehaven.
 - As the games end, **Pitax launches an attack** — they had used the games as cover to position their best people. This begins the **War with Pitax**.
 - The PCs also meet [[Eri Malai]], going by the name of his missing master, [[Saint Flint]].
-  - *[[RP18 Word from Afar]]* takes place here before the Rushlight games.
+  - *[[RP 18 — Word from Afar]]* takes place here before the Rushlight games.
 
 ## Session 75 — War with Pitax
 
 - [[Riven]] splits off to lead the war while the others move to take [[King Irovetti]] out in Pitax directly.
-  - *[[RP19 The Forest Answers]]* takes place here.
-  - *[[RP20 The Mud and the Blood]]* takes place here.
-  - *[[RP22 The Rest of the Battle of Silverstep]]* takes place here.
+  - *[[RP 19 — The Forest Answers]]* takes place here.
+  - *[[RP 20 — The Mud and the Blood]]* takes place here.
+  - *[[RP 22 — The Rest of the Battle of Silverstep]]* takes place here.
 
 ## Session 80 — Infiltration of Pitax
 
 - The PCs sneak into [[Pitax]] with a northern shipment and build contacts: [[Annamede Belavarah]], [[Atlee Quinge]] (Red Crescent Troop), [[Gaspere Liacenza]] (Liacenza Bandit House), and [[Jhofre Vascari]] (Vascari Bandit House).
 - With their help (especially Gaspere's) the PCs build the underground **Fox Alliance** and spread word of an uprising.
 - Finally they breach Irovetti's palace and defeat him (Pavel's silence aura is key). In his secret bedroom they find [[Briar]] — the sword holding [[Nyrissa]]'s capacity for love, forged as a punishment and hidden from her; Irovetti had found it and never told her.
-  - *[[RP26 Riven's Journey to Kyonin]]* takes place here.
-  - *[[RP21 The Mysterious Disappearance of St. Flint's Master.]]* takes place here.
+  - *[[RP 26 — Riven's Journey to Kyonin]]* takes place here.
+  - *[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]* takes place here.
 
 ## Session 90 — Deep into Candlemere
 
@@ -154,7 +156,7 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 
 - Strange new blooms erupt across the kingdom — no plants this time, only First World creatures breaking through and attacking.
   - *[[RP 24 — A Politician's Day]]* takes place here.
-  - *[[RP25 Before the Latest Bloom - Edina Shoots her Shot]]* takes place here.
+  - *[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]* takes place here.
   - *[[RP 25.1 — Pavel's Confusion]]* takes place here.
 
 ## Session 100 — She Dropped Your Letter

@@ -26,7 +26,7 @@ Past the Valley of the Dead, the PCs found the island and entered it (Session 50
 
 ## Scenes Set Here
 
-- [[RP9 In the Sepulchar Chamber]]
+- [[RP 9 — In the Sepulchar Chamber]]
 
 ## Connected Locations
 

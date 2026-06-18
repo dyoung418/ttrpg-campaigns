@@ -50,4 +50,4 @@ She rejected Astor's invitation to his wedding. When he brought his first child 
 
 ## Session History
 
-- Background detail established: [[RP24 — A Politician's Day]]
+- Background detail established: [[RP 24 — A Politician's Day]]
