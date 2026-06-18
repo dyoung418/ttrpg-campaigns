@@ -30,8 +30,9 @@ One of the adventurers who received a charter from [[Lady Jamandi Aldori]] to se
 
 - [[Lady Jamandi Aldori]] — issued him a charter (same as the PCs)
 - [[King Irovetti]] — conspired with him against Freehaven
-- Tiger Lords — allied with them against Freehaven; they used his relative as a captive pawn in their own power struggle with him
-- [[Ekundayo's Fiancée]] — his relative; taken captive by the Tiger Lords; rescued by the PCs
+- [[Tiger Lords]] — allied with them against Freehaven; they demanded hostages from him, forcing his general [[Terrion Numesti]] to give up a daughter
+- [[Terrion Numesti]] — his general; imprisoned by Drevlev for refusing to surrender a daughter to the Tiger Lords
+- [[Kisandra Numesti]] — Terrion's daughter and [[Ekundayo]]'s fiancée; escaped to warn Freehaven
 
 ## Session History
 

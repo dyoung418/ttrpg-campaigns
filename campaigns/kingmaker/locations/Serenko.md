@@ -4,7 +4,8 @@ campaign: kingmaker
 tags:
   - location
   - campaign/kingmaker
-aliases: []
+aliases:
+  - Fort Serenko
 status: accessible
 region: "Stolen Lands"
 created: "2026-05-29"

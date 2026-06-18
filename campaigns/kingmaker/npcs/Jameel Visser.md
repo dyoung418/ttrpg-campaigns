@@ -4,9 +4,10 @@ campaign: kingmaker
 tags:
   - npc
   - campaign/kingmaker
-aliases: []
+aliases:
+  - Jamal Visser
 status: alive
-role: "Ranger commander of the Embeth Forest wardens; old contact of Riven's"
+role: "Ranger commander of the Embeth Forest wardens; led the Embeth Travelers' Hunting Competition; old contact of Riven's"
 faction: ""
 location: "Embeth Forest"
 created: "2026-06-01"

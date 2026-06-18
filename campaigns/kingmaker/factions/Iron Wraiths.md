@@ -4,7 +4,8 @@ campaign: kingmaker
 tags:
   - faction
   - campaign/kingmaker
-aliases: []
+aliases:
+  - The Iron Wraiths
 status: unknown
 created: "2026-05-29"
 ---

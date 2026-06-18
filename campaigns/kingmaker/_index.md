@@ -75,7 +75,18 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Rindle (Construct)]] — Milo's mechanical construct; named after his brother; has fought with the party for years
 - [[Gelbin Steambender]] — Gnome inventor; Milo's mentor; connected through the restored pocket watch
 - [[Treerazer]] — Demon holding the Tanglebriar south of Kyonin; background threat; explains Riven's 50-year history fighting undead
-- [[Ekundayo]] — Hunter; helped overthrow the Stag Lord; settled in Nightmarch; his fiancée ([[Ekundayo's Fiancée]], a relative of Hannis Drevlev) was taken captive by Tiger Lords and rescued by the PCs
+- [[Ekundayo]] — Hunter; helped overthrow the Stag Lord; settled in Nightmarch; engaged to [[Kisandra Numesti]] (daughter of Drevlev's general [[Terrion Numesti]]); her sister was taken captive by the Tiger Lords and rescued by the PCs
+- [[Kisandra Numesti]] — [[Ekundayo]]'s fiancée; daughter of [[Terrion Numesti]]; escaped Fort Drevlev to warn Freehaven of the Tiger Lords / Pitax / Drevlev attack
+- [[Terrion Numesti]] — Drevlev's general; imprisoned for refusing to surrender a daughter to the Tiger Lords; freed by the PCs
+- [[King Vesket]] — lizardfolk king of the [[Lizardfolk Village]]; allied with Freehaven after the PCs saved him; the town of [[Vesket]] bears his name
+- [[Jubilost Narthropple]] — gnome cartographer; expedition saved from a waterfall; joined the kingdom
+- [[Melianse]] — pixie; her dispute with loggers was settled by the PCs
+- [[Oleg Leveton]] & [[Svetlana Leveton]] — ran [[Oleg's Trading Post]], the party's first foothold; [[Leveton]] is named for them
+- [[Annamede Belavarah]] — Pitax bard; no friend of Irovetti; ally in the Pitax infiltration
+- [[Atlee Quinge]] — director of Pitax's Red Crescent Troop; Fox Alliance contact
+- [[Jhofre Vascari]] — leader of the Vascari Bandit House; Fox Alliance contact
+- [[Pavetta Stroon-Drevlev]] — Baroness; widow of Hannis Drevlev; formidable will; sent to Restov
+- [[Satinder Morne]] — Fort Drevlev innkeeper; resistance contact who gave the PCs their foothold
 - [[Aecora]] — Leader of the [[Nomen Centaurs]]; fiercely loyal and protective of her people; admired by Riven
 - [[Benedin]] — Dwarven companion; lorekeeper-in-training before his clan's exile; now community figure at [[Bronzeshield Hold]]
 - [[Great Aunt Sumi]] — Lucas's foxfolk ancestor; appeared to Pavel during the Stag Lord healing; key to Pavel's Parentage plot hook; grants Healing ability
@@ -95,6 +106,9 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Maegar Varn]] — Good-man charter-holder; founded Varnhold; killed by Vordakai
 - [[Hargulka]] — Troll king; defeated mid-campaign; cited as an example of tyranny
 - [[Armag Reborn]] — Legendary barbarian figure resurrected; defeated at [[Fort Drevlev]]; wielded [[Ovinrbaane]]
+- [[Imeckus Stroon]] — Drevlev's brother-in-law; powerful magician; defeated at Drevlev Keep
+- [[Willas Gunderson]] — treasure hunter whose blunder woke [[Vordakai]]; later an undead ghost in the tomb
+- [[Hateful Hermit]] — hostile hermit fought during the kingdom's expansion (Session 25)
 
 ## Key Locations
 
@@ -117,6 +131,16 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Nomen Heights]] — wild steppes east of the kingdom; Nomen Centaur territory
 - [[Tors of Levenies]] — formidable mountain formation at the edge of the Nomen Heights
 - [[Tanglebriar]] — corrupted forest south of Kyonin; held by the demon [[Treerazer]]; background to Riven's history
+- [[Tuskwater River]] — river bordering Nightmarch; holds the [[Lizardfolk Village]] island
+- [[Valley of the Dead]] — Nomen taboo valley; gateway to [[Vordakai's Island]]
+
+**Early Sites (Founding Era)**
+- [[Oleg's Trading Post]] — the party's first foothold; grew into [[Leveton]]
+- [[Thorn River Camp]] — Stag Lord bandit camp; where the party met [[Cassandra]]
+- [[The Stag Lord's Fort]] — the Stag Lord's stronghold; became [[Nightmarch]]
+- [[The Temple of the Elk]] — old shrine guarded by a cursed grizzly (Session 8)
+- [[Lizardfolk Village]] — island village led by [[King Vesket]]; became [[Vesket]]
+- [[Vordakai's Island]] — the lich's tomb beyond the [[Valley of the Dead]]
 
 **Current Adventure Locations**
 - [[Thousandbreaths]] — Nyrissa's demiplane; nine glades to clear
@@ -151,6 +175,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Lore & World Notes
 
+- [[Campaign Timeline]] — **master timeline** reconciling session numbers with RP-document numbers; summarizes past sessions and places each RP scene
 - [[The Founding of Freehaven]] — kingdom history, milestones, governance
 - [[Kingmaker Campaign Summary]] — full adventure path overview and Nyrissa backstory
 - [[Chapter 10 - Sound of a Thousand Screams]] — Part 1/2/3 structure, Briar awakening, chapter outcomes
@@ -175,6 +200,8 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Iron Wraiths]] — another charter-holder group; went dark; assumed dead
 - [[Golden Talons]] — Two Pitax battalions; marched on Silverstep during the war; defeated
 - [[Nagaji Monastic Order]] — nagaji religious order; operated underground in Pitax; re-emerged post-war; led by Saint Flint
+- [[Tiger Lords]] — barbarian/troll warband led by [[Armag Reborn]]; allied with Pitax and Drevlev; defeated
+- [[Cult of the Bloom]] — cult exploiting a First World scar to spawn the Blooms; their incursion was closed by the PCs
 
 ## Campaign Arc
 
