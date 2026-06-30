@@ -53,7 +53,7 @@ When working in this vault, reach for these skills rather than raw bash where ap
 When the user describes TTRPG content in plain text, you:
 1. Identify distinct entities (player characters, NPCs, locations, plot hooks, factions, items, lore)
 2. Search the vault using `obsidian:obsidian-cli` to avoid duplicating entries and find cross-link opportunities (fall back to `find`/`grep` if unavailable)
-3. Create or update `.md` files using `obsidian:obsidian-markdown` in the correct campaign subfolder
+3. Create or update `.md` files using `obsidian:obsidian-markdown` in the correct campaign subfolder.  It is your job to always capture new information in the vault.  If something comes up, assume you need to document it in the appropriate place.
 4. Always cross-link related notes using wikilinks
 5. Update the campaign `_index.md` when new top-level entities are added
 

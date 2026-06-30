@@ -7,7 +7,15 @@
       "Bash(git add *)",
       "Bash(git check-ignore *)",
       "Bash(git commit -m ' *)",
-      "Skill(session)"
+      "Skill(session)",
+      "Skill(ingest)",
+      "Bash(cd *)",
+      "Bash(jq '{name, type, level: .system.details.level.value, traits: .system.traits, hp: .system.attributes.hp, ac: .system.attributes.ac, saves: .system.saves, perception: .system.perception, speed: .system.attributes.speed, languages: .system.details.languages}' fvtt-Actor-tarlaxian-2IrbfdtWyXiGOLBA.json)",
+      "Bash(jq '.system.abilities' fvtt-Actor-tarlaxian-2IrbfdtWyXiGOLBA.json)",
+      "Bash(jq -r '.items[] | \"\\\\\\(.type\\) :: \\\\\\(.name\\)\"' fvtt-Actor-tarlaxian-2IrbfdtWyXiGOLBA.json)",
+      "Bash(python3 -)",
+      "WebFetch(domain:github.com)",
+      "WebSearch"
     ]
   }
 }

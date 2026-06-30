@@ -6,7 +6,7 @@ tags:
   - campaign/kingmaker
 date: ""
 session_number: 102
-status: planned
+status: complete
 players_present:
   - Wes (Riven)
   - Darren (Pavel)
@@ -20,8 +20,9 @@ created: "2026-06-09"
 # Session 102 — The Undefeated
 
 > **Date**:
-> **Status**: Planned
+> **Status**: Complete
 > **Previous Session**: [[Session 101 - The Heads Still Dream]]
+> **Next Session**: [[Session 103 - The Shape of Where I Used to Be]]
 
 ---
 
@@ -178,9 +179,18 @@ This party of six (plus [[Cat]], [[Bird]], and [[Rindle (Construct)]]) **dismant
 ## Post-Session *(fill in after play)*
 
 **What actually happened:**
+The party encountered Ilthuliak at her hilltop fortress.  She already had 3 of the stone warriors activated.  They defeated Ilthuliak despite the fact that she summond 6 more of the stone warriors.  At one point, pavel jumped from the top of a parapet onto Ilthuliak and rode her while attacking her.  Ilthuliak barrel rolled and scraped Pavel off her back, but eventually she fell.
+The party found Ilthuliak's hoard of treasure.
+
+the party ended the session debating whether they needed a rest before moving on.  Riven is anxious to move forward.
+The party found Ilthuliak's hoard of treasure.
 
 **Threads opened:**
+- **[[Briar|Briara]] has awakened and begun to speak** — Briar completed its full awakening and now talks; she wishes to be called Briara, flirts at [[Riven]], is chummy with [[Lucas]], and plays wounded-bride with [[Pavel]]. (Captured in [[Briar]].)
+- **Rest-or-push is unresolved** — the party debates resting; [[Riven]] wants to press on to the [[House at the Edge of Time]]. Resolves at the top of [[Session 103 - The Shape of Where I Used to Be|Session 103]].
 
 **Threads closed:**
+- [[Ilthuliak]] is dead — defeated atop the High Folly despite raising her petrified host; [[Pavel]] rode her down off a parapet before she fell. Her hoard is the party's.
 
 **Next session setup:**
+The party stands one bridge from the [[House at the Edge of Time]]. Ahead: [[The Rimebridge]] and its guardian [[Tarlaxian]]. → [[Session 103 - The Shape of Where I Used to Be]]

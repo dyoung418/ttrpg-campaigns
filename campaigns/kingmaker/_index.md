@@ -20,7 +20,7 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Current State
 
-The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They are now cutting through the glades toward the [[House at the Edge of Time]] to save the kingdom from erasure — with [[Lyriel]] taken into the House as leverage to draw them on.
+The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They have cut through the glades — [[Ilthuliak]] now dead at the High Folly — and stand one crossing from the [[House at the Edge of Time]], with [[Lyriel]] held inside as leverage to draw them on. Ahead lies [[The Rimebridge]] and its guardian [[Tarlaxian]]. The sword [[Briar|Briara]] has fully awakened and now *speaks*.
 
 ## The Party
 
@@ -41,6 +41,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Nyrissa]] — The Heartless Queen, true villain; nymph queen seeking to complete the Apology
 - [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar
 - [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks in Throne Room K17
+- [[Tarlaxian]] — Tarn linnorm guarding [[The Rimebridge]] to the House; reskinned to frost as a solo boss
 - [[The Knurly Witch]] — Annis hag cleric; Glade H and Cellar K16
 - [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard)
 - [[Ilthuliak]] — Black dragon; Glade J (High Folly)
@@ -144,6 +145,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 **Current Adventure Locations**
 - [[Thousandbreaths]] — Nyrissa's demiplane; nine glades to clear
+- [[The Rimebridge]] — iced span over the bottomless lake; the only crossing to the House, guarded by [[Tarlaxian]]
 - [[House at the Edge of Time]] — Nyrissa's mansion; three-level manor + the Fables
 
 ## Active Plot Hooks
@@ -172,6 +174,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[Session 100 - She Dropped Your Letter]] — strong start: Sending arrives mid-bloom; party marches to Thousandbreaths after Lyriel is taken
 - [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the road on toward Ilthuliak and the House
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
+- [[Session 103 - The Shape of Where I Used to Be]] — *(planned)* Briara wakes to Nyrissa's nearness; the Rimebridge and Tarlaxian; the gatehouse's ashamed dead as cliffhanger
 
 ## Lore & World Notes
 
@@ -184,7 +187,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Items
 
-- [[Briar]] — Artifact sword forged from Nyrissa's soul; key to her death or redemption
+- [[Briar|Briara]] — Artifact sword forged from Nyrissa's soul; **fully awakened and now speaks**; key to her death or redemption
 - [[Stag Lord's Helm]] — Magical stag horn helmet taken from the Stag Lord by Astor; worn by him ever since
 - [[Eclipsed Incantations]] — Powerful tome Benedin is studying; contains a permanent imprisonment ritual among other powerful magic
 - [[Vordakai's Eye-Gem]] — Cyclops lich's gem eye; in party's possession; exerts a psychic pull; too dangerous to use

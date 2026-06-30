@@ -5,6 +5,7 @@ tags:
   - item
   - campaign/kingmaker
   - artifact
+aliases: ["Briara"]
 created: "2026-05-29"
 ---
 
@@ -34,7 +35,23 @@ Briar grows more powerful the more it is exposed to enemies from the First World
 - **Facing the lesser jabberwock** (Day 28): Briar temporarily blazes to full power for the fight, then returns to its earned level.
 - **Full awakening**: The sword becomes *intelligent* and *vorpal*, among other powers. Once capable of speech, Briar itself may provide further guidance.
 
-**Current state**: The party with Briar is nearly powerful enough to confront Nyrissa — the remaining blooms and the path through [[Thousandbreaths]] should finish the awakening.
+**Current state**: **Fully awakened — Briar now speaks** (see below).
+
+## Briara — The Awakened Voice
+
+By the approach to the [[House at the Edge of Time]] (around [[Session 102 - The Undefeated]]), Briar has completed her awakening and **begun to speak.** She wishes to be addressed as **Briara**, and she is very much a character — fitting, since she *is* [[Nyrissa]]'s stolen capacity to love given form and now given a voice.
+
+**Personality:** Warm, mercurial, theatrical, and needy — think an intimate disembodied companion-voice with a jilted-bride streak. She forms real attachments and her moods turn on a dime.
+- **Flirty with [[Riven]]** — who pointedly ignores it.
+- **Chummy with [[Lucas]]** — they get along easily.
+- **Wounded-bride toward [[Pavel]]** (her wielder) — she sulks that he never compliments her enough, leaving him mystified about how to respond (*another* woman to figure out).
+
+**Proximity to her origin:** The closer she comes to [[Nyrissa]], the more she remembers being *part* of the Heartless Queen — *"I can feel the shape of where I used to be."* As the party nears the House she grows louder and more emotional, and she may volunteer (or have to be coaxed into) truths about Nyrissa, the House, and herself.
+
+**The reunion she dreads and longs for:** Briara fears returning to Nyrissa as much as she yearns for it — she does not know whether reunion would *heal* the Queen or simply see her swallowed back into the thing that abandoned her. This is the emotional core of the campaign's two endings (death vs. forgiveness), now able to speak for itself.
+
+> [!note] Capture new Briara material here
+> She is a live, evolving voice. Record anything significant she says or reveals in play in this section.
 
 ## Tactical Notes
 
