@@ -22,12 +22,22 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
   - Use `/capture ideas` to add content here
   - During `/session`, ideas-bank content is surfaced as optional material to pull in
   - To promote an idea to a campaign, move the file to the appropriate campaign subfolder
+- `_memory/` — Claude's persistent memory, committed to git (see "Memory & Plans" below)
+- `_plans/` — Claude's cross-session planning docs, committed to git (see "Memory & Plans" below)
 - `_templates/` — Obsidian note templates (do not modify without intent)
 - `_scripts/` — helper scripts
 - `_sources/` — source-of-truth documents (RP exports, lore docs, anything the GM dropped in to ingest). **Never modified by Claude.**
   - `_sources/new/` — files awaiting ingest (process with `/ingest`)
   - `_sources/processed/` — files already ingested; subdirectory structure mirrors `new/`
   - `_sources/processed/do-not-commit/` — processed sources that must **never** be committed (copyrighted reference material, e.g. the *Return of the Lazy Dungeon Master* markdown and Kingmaker chapter text). This subdirectory is gitignored — read from it freely, but never commit its contents.
+
+## Memory & Plans (IMPORTANT — overrides default memory behavior)
+
+The GM works on this vault from multiple PCs, so anything Claude needs to remember across sessions **must live inside this repository**, never in the home directory.
+
+- **Memory**: the canonical memory store is `_memory/` in this vault. Write memory files there (same format as auto-memory: one fact per file with frontmatter) and index them in `_memory/MEMORY.md`. Do **not** write new memories to the per-machine auto-memory directory under `~/.claude/` — it doesn't sync between PCs. At session start (or before answering questions about ongoing work/backlog), read `_memory/MEMORY.md`.
+- **Plans**: save any planning document that must survive the session — multi-session plans, migration checklists, in-progress task state — to `_plans/`, not to `/tmp`, the scratchpad, or the home directory. Session-prep docs still belong in `campaigns/<name>/sessions/`.
+- **Both directories are committed to git.** Include them in commits like any other vault content.
 
 ## Wikilink Conventions
 
