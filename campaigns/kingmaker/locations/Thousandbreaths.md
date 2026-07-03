@@ -36,7 +36,7 @@ Each time the PCs defeat all guardians of a glade, roll a flat DC 20 check — o
 | Glade | Guardian | DC Reduction |
 |-------|----------|--------------|
 | B | 4× Storm-Struck Arboreals | −1 |
-| C | Kargstaad | −2 |
+| C | Kargstaad *(skipped by GM decision)* | −2 |
 | D | Nightmare Rook | −2 |
 | E | Immense Mandragora | −1 |
 | G | The Wriggling Man (area K17) | −4 |
@@ -58,6 +58,9 @@ Dark lake with 100-ft diameter silent whirlpool (DC 38 Reflex to avoid being swe
 ### C. The Frozen Boneyard (Moderate 18)
 Extreme cold environment. Oversized cemetery with 10-ft headstones, a leaning tower, and a marble vault. **Anchor**: [[Kargstaad]] (CR 19), four-armed frost giant in the vault; sends his 6 giants to the Frozen Bloom first, then waits here.
 *Bloom trophy*: Icy gravestone shards (linked to Frozen Bloom).
+
+> [!info] GM decision (2026-07-02): this glade is being skipped
+> Kargstaad will not be run; the party bypasses the Frozen Boneyard. Note for the uprooting mechanic: Glade C's −2 DC reduction (and its contribution to "all anchors defeated → automatic uproot") is off the table unless plans change.
 
 ### D. The Nightmare Spire (Moderate 18)
 Mile-wide clearing, jagged hills, thorny plains. A stone spire (appears mile-tall, actually 200 ft). **Anchor**: [[The Nightmare Rook]] (CR 20) — a gargantuan bird. Primary tactic: Snatch PCs and drop them into other glades (Mire or Fruiting Orchard). Carries passengers only at Nyrissa's request. At <90 HP, lies about ferrying PCs to safety (drops them in Mire/Orchard).

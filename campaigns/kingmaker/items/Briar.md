@@ -56,7 +56,7 @@ By the approach to the [[House at the Edge of Time]] (around [[Session 102 - The
 ## Tactical Notes
 
 - **Nyrissa's vulnerability**: The sword is foretold to kill her. She focuses attacks on whoever wields it.
-- **The Horned Hunter's mission**: His primary goal is to steal Briar and return it to Nyrissa via the Castle of Knives portal. If the wielder is downed, he grabs the sword and uses *tree stride* to flee.
+- **The Horned Hunter's mission** *(resolved)*: His goal was to steal Briar and return it to Nyrissa via the Castle of Knives portal. He was killed by the PCs (Session 100) without ever claiming the sword.
 - **The lesser jabberwock**: Also sent partly to take the sword. If it defeats the wielder, it flies to the Castle of Knives.
 - **Regeneration bypass**: The jabberwock's regeneration is deactivated by vorpal weapons. Briar at full awakening is key.
 

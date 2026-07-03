@@ -6,6 +6,7 @@ tags:
   - campaign/kingmaker
   - fey
   - enemy
+status: dead
 created: "2026-05-29"
 ---
 
@@ -14,6 +15,9 @@ created: "2026-05-29"
 **Creature 18** | Unique, CN, Medium, Fey (Variant satyr ranger)
 
 [[Nyrissa]]'s enforcer sent on Day 9 of [[The Month of Destruction]] with one mission: steal [[Briar]] and return it to Nyrissa via the Castle of Knives portal.
+
+> [!success] Deceased — killed by the PCs (Session 100)
+> The Horned Hunter and his Jotund Trolls were the bloom fight in progress when [[Linzi]]'s Sending arrived with news of [[Lyriel]]'s abduction ([[Session 100 - She Dropped Your Letter]]). He died in that battle without ever claiming [[Briar]] — and with him ended Nyrissa's **Fey Conduit** surveillance through his senses.
 
 ## Stats
 

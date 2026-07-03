@@ -29,5 +29,8 @@ Broad and blunt. Called cadence in both the meadow fight and the Willowshade whe
 - [[Senn]] — fellow sergeant under Cassandra
 - [[Riven]] — strategic commander at Willowshade
 
+> [!secret] GM Only
+> "Hadrik" (used once in the council scene of [[RP 22 — The Rest of the Battle of Silverstep]]) is confirmed by the GM as the same man — **Halvik** is the canonical spelling; Hadrik is kept as an alias for search.
+
 > [!todo] Needs content
-> The Cassandra note flags that "Hadrik" is used as a variant of "Halvik" once in the council scene — confirm the canonical spelling, or note the variant intentionally. Also establish Halvik's status after Willowshade and where he is now.
+> Establish Halvik's status after Willowshade and where he is now.

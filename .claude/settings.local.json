@@ -15,7 +15,8 @@
       "Bash(jq -r '.items[] | \"\\\\\\(.type\\) :: \\\\\\(.name\\)\"' fvtt-Actor-tarlaxian-2IrbfdtWyXiGOLBA.json)",
       "Bash(python3 -)",
       "WebFetch(domain:github.com)",
-      "WebSearch"
+      "WebSearch",
+      "Skill(ideate)"
     ]
   }
 }

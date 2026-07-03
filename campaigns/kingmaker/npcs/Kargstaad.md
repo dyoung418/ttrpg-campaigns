@@ -6,12 +6,16 @@ tags:
   - campaign/kingmaker
   - enemy
   - giant
+status: skipped
 created: "2026-05-29"
 ---
 
 # Kargstaad
 
 **Creature 19** | Unique, CE, Large, Cold, Giant, Humanoid (Variant frost giant)
+
+> [!info] GM decision (2026-07-02): encounter skipped
+> The party is bypassing the Frozen Boneyard (Glade C) — Kargstaad will not be run. He remains in his glade as set dressing/lore; keep the stat block in case plans change.
 
 A foul-tempered four-armed frost giant who serves as anchor and guardian of **the Frozen Boneyard (Glade C)** in [[Thousandbreaths]]. He was "collected" by Nyrissa as a trophy ages ago and has lived in this frozen mock-cemetery ever since, eternally provided for with food and water.
 

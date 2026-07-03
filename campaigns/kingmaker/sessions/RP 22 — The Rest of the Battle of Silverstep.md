@@ -51,7 +51,7 @@ The conclusion of the Battle of Silverstep, in four movements: [[Lord Darian]]'s
 ## Notable Details / Flags
 
 - The **death of [[Cassandra]]** at [[Willowshade]] — the decisive engagement of the Pitax War (matches the kingdom record).
-- *(The council's blunt sergeant "Hadrik" appears to be [[Halvik]], who is beside Cassandra when she falls — treated as the same man.)*
+- *(The council's blunt sergeant "Hadrik" is [[Halvik]], who is beside Cassandra when she falls — GM-confirmed as the same man; "Halvik" is the canonical spelling.)*
 
 ## Sources
 

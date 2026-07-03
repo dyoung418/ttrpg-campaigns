@@ -39,11 +39,9 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 **Current Threats**
 - [[Nyrissa]] — The Heartless Queen, true villain; nymph queen seeking to complete the Apology
-- [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar
 - [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks in Throne Room K17
 - [[Tarlaxian]] — Tarn linnorm guarding [[The Rimebridge]] to the House; reskinned to frost as a solo boss
 - [[The Knurly Witch]] — Annis hag cleric; Glade H and Cellar K16
-- [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard)
 - [[Ilthuliak]] — Black dragon; Glade J (High Folly)
 - [[Phomandala]] — Medusa sorcerer; Ruined Halls M3
 
@@ -99,6 +97,8 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 - [[The Old Beldame]] — hermit witch in the Stolen Lands; taught Astor herbalism and alchemy during his retirement; eccentric, skeptical of him from the start
 
 **Defeated**
+- [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar; killed by the PCs mid-bloom as Linzi's Sending about Lyriel arrived (Session 100); never claimed the sword
+- [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard) — *encounter skipped by GM decision; still in his glade as lore*
 - [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party
 - [[The Stag Lord]] — Bandit lord; first major adversary
 - [[Vordakai]] — Ancient cyclops lich; defeated mid-campaign
@@ -168,13 +168,45 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Sessions
 
-- [[RP 23 — Deep Under Candlemere]] — *(rp-scene)* Candlemere aftermath at the Star Hole; Riven & Pavel's heart-to-heart; Pavel's Kyonin-elf mother surfaces
-- [[RP 24 — A Politician's Day]] — *(rp-scene)* Astor's quiet day as Councilor of Freehaven
-- [[RP 25.1 — Pavel's Confusion]] — *(rp-scene)* Pavel quizzes Astor about Edina's "friendship" on the eve of the Oaktop battle
 - [[Session 100 - She Dropped Your Letter]] — strong start: Sending arrives mid-bloom; party marches to Thousandbreaths after Lyriel is taken
 - [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the road on toward Ilthuliak and the House
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
 - [[Session 103 - The Shape of Where I Used to Be]] — *(planned)* Briara wakes to Nyrissa's nearness; the Rimebridge and Tarlaxian; the gatehouse's ashamed dead as cliffhanger
+
+### RP Scenes
+
+*In timeline order (see [[Campaign Timeline]] for exact placement between sessions).*
+
+- [[RP 1 — Camping with Ekundayo]] — early-campaign bonding around the fire with [[Ekundayo]]
+- [[RP 2 — After the Thylacine Fight]] — brief exchange between Riven and Pavel after the thylacine fight
+- [[RP 3 — After the Stag Lord Fight]] — Pavel and Lucas, the morning after the Stag Lord's defeat
+- [[RP 4 — Returning to Nightmarch after Hargulka's Fortress]] — campfire scene on the march home
+- [[RP 5 — One Night in Nightmarch]] — a winter evening at the inn, before the trip to Restov
+- [[RP 5.5 — Ekundayo's Feast]] — [[Linzi]] pitches the feast
+- [[RP 6 — Reflections While Traveling]] — long traveling conversation on the steppes toward the [[Tors of Levenies]]
+- [[RP 7 — On the steps of the Tors of Levenies]] — camp on the great stairs
+- [[RP 9 — In the Sepulchar Chamber]] — dungeon investigation deep in [[Vordakai's Island]]
+- [[RP 7 — Patching up after the Undead Mage]] — post-fight cave scene in Vordakai's tomb
+- [[RP 10 — Traveling back to the Nomen Heights with Xamanthe]] — dawn camp, escorting the rescued [[Xamanthe]] home
+- [[RP 12 — Once again traveling to Nomen Heights]] — campfire with the rescued Varnholders, Vordakai's head in a bag
+- [[RP 11 — Rest and Relaxation at Silverstep]] — lakeside downtime at [[Silverstep]]
+- [[RP 13 — Through the Dunsward to Restov]] — comedic ancestor-prank scene on the road
+- [[RP 14 — The Great Feast of Freehaven]] — the centerpiece feast; [[Lady Jamandi Aldori]] in disguise; [[King Irovetti]]'s origins surface
+- [[RP 14.1 — Pavel Shoots his Shot]] — feast companion scene (Pavel POV)
+- [[RP 14.2 — Lucas and the Bards]] — feast companion scene; Lucas among the bards
+- [[RP 15 — Holiday Shopping]] — downtime gear-shopping with [[Benedin]]
+- [[RP 16 — Drevlev Infiltrations]] — infiltration planning; Benedin forges the guard roster over [[Tamary Numesti]]
+- [[RP 17 — Long Road Home]] — campfire farewell after Fort Drevlev
+- [[RP 18 — Word from Afar]] — arrival at the Rushlight tournament
+- [[RP 19 — The Forest Answers]] — Ranger ambush vignette; [[Almon d'Avoine]] feigns death
+- [[RP 20 — The Mud and the Blood]] — battle vignette from [[Cassandra]]'s perspective
+- [[RP 22 — The Rest of the Battle of Silverstep]] — the battle in four movements; Cassandra falls at [[Willowshade]]
+- [[RP 26 — Riven's Journey to Kyonin]] — Riven's three-month diplomatic absence, in six parts; the Embeth Agreement and the [[Freehaven-Kyonin Treaty]]
+- [[RP 21 — The Mysterious Disappearance of St. Flint's Master]] — post-war mystery with Benedin and [[Engelidis]]
+- [[RP 23 — Deep Under Candlemere]] — Candlemere aftermath at the Star Hole; Riven & Pavel's heart-to-heart; Pavel's Kyonin-elf mother surfaces
+- [[RP 24 — A Politician's Day]] — Astor's quiet day as Councilor of Freehaven
+- [[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]] — the courtyard confession; [[Edina Aldori]] says her piece
+- [[RP 25.1 — Pavel's Confusion]] — Pavel quizzes Astor about Edina's "friendship" on the eve of the Oaktop battle
 
 ## Lore & World Notes
 

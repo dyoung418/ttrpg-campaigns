@@ -39,7 +39,7 @@ She and the other prisoners [[King Irovetti]] demanded to appease [[Armag Reborn
 ## GM Notes
 
 > [!secret] GM Only
-> Named in [[RP 16 — Drevlev Infiltrations]] ("Tamary Numesti"); previously the unnamed "sister" in [[Kisandra Numesti]]'s note. Confirm spelling/details if she resurfaces.
+> Named in [[RP 16 — Drevlev Infiltrations]] ("Tamary Numesti"); previously the unnamed "sister" in [[Kisandra Numesti]]'s note. Name and spelling confirmed by the GM (2026-07-02).
 
 ## Sources
 

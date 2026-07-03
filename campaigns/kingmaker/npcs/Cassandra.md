@@ -66,7 +66,7 @@ Her hand slackened from the haft. Her gaze dulled.
 
 ## Named Guard
 
-- **[[Halvik]]** — bellow that carries through a gale; called cadence in both the meadow fight and the Willowshade wheel; was beside Cassandra when she fell; also referred to as "Hadrik" once in the council scene (probable name variant — flag for GM)
+- **[[Halvik]]** — bellow that carries through a gale; called cadence in both the meadow fight and the Willowshade wheel; was beside Cassandra when she fell; also referred to as "Hadrik" once in the council scene (GM-confirmed name variant — same man)
 - **[[Senn]]** — lean; the voice of caution; *"That's suicide"* at the Willowshade plan; fought through it anyway
 - **Joren** — mason's apprentice; steady as stone
 - **Luko** — fisherman's boy; eyes toward the water even in formation

@@ -60,8 +60,8 @@ She has been watching the PCs since they arrived in the Stolen Lands, subtly hel
 - [[The Wriggling Man]] — arcane advisor, in throne room K17
 - [[The Knurly Witch]] — hag cleric, in glade H / cellar K16
 - [[Ilthuliak]] — black dragon, in glade J
-- [[The Horned Hunter]] — satyr ranger, sent to steal Briar during Part 1
-- [[Kargstaad]] — four-armed frost giant, in glade C
+- [[The Horned Hunter]] — satyr ranger, sent to steal Briar during Part 1; **dead** — killed by the PCs (Session 100), ending her Fey Conduit view of the party
+- [[Kargstaad]] — four-armed frost giant, in glade C *(encounter skipped by GM decision)*
 - [[Phomandala]] — medusa sorcerer, in ruined halls M3
 - 8× Defaced Naiad Queens — in Nyrissa's chambers L8; she blinded them herself
 
