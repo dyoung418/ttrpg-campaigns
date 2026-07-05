@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 4
-status: rp-scene
+status: complete
 players_present:
   - "[[Pavel]]"
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP4 Returning to Nightmarch after Hargulka's Fortress|RP4 — Returning to Nightmarch after Hargulka's Fortress]]"
+sources:
+  - "[[_sources/processed/roleplay/RP4 Returning to Nightmarch after Hargulka's Fortress|RP4 — Returning to Nightmarch after Hargulka's Fortress]]"
 created: 2026-06-17
 ---
 

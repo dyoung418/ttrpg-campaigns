@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 17
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Lucas]]"
   - "[[Milo]]"
   - "[[Lee]]"
-source: "[[_sources/processed/roleplay/RP17 Long road home|RP17 — Long Road Home]]"
+sources:
+  - "[[_sources/processed/roleplay/RP17 Long road home|RP17 — Long Road Home]]"
 created: 2026-06-17
 ---
 

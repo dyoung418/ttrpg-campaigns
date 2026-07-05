@@ -2,10 +2,11 @@
 type: location
 campaign: kingmaker
 tags:
-  - location
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: "site of the Battle of Willowshade"
+status: accessible
 region: "Stolen Lands — near Silverstep"
 created: "2026-05-30"
 ---

@@ -2,11 +2,12 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - construct
+sources: []
+related: []
 aliases: ["Rindle"]
-status: active
+status: alive
 role: "Milo's mechanical construct; Inventor class feature; named after Milo's lost brother"
 faction: "Freehaven"
 location: "With Milo"

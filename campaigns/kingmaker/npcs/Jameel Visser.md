@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases:
   - Jamal Visser
 status: alive

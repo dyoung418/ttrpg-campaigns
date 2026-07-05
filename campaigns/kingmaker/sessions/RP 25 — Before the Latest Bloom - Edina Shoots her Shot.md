@@ -2,14 +2,16 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 25
-status: rp-scene
+status: complete
 players_present:
   - "[[Pavel]]"
-source: "[[_sources/processed/roleplay/RP25 Before the Latest Bloom - Edina Shoots her Shot|RP25 — Before the Latest Bloom: Edina Shoots her Shot]]"
+sources:
+  - "[[_sources/processed/roleplay/RP25 Before the Latest Bloom - Edina Shoots her Shot|RP25 — Before the Latest Bloom: Edina Shoots her Shot]]"
 created: 2026-06-17
 ---
 

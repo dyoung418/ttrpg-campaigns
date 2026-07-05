@@ -1,8 +1,9 @@
 ---
 type: npc
 campaign: ""
-tags:
-  - npc
+tags: []
+sources: []
+related: []
 aliases: []
 status: alive
 role: ""

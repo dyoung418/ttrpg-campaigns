@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Daughter of Terrion Numesti; hostage at Fort Drevlev; taken by Armag Reborn and later rescued"

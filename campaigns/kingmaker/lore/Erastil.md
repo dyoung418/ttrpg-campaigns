@@ -2,9 +2,10 @@
 type: lore
 campaign: kingmaker
 tags:
-  - lore
   - deity
   - campaign/kingmaker
+sources: []
+related: []
 aliases:
   - Old Deadeye
 status: stub

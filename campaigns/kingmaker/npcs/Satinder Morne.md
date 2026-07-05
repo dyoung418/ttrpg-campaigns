@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Innkeeper in Fort Drevlev; part of the resistance against Hannis Drevlev"

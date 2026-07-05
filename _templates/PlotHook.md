@@ -1,8 +1,9 @@
 ---
 type: plot-hook
 campaign: ""
-tags:
-  - plot-hook
+tags: []
+sources: []
+related: []
 aliases: []
 status: open
 priority: medium

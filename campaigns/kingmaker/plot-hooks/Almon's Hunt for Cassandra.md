@@ -2,10 +2,11 @@
 type: plot-hook
 campaign: kingmaker
 tags:
-  - plot-hook
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: transformed — Cassandra is dead; Almon's status unknown
+status: resolved
 created: "2026-05-30"
 ---
 

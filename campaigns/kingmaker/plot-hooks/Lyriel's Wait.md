@@ -2,9 +2,10 @@
 type: plot-hook
 campaign: kingmaker
 tags:
-  - plot-hook
   - campaign/kingmaker
-status: resolving
+sources: []
+related: []
+status: active
 created: "2026-05-29"
 ---
 

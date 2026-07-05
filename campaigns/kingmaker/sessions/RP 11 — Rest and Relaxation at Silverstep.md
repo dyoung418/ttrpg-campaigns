@@ -2,17 +2,19 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 11
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Astor]]"
   - "[[Lucas]]"
-source: "[[_sources/processed/roleplay/RP11 Rest and Relaxation at Silverstep|RP11 — Rest and Relaxation at Silverstep]]"
+sources:
+  - "[[_sources/processed/roleplay/RP11 Rest and Relaxation at Silverstep|RP11 — Rest and Relaxation at Silverstep]]"
 created: 2026-06-17
 ---
 

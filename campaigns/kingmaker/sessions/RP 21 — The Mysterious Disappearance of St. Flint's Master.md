@@ -2,14 +2,16 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 21
-status: rp-scene
+status: complete
 players_present:
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP21 The Mysterious Disappearance of St. Flint's Master.|RP21 — The Mysterious Disappearance of St. Flint's Master]]"
+sources:
+  - "[[_sources/processed/roleplay/RP21 The Mysterious Disappearance of St. Flint's Master.|RP21 — The Mysterious Disappearance of St. Flint's Master]]"
 created: 2026-06-17
 ---
 

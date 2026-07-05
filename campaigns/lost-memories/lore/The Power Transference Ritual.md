@@ -1,9 +1,10 @@
 ---
 type: lore
-campaign: "Lost Memories"
+campaign: lost-memories
 tags:
-  - lore
   - campaign/lost-memories
+sources: []
+related: []
 aliases: []
 topic: ""
 created: "2026-05-27"

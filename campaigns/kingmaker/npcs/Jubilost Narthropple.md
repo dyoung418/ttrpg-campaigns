@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Gnome explorer and cartographer; leader of a nine-gnome expedition; joined Freehaven"

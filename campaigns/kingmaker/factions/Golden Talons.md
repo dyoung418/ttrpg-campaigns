@@ -2,10 +2,11 @@
 type: faction
 campaign: kingmaker
 tags:
-  - faction
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: "destroyed — routed at Willowshade; Darian killed"
+status: destroyed
 alignment: "Pitax military"
 created: "2026-05-30"
 ---

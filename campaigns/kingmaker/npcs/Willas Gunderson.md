@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: deceased
 role: "Treasure hunter whose blunder woke Vordakai; later an undead ghost in the tomb"

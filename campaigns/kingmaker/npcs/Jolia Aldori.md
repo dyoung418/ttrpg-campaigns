@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: deceased
 role: "Edina Aldori's sister; killed during the hunting competition"

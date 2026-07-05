@@ -2,9 +2,10 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - ancestor
+sources: []
+related: []
 aliases: ["Olaf"]
 status: deceased
 role: "Lucas's foxfolk ancestor; grants the Poltergeist ability"

@@ -2,11 +2,12 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - enemy
   - giant
-status: skipped
+sources: []
+related: []
+status: unknown
 created: "2026-05-29"
 ---
 

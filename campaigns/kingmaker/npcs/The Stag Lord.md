@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: dead
+status: deceased
 role: "Bandit lord; first major adversary"
 faction: ""
 location: "Stolen Lands"

@@ -2,8 +2,9 @@
 type: character
 campaign: kingmaker
 tags:
-  - character
   - campaign/kingmaker
+sources: []
+related: []
 aliases:
   - Lucas Sato
 player: Jon

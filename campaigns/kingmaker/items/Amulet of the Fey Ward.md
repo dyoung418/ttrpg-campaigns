@@ -2,9 +2,10 @@
 type: item
 campaign: kingmaker
 tags:
-  - item
   - campaign/kingmaker
-status: unclaimed
+sources: []
+related: []
+status: unacquired
 created: "2026-06-09"
 ---
 

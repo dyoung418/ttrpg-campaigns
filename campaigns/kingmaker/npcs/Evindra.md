@@ -2,9 +2,10 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - fey
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Nereid; fey ally; key informant on Nyrissa and Briar"

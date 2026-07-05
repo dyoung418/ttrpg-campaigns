@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Hunter; instrumental in the fall of the Stag Lord; now a resident of Nightmarch"

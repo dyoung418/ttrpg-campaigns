@@ -2,16 +2,18 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 10
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Lucas]]"
-source: "[[_sources/processed/roleplay/RP10 Traveling back to the Nomen Heights with Xamanthe|RP10 — Traveling back to the Nomen Heights with Xamanthe]]"
+sources:
+  - "[[_sources/processed/roleplay/RP10 Traveling back to the Nomen Heights with Xamanthe|RP10 — Traveling back to the Nomen Heights with Xamanthe]]"
 created: 2026-06-17
 ---
 

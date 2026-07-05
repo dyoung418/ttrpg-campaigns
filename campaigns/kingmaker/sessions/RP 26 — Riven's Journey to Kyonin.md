@@ -2,14 +2,16 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 26
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
-source: "[[_sources/processed/roleplay/RP26 Riven's Journey to Kyonin|RP26 — Riven's Journey to Kyonin]]"
+sources:
+  - "[[_sources/processed/roleplay/RP26 Riven's Journey to Kyonin|RP26 — Riven's Journey to Kyonin]]"
 created: 2026-06-17
 ---
 

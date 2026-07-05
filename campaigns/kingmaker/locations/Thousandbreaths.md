@@ -2,9 +2,10 @@
 type: location
 campaign: kingmaker
 tags:
-  - location
   - campaign/kingmaker
   - first-world
+sources: []
+related: []
 created: "2026-05-29"
 ---
 

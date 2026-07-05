@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 7
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Lucas]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Astor]]"
   - "[[Milo]]"
   - "[[Lee]]"
-source: "[[_sources/processed/roleplay/RP7 Patching up after the Undead Mage|RP7 — Patching Up After the Undead Mage]]"
+sources:
+  - "[[_sources/processed/roleplay/RP7 Patching up after the Undead Mage|RP7 — Patching Up After the Undead Mage]]"
 created: 2026-06-17
 ---
 

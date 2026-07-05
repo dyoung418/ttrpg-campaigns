@@ -2,10 +2,11 @@
 type: item
 campaign: kingmaker
 tags:
-  - item
   - campaign/kingmaker
   - artifact
   - dangerous
+sources: []
+related: []
 created: "2026-05-29"
 ---
 

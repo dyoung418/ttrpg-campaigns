@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 16
-status: rp-scene
+status: complete
 players_present:
   - "[[Astor]]"
   - "[[Lucas]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Riven]]"
   - "[[Lee]]"
   - "[[Milo]]"
-source: "[[_sources/processed/roleplay/RP16 Drevlev Infiltrations|RP16 — Drevlev Infiltrations]]"
+sources:
+  - "[[_sources/processed/roleplay/RP16 Drevlev Infiltrations|RP16 — Drevlev Infiltrations]]"
 created: 2026-06-17
 ---
 

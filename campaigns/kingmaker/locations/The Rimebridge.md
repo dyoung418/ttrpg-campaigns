@@ -2,10 +2,11 @@
 type: location
 campaign: kingmaker
 tags:
-  - location
   - campaign/kingmaker
   - first-world
   - thousandbreaths
+sources: []
+related: []
 created: "2026-06-29"
 ---
 

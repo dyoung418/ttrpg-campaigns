@@ -1,8 +1,9 @@
 ---
 type: faction
 campaign: ""
-tags:
-  - faction
+tags: []
+sources: []
+related: []
 aliases: []
 status: active
 alignment: ""

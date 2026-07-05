@@ -1,8 +1,9 @@
 ---
 type: lore
 campaign: ""
-tags:
-  - lore
+tags: []
+sources: []
+related: []
 aliases: []
 topic: ""
 created: ""

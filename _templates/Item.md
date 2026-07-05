@@ -1,8 +1,9 @@
 ---
 type: item
 campaign: ""
-tags:
-  - item
+tags: []
+sources: []
+related: []
 aliases: []
 status: unacquired
 rarity: uncommon

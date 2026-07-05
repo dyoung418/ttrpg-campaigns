@@ -1,8 +1,9 @@
 ---
 type: campaign-index
-campaign: "kingmaker"
-tags:
-  - campaign-index
+campaign: kingmaker
+tags: []
+sources: []
+related: []
 system: "Pathfinder 2e"
 created: "2026-05-29"
 status: active

@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Castruccio Irovetti", "King Irrovetti"]
-status: dead
+status: deceased
 role: "Vain tyrant; king of Pitax; Nyrissa's pawn"
 faction: ""
 location: "Pitax"

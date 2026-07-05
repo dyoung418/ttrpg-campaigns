@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 24
-status: rp-scene
+status: complete
 players_present:
   - "[[Astor]]"
 created: 2026-06-03
-source: "RP24 A Politicians Day - Astor"
+sources:
+  - "RP24 A Politicians Day - Astor"
 ---
 
 # RP 24 — A Politician's Day

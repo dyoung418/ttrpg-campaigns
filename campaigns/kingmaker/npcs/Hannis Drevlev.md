@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: dead
+status: deceased
 role: "Treacherous adventurer; former charter holder; founder of Fort Drevlev"
 faction: ""
 location: "Fort Drevlev"

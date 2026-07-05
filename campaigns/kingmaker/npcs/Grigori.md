@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: exiled/eliminated
+status: deceased
 role: "Pitaxian propagandist; orator; saboteur inside Freehaven"
 faction: "Pitax (unknowing)"
 location: "Nightmarch (formerly)"

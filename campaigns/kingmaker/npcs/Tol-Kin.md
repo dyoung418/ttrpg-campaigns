@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Master Tol-Kin"]
 status: alive
 role: "One of the greatest living bards; wandering storyteller"

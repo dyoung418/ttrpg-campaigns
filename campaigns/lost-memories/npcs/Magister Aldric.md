@@ -1,9 +1,10 @@
 ---
 type: npc
-campaign: "Lost Memories"
+campaign: lost-memories
 tags:
-  - npc
   - campaign/lost-memories
+sources: []
+related: []
 aliases: ["The Wizard", "Aldric"]
 status: alive
 role: "Antagonist — imprisoned the PCs for magical experimentation"

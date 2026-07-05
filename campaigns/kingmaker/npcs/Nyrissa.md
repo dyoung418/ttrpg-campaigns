@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - villain
   - fey
+sources: []
+related: []
 created: "2026-05-29"
 ---
 

@@ -2,9 +2,9 @@
 type: faction
 campaign: kingmaker
 tags:
-  - faction
   - campaign/kingmaker
-  - location
+sources: []
+related: []
 aliases: []
 status: active
 alignment: ""

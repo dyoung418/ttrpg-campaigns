@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 13
-status: rp-scene
+status: complete
 players_present:
   - "[[Pavel]]"
   - "[[Lucas]]"
-source: "[[_sources/processed/roleplay/RP13 Through the Dunsward to Restov|RP13 — Through the Dunsward to Restov]]"
+sources:
+  - "[[_sources/processed/roleplay/RP13 Through the Dunsward to Restov|RP13 — Through the Dunsward to Restov]]"
 created: 2026-06-17
 ---
 

@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: dead
+status: deceased
 role: "Pitax spy; later posed as a kobold leader"
 faction: "Pitax"
 location: ""

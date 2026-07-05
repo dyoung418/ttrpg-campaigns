@@ -1,9 +1,10 @@
 ---
 type: faction
-campaign: Lost Memories
+campaign: lost-memories
 tags:
-  - faction
   - campaign/lost-memories
+sources: []
+related: []
 aliases:
   - The Order
   - The Silver Chalice

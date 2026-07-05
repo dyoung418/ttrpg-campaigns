@@ -2,9 +2,10 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - enemy
+sources: []
+related: []
 created: "2026-06-05"
 ---
 

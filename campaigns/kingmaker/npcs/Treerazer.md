@@ -2,9 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
-  - lore
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Demon; holds the Tanglebriar south of Kyonin; not an active campaign threat"

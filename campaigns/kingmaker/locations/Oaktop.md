@@ -2,8 +2,9 @@
 type: location
 campaign: kingmaker
 tags:
-  - location
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: contested
 region: "Stolen Lands"

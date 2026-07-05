@@ -2,8 +2,9 @@
 type: location
 campaign: kingmaker
 tags:
-  - location
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: cleared
 region: "Rostland Hinterlands and Greenbelt"

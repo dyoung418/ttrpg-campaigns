@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 5
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
-source: "[[_sources/processed/roleplay/RP5 One Night in Nightmarch|RP5 — One Night in Nightmarch]]"
+sources:
+  - "[[_sources/processed/roleplay/RP5 One Night in Nightmarch|RP5 — One Night in Nightmarch]]"
 created: 2026-06-17
 ---
 

@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 7
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Astor]]"
   - "[[Lee]]"
   - "[[Milo]]"
-source: "[[_sources/processed/roleplay/RP7 On the steps of the Tors of Levenies|RP7 — On the Steps of the Tors of Levenies]]"
+sources:
+  - "[[_sources/processed/roleplay/RP7 On the steps of the Tors of Levenies|RP7 — On the Steps of the Tors of Levenies]]"
 created: 2026-06-17
 ---
 

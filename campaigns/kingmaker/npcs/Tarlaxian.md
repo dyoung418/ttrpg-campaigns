@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - enemy
   - dragon
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Tarn linnorm; guardian of the bridge to the House at the Edge of Time"

@@ -2,16 +2,18 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 6
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP6 Reflections while traveling|RP6 — Reflections While Traveling]]"
+sources:
+  - "[[_sources/processed/roleplay/RP6 Reflections while traveling|RP6 — Reflections While Traveling]]"
 created: 2026-06-17
 ---
 

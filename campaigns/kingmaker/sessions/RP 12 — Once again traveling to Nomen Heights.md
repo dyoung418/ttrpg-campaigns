@@ -2,18 +2,20 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 12
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Astor]]"
   - "[[Lucas]]"
   - "[[Milo]]"
-source: "[[_sources/processed/roleplay/RP12 Once again traveling to Nomen Heights|RP12 — Once again traveling to Nomen Heights]]"
+sources:
+  - "[[_sources/processed/roleplay/RP12 Once again traveling to Nomen Heights|RP12 — Once again traveling to Nomen Heights]]"
 created: 2026-06-17
 ---
 

@@ -1,8 +1,9 @@
 ---
 type: character
 campaign: ""
-tags:
-  - character
+tags: []
+sources: []
+related: []
 aliases: []
 player: ""
 class: ""

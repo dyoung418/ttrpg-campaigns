@@ -1,9 +1,10 @@
 ---
 type: plot-hook
-campaign: "Lost Memories"
+campaign: lost-memories
 tags:
-  - plot-hook
   - campaign/lost-memories
+sources: []
+related: []
 aliases: []
 status: open
 priority: high

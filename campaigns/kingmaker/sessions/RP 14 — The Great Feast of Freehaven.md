@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 14
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Lucas]]"
   - "[[Lee]]"
   - "[[Milo]]"
-source: "[[_sources/processed/roleplay/RP14 The Great Feast of Freehaven|RP14 — The Great Feast of Freehaven]]"
+sources:
+  - "[[_sources/processed/roleplay/RP14 The Great Feast of Freehaven|RP14 — The Great Feast of Freehaven]]"
 created: 2026-06-17
 ---
 

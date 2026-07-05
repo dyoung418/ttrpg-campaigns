@@ -2,15 +2,16 @@
 type: character
 campaign: kingmaker
 tags:
-  - character
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Pavelan Lebeda"]
 player: "Darren"
 class: "Rogue (Beastmaster, Druid, and Witch dedications)"
 race: "Half-Elf (Aiuvarin heritage)"
 background: "Field Medic"
 level: 17
-status: active!
+status: active
 created: "2026-05-29"
 ---
 ![[Pavel_with_Briar_1.webp]]

@@ -2,14 +2,16 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 22
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
-source: "[[_sources/processed/roleplay/RP22 The Rest of the Battle of Silverstep|RP22 — The Rest of the Battle of Silverstep]]"
+sources:
+  - "[[_sources/processed/roleplay/RP22 The Rest of the Battle of Silverstep|RP22 — The Rest of the Battle of Silverstep]]"
 created: 2026-06-17
 ---
 

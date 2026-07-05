@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 3
-status: rp-scene
+status: complete
 players_present:
   - "[[Pavel]]"
   - "[[Lucas]]"
-source: "[[_sources/processed/roleplay/RP3 After the Stag Lord Fight|RP3 — After the Stag Lord Fight]]"
+sources:
+  - "[[_sources/processed/roleplay/RP3 After the Stag Lord Fight|RP3 — After the Stag Lord Fight]]"
 created: 2026-06-17
 ---
 

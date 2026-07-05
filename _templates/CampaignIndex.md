@@ -1,8 +1,9 @@
 ---
 type: campaign-index
 campaign: ""
-tags:
-  - campaign-index
+tags: []
+sources: []
+related: []
 system: ""
 created: ""
 status: active

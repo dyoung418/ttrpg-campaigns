@@ -1,9 +1,10 @@
 ---
 type: location
-campaign: "Lost Memories"
+campaign: lost-memories
 tags:
-  - location
   - campaign/lost-memories
+sources: []
+related: []
 aliases: []
 status: accessible
 region: "Desolate coast — isolated, remote, no settlements nearby"

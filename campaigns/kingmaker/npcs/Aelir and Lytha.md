@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Aelir", "Lytha"]
-status: dead
+status: deceased
 role: "Riven's parents; skilled elven rangers; killed by a demon"
 faction: ""
 location: "Kyonin (deceased)"

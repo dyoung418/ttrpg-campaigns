@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 23
-status: rp-scene
+status: complete
 players_present:
   - "[[Pavel]]"
   - "[[Riven]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Lucas]]"
   - "[[Milo]]"
   - "[[Lee]]"
-source: "[[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]]"
+sources:
+  - "[[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]]"
 created: 2026-06-17
 ---
 

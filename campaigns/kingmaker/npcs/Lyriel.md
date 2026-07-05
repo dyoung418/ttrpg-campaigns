@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Lyriel Anarindë"]
 status: captive
 role: "Riven's former love; captive of Nyrissa in the House at the Edge of Time"

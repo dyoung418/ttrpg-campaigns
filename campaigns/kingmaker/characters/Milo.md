@@ -2,8 +2,9 @@
 type: character
 campaign: kingmaker
 tags:
-  - character
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Milo Tinkerfoot"]
 player: "Billy"
 class: "Inventor"

@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: alive
 role: "General under Hannis Drevlev; father of Kisandra; imprisoned for refusing to surrender a daughter"

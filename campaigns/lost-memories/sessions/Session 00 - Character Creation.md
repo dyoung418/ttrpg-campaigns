@@ -1,9 +1,10 @@
 ---
 type: session
-campaign: "Lost Memories"
+campaign: lost-memories
 tags:
-  - session
   - campaign/lost-memories
+sources: []
+related: []
 date: ""
 session_number: 0
 status: planned

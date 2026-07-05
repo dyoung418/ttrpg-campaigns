@@ -2,16 +2,18 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 5.5
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP5dot5 Ekundayo's Feast|RP5.5 — Ekundayo's Feast]]"
+sources:
+  - "[[_sources/processed/roleplay/RP5dot5 Ekundayo's Feast|RP5.5 — Ekundayo's Feast]]"
 created: 2026-06-17
 ---
 

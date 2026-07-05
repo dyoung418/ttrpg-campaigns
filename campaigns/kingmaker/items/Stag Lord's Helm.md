@@ -2,11 +2,12 @@
 type: item
 campaign: kingmaker
 tags:
-  - item
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Stag Lord's Helmet"]
 rarity: ""
-status: in use
+status: held
 owner: "Astor"
 created: "2026-05-29"
 ---

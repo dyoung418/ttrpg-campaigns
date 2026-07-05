@@ -2,10 +2,11 @@
 type: location
 campaign: kingmaker
 tags:
-  - location
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: active
+status: accessible
 region: "Nightmarch (Freehaven capital)"
 created: "2026-06-03"
 ---

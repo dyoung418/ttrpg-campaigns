@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: defeated
+status: deceased
 role: "Troll king; occupied Bronzeshield Hold before the PCs cleared it"
 faction: ""
 location: "Bronzeshield Hold (former)"

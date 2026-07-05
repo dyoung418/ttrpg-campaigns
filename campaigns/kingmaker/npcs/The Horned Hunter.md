@@ -2,11 +2,12 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - fey
   - enemy
-status: dead
+sources: []
+related: []
+status: deceased
 created: "2026-05-29"
 ---
 

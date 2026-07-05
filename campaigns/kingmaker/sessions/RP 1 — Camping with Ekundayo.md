@@ -2,16 +2,18 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 1
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP1 Camping with Ekundayo|RP1 — Camping with Ekundayo]]"
+sources:
+  - "[[_sources/processed/roleplay/RP1 Camping with Ekundayo|RP1 — Camping with Ekundayo]]"
 created: 2026-06-17
 ---
 

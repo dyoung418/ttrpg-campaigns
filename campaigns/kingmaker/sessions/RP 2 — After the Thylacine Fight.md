@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 2
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
-source: "[[_sources/processed/roleplay/RP2 After the Thylacine Fight|RP2 — After the Thylacine Fight]]"
+sources:
+  - "[[_sources/processed/roleplay/RP2 After the Thylacine Fight|RP2 — After the Thylacine Fight]]"
 created: 2026-06-17
 ---
 

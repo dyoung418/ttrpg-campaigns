@@ -2,9 +2,10 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - companion
+sources: []
+related: []
 aliases: []
 status: alive
 role: "Pavel's animal companion — large black panther"

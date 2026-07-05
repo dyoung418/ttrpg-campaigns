@@ -2,15 +2,17 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 15
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP15 Holiday Shopping|RP15 — Holiday Shopping]]"
+sources:
+  - "[[_sources/processed/roleplay/RP15 Holiday Shopping|RP15 — Holiday Shopping]]"
 created: 2026-06-17
 ---
 

@@ -2,8 +2,9 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+sources: []
+related: []
 date: ""
 session_number: 101
 status: complete

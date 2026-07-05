@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Armag"]
-status: defeated
+status: deceased
 role: "Legendary barbarian figure resurrected; antagonist at Fort Drevlev"
 faction: ""
 location: "[[Fort Drevlev]] (defeated)"

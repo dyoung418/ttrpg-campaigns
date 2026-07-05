@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: dead
+status: deceased
 role: "Charter-holder; founder of Varnhold; victim of Vordakai"
 faction: ""
 location: "Varnhold"

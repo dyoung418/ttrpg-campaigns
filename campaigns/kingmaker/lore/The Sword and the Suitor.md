@@ -2,8 +2,9 @@
 type: lore
 campaign: kingmaker
 tags:
-  - lore
   - campaign/kingmaker
+sources: []
+related: []
 created: "2026-05-29"
 ---
 

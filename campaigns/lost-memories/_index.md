@@ -1,9 +1,10 @@
 ---
 type: campaign-index
-campaign: "Lost Memories"
+campaign: lost-memories
 tags:
-  - campaign-index
   - campaign/lost-memories
+sources: []
+related: []
 system: "Daggerheart"
 created: "2026-05-27"
 status: active

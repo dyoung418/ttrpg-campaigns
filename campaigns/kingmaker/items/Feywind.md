@@ -2,8 +2,9 @@
 type: item
 campaign: kingmaker
 tags:
-  - item
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 created: "2026-05-29"
 ---

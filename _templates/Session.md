@@ -1,8 +1,9 @@
 ---
 type: session
 campaign: ""
-tags:
-  - session
+tags: []
+sources: []
+related: []
 date: ""
 session_number: 0
 status: planned

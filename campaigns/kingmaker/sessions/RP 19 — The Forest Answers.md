@@ -2,14 +2,16 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 19
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
-source: "[[_sources/processed/roleplay/RP19 The Forest Answers|RP19 — The Forest Answers]]"
+sources:
+  - "[[_sources/processed/roleplay/RP19 The Forest Answers|RP19 — The Forest Answers]]"
 created: 2026-06-17
 ---
 

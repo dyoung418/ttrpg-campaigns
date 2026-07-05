@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: missing
 role: "Milo's older brother; taken captive by bandits; Milo's construct is named after him"

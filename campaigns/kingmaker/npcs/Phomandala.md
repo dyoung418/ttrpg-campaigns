@@ -2,11 +2,12 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
   - enemy
   - dragon
   - humanoid
+sources: []
+related: []
 created: "2026-05-29"
 ---
 

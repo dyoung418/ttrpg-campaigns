@@ -1,8 +1,9 @@
 ---
 type: location
 campaign: ""
-tags:
-  - location
+tags: []
+sources: []
+related: []
 aliases: []
 status: accessible
 region: ""

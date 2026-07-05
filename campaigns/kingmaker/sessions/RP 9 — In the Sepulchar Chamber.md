@@ -2,11 +2,12 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 9
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
@@ -14,7 +15,8 @@ players_present:
   - "[[Lucas]]"
   - "[[Lee]]"
   - "[[Milo]]"
-source: "[[_sources/processed/roleplay/RP9 In the Sepulchar Chamber|RP9 — In the Sepulchar Chamber]]"
+sources:
+  - "[[_sources/processed/roleplay/RP9 In the Sepulchar Chamber|RP9 — In the Sepulchar Chamber]]"
 created: 2026-06-17
 ---
 

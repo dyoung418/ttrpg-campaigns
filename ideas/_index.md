@@ -2,6 +2,8 @@
 type: ideas-index
 tags:
   - ideas
+sources: []
+related: []
 ---
 
 # Ideas Bank

@@ -2,13 +2,15 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 20
-status: rp-scene
+status: complete
 players_present: []
-source: "[[_sources/processed/roleplay/RP20 The Mud and the Blood|RP20 — The Mud and the Blood]]"
+sources:
+  - "[[_sources/processed/roleplay/RP20 The Mud and the Blood|RP20 — The Mud and the Blood]]"
 created: 2026-06-17
 ---
 

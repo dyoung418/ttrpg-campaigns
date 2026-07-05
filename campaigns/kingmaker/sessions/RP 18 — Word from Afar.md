@@ -2,16 +2,18 @@
 type: session
 campaign: kingmaker
 tags:
-  - session
   - campaign/kingmaker
+  - rp-scene
+related: []
 date: ""
 session_number: 18
-status: rp-scene
+status: complete
 players_present:
   - "[[Riven]]"
   - "[[Pavel]]"
   - "[[Astor]]"
-source: "[[_sources/processed/roleplay/RP18 Word from Afar|RP18 — Word from Afar]]"
+sources:
+  - "[[_sources/processed/roleplay/RP18 Word from Afar|RP18 — Word from Afar]]"
 created: 2026-06-17
 ---
 

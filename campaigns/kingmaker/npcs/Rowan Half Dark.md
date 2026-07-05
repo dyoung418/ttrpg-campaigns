@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
-status: dead
+status: deceased
 role: "Bandit leader of the Few; killed by Riven"
 faction: "The Few"
 location: "River Kingdoms (Embeth Forest area)"

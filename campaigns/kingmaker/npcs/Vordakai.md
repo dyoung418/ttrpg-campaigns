@@ -2,10 +2,11 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Vordekai"]
-status: dead
+status: deceased
 role: "Ancient cyclops lich lord; major mid-campaign antagonist"
 faction: ""
 location: "Stolen Lands (Vordakai's Tomb)"

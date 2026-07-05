@@ -2,8 +2,9 @@
 type: npc
 campaign: kingmaker
 tags:
-  - npc
   - campaign/kingmaker
+sources: []
+related: []
 aliases: ["Aecora Silverfire"]
 status: alive
 role: "Leader of the Nomen Centaurs"

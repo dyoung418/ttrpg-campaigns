@@ -2,8 +2,9 @@
 type: faction
 campaign: kingmaker
 tags:
-  - faction
   - campaign/kingmaker
+sources: []
+related: []
 aliases: []
 status: active
 alignment: "religious / monastic"

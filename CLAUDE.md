@@ -2,6 +2,11 @@
 
 This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's assistant.
 
+> **Before doing vault work, read `_meta/conventions.md` and `_meta/tags.md`** and treat them as
+> configuration/data, not prose to skim. This file is a thin **router**; the detailed rules
+> (frontmatter schema, status vocabulary, tag policy, splitting guidance, script/index policy)
+> live in `_meta/conventions.md`, and the controlled tag set lives in `_meta/tags.md`.
+
 ## Vault Structure
 
 - `campaigns/<name>/` — one subfolder per campaign
@@ -22,6 +27,8 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
   - Use `/capture ideas` to add content here
   - During `/session`, ideas-bank content is surfaced as optional material to pull in
   - To promote an idea to a campaign, move the file to the appropriate campaign subfolder
+- `_meta/` — canonical vault-management rules: `conventions.md` (detailed rules) and `tags.md` (tag registry)
+- `_index/` — script-generated indexes (e.g. `by-tag`), committed to git; **never hand-edited** (see `_meta/conventions.md` §5)
 - `_memory/` — Claude's persistent memory, committed to git (see "Memory & Plans" below)
 - `_plans/` — Claude's cross-session planning docs, committed to git (see "Memory & Plans" below)
 - `_templates/` — Obsidian note templates (do not modify without intent)
@@ -43,8 +50,8 @@ The GM works on this vault from multiple PCs, so anything Claude needs to rememb
 
 - Always use `[[Note Name]]` for internal links
 - Use `[[Note Name|display text]]` when the display text should differ
-- Tags use lowercase kebab-case: `#character`, `#npc`, `#location`, `#plot-hook`, `#faction`, `#item`, `#lore`, `#session`
-- Campaign-scoped tags: `#campaign/name-of-campaign`
+- **Tags are for cross-cutting themes only — never a note's type** (type lives in the `type:` field). Use lowercase kebab-case, drawn from the `## Active` set in `_meta/tags.md`. Full policy: `_meta/conventions.md` §3.
+- Campaign-scoped tags: `#campaign/name-of-campaign` (structural exception, registered in `_meta/tags.md`)
 
 ## Skills Routing
 
@@ -69,13 +76,16 @@ When the user describes TTRPG content in plain text, you:
 
 ## Commands Available
 
+- `/ideate` — creative muse: spark ideas, surface connections, ask questions (no writing)
 - `/capture [campaign-name | ideas]` — capture brainstormed content into campaign notes or the ideas bank
+- `/flesh-it-out` — interview the GM to fill gaps in existing notes, then capture and refactor
 - `/ingest [path|glob]` — ingest source files from `_sources/new/` into campaign notes; move processed files to `_sources/processed/`
 - `/session [campaign-name]` — plan a session using the Return of the Lazy Dungeon Master 8-step framework
 - `/campaign [new|list|overview] [name]` — create or review campaigns
 - `/move` — interactively move a note: ideas ↔ campaign, or campaign → campaign
 - `/lint [scope]` — tactical vault check; auto-fix safe frontmatter/tag issues, triage unsafe ones (broken links, orphans, missing embeds)
 - `/reconcile <sources>` — reconcile vault content against source files; interactively update vault notes (never source files)
+- `/vault-stitch` — govern the cross-cutting/connective layer: adjudicate the `_meta/tags.md` registry (*planned — see `_meta/conventions.md` §3*)
 
 ## File Naming Rules
 

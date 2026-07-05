@@ -2,9 +2,10 @@
 type: item
 campaign: kingmaker
 tags:
-  - item
   - campaign/kingmaker
-status: "Unknown (location after Drevlev fight unconfirmed)"
+sources: []
+related: []
+status: lost
 created: "2026-05-29"
 ---
 

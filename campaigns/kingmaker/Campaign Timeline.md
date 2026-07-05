@@ -2,12 +2,13 @@
 type: lore
 campaign: kingmaker
 tags:
-  - lore
   - timeline
   - campaign/kingmaker
+sources: []
+related: []
 aliases:
   - Kingmaker Timeline
-status: reference
+status: established
 created: "2026-06-17"
 ---
 
