@@ -4,6 +4,7 @@
 .obsidian/app.json
 .obsidian/graph.json
 .obsidian/bookmarks.json
+.obsidian/hotkeys.json
 
 # Obsidian plugin data (not tracked — reinstall from community plugins)
 .obsidian/plugins/

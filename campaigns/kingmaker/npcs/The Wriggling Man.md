@@ -13,7 +13,7 @@ created: "2026-05-29"
 
 **Creature 21** | Unique, CE, Medium, Aberration, Swarm (Variant male worm that walks wizard)
 
-[[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G) but is currently in the **Throne Room (K17)** of the [[House at the Edge of Time]].
+[[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G) but is currently in the **Throne Room (K17)**  [[Kingmaker chapter 10#K17. Throne Room]] of the [[House at the Edge of Time]].
 
 ## Stats
 

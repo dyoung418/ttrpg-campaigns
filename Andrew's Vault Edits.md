@@ -1,0 +1,156 @@
+# Vault Management Conventions — Proposal
+
+> [!note] Status: draft for review
+> These are **proposed** conventions for managing the vault, cleaned up from Andrew's original notes. **Nothing here is implemented yet** — this document exists to be reviewed and agreed on first.
+>
+> Once accepted, the content lands in three canonical homes (see [Source of Truth](#1-source-of-truth-core-contract)): `CLAUDE.md` (router), `_meta/conventions.md` (the detailed rules), and `_meta/tags.md` (the tag registry).
+
+**Audience:** both the GM and Claude (the vault assistant). Written as rules Claude should follow and the GM can review.
+
+**Core idea:** file *type* is structured metadata, not a tag. Tags, links, indexes, and skills all exist to make content **discoverable and retrievable** — to give the graph shape and let related material be found. Everything below serves that goal.
+
+---
+
+## 1. Source of Truth (Core Contract)
+
+Vault-management rules live in three canonical files with **non-overlapping** jobs. No rule is duplicated across them, so nothing drifts out of sync. Claude reads them **before doing vault work** and treats them as configuration/data, not prose to skim.
+
+| File | Role |
+|------|------|
+| `CLAUDE.md` | Thin **router**. Points to the files below ("before working, read `_meta/conventions.md` and `_meta/tags.md`") and holds only the highest-level orientation. |
+| `_meta/conventions.md` | The **detailed rules** — frontmatter schema, tag policy, splitting guidance, body-mode vocabulary, script/index policy. |
+| `_meta/tags.md` | The **tag registry** — `## Active` and `## Proposed` tags (see [Tags](#3-tags)). |
+
+> New config directories use the underscore prefix (`_meta/`, `_index/`) to match the existing `_scripts/`, `_memory/`, `_sources/` convention, and stay visible in Obsidian.
+
+---
+
+## 2. Frontmatter
+
+**Frontmatter is canonical.** Indexes, staleness, search, and graph behavior all derive from it, so it must be maintained carefully.
+
+Five fields are **index-critical** — they drive cross-note behavior and must be kept accurate:
+
+| Field     | Meaning                                                                                                                                                                                                                                             |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `type`    | What kind of note this is (`npc`, `location`, `session`, …). The **sole** mechanism for expressing type — never encode type as a tag.                                                                                                               |
+| `status`  | Lifecycle state. A **controlled, per-type vocabulary** (e.g. npc: `alive`/`deceased`; location: `accessible`/`cleared`; plot-hook: `open`/`resolved`; session: `planned`/`complete`). Allowed values per type are listed in `_meta/conventions.md`. |
+| `tags`    | Cross-cutting themes only — see [Tags](#3-tags).                                                                                                                                                                                                    |
+| `sources` | Where the content came from. Always a **list** (plural), even for a single entry.                                                                                                                                                                   |
+| `related` | Auto-derived, script-maintained list of **all** the note's wikilink connections — a quick-reference index of everything this note touches. Not hand-curated (see [Scripts](#5-scripts--graph--index-work)).                                         |
+
+Notes also carry **housekeeping fields** (`campaign`, `aliases`, `created`) and **type-specific fields** (e.g. `player`/`class` on characters, `region` on locations). Those are governed by the templates; the five above are the ones indexing depends on.
+
+> [!warning] Cleanup implied by these rules
+> - `status:` values are currently inconsistent across the vault (e.g. both `dead` and `deceased`, stray `active!`, a couple of broken multi-line values). Adopting a controlled per-type vocabulary means normalizing these.
+> - Every template still adds a **type-name tag** (`tags: [npc]`, `tags: [location]`, …). The tags policy below deprecates those, so templates need updating to drop them.
+
+---
+
+## 3. Tags
+
+Tags are **controlled, retrievable labels — not free-form keywords.** They exist for discovery and indexing: to collect relevant material together and give the graph view shape.
+
+**Type is not a tag.** `type:` already captures what a note *is*, so re-encoding it as a tag adds nothing. Tags are reserved for **cross-cutting retrieval axes** that group *across* types — e.g. `#fey`, `#first-world`, `#briar`, `#undead` — connections that `type:` can't express.
+
+**Format:** lowercase-kebab-case, in YAML frontmatter. The active set is tracked under `## Active` in `_meta/tags.md`.
+
+**Creating a tag.** Only when it is a **real, reusable retrieval axis**. Do not create tags that:
+- duplicate `type:`, or
+- are vague one-offs used by a single note.
+
+**Intake of a new tag.** If work needs a tag that isn't active yet:
+1. Add it under `## Proposed` in `_meta/tags.md` with: the **date**, the **source note path**, and likely **synonym / merge candidates**.
+2. You may apply it **provisionally** to the note.
+3. **Never silently invent tags** — every new tag is recorded as proposed first.
+
+**Governance — `/vault-stitch`.** This is the review path for **cross-cutting content across notes** (tags first, and extensible to other connective axes). It runs in two ways:
+- **On-demand skill:** reconcile the registry — walk each `## Proposed` tag and **promote → `## Active`**, **reject**, or **merge** into an existing tag, updating the registry and rewriting affected notes.
+- **`/ingest` intake gate:** as content comes in, validate its tags against the registry, dedupe/merge, and file anything unknown under `## Proposed`.
+
+(General vault hygiene — orphans, broken links — stays in `/lint`. `/vault-stitch` is specifically the connective/cross-cutting layer.)
+
+---
+
+## 4. File Size & Splitting
+
+**File size is a signal, not a rule.** Split a note when its content contains **independently useful topics** — sections that would be worth retrieving on their own — not merely because it's long.
+
+**Template skeletons don't count toward splitting.** Each type's template defines a fixed set of H2 sections — a Character always has *Backstory Hook, Motivations, Character Arc, Personality, Relationships,* and so on. These **skeleton** sections are expected furniture, not evidence a note has sprawled. A blank Character already has eight H2s, so a raw H2 count would flag every note the moment it's created. The splitting logic therefore **ignores skeleton H2s** and looks at two things instead:
+
+- **Added sections** — H2s beyond the type's skeleton (e.g. a character's `## Backstory — Edina Aldori`), and
+- **Section weight** — how large or self-structured any single section has become.
+
+(A type's skeleton is simply the H2 list in its template; a script can read the template to know which headers are structural.)
+
+**Whole-file review triggers.** These don't force a split; they mean *stop and evaluate by topic boundaries*:
+
+| Signal | Action |
+| --- | --- |
+| Multi-file source **with a routing table** | **Split** |
+| Single file **with a routing table** | Strongly consider **split** |
+| Typed note near its template skeleton, `< ~200` lines | Keep **flat** — skeleton H2s don't count |
+| `≥ 2` **added** (non-skeleton) H2s, **or** `≥ 500` lines total | Inspect structure; split on topic boundaries |
+| Any single section large (`~≥ 50–60` lines) **or** with its own H3s | Evaluate *that section* for split-off (see below) |
+| Anything in between | Split only if sections are useful as **separate retrieval targets** |
+
+> **Routing table:** a table of links/pointers to sub-files or sub-topics that stands in for the full content — a note whose job is to *route* the reader onward rather than hold everything itself.
+
+### Splitting a section — extract, but leave a stub
+
+The unit of splitting is the **section**, and splitting never removes it from the parent. A section (skeleton or added) becomes a split candidate only when **both** hold:
+
+1. **It has outgrown its home** — large (`~≥ 50–60` lines) *or* it has developed its own **H3 sub-structure**, and
+2. **It is independently useful** to link or retrieve on its own.
+
+Skeleton sections use the **higher end** of that size bar — they're *meant* to live in the parent, so they only leave once they clearly dominate it (e.g. a two-line "Backstory Hook" that has grown into a 200-line backstory).
+
+When you extract a section:
+
+- **Child file** — `characters/<Name> — <Section>.md`, a sibling in the same folder, holding the full content (body mode `verbose`, or `copy` for fragile source text). It links back to the parent, so it appears in the parent's `related`.
+- **Parent stub** — keep the H2 header; replace the body with a **1–3 sentence standalone summary** plus a `[[<Name> — <Section>]]` link. The parent always still *has* the section — just in `summary` (or `brief`) form.
+
+So a split is described entirely in body-mode terms: **parent stub = `summary`/`brief`, child = `verbose`/`copy`.** Reading the parent stays lean and oriented; the full detail is one link away and independently retrievable.
+
+**References may be deep and long** if that's their natural scope. Do **not** shrink a reference just to look compact — compactness comes from **curated router tables**, not artificially short files. When adding material, **fold it into an existing reference as a new H2** if it strengthens the same topic; create a new reference only when it's a durable, reusable topic of its own.
+
+**Body modes — a decision vocabulary** (shared language for "how much source to store," *not* a stored field). Use it when deciding how much of an external source a note mirrors locally:
+
+| Mode      | Use when                                                        |
+| --------- | --------------------------------------------------------------- |
+| `copy`    | Full original — only for short / fragile / ephemeral sources.   |
+| `verbose` | Deep structured note, so agents can answer without re-fetching. |
+| `summary` | Stable source whose details can be re-fetched when needed.      |
+| `brief`   | Pointer only — for live docs, dashboards, repos, or tickets.    |
+
+---
+
+## 5. Scripts — Graph & Index Work
+
+**Do graph and index work with scripts; never hand-edit derived data.** Derived artifacts (`_index/by-tag` note collections, backlinks, the `related` field, tag rewrites) are generated, not authored by hand.
+
+- **`_index/`** holds the generated indexes and is **git-synced** across machines.
+- **Helper scripts** perform all programmatic edits so notes are never hand-mangled. To be written and exposed as invokable **skills**:
+  - `vault-set-tags` — set/normalize a note's tags
+  - `vault-add-source` — add a source entry
+  - `vault-set-body` — write/replace a note's body content
+  - `vault-rebuild-index` — regenerate `_index/` (e.g. `by-tag`)
+  - `vault-rebuild-backlinks` — regenerate backlinks and the `related` field
+- **Skill symlinks.** Skills **live inside the vault** (versioned and in the vault's context), and `~/.claude` holds **symlinks** pointing to those in-vault skill files so they're usable anywhere on the machine. A script maintains these symlinks.
+
+---
+
+## 6. New Content — `/vault-enrich`
+
+A skill that takes a **domain** (a bounded slice of the vault — typically a campaign plus a category or theme, e.g. "Kingmaker fey" or "Brevoy politics") and works to **expand** it: dreaming up new characters, locations, and lore.
+
+It is the **guided, generative** sibling of the existing creation skills, and it **traverses the vault** for inspiration and tie-ins — pulling on existing entities so new content is woven into what's already there rather than invented in isolation.
+
+Everything it proposes must be **cleared by the GM**: it's an active, interactive conversation, creating new content with your guidance.
+
+| Skill           | Role                                                                                |
+| --------------- | ----------------------------------------------------------------------------------- |
+| `/ideate`       | Muse — spark ideas and questions (no writing).                                      |
+| `/capture`      | Record already-brainstormed content into notes.                                     |
+| `/flesh-it-out` | **Deepen existing** notes by filling gaps.                                          |
+| `/vault-enrich` | **Grow new** content across a domain, weaving in existing material — user-approved. |
