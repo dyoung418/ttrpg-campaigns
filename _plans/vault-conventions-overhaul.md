@@ -145,8 +145,8 @@ cluster, deity, timeline) is GM-interactive — run `/vault-stitch` when ready.*
 
 ## Post-adoption cleanup
 
-- [ ] Once all phases land, `Andrew's Vault Edits.md` (vault root) is superseded by the three
-  canonical files — move it to `_sources/processed/` or delete it (GM's call).
+- [x] Once all phases land, `Andrew's Vault Edits.md` (vault root) is superseded by the three
+  canonical files — moved to `_sources/processed/` (with the `(original)` copy) on 2026-07-05.
 
 ## Key references
 

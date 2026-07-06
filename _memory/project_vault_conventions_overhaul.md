@@ -49,7 +49,6 @@ documented-only (conventions §6). README gained a "Vault maintenance commands" 
 - Run `/vault-stitch` — the seeded `## Proposed` list awaits GM adjudication
   (`villain`/`dangerous`→`enemy`, bestiary cluster, `deity`, `timeline`).
 - 17 notes have a status-requiring type but no `status:` field — surface via `/lint`.
-- `Andrew's Vault Edits.md` (+ `(original)`) at vault root are now superseded by the three
-  canonical files — GM's call: move to `_sources/processed/` or delete.
+- ~~Andrew's Vault Edits.md~~ — done: both files moved to `_sources/processed/` (2026-07-05).
 
 Related: [[project_vault_setup]].
