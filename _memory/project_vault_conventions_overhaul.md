@@ -38,9 +38,18 @@ TYPE/STATUS/STATUS_OK/HAS_SOURCES/HAS_RELATED/TYPE_TAG columns; `/lint` rewired 
 **Known finding left for `/lint`:** 17 notes have a status-requiring type but no `status:`
 field (needs per-entity GM judgment).
 
-**Pending:**
-- **Phase 3** — author `/vault-stitch` (tag-registry governance + `/ingest` intake gate); document
-  (don't author) `/vault-enrich`. The `_meta/tags.md` `## Proposed` list is seeded and awaiting a
-  `/vault-stitch` pass (e.g. `villain`/`dangerous`→`enemy`, the bestiary cluster).
+**Phase 3 — DONE (2026-07-05). All phases complete.** `/vault-stitch` authored (reconcile mode:
+promote/merge/reject one tag at a time, clusters as family decisions, rewrites via
+vault-set-tags.py, then index rebuild; intake mode: judgment rules + script-enforced registry).
+`/ingest` now routes tags through the intake gate, and its pre-Phase-1 drift was fixed (it was
+still writing type-name tags, `status: rp-scene`, singular `source:`). `/vault-enrich` stays
+documented-only (conventions §6). README gained a "Vault maintenance commands" section.
+
+**Outstanding follow-ups (not part of the overhaul phases):**
+- Run `/vault-stitch` — the seeded `## Proposed` list awaits GM adjudication
+  (`villain`/`dangerous`→`enemy`, bestiary cluster, `deity`, `timeline`).
+- 17 notes have a status-requiring type but no `status:` field — surface via `/lint`.
+- `Andrew's Vault Edits.md` (+ `(original)`) at vault root are now superseded by the three
+  canonical files — GM's call: move to `_sources/processed/` or delete.
 
 Related: [[project_vault_setup]].

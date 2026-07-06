@@ -8,7 +8,15 @@ You are helping a GM ingest source documents (Discord RP exports, lore docs, any
 
 **Hard rule — never modify files under `_sources/`.** They are the historical record. Read them, extract their content into vault notes, then move them from `_sources/new/` to `_sources/processed/` (preserving any subdirectory structure). Never edit a source file in place. Never delete a source file.
 
-**Backlink rule — always link vault notes back to their source files.** Every note you create or update during ingest must include a wikilink to the source file(s) it was drawn from. Use a `## Sources` section (or add to an existing one) with entries like `- [[_sources/processed/RP14 The Great Feast of Freehaven|RP14 — The Great Feast of Freehaven]]`. Link liberally — if multiple source files contributed to a note, list all of them. Session/scene notes must always include the source link in their frontmatter (`source:`) **and** in the body. The goal is a clear audit trail from every vault note back to the raw document that produced it.
+**Backlink rule — always link vault notes back to their source files.** Every note you create or update during ingest must include a wikilink to the source file(s) it was drawn from. Use a `## Sources` section (or add to an existing one) with entries like `- [[_sources/processed/RP14 The Great Feast of Freehaven|RP14 — The Great Feast of Freehaven]]`. Link liberally — if multiple source files contributed to a note, list all of them. Also record every source in the note's `sources:` frontmatter list — use the script, it's idempotent:
+
+```bash
+python3 _scripts/vault-add-source.py "<note>" '[[_sources/processed/<file>|<display>]]'
+```
+
+The goal is a clear audit trail from every vault note back to the raw document that produced it.
+
+**Tag rule — tags go through the `/vault-stitch` intake gate.** Never hand-write `tags:` on new notes and never invent tags. Apply tags with `python3 _scripts/vault-set-tags.py --add "<note>" <tags...>` — it validates against `_meta/tags.md`, refuses type-name tags (type lives in `type:` only), and files unknown tags under `## Proposed` automatically. Judgment rules for choosing candidate tags: `.claude/commands/vault-stitch.md` Mode 2.
 
 Work through this interactively, one question at a time.
 
@@ -102,7 +110,7 @@ If you can't pass content into `/capture`, do the same work directly:
    ```
 2. For each entity found in the source:
    - **Existing file → update it** with new details (status changes, relationship developments, scene appearances). Preserve existing content. Add new info under appropriate sections (`## Recent Events`, `## Relationships`, etc.).
-   - **New entity → create a file** in the right subfolder using `_templates/` as a structural guide. Frontmatter must include `type`, `campaign: <campaign>`, `tags: [<type>, campaign/<campaign>]`, `created: <today YYYY-MM-DD>`.
+   - **New entity → create a file** in the right subfolder using `_templates/` as a structural guide. Frontmatter must include `type`, `campaign: <campaign>`, `tags: [campaign/<campaign>]` (plus cross-cutting theme tags via the intake gate — never a type-name tag), `sources: []`, `related: []`, a `status` from the type's vocabulary (`_meta/conventions.md` §2), and `created: <today YYYY-MM-DD>`.
 3. Cross-link aggressively. Every NPC mentioned → link their home location, faction, related plot hooks. Every location → link NPCs found there. Every event → link involved characters.
 4. **Add source backlinks.** On every note created or updated, ensure a `## Sources` section exists with a wikilink to the source file: `- [[_sources/processed/<filename>|<display name>]]`. If the file is still in `new/` at this point, link to `_sources/new/<filename>` — the link will resolve correctly after the file is moved in Step 4e. If the note already has a `## Sources` section, append to it rather than replacing it.
 5. Update `campaigns/<campaign>/_index.md` — add wikilinks under the appropriate sections for any newly created entities.
@@ -118,18 +126,19 @@ For RP files only, also create or update a scene note under `campaigns/<campaign
    ---
    type: session
    campaign: <campaign>
-   tags: [session, campaign/<campaign>]
+   tags: [campaign/<campaign>, rp-scene]
    date: ""
    session_number: NN
-   status: rp-scene
+   status: complete
    players_present: [<wikilinked PCs from speaker tags>]
-   source: "[[_sources/processed/<filename>|<display name>]]"
+   sources:
+     - "[[_sources/processed/<filename>|<display name>]]"
    created: <today>
    ---
    ```
    Body: short summary, key beats, links to NPCs/locations/items touched. End with a `## Sources` section: `- [[_sources/processed/<filename>|<display name>]]`.
 
-`status: rp-scene` is a new value — flag it in the final report so the GM knows their `.base` views may want to include it.
+The `rp-scene` **tag** (not a status) marks roleplay-scene logs — see `_meta/conventions.md` §2.
 
 ### 4e. Move the source file on success
 

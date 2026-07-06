@@ -1,7 +1,7 @@
 ---
 type: plan
 tags: []
-status: in-progress
+status: complete
 created: 2026-07-05
 ---
 
@@ -116,23 +116,30 @@ GM judgment per entity, so left for `/lint` triage, not auto-fixed.
 
 ---
 
-## Phase 3 — `/vault-stitch` skill (+ document `/vault-enrich`)  ⏳ TODO
+## Phase 3 — `/vault-stitch` skill (+ document `/vault-enrich`)  ✅ DONE (2026-07-05)
 
-- [ ] **Author `.claude/commands/vault-stitch.md`** (match existing command style: `description`,
-  `argument-hint`, `allowed-tools` frontmatter — see `.claude/commands/capture.md`). Two modes:
-  1. **Registry reconcile (on-demand):** walk each `## Proposed` tag in `_meta/tags.md`; promote →
-     `## Active`, reject, or merge; rewrite affected notes via `vault-set-tags`; regenerate indexes.
-     First real pass targets the seeded proposals: `villain`/`dangerous`→`enemy`; the bestiary
-     cluster (`humanoid`/`giant`/`hag`/`construct`/`aberration`) — decide `creature-type` axis vs
-     individual; `deity` promote?; `timeline` keep/drop.
-  2. **`/ingest` intake gate:** validate incoming tags against the registry, dedupe/merge, file
-     unknowns under `## Proposed`. Requires a small edit to `.claude/commands/ingest.md` to call it.
-  - Scope boundary: general hygiene (orphans, broken links) stays in `/lint`; `/vault-stitch` owns
-    only the connective/cross-cutting (tag) layer.
-- [ ] **Document `/vault-enrich`** — already listed in `_meta/conventions.md` §6 taxonomy; do NOT
-  author it this effort.
-- [ ] Verify: dry-run the reconcile mode against seeded proposals; confirm a merge (e.g.
-  `villain`→`enemy`) rewrites affected notes + updates the registry. Commit Phase 3.
+- [x] **Authored `.claude/commands/vault-stitch.md`** (house command style). Two modes:
+  1. **Registry reconcile (default):** gathers usage evidence per proposed tag, walks the GM
+     through promote / merge / reject one at a time (clusters presented as a single family
+     decision first), rewrites notes via `vault-set-tags.py`, edits registry rows directly
+     (registry is authored data), then reruns `vault-rebuild-index.py`. Never leaves a tag
+     half-adjudicated.
+  2. **Intake gate (`intake <note> <tags...>`):** judgment rules (normalize, map to active
+     near-synonyms, drop type-duplicates/one-offs) + apply via `vault-set-tags.py`, which
+     enforces the registry and auto-files unknowns under `## Proposed`.
+- [x] **`.claude/commands/ingest.md` edited** to route tags through the intake gate — and its
+  pre-Phase-1 drift fixed: was still instructing `tags: [<type>, campaign/<x>]`,
+  `status: rp-scene`, and singular `source:`; now conventions-compliant (`rp-scene` tag +
+  `status: complete`, `sources:` list via `vault-add-source.py`).
+- [x] `/vault-enrich` — documented in `_meta/conventions.md` §6 (Phase 1); intentionally NOT
+  authored.
+- [x] CLAUDE.md `(planned)` marker removed; README gained a "Vault maintenance commands"
+  section covering the four vault-* commands + `/vault-stitch`.
+- [x] Verified: merge mechanics dry-run (`villain`→`enemy` on Nyrissa) produce the correct
+  tag rewrites; registry row edits are plain Edits. Commit Phase 3.
+
+**The actual reconcile pass over the seeded proposals (villain/dangerous→enemy, bestiary
+cluster, deity, timeline) is GM-interactive — run `/vault-stitch` when ready.**
 
 ---
 

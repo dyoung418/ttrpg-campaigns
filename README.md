@@ -32,6 +32,20 @@ Talk to Claude in plain text. At the beginning, use /campaign new.  These slash 
 | `/lint [scope]`             | Tactical vault sanity check. Auto-fixes safe issues (missing `created` dates, tag normalization). Reports broken wikilinks, orphan files, missing embeds for you to triage.                                                   |
 | `/reconcile <sources>`      | Compares vault content against source-of-truth files you point at (typically under `_sources/`). Walks you through contradictions one by one. Only vault notes get updated — source files are never touched.                  |
 
+## Vault maintenance commands
+
+Frontmatter is what makes the vault queryable — every note carries `type`, `status`, `tags`, `sources`, and `related` fields (the rules live in `_meta/conventions.md`, the controlled tag set in `_meta/tags.md`). These commands keep that layer healthy so you never have to hand-edit it:
+
+| Command | What it does |
+| ------- | ------------ |
+| `/vault-set-tags <note> <tags...>` | Sets (or `--add`/`--remove`) a note's tags. Tags are validated against the registry in `_meta/tags.md`; anything unknown is applied provisionally and filed under `## Proposed` for later adjudication — new tags are never invented silently. Type names (`npc`, `location`, …) are refused: type lives in the `type:` field, never in tags. |
+| `/vault-add-source <note> <entry...>` | Appends an entry (usually a wikilink to a file under `_sources/`) to a note's `sources:` list. Idempotent — entries already present are skipped. |
+| `/vault-rebuild-backlinks [scope]` | Regenerates every note's `related:` field from the wikilink graph: the sorted union of the notes it links to and the notes that link to it. `related` is derived data — always rebuild it with this command, never edit it by hand. |
+| `/vault-rebuild-index` | Regenerates `_index/by-tag/` — one page per tag listing every note carrying it, plus an overview. Like `related`, `_index/` is generated and committed to git; rerun this after tag changes. |
+| `/vault-stitch` | Adjudicates the tag registry. New tags land under `## Proposed` in `_meta/tags.md` (via `/vault-set-tags` or `/ingest`); this command walks you through each one — promote it to the active set, merge it into an existing tag (rewriting the notes that carry it), or reject it — then rebuilds the tag index. Run it when the proposed list has piled up. |
+
+Typical flow: after a big capture or ingest session, run `/vault-rebuild-backlinks` then `/vault-rebuild-index` and commit the result alongside your content changes. The underlying scripts live in `_scripts/` (plain Python 3, no dependencies) if you prefer to run them directly, and every one supports `--dry-run`.
+
 ## Capturing your thoughts
 Once a campaign is created /capture [campaign] is your main tool for letting claude help you capture information into the campaign vault.  Speak in open dialog about whatever you want to capture and claude will create or edit .md files and put in wikilinks to link up all the pages as appropriate.
 For example, you might say "/capture curse-of-strahd One of our PCs, Welland, had an older brother named Garnet when he was growing up in Stelford who went off to be an adventurer and was never heard of again.  I'd like that brother to show up in Strahd's castle when the PCs finally get there.  Perhaps he was bitten by a vampire and joined them."  With all of this, claude will create/edit the welland.md file in the characters subdirectory, create/edit a garnet.md file in the npc subdirectory, update the stelford.md and strahd's castle.md files in the locations directory and add relevant snippets with links to each of them.  It will also open up Garnet's eventual appearance as an open story hook.  It does all the work of maintaining all these linked files from your open dialog 
