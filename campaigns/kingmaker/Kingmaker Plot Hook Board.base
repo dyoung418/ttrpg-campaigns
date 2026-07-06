@@ -1,6 +1,9 @@
 filters:
-  and:
+  # OR both path forms so the view works whether Obsidian has the repo
+  # root open or the nested campaigns/ vault (used for graph view).
+  or:
     - file.inFolder("campaigns/kingmaker/plot-hooks")
+    - file.inFolder("kingmaker/plot-hooks")
 properties:
   status:
     displayName: Status
