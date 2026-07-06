@@ -44,7 +44,7 @@ Show the user the list of files you're about to process and the total count.
 Source filenames don't reliably encode campaign membership, so ask up front:
 
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort | xargs -I{} basename {}
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort | xargs -I{} basename {}
 ```
 
 Ask: "Which campaign should these sources be captured into?"

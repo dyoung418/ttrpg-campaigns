@@ -8,13 +8,13 @@ You are helping a GM organize TTRPG campaign content into an Obsidian vault.
 
 ## Step 1 — Resolve Target
 
-**If `$ARGUMENTS` is `ideas`:** use `ideas/` as the target folder. Skip reading a campaign `_index.md` — instead read `ideas/_index.md`.
+**If `$ARGUMENTS` is `ideas`:** use `campaigns/ideas/` as the target folder. Skip reading a campaign `_index.md` — instead read `campaigns/ideas/_index.md`.
 
 **If `$ARGUMENTS` names a campaign:** use `campaigns/$ARGUMENTS/` as the target.
 
 **If `$ARGUMENTS` is empty:** list available options:
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort
 ```
 Ask: "Which campaign is this for? Or type `ideas` to capture campaign-agnostic content."
 
@@ -26,7 +26,7 @@ Before creating anything, use `obsidian:obsidian-cli` to search the live vault a
 find /home/danny/ttrpg_campaigns/campaigns/<name> -name "*.md" | sort
 
 # For ideas:
-find /home/danny/ttrpg_campaigns/ideas -name "*.md" | sort
+find /home/danny/ttrpg_campaigns/campaigns/ideas -name "*.md" | sort
 ```
 Read the target's `_index.md` to understand what already exists.
 
@@ -56,7 +56,7 @@ For each entity, use `obsidian:obsidian-cli` to search before creating a new fil
 grep -r "Entity Name" /home/danny/ttrpg_campaigns/campaigns/<name>/ -l 2>/dev/null
 
 # Ideas:
-grep -r "Entity Name" /home/danny/ttrpg_campaigns/ideas/ -l 2>/dev/null
+grep -r "Entity Name" /home/danny/ttrpg_campaigns/campaigns/ideas/ -l 2>/dev/null
 ```
 If a file already exists, plan to **update** it rather than create a duplicate.
 
@@ -82,13 +82,13 @@ Use `obsidian:obsidian-markdown` to write note body content so Obsidian-flavored
 - `campaigns/<name>/lore/<Topic Name>.md`
 
 **File paths for ideas target:**
-- `ideas/npcs/<NPC Name>.md`
-- `ideas/locations/<Location Name>.md`
-- `ideas/encounters/<Encounter Name>.md`
-- `ideas/plot-hooks/<Hook Name>.md`
-- `ideas/factions/<Faction Name>.md`
-- `ideas/items/<Item Name>.md`
-- `ideas/lore/<Topic Name>.md`
+- `campaigns/ideas/npcs/<NPC Name>.md`
+- `campaigns/ideas/locations/<Location Name>.md`
+- `campaigns/ideas/encounters/<Encounter Name>.md`
+- `campaigns/ideas/plot-hooks/<Hook Name>.md`
+- `campaigns/ideas/factions/<Faction Name>.md`
+- `campaigns/ideas/items/<Item Name>.md`
+- `campaigns/ideas/lore/<Topic Name>.md`
 
 **Cross-linking rules:**
 - Every Character file → wikilink to NPCs they have relationships with, Plot Hooks tied to their backstory
@@ -103,7 +103,7 @@ Use `obsidian:obsidian-markdown` to write note body content so Obsidian-flavored
 
 **Campaign target:** Open `campaigns/<name>/_index.md` and add new entities to the appropriate sections. Use wikilinks. Do not remove existing entries.
 
-**Ideas target:** Open `ideas/_index.md` and add new entities to the appropriate sections. Use wikilinks.
+**Ideas target:** Open `campaigns/ideas/_index.md` and add new entities to the appropriate sections. Use wikilinks.
 
 ## Step 8 — Report
 

@@ -12,8 +12,10 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-# Directories under the vault root that hold real notes.
-CONTENT_DIRS = ("campaigns", "ideas")
+# Directories under the vault root that hold real notes. The ideas bank lives
+# at campaigns/ideas/ (inside campaigns/ so graph view of that folder shows all
+# content), so campaigns/ covers everything.
+CONTENT_DIRS = ("campaigns",)
 
 # Frontmatter type values in use; a tag equal to one of these is a deprecated
 # "type-name tag" and must never be applied (see _meta/conventions.md §3).
@@ -36,7 +38,8 @@ def iter_notes(vault: Path, scope: Path | None = None):
     for root in roots:
         if not root.is_dir():
             continue
-        yield from sorted(p for p in root.rglob("*.md") if p.is_file())
+        yield from sorted(p for p in root.rglob("*.md")
+                          if p.is_file() and ".obsidian" not in p.parts)
 
 
 # ---------------------------------------------------------------- frontmatter

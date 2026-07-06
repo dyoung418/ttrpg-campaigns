@@ -37,7 +37,7 @@ Work through the steps **interactively**, one at a time. Ask questions, listen t
 **Resolve campaign:**
 If `$ARGUMENTS` names a campaign, use it. Otherwise list available campaigns:
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort
 ```
 
 **Determine session number:**
@@ -104,7 +104,7 @@ grep -rl "status: open\|status: active" /home/danny/ttrpg_campaigns/campaigns/<n
 
 Also check the ideas bank for unassigned plot hooks that might fit:
 ```bash
-find /home/danny/ttrpg_campaigns/ideas/plot-hooks -name "*.md" 2>/dev/null | sort
+find /home/danny/ttrpg_campaigns/campaigns/ideas/plot-hooks -name "*.md" 2>/dev/null | sort
 ```
 If any ideas-bank hooks feel relevant, mention them to the user as potential material to pull in.
 
@@ -129,7 +129,7 @@ find /home/danny/ttrpg_campaigns/campaigns/<name>/locations -name "*.md" 2>/dev/
 
 Also check the ideas bank for unassigned locations that might fit this session:
 ```bash
-find /home/danny/ttrpg_campaigns/ideas/locations -name "*.md" 2>/dev/null | sort
+find /home/danny/ttrpg_campaigns/campaigns/ideas/locations -name "*.md" 2>/dev/null | sort
 ```
 If any ideas-bank locations feel relevant, surface them for the user. If they choose to use one, move it into `campaigns/<name>/locations/` and update the ideas index.
 
@@ -150,7 +150,7 @@ For NPCs critical to this session (quest givers, villains, key contacts), note:
 
 Check `campaigns/<name>/npcs/` for existing files. Also check the ideas bank for unassigned NPCs who might slot into this session:
 ```bash
-find /home/danny/ttrpg_campaigns/ideas/npcs -name "*.md" 2>/dev/null | sort
+find /home/danny/ttrpg_campaigns/campaigns/ideas/npcs -name "*.md" 2>/dev/null | sort
 ```
 Surface any relevant ideas-bank NPCs to the user. Create stubs for new NPCs and offer to `/capture` them afterward.
 

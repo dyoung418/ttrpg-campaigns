@@ -6,7 +6,7 @@ allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Skill
 
 You are reconciling the GM's vault against source-of-truth documents the user has pointed you at (typically files under `_sources/processed/` or `_sources/new/`, but any path works).
 
-**Hard rule — never modify source files.** Source files are the historical record. You can only edit vault notes under `campaigns/` and `ideas/`. Even when the user decides the vault is wrong and the source is right, you update the vault — never the source.
+**Hard rule — never modify source files.** Source files are the historical record. You can only edit vault notes under `campaigns/` and `campaigns/ideas/`. Even when the user decides the vault is wrong and the source is right, you update the vault — never the source.
 
 **Backlink rule — always link vault notes back to their source files.** Whenever you edit a vault note to apply a reconciliation change, ensure the note has a `## Sources` section with a wikilink to the source document: `- [[_sources/processed/<filename>|<display name>]]`. If the section already exists, add the new source rather than replacing what's there. If you create a new stub via `/capture`, pass the source path so the stub is born with the backlink already present. The goal is a clear audit trail: every vault note should point back to the raw documents that shaped it.
 
@@ -50,7 +50,7 @@ Show the user the source list and total count.
 Ask once: "Which campaign am I reconciling against?"
 
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort | xargs -I{} basename {}
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort | xargs -I{} basename {}
 ```
 
 If a source file's path strongly suggests a campaign (e.g. lives under a campaign-named subfolder), pre-suggest that — but always confirm with the user.

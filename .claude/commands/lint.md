@@ -9,7 +9,7 @@ You are running a tactical lint over the GM's Obsidian vault. Two passes:
 1. **Auto-fix safe issues silently.** Things with one obvious correct answer (missing `created` date, missing campaign tag, tags-as-string, etc.). Edit in place. Log each fix.
 2. **Report unsafe issues for triage.** Things that need judgment (broken wikilinks, orphans, ambiguous types). Group them, then walk the user through them one question at a time.
 
-**Scope discipline.** Only touch `campaigns/` and `ideas/`. Never modify files under `_sources/` (including `_sources/processed/do-not-commit/`), `_templates/`, `.obsidian/`, `_assets/`, or `_scripts/`.
+**Scope discipline.** Only touch `campaigns/` (which includes the ideas bank at `campaigns/ideas/`). Never modify files under `_sources/` (including `_sources/processed/do-not-commit/`), `_templates/`, `.obsidian/`, `_assets/`, or `_scripts/`.
 
 **Body content is sacrosanct.** Auto-fixes only edit frontmatter or append a trailing newline. Never touch body prose.
 
@@ -19,10 +19,10 @@ You are running a tactical lint over the GM's Obsidian vault. Two passes:
 
 Based on `$ARGUMENTS`:
 
-- **Empty:** scope is `campaigns/` ∪ `ideas/`.
-- **`ideas`:** scope is `/home/danny/ttrpg_campaigns/ideas/`.
+- **Empty:** scope is `campaigns/` (includes the ideas bank).
+- **`ideas`:** scope is `/home/danny/ttrpg_campaigns/campaigns/ideas/`.
 - **A campaign name:** scope is `/home/danny/ttrpg_campaigns/campaigns/<name>/`.
-- **A glob:** resolve it under `campaigns/` or `ideas/`.
+- **A glob:** resolve it under `campaigns/`.
 
 State the scope to the user before doing anything.
 
@@ -48,13 +48,13 @@ You will also need an **inbound link map** for orphan detection. For each file i
 
 ```bash
 # Per file (basename without .md):
-grep -rl "\[\[<basename>\(\||\]\)" /home/danny/ttrpg_campaigns/campaigns /home/danny/ttrpg_campaigns/ideas 2>/dev/null
+grep -rl "\[\[<basename>\(\||\]\)" /home/danny/ttrpg_campaigns/campaigns 2>/dev/null
 ```
 
 Cheaper alternative: do a single grep dump and bucket results in your head:
 
 ```bash
-grep -rohE "\[\[[^]]+\]\]" /home/danny/ttrpg_campaigns/campaigns /home/danny/ttrpg_campaigns/ideas 2>/dev/null | sort | uniq -c | sort -rn
+grep -rohE "\[\[[^]]+\]\]" /home/danny/ttrpg_campaigns/campaigns 2>/dev/null | sort | uniq -c | sort -rn
 ```
 
 ---
@@ -70,7 +70,7 @@ For each file in scope, apply these fixes silently. Edit only the frontmatter bl
 | `tags:` value is a bare string (e.g. `tags: fey`) | Convert to array form: `tags: [fey]`. If comma-separated, split it. |
 | Missing trailing newline | Append `\n`. |
 | `type:` missing AND folder is unambiguous | Set `type:` from the folder name (mapping below). |
-| `campaign:` empty/missing but path is `campaigns/<name>/...` | Set `campaign: <name>`. |
+| `campaign:` empty/missing but path is `campaigns/<name>/...` | Set `campaign: <name>`. **Exception: `campaigns/ideas/` — the ideas bank is not a campaign; its notes carry no `campaign:` field or `campaign/*` tag.** |
 | `TYPE_TAG` = 1 (deprecated type-name tag in `tags:`) | Remove that tag — type lives in `type:` only (`_meta/conventions.md` §3). Prefer `python3 _scripts/vault-set-tags.py --remove <note> <tag>`. |
 | `sources:` key missing on a typed note | Add `sources: []`. Prefer `_scripts/vault-add-source.py` when there's a known source to record. |
 | `related:` key missing on a typed note | Add `related: []`, then note in the report that `python3 _scripts/vault-rebuild-backlinks.py` should be run to populate it (never hand-write `related` values). |
@@ -105,7 +105,7 @@ For every outbound `[[Foo]]` link in scope, check whether `Foo.md` exists anywhe
 
 ```bash
 # All wikilink targets in scope:
-grep -rohE "\[\[[^]]+\]\]" /home/danny/ttrpg_campaigns/campaigns /home/danny/ttrpg_campaigns/ideas 2>/dev/null \
+grep -rohE "\[\[[^]]+\]\]" /home/danny/ttrpg_campaigns/campaigns 2>/dev/null \
   | sed 's/^\[\[//; s/\]\]$//' \
   | cut -d'|' -f1 \
   | cut -d'#' -f1 \
@@ -146,12 +146,12 @@ Any row with `STATUS_OK` = 0. The allowed per-type values live in `_meta/convent
 Find every `.base` file in scope. Parse its `filters:` block (look for `file.inFolder("path/x")`) and its `properties:` keys. For each property, count how many notes matched by the filter actually use that frontmatter key. If 0 of N use it, flag drift.
 
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns /home/danny/ttrpg_campaigns/ideas -name "*.base"
+find /home/danny/ttrpg_campaigns/campaigns -name "*.base"
 ```
 
 ### 4g. Ambiguous wikilink targets
 
-If two notes have the same basename in different folders (e.g. `ideas/npcs/Cat.md` and `campaigns/kingmaker/npcs/Cat.md`), `[[Cat]]` is ambiguous. Build a basename → paths map and flag any with >1 path.
+If two notes have the same basename in different folders (e.g. `campaigns/ideas/npcs/Cat.md` and `campaigns/kingmaker/npcs/Cat.md`), `[[Cat]]` is ambiguous. Build a basename → paths map and flag any with >1 path.
 
 ---
 

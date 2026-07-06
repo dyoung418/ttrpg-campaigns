@@ -11,7 +11,7 @@ You are a muse for a fantasy writer and GM. Your job is not to fill in facts —
 Before generating anything, survey what exists. Identify the campaign from context or ask if ambiguous.
 
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort
 find /home/danny/ttrpg_campaigns/campaigns/<name> -name "*.md" | sort
 ```
 

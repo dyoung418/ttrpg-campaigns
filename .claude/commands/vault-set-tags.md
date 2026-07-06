@@ -6,7 +6,7 @@ allowed-tools: Bash, Read, Grep, Glob
 
 Thin wrapper around `_scripts/vault-set-tags.py`. Tag policy: `_meta/conventions.md` §3.
 
-1. Resolve the note from `$ARGUMENTS`. If given a bare name instead of a path, find it: `find campaigns ideas -name "<name>.md"`. If ambiguous, ask which one.
+1. Resolve the note from `$ARGUMENTS`. If given a bare name instead of a path, find it: `find campaigns -name "<name>.md"`. If ambiguous, ask which one.
 2. Run it (from the vault root):
 
    ```bash

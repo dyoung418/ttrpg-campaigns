@@ -29,7 +29,7 @@ def slug(tag: str) -> str:
 
 def group_of(vault: Path, path: Path) -> str:
     rel = path.relative_to(vault).parts
-    return rel[1] if rel[0] == "campaigns" else rel[0]  # campaign name | 'ideas'
+    return rel[1] if rel[0] == "campaigns" else rel[0]  # campaign name or 'ideas' (the bank lives at campaigns/ideas/)
 
 
 def scalar_field(fm: str, key: str) -> str:

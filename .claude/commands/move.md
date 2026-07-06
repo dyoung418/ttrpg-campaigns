@@ -15,7 +15,7 @@ Work through this interactively, one question at a time. Do not ask multiple que
 List available sources:
 ```bash
 echo "ideas"
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort | xargs -I{} basename {}
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort | xargs -I{} basename {}
 ```
 
 Ask the user: "Where are you moving FROM? (ideas bank or a campaign name)"
@@ -30,7 +30,7 @@ List the subdirectories in the source that contain at least one `.md` file:
 
 ```bash
 # For ideas source:
-find /home/danny/ttrpg_campaigns/ideas -mindepth 1 -maxdepth 1 -type d | while read d; do
+find /home/danny/ttrpg_campaigns/campaigns/ideas -mindepth 1 -maxdepth 1 -type d | while read d; do
   count=$(find "$d" -name "*.md" | wc -l)
   [ "$count" -gt 0 ] && basename "$d"
 done | sort
@@ -54,7 +54,7 @@ List the `.md` files in `<source>/<type>/`:
 
 ```bash
 # For ideas:
-find /home/danny/ttrpg_campaigns/ideas/<type> -name "*.md" | sort | xargs -I{} basename {} .md
+find /home/danny/ttrpg_campaigns/campaigns/ideas/<type> -name "*.md" | sort | xargs -I{} basename {} .md
 
 # For campaign:
 find /home/danny/ttrpg_campaigns/campaigns/<name>/<type> -name "*.md" | sort | xargs -I{} basename {} .md
@@ -72,7 +72,7 @@ List available destinations, **excluding the source**:
 
 ```bash
 echo "ideas"
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort | xargs -I{} basename {}
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort | xargs -I{} basename {}
 ```
 
 Remove the source from this list before presenting it. Ask: "Where are you moving it TO?"
@@ -103,7 +103,7 @@ Ask: "Confirm?" and wait for a yes before proceeding.
 mkdir -p /home/danny/ttrpg_campaigns/campaigns/<destination>/<type>
 
 # Ideas destination (subfolders already exist, but just in case):
-mkdir -p /home/danny/ttrpg_campaigns/ideas/<type>
+mkdir -p /home/danny/ttrpg_campaigns/campaigns/ideas/<type>
 ```
 
 **Move the file:**
@@ -163,11 +163,11 @@ For each non-index file from Step 8:
 
 Obsidian resolves `[[Note Name]]` by note name, not path — so bare wikilinks **do not need updating** and will continue to resolve correctly after the move.
 
-However, if any file contains a **path-qualified link** like `[[campaigns/old-campaign/locations/Note Name]]` or `[[ideas/locations/Note Name]]`, update that link to reflect the new path.
+However, if any file contains a **path-qualified link** like `[[campaigns/old-campaign/locations/Note Name]]` or `[[campaigns/ideas/locations/Note Name]]`, update that link to reflect the new path.
 
 ```bash
 # Check for path-qualified links:
-grep -r "campaigns/<source-name>/<type>/<Note Name>\|ideas/<type>/<Note Name>" \
+grep -r "campaigns/<source-name>/<type>/<Note Name>\|campaigns/ideas/<type>/<Note Name>" \
   /home/danny/ttrpg_campaigns --include="*.md" -l 2>/dev/null
 ```
 

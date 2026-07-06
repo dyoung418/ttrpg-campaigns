@@ -10,7 +10,8 @@ if [ -z "$CAMPAIGN" ]; then
   echo "Usage: $0 <campaign-name>"
   echo ""
   echo "Available campaigns:"
-  find "$VAULT/campaigns" -maxdepth 1 -mindepth 1 -type d -exec basename {} \; | sort
+  # ideas bank (campaigns/ideas) is not a campaign; skip dot-dirs like .obsidian
+  find "$VAULT/campaigns" -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" -exec basename {} \; | sort
   exit 1
 fi
 
@@ -20,7 +21,8 @@ if [ ! -d "$DIR" ]; then
   echo "Campaign not found: $CAMPAIGN"
   echo ""
   echo "Available campaigns:"
-  find "$VAULT/campaigns" -maxdepth 1 -mindepth 1 -type d -exec basename {} \; | sort
+  # ideas bank (campaigns/ideas) is not a campaign; skip dot-dirs like .obsidian
+  find "$VAULT/campaigns" -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" -exec basename {} \; | sort
   exit 1
 fi
 

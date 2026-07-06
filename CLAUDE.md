@@ -21,7 +21,10 @@ This is an Obsidian vault for managing tabletop RPG campaigns. You are the GM's 
   - `sessions/` — session notes and planning docs
   - `*.base` — Obsidian Bases tracker views (NPC Tracker, Plot Hook Board, Session Log)
   - `*.canvas` — visual relationship maps and diagrams
-- `ideas/` — campaign-agnostic brainstorming bank (not tied to any campaign)
+- `campaigns/ideas/` — campaign-agnostic brainstorming bank (**not a campaign** — it lives under
+  `campaigns/` only so the Obsidian graph view of that one folder shows all content; never treat
+  `ideas` as a campaign name when enumerating campaigns, and its notes carry no `campaign:` field
+  or `campaign/*` tag)
   - `_index.md` — ideas hub
   - `npcs/`, `locations/`, `encounters/`, `plot-hooks/`, `factions/`, `items/`, `lore/`
   - Use `/capture ideas` to add content here
@@ -104,7 +107,7 @@ When the user describes TTRPG content in plain text, you:
 - Item files: `campaigns/<name>/items/<Item Name>.md`
 - Lore files: `campaigns/<name>/lore/<Topic Name>.md`
 - Session files: `campaigns/<name>/sessions/Session <NN> - <Title>.md`
-- Ideas bank files: `ideas/<type>/<Name>.md` (no characters/ in ideas — PCs always belong to a campaign)
+- Ideas bank files: `campaigns/ideas/<type>/<Name>.md` (no characters/ in ideas — PCs always belong to a campaign)
 - Base view files: `campaigns/<name>/<View Name>.base` (e.g., `NPC Tracker.base`)
 - Canvas files: `campaigns/<name>/<Map Name>.canvas` (e.g., `Kingmaker Relationship Map.canvas`)
 

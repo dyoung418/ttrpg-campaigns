@@ -20,7 +20,7 @@ You are helping a GM manage TTRPG campaigns in an Obsidian vault.
 
 Run:
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort
 ```
 
 For each campaign, show counts of each entity type:

@@ -80,6 +80,10 @@ campaigns/<name>/
 ├── lore/
 └── sessions/
 
+campaigns/ideas/       # Campaign-agnostic ideas bank — not a campaign; lives under
+├── _index.md          # campaigns/ so the graph view of that folder shows everything
+└── npcs/, locations/, encounters/, plot-hooks/, factions/, items/, lore/
+
 _sources/              # Source-of-truth documents — never modified by Claude
 ├── new/               # Drop new files here, then run /ingest
 └── processed/         # /ingest moves files here after they're captured

@@ -12,7 +12,7 @@ You are helping a GM develop their TTRPG campaign by surfacing and filling gaps 
 
 **If `$ARGUMENTS` is empty:** list available campaigns:
 ```bash
-find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d | sort
+find /home/danny/ttrpg_campaigns/campaigns -maxdepth 1 -mindepth 1 -type d ! -name ideas ! -name ".*" | sort
 ```
 Ask which campaign to work on.
 

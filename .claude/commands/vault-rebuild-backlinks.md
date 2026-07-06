@@ -12,6 +12,6 @@ Thin wrapper around `_scripts/vault-rebuild-backlinks.py`. Policy: `_meta/conven
    python3 _scripts/vault-rebuild-backlinks.py [scope-dir]
    ```
 
-   Pass a scope directory from `$ARGUMENTS` if given (the link *graph* always spans all of `campaigns/` + `ideas/`; scope only limits which notes get rewritten). `--dry-run` previews.
+   Pass a scope directory from `$ARGUMENTS` if given (the link *graph* always spans all of `campaigns/`, including the ideas bank; scope only limits which notes get rewritten). `--dry-run` previews.
 2. Report the summary line (updated / already-current / skipped counts). If any notes were skipped for missing frontmatter, list them — that's `/lint` territory.
 3. Typically follow with `/vault-rebuild-index` so `_index/` stays in step, and remind the user the changes are git-visible (`git diff --stat`).

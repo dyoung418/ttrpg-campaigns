@@ -21,7 +21,7 @@ Adjudicate every tag under `## Proposed` in `_meta/tags.md`, one at a time, inte
 Read `_meta/tags.md`. For each proposed tag, find its real usage before asking anything:
 
 ```bash
-grep -rln -- "- <tag>$" campaigns ideas          # block-list form in note frontmatter
+grep -rln -- "- <tag>$" campaigns               # block-list form in note frontmatter
 cat "_index/by-tag/<tag>.md" 2>/dev/null         # current index page, if any
 ```
 

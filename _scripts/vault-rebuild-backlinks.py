@@ -11,8 +11,9 @@ the sorted union of
 rendered as quoted wikilinks. Always regenerate, never hand-edit.
 
 Graph rules:
-  - Scope of the graph is all of campaigns/ + ideas/ (scope-dir only limits
-    which notes get *rewritten*, not what counts as a link).
+  - Scope of the graph is all of campaigns/ (which includes the ideas bank at
+    campaigns/ideas/; scope-dir only limits which notes get *rewritten*, not
+    what counts as a link).
   - `_index.md` hub files are excluded from the graph entirely: they link to
     everything by design, so counting them would put noise in every note.
   - Self-links and links that resolve outside the content dirs are ignored.

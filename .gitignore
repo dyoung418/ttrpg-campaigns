@@ -22,3 +22,6 @@ Thumbs.db
 
 # Python bytecode from _scripts helpers
 __pycache__/
+
+# Obsidian config for the nested campaigns/ vault (opened separately for graph view)
+campaigns/.obsidian/
