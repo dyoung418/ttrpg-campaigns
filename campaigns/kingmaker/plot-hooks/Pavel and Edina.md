@@ -4,7 +4,19 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Cat]]"
+  - "[[Edina Aldori]]"
+  - "[[Jolia Aldori]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Linzi]]"
+  - "[[Nightmarch]]"
+  - "[[Oaktop]]"
+  - "[[Pavel]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
 status: open
 created: "2026-05-29"
 ---

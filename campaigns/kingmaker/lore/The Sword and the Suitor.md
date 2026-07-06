@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Edina Aldori]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
 created: "2026-05-29"
 ---
 

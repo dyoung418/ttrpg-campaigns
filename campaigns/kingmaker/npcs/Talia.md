@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Freehaven]]"
+  - "[[Jameel Visser]]"
+  - "[[Riven]]"
+  - "[[Rowan Half Dark]]"
+  - "[[Talia's Revenge]]"
+  - "[[The Few]]"
 aliases: []
 status: alive
 role: "Leader of the Few; hunting Riven for killing her brother Rowan"

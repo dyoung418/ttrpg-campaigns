@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Eri Malai]]"
+  - "[[King Irovetti]]"
+  - "[[Nightmarch]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[Saint Flint]]"
 aliases: []
 status: alive
 role: "Naga; former resident of the Pitax palace"

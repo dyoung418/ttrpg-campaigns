@@ -4,7 +4,22 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aelir and Lytha]]"
+  - "[[Faelir]]"
+  - "[[Freehaven]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Kyonin]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Riven]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Silverstep]]"
+  - "[[Tanglebriar]]"
+  - "[[Treerazer]]"
 aliases: []
 status: accessible
 region: "Kyonin"

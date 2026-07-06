@@ -4,7 +4,31 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Briar]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Cat]]"
+  - "[[Edina Aldori]]"
+  - "[[Ekundayo]]"
+  - "[[Eri Malai]]"
+  - "[[Freehaven]]"
+  - "[[Gaspere Liacenza]]"
+  - "[[Kyonin]]"
+  - "[[Lee]]"
+  - "[[Linzi]]"
+  - "[[Lucas]]"
+  - "[[Lyriel]]"
+  - "[[Milo]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Rindle (Construct)]]"
+  - "[[Riven]]"
+  - "[[Silverstep]]"
+  - "[[The Starlight Staff]]"
 date: ""
 session_number: 23
 status: complete

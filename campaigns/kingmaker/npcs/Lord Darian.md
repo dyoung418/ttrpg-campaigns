@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Cassandra]]"
+  - "[[Golden Talons]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 20 — The Mud and the Blood]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Silverstep]]"
+  - "[[Willowshade]]"
 aliases: []
 status: deceased
 role: "Pitax military commander — Golden Talons vanguard"

@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Almon d'Avoine]]"
+  - "[[Cassandra]]"
+  - "[[Freehaven]]"
+  - "[[Golden Talons]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[Silverstep]]"
+  - "[[Willowshade]]"
 aliases: []
 status: resolved
 created: "2026-05-30"

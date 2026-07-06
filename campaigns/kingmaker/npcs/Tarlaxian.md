@@ -6,7 +6,21 @@ tags:
   - enemy
   - dragon
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Briar]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Ilthuliak]]"
+  - "[[Lee]]"
+  - "[[Lucas]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[The Rimebridge]]"
+  - "[[Thousandbreaths]]"
 aliases: []
 status: alive
 role: "Tarn linnorm; guardian of the bridge to the House at the Edge of Time"

@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Gaspere Liacenza]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
 aliases: []
 status: alive
 role: "Leader of the Vascari Bandit House in Pitax; ally in the infiltration"

@@ -4,7 +4,10 @@ campaign: lost-memories
 tags:
   - campaign/lost-memories
 sources: []
-related: []
+related:
+  - "[[Magister Aldric]]"
+  - "[[The Power Transference Ritual]]"
+  - "[[The Wizard's Abduction]]"
 aliases: []
 status: open
 priority: high

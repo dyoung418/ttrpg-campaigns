@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Kyonin]]"
+  - "[[Lyriel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Riven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
 aliases: []
 status: alive
 role: "Kyonin contact; directed Riven to Lyriel's house"

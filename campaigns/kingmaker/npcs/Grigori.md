@@ -4,7 +4,19 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[King Irovetti]]"
+  - "[[Nightmarch]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 24 — A Politician's Day]]"
 aliases: []
 status: deceased
 role: "Pitaxian propagandist; orator; saboteur inside Freehaven"

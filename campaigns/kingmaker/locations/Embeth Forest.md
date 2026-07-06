@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Freehaven]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Jameel Visser]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Riven]]"
+  - "[[Rowan Half Dark]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[The Few]]"
 aliases: []
 status: accessible
 region: "River Kingdoms"

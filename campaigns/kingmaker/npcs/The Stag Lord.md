@@ -4,7 +4,27 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Hargulka]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Nightmarch]]"
+  - "[[Oleg Leveton]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[Riven]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 20 — The Mud and the Blood]]"
+  - "[[RP 3 — After the Stag Lord Fight]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[Stag Lord's Helm]]"
+  - "[[Svetlana Leveton]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[The Stag Lord's Fort]]"
+  - "[[Thorn River Camp]]"
 aliases: []
 status: deceased
 role: "Bandit lord; first major adversary"

@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Annamede Belavarah]]"
+  - "[[Campaign Timeline]]"
+  - "[[Embeth Forest]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Riven]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Talia]]"
+  - "[[The Few]]"
 aliases:
   - Jamal Visser
 status: alive

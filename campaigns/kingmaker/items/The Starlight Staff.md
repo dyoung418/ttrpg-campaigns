@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Candlemere Island]]"
+  - "[[Eri Malai]]"
+  - "[[Pavel]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[Saint Flint]]"
 aliases: []
 created: "2026-05-30"
 ---

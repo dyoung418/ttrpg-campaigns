@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Freehaven]]"
+  - "[[Halvik]]"
+  - "[[Lord Darian]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Silverstep]]"
+  - "[[The Stag Lord]]"
+  - "[[Willowshade]]"
 date: ""
 session_number: 20
 status: complete

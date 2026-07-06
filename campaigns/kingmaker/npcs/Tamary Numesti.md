@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Benedin]]"
+  - "[[Fort Drevlev]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[King Irovetti]]"
+  - "[[Kisandra Numesti]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[Terrion Numesti]]"
+  - "[[Tiger Lords]]"
 aliases: []
 status: alive
 role: "Daughter of Terrion Numesti; hostage at Fort Drevlev; taken by Armag Reborn and later rescued"

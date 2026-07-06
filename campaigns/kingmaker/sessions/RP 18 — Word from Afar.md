@@ -4,7 +4,26 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Almon d'Avoine]]"
+  - "[[Astor]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Grigori]]"
+  - "[[King Irovetti]]"
+  - "[[Kyonin]]"
+  - "[[Lee]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[Starberry Press]]"
+  - "[[Tovan]]"
 date: ""
 session_number: 18
 status: complete

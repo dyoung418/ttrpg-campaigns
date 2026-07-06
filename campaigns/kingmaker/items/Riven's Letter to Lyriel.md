@@ -4,7 +4,22 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Riven]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Silverstep]]"
 created: "2026-05-29"
 ---
 

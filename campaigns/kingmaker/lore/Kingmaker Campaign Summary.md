@@ -4,7 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Briar]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Nyrissa]]"
 created: "2026-05-29"
 ---
 

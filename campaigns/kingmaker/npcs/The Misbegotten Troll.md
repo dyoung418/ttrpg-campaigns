@@ -4,7 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[The Month of Destruction]]"
+  - "[[Thousandbreaths]]"
 aliases: []
 status: alive
 role: "Anchor / boss creature of the Baleful Lantern glade"

@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Ekundayo]]"
+  - "[[Halvik]]"
+  - "[[Lord Darian]]"
+  - "[[Riven]]"
+  - "[[RP 20 — The Mud and the Blood]]"
+  - "[[Senn]]"
+  - "[[Serenko]]"
+  - "[[Silverstep]]"
+  - "[[Willowshade]]"
 date: ""
 session_number: 22
 status: complete

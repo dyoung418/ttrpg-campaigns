@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Gelbin Steambender]]"
+  - "[[Milo]]"
+  - "[[Milo's Lost Brother]]"
+  - "[[Rindle]]"
 aliases: []
 status: accessible
 region: "Unknown (distant from Stolen Lands)"

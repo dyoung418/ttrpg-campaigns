@@ -4,7 +4,9 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Nyrissa]]"
+  - "[[Thousandbreaths]]"
 aliases: []
 status: alive
 role: "Anchor of the Nightmare Spire glade"

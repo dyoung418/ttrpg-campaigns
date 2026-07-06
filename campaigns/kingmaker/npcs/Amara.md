@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Mivon]]"
+  - "[[Riven]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[The Few]]"
 aliases: []
 status: alive
 role: "Wandering priest of Sarenrae; gave Riven hope in his darkest period"

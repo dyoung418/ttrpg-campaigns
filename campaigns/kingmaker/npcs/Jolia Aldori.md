@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Edina Aldori]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
 aliases: []
 status: deceased
 role: "Edina Aldori's sister; killed during the hunting competition"

@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Nomen Heights]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[RP 9 — In the Sepulchar Chamber]]"
+  - "[[Valley of the Dead]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Eye-Gem]]"
+  - "[[Willas Gunderson]]"
+  - "[[Xamanthe]]"
 aliases: []
 status: cleared
 region: "Nomen Heights"

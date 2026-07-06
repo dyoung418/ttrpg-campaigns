@@ -27,10 +27,18 @@ notes**: removed type-name tags, normalized `status` to a controlled per-type vo
 - Prose statuses (Golden Talons, Ovinrbaane, Willowshade, Almon's Hunt) mapped to enums; narrative
   detail was already in each note body, so no body edits were needed.
 
+**Phase 2 — DONE (2026-07-05).** Stdlib-only Python scripts sharing `_scripts/vaultlib.py`
+(textual frontmatter editing): `vault-set-tags.py` (validates vs registry, files unknowns under
+`## Proposed`, refuses type-name tags), `vault-add-source.py` (idempotent), 
+`vault-rebuild-backlinks.py` (`related:` = outbound ∪ inbound; `_index.md` hubs excluded from
+graph), `vault-rebuild-index.py` (wipes/rebuilds `_index/by-tag/`, `/`→`--` in filenames). Thin
+`.claude/commands/` wrappers for all four; CLAUDE.md updated. `lint-vault.sh` gained
+TYPE/STATUS/STATUS_OK/HAS_SOURCES/HAS_RELATED/TYPE_TAG columns; `/lint` rewired (obsolete
+"add type tag" fix removed). Rebuilds run: 204 `related:` populated, 21 tag pages; idempotent.
+**Known finding left for `/lint`:** 17 notes have a status-requiring type but no `status:`
+field (needs per-entity GM judgment).
+
 **Pending:**
-- **Phase 2** — automation (scripts as skills: `vault-set-tags`, `vault-add-source`,
-  `vault-rebuild-backlinks`, `vault-rebuild-index`; generate `_index/by-tag`; populate `related`;
-  upgrade `_scripts/lint-vault.sh` to check status/sources/related). **No symlinks** (GM decision).
 - **Phase 3** — author `/vault-stitch` (tag-registry governance + `/ingest` intake gate); document
   (don't author) `/vault-enrich`. The `_meta/tags.md` `## Proposed` list is seeded and awaiting a
   `/vault-stitch` pass (e.g. `villain`/`dangerous`→`enemy`, the bestiary cluster).

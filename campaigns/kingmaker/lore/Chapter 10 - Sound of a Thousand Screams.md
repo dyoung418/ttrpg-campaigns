@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Briar]]"
+  - "[[Evindra]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Nyrissa]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[The Misbegotten Troll]]"
+  - "[[The Month of Destruction]]"
+  - "[[Thousandbreaths]]"
 created: "2026-05-29"
 ---
 

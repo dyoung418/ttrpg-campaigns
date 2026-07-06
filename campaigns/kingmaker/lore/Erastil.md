@@ -5,7 +5,8 @@ tags:
   - deity
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[RP 24 — A Politician's Day]]"
 aliases:
   - Old Deadeye
 status: stub

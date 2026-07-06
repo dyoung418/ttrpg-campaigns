@@ -4,7 +4,13 @@ campaign: lost-memories
 tags:
   - campaign/lost-memories
 sources: []
-related: []
+related:
+  - "[[Discovering the Artifact Mechanism]]"
+  - "[[Order of the Silver Chalice]]"
+  - "[[The Power Transference Ritual]]"
+  - "[[The Switched Backstories]]"
+  - "[[The Wizard's Abduction]]"
+  - "[[The Wizard's Prison]]"
 aliases: ["The Wizard", "Aldric"]
 status: alive
 role: "Antagonist — imprisoned the PCs for magical experimentation"

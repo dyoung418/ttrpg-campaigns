@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Groetus]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Nightmarch]]"
 aliases: []
 status: alive
 role: "Viceroy of Freehaven; Cleric of Groetus"

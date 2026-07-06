@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Erastil]]"
+  - "[[Freehaven]]"
+  - "[[Grigori]]"
+  - "[[The Old Beldame]]"
 date: ""
 session_number: 24
 status: complete

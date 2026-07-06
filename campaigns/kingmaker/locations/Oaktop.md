@@ -4,7 +4,21 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Edina Aldori]]"
+  - "[[Lee]]"
+  - "[[Lucas]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[Rindle (Construct)]]"
+  - "[[Riven]]"
+  - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[Stolen Lands]]"
+  - "[[The Month of Destruction]]"
 aliases: []
 status: contested
 region: "Stolen Lands"

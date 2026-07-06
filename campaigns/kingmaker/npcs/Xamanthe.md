@@ -4,7 +4,19 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Campaign Timeline]]"
+  - "[[Nomen Centaurs]]"
+  - "[[Nomen Heights]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[RP 9 — In the Sepulchar Chamber]]"
+  - "[[Valley of the Dead]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
 aliases: []
 status: unknown
 role: A centaur female who was held captive by Vordekai and freed by the PCs.

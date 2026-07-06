@@ -4,7 +4,21 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Cat]]"
+  - "[[Gaspere Liacenza]]"
+  - "[[Golden Talons]]"
+  - "[[Grigori]]"
+  - "[[King Irovetti]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 14.2 — Lucas and the Bards]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[Tol-Kin]]"
 status: resolved
 created: "2026-05-29"
 ---

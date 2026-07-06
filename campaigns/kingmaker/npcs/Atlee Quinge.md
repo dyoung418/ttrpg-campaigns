@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Gaspere Liacenza]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
 aliases: []
 status: alive
 role: "Director of the Red Crescent Troop theater company in Pitax; ally in the infiltration"

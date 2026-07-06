@@ -4,7 +4,26 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Fort Drevlev]]"
+  - "[[Freehaven]]"
+  - "[[Grigori]]"
+  - "[[Imeckus Stroon]]"
+  - "[[Iron Wraiths]]"
+  - "[[King Irovetti]]"
+  - "[[Kisandra Numesti]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Maegar Varn]]"
+  - "[[Pavetta Stroon-Drevlev]]"
+  - "[[Pitax]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[Satinder Morne]]"
+  - "[[Tamary Numesti]]"
+  - "[[Terrion Numesti]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Tiger Lords]]"
 aliases: []
 status: deceased
 role: "Treacherous adventurer; former charter holder; founder of Fort Drevlev"

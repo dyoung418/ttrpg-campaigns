@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Hargulka]]"
+  - "[[Linzi]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Rise n Dine]]"
+  - "[[Riven]]"
 date: ""
 session_number: 5.5
 status: complete

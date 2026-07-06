@@ -4,7 +4,23 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Hannis Drevlev]]"
+  - "[[King Irovetti]]"
+  - "[[Kisandra Numesti]]"
+  - "[[Lee]]"
+  - "[[Lucas]]"
+  - "[[Milo]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Satinder Morne]]"
+  - "[[Tamary Numesti]]"
+  - "[[Terrion Numesti]]"
 date: ""
 session_number: 16
 status: complete

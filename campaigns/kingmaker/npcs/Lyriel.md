@@ -4,7 +4,36 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Silverstep]]"
+  - "[[Thaelirian]]"
+  - "[[The Horned Hunter]]"
+  - "[[The Wriggling Man]]"
 aliases: ["Lyriel Anarindë"]
 status: captive
 role: "Riven's former love; captive of Nyrissa in the House at the Edge of Time"

@@ -4,7 +4,23 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Amara]]"
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Hargulka]]"
+  - "[[Hyram]]"
+  - "[[Nomen Heights]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 1 — Camping with Ekundayo]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[Tors of Levenies]]"
+  - "[[Varnhold]]"
 date: ""
 session_number: 6
 status: complete

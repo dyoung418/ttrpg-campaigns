@@ -5,7 +5,12 @@ tags:
   - campaign/kingmaker
   - fey
 sources: []
-related: []
+related:
+  - "[[Briar]]"
+  - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Nyrissa]]"
+  - "[[The Month of Destruction]]"
+  - "[[Thousandbreaths]]"
 aliases: []
 status: alive
 role: "Nereid; fey ally; key informant on Nyrissa and Briar"

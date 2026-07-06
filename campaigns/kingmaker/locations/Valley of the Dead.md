@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Campaign Timeline]]"
+  - "[[Nomen Centaurs]]"
+  - "[[Nomen Heights]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
+  - "[[Xamanthe]]"
 aliases: []
 status: accessible
 region: "Nomen Heights"

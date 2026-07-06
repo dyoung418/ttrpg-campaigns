@@ -86,6 +86,10 @@ When the user describes TTRPG content in plain text, you:
 - `/lint [scope]` — tactical vault check; auto-fix safe frontmatter/tag issues, triage unsafe ones (broken links, orphans, missing embeds)
 - `/reconcile <sources>` — reconcile vault content against source files; interactively update vault notes (never source files)
 - `/vault-stitch` — govern the cross-cutting/connective layer: adjudicate the `_meta/tags.md` registry (*planned — see `_meta/conventions.md` §3*)
+- `/vault-set-tags <note> <tags...>` — set/normalize a note's tags, validated against `_meta/tags.md`
+- `/vault-add-source <note> <entry...>` — append to a note's `sources:` list (idempotent)
+- `/vault-rebuild-backlinks [scope]` — regenerate `related:` fields from the wikilink graph
+- `/vault-rebuild-index` — regenerate `_index/` (by-tag) from note frontmatter
 
 ## File Naming Rules
 

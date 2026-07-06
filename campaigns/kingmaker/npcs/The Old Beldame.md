@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 24 — A Politician's Day]]"
+  - "[[Stolen Lands]]"
 aliases:
   - Old Beldame
 status: alive

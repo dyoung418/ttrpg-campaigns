@@ -5,7 +5,12 @@ tags:
   - campaign/kingmaker
   - enemy
 sources: []
-related: []
+related:
+  - "[[Cat]]"
+  - "[[Glade I — The Baleful Lantern]]"
+  - "[[Nyrissa]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Thousandbreaths]]"
 created: "2026-06-05"
 ---
 

@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Ashenfel]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Nomen Centaurs]]"
+  - "[[Nomen Heights]]"
+  - "[[Riven]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[Valley of the Dead]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai]]"
+  - "[[Xamanthe]]"
 aliases: ["Aecora Silverfire"]
 status: alive
 role: "Leader of the Nomen Centaurs"

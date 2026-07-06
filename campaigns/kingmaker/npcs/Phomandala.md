@@ -7,7 +7,9 @@ tags:
   - dragon
   - humanoid
 sources: []
-related: []
+related:
+  - "[[House at the Edge of Time]]"
+  - "[[Nyrissa]]"
 created: "2026-05-29"
 ---
 

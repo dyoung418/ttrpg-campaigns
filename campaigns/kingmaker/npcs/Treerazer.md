@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Tanglebriar]]"
 aliases: []
 status: alive
 role: "Demon; holds the Tanglebriar south of Kyonin; not an active campaign threat"

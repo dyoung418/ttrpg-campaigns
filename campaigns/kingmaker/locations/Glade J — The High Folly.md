@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Amulet of the Fey Ward]]"
+  - "[[Ilthuliak]]"
+  - "[[Lucas]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Thousandbreaths]]"
 aliases: []
 status: hostile
 region: "Thousandbreaths demiplane"

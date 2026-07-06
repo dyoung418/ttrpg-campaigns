@@ -4,7 +4,22 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Book of Warding Prayers]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Lucas]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[RP 4 — Returning to Nightmarch after Hargulka's Fortress]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 5.5 — Ekundayo's Feast]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[The Stag Lord]]"
 aliases: []
 status: deceased
 role: "Troll king; occupied Bronzeshield Hold before the PCs cleared it"

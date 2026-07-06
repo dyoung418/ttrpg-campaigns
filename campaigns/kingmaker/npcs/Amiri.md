@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Nightmarch]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
 aliases: []
 status: alive
 role: "Adventurer; settled resident of Nightmarch"

@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Lucas]]"
+  - "[[Pavel]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[Tiger Lords]]"
 status: lost
 created: "2026-05-29"
 ---

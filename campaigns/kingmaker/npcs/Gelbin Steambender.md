@@ -4,7 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Glimmerhaven]]"
+  - "[[Milo]]"
+  - "[[Milo's Lost Brother]]"
 aliases: []
 status: alive
 role: "Eccentric gnome inventor; Milo's mentor"

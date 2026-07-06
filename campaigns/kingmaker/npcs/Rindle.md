@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Glimmerhaven]]"
+  - "[[Milo]]"
+  - "[[Milo's Lost Brother]]"
+  - "[[Pavel]]"
+  - "[[Rindle (Construct)]]"
 aliases: []
 status: missing
 role: "Milo's older brother; taken captive by bandits; Milo's construct is named after him"

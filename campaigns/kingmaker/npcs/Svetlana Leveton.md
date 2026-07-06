@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Leveton]]"
+  - "[[Oleg Leveton]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[The Stag Lord]]"
+  - "[[Thorn River Camp]]"
 aliases: []
 status: alive
 role: "Co-proprietor of Oleg's Trading Post; wife of Oleg"

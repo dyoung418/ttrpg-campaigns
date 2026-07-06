@@ -4,7 +4,27 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Feywind]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Great Great Aunt Gina]]"
+  - "[[Hyram]]"
+  - "[[Kyonin]]"
+  - "[[Lee]]"
+  - "[[Lucas]]"
+  - "[[Milo]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[River Kingdoms]]"
+  - "[[Tanglebriar]]"
+  - "[[Treerazer]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
+  - "[[Xamanthe]]"
 date: ""
 session_number: 7
 status: complete

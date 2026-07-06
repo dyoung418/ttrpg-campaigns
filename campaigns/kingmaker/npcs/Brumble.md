@@ -4,7 +4,19 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Ekundayo]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[The Few]]"
 aliases: []
 status: alive
 role: "Riven's grizzly bear companion; now lives in Nightmarch"

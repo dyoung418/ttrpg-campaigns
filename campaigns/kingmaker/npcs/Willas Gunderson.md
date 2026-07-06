@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
 aliases: []
 status: deceased
 role: "Treasure hunter whose blunder woke Vordakai; later an undead ghost in the tomb"

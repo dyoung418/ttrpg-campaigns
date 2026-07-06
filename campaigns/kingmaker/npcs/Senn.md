@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Cassandra]]"
+  - "[[Halvik]]"
+  - "[[Riven]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Silverstep]]"
+  - "[[Willowshade]]"
 aliases: []
 status: alive
 role: "Sergeant, Silverstep Guard"

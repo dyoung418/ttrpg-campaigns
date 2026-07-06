@@ -4,7 +4,12 @@ campaign: lost-memories
 tags:
   - campaign/lost-memories
 sources: []
-related: []
+related:
+  - "[[Discovering the Artifact Mechanism]]"
+  - "[[Magister Aldric]]"
+  - "[[Order of the Silver Chalice]]"
+  - "[[The Power Transference Ritual]]"
+  - "[[The Wizard's Abduction]]"
 aliases: []
 status: accessible
 region: "Desolate coast — isolated, remote, no settlements nearby"

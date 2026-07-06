@@ -4,7 +4,42 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Almon d'Avoine]]"
+  - "[[Almon's Hunt for Cassandra]]"
+  - "[[Annamede Belavarah]]"
+  - "[[Atlee Quinge]]"
+  - "[[Briar]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Engelidis]]"
+  - "[[Eri Malai]]"
+  - "[[Freehaven]]"
+  - "[[Gaspere Liacenza]]"
+  - "[[Golden Talons]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Grigori]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Jhofre Vascari]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Linzi]]"
+  - "[[Nagaji Monastic Order]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[River Kingdoms]]"
+  - "[[Rowan Half Dark]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[Saint Flint]]"
+  - "[[Tamary Numesti]]"
+  - "[[Tartuccio]]"
+  - "[[The Few]]"
+  - "[[The Founding of Freehaven]]"
 aliases: ["Castruccio Irovetti", "King Irrovetti"]
 status: deceased
 role: "Vain tyrant; king of Pitax; Nyrissa's pawn"

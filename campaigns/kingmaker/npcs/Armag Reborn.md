@@ -4,7 +4,19 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Kisandra Numesti]]"
+  - "[[Ovinrbaane]]"
+  - "[[Riven]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[Tamary Numesti]]"
+  - "[[Terrion Numesti]]"
+  - "[[Thousandbreaths]]"
+  - "[[Tiger Lords]]"
 aliases: ["Armag"]
 status: deceased
 role: "Legendary barbarian figure resurrected; antagonist at Fort Drevlev"

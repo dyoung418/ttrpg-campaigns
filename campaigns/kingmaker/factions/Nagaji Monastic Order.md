@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Eri Malai]]"
+  - "[[Freehaven]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[Saint Flint]]"
 aliases: []
 status: active
 alignment: "religious / monastic"

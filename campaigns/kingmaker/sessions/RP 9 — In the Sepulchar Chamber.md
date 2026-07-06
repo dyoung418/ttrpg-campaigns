@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
+  - "[[Xamanthe]]"
 date: ""
 session_number: 9
 status: complete

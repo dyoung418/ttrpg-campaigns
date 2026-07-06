@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai]]"
 aliases: []
 status: deceased
 role: "Charter-holder; founder of Varnhold; victim of Vordakai"

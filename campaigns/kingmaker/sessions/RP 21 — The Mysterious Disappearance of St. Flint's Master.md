@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Engelidis]]"
+  - "[[Eri Malai]]"
+  - "[[King Irovetti]]"
+  - "[[Nagaji Monastic Order]]"
+  - "[[Nightmarch]]"
+  - "[[Pitax]]"
+  - "[[Saint Flint]]"
+  - "[[The Starlight Staff]]"
 date: ""
 session_number: 21
 status: complete

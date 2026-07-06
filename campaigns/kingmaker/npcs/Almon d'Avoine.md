@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Almon's Hunt for Cassandra]]"
+  - "[[Cassandra]]"
+  - "[[Golden Talons]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[Silverstep]]"
 aliases: []
 status: unknown
 role: "Pitax intelligence operative; spy"

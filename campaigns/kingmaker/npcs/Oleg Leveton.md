@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Leveton]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[Svetlana Leveton]]"
+  - "[[The Stag Lord]]"
+  - "[[Thorn River Camp]]"
 aliases: []
 status: alive
 role: "Proprietor of Oleg's Trading Post; one of the first allies of the PCs"

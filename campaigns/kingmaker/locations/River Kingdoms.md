@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Freehaven]]"
+  - "[[King Irovetti]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: accessible
 region: "River Kingdoms"

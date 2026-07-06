@@ -4,7 +4,29 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Ashenfel]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Great Great Aunt Gina]]"
+  - "[[Maegar Varn]]"
+  - "[[Nomen Centaurs]]"
+  - "[[Riven]]"
+  - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[RP 9 — In the Sepulchar Chamber]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Valley of the Dead]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai's Eye-Gem]]"
+  - "[[Vordakai's Island]]"
+  - "[[Willas Gunderson]]"
+  - "[[Xamanthe]]"
 aliases: ["Vordekai"]
 status: deceased
 role: "Ancient cyclops lich lord; major mid-campaign antagonist"

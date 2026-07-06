@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Cassandra]]"
+  - "[[Freehaven]]"
+  - "[[Golden Talons]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 19 — The Forest Answers]]"
 aliases: []
 status: alive
 role: "Veteran second-in-command, Riven's Rangers"

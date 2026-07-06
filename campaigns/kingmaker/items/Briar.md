@@ -5,7 +5,30 @@ tags:
   - campaign/kingmaker
   - artifact
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Cat]]"
+  - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Evindra]]"
+  - "[[House at the Edge of Time]]"
+  - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Summary]]"
+  - "[[Lucas]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Tarlaxian]]"
+  - "[[The Horned Hunter]]"
+  - "[[The Month of Destruction]]"
+  - "[[The Rimebridge]]"
+  - "[[Thousandbreaths]]"
 aliases: ["Briara"]
 created: "2026-05-29"
 ---

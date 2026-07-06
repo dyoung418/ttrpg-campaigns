@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Pavetta Stroon-Drevlev]]"
 aliases: []
 status: deceased
 role: "Powerful magician; brother-in-law of Hannis Drevlev"

@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Ashenfel]]"
+  - "[[Campaign Timeline]]"
+  - "[[Nomen Heights]]"
+  - "[[Riven]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
 aliases: []
 status: accessible
 region: "Nomen Heights"

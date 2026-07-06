@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Glade J — The High Folly]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Ilthuliak]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
 status: unacquired
 created: "2026-06-09"
 ---

@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Engelidis]]"
+  - "[[Eri Malai]]"
+  - "[[King Irovetti]]"
+  - "[[Nagaji Monastic Order]]"
+  - "[[Pitax]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[The Starlight Staff]]"
 aliases: []
 status: alive
 role: "Leader of the Nagaji Monastic Order; the original Saint Flint"

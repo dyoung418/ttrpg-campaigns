@@ -4,7 +4,42 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Beneford]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Embeth Forest]]"
+  - "[[Freehaven]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Jameel Visser]]"
+  - "[[King Irovetti]]"
+  - "[[Kyonin]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Lucas]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 14.2 — Lucas and the Bards]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[RP 5.5 — Ekundayo's Feast]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Silverstep]]"
+  - "[[Starberry Press]]"
+  - "[[The Horned Hunter]]"
+  - "[[Tol-Kin]]"
 aliases: []
 status: alive
 role: "Emissary and Foreign Minister of Freehaven; halfling bard; handles all kingdom communications"

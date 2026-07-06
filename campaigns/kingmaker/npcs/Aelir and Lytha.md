@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Feywind]]"
+  - "[[Kyonin]]"
+  - "[[Riven]]"
+  - "[[The Demon's Legacy]]"
 aliases: ["Aelir", "Lytha"]
 status: deceased
 role: "Riven's parents; skilled elven rangers; killed by a demon"

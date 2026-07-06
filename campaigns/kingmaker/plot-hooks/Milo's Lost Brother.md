@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Gelbin Steambender]]"
+  - "[[Glimmerhaven]]"
+  - "[[Milo]]"
+  - "[[Rindle]]"
 status: open
 created: "2026-05-29"
 ---

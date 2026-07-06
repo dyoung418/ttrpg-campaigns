@@ -4,7 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Nightmarch]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"

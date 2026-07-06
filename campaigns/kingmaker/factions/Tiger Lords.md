@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Kisandra Numesti]]"
+  - "[[Ovinrbaane]]"
+  - "[[Pitax]]"
+  - "[[Tamary Numesti]]"
+  - "[[Terrion Numesti]]"
 aliases: []
 status: defeated
 alignment: "Chaotic Evil"

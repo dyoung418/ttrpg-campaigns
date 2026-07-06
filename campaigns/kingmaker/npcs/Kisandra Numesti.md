@@ -4,7 +4,20 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Fort Drevlev]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Nightmarch]]"
+  - "[[Pitax]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[Tamary Numesti]]"
+  - "[[Terrion Numesti]]"
+  - "[[Tiger Lords]]"
 aliases:
   - Ekundayo's Fiancée
 status: alive

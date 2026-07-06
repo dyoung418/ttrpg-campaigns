@@ -4,7 +4,25 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Jolia Aldori]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Nightmarch]]"
+  - "[[Oaktop]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[The Sword and the Suitor]]"
 aliases: []
 status: alive
 role: "Visitor from Restov; Aldori family connection"

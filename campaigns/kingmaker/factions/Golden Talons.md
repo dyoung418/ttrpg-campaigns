@@ -4,7 +4,20 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Almon d'Avoine]]"
+  - "[[Almon's Hunt for Cassandra]]"
+  - "[[Cassandra]]"
+  - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[King Irovetti]]"
+  - "[[Lord Darian]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[Silverstep]]"
+  - "[[Tovan]]"
+  - "[[Willowshade]]"
 aliases: []
 status: destroyed
 alignment: "Pitax military"

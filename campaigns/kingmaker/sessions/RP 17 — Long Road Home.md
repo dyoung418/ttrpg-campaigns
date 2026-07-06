@@ -4,7 +4,24 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Hargulka]]"
+  - "[[Hyram]]"
+  - "[[Lee]]"
+  - "[[Lucas]]"
+  - "[[Milo]]"
+  - "[[Nightmarch]]"
+  - "[[Ovinrbaane]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[The Arsonist of Bronzeshield Hold]]"
+  - "[[Vordakai]]"
 date: ""
 session_number: 17
 status: complete

@@ -4,7 +4,34 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aelir and Lytha]]"
+  - "[[Avennara]]"
+  - "[[Candlemere Island]]"
+  - "[[Embeth Forest]]"
+  - "[[Faelir]]"
+  - "[[Feywind]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Jameel Visser]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Pavel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Thaelirian]]"
+  - "[[The Demon's Legacy]]"
+  - "[[The Few]]"
 aliases: []
 status: accessible
 region: "Elf homeland (Inner Sea)"

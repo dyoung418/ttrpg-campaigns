@@ -4,7 +4,21 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Ekundayo]]"
+  - "[[Feywind]]"
+  - "[[Kyonin]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Nightmarch]]"
+  - "[[Riven]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[Thaelirian]]"
+  - "[[The Old Beldame]]"
 date: ""
 session_number: 15
 status: complete

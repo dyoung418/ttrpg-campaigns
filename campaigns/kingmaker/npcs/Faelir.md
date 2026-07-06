@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Kyonin]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Riven]]"
+  - "[[The Demon's Legacy]]"
 aliases: []
 status: alive
 role: "Elven druid; Riven's former mentor"

@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aelir and Lytha]]"
+  - "[[Kyonin]]"
+  - "[[Riven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
 aliases: []
 created: "2026-05-29"
 ---

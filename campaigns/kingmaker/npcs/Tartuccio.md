@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[King Irovetti]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Pitax]]"
 aliases: []
 status: deceased
 role: "Pitax spy; later posed as a kobold leader"

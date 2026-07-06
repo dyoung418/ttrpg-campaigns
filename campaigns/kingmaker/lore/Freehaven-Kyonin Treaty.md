@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Embeth Forest]]"
+  - "[[Jameel Visser]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Riven]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
 created: "2026-06-01"
 ---
 

@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Bird]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Freehaven]]"
+  - "[[Hyram]]"
+  - "[[Lucas]]"
+  - "[[Nomen Heights]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Vordakai]]"
+  - "[[Xamanthe]]"
 date: ""
 session_number: 10
 status: complete

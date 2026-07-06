@@ -4,7 +4,23 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Benedin]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Mivon]]"
+  - "[[Pavel]]"
+  - "[[Restov]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[Silverstep]]"
 date: ""
 session_number: 11
 status: complete

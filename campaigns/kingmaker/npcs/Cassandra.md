@@ -4,7 +4,28 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Almon d'Avoine]]"
+  - "[[Almon's Hunt for Cassandra]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Golden Talons]]"
+  - "[[Halvik]]"
+  - "[[Lord Darian]]"
+  - "[[Riven]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[RP 20 — The Mud and the Blood]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Senn]]"
+  - "[[Serenko]]"
+  - "[[Silverstep]]"
+  - "[[The Stag Lord]]"
+  - "[[Thorn River Camp]]"
+  - "[[Tovan]]"
+  - "[[Willowshade]]"
 aliases: []
 status: deceased
 role: "Silverstep Guard captain; polearm specialist"

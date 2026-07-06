@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Hannis Drevlev]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
 aliases: []
 status: alive
 role: "Innkeeper in Fort Drevlev; part of the resistance against Hannis Drevlev"

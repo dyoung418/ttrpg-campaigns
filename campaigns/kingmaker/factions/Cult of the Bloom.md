@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Nyrissa]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[The Month of Destruction]]"
 aliases: []
 status: defeated
 alignment: "Chaotic Evil"

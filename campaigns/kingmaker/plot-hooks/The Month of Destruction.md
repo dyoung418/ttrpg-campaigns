@@ -4,7 +4,22 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Briar]]"
+  - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Cult of the Bloom]]"
+  - "[[Evindra]]"
+  - "[[Ilthuliak]]"
+  - "[[Kargstaad]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Oaktop]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[The Horned Hunter]]"
+  - "[[The Misbegotten Troll]]"
+  - "[[Thousandbreaths]]"
 status: resolved
 created: 2026-05-29
 ---

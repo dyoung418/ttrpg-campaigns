@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Annamede Belavarah]]"
+  - "[[Atlee Quinge]]"
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Jhofre Vascari]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
+  - "[[Riven]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
 aliases: []
 status: alive
 role: "Pitaxian bard; defected to help the PCs overthrow King Irovetti"

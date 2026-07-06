@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Bird]]"
+  - "[[Book of Warding Prayers]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Great Great Aunt Gina]]"
+  - "[[Great Uncle Olaf]]"
+  - "[[Lucas]]"
+  - "[[Pavel]]"
+  - "[[Restov]]"
 date: ""
 session_number: 13
 status: complete

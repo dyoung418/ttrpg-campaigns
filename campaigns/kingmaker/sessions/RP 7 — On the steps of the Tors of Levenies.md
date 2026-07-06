@@ -4,7 +4,28 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Bird]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Freehaven]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Great Great Aunt Gina]]"
+  - "[[Kyonin]]"
+  - "[[Lee]]"
+  - "[[Lucas]]"
+  - "[[Lyriel]]"
+  - "[[Milo]]"
+  - "[[Pavel]]"
+  - "[[Rindle (Construct)]]"
+  - "[[Riven]]"
+  - "[[Tanglebriar]]"
+  - "[[Tors of Levenies]]"
+  - "[[Treerazer]]"
+  - "[[Vordakai]]"
 date: ""
 session_number: 7
 status: complete

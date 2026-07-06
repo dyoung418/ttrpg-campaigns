@@ -4,7 +4,20 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Candlemere Island]]"
+  - "[[Cat]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Kyonin]]"
+  - "[[Lucas]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 1 — Camping with Ekundayo]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 3 — After the Stag Lord Fight]]"
+  - "[[Thaelirian]]"
 status: open
 created: "2026-05-29"
 ---

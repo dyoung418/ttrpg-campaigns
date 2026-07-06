@@ -4,7 +4,9 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Lady Jamandi Aldori]]"
 aliases: []
 status: alive
 role: "Fighter; former Shelyn aspirant; ally of the party"

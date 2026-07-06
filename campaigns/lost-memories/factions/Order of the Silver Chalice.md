@@ -4,7 +4,12 @@ campaign: lost-memories
 tags:
   - campaign/lost-memories
 sources: []
-related: []
+related:
+  - "[[Discovering the Artifact Mechanism]]"
+  - "[[Magister Aldric]]"
+  - "[[The Power Transference Ritual]]"
+  - "[[The Wizard's Abduction]]"
+  - "[[The Wizard's Prison]]"
 aliases:
   - The Order
   - The Silver Chalice

@@ -6,7 +6,13 @@ tags:
   - artifact
   - dangerous
 sources: []
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Eclipsed Incantations]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
 created: "2026-05-29"
 ---
 

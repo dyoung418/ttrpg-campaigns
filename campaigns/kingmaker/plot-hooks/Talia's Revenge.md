@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Freehaven]]"
+  - "[[Riven]]"
+  - "[[Rowan Half Dark]]"
+  - "[[Talia]]"
+  - "[[The Few]]"
 status: resolved
 created: 2026-05-29
 ---

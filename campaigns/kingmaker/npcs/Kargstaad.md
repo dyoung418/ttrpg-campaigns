@@ -6,7 +6,10 @@ tags:
   - enemy
   - giant
 sources: []
-related: []
+related:
+  - "[[Nyrissa]]"
+  - "[[The Month of Destruction]]"
+  - "[[Thousandbreaths]]"
 status: unknown
 created: "2026-05-29"
 ---

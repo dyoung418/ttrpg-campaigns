@@ -4,7 +4,39 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Astor]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Eclipsed Incantations]]"
+  - "[[Eri Malai]]"
+  - "[[Freehaven]]"
+  - "[[Hargulka]]"
+  - "[[Hyram]]"
+  - "[[Lee]]"
+  - "[[Linzi]]"
+  - "[[Lucas]]"
+  - "[[Milo]]"
+  - "[[Nomen Heights]]"
+  - "[[Ovinrbaane]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[RP 9 — In the Sepulchar Chamber]]"
+  - "[[Tamary Numesti]]"
+  - "[[The Arsonist of Bronzeshield Hold]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Vordakai's Eye-Gem]]"
 aliases: []
 status: alive
 role: "Dwarf; former travel companion; community leader at Bronzeshield Hold; lorekeeper-in-training before the exile"

@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Freehaven]]"
+  - "[[Nightmarch]]"
+  - "[[The Stag Lord]]"
+  - "[[The Stag Lord's Fort]]"
 aliases: ["Stag Lord's Helmet"]
 rarity: ""
 status: held

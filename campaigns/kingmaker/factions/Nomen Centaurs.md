@@ -4,7 +4,19 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Ashenfel]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Nomen Heights]]"
+  - "[[Octavia]]"
+  - "[[Riven]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Valley of the Dead]]"
+  - "[[Vordakai]]"
+  - "[[Xamanthe]]"
 aliases: []
 status: active
 alignment: ""

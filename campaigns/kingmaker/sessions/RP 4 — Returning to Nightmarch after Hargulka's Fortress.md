@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Hargulka]]"
+  - "[[Melianse]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
 date: ""
 session_number: 4
 status: complete

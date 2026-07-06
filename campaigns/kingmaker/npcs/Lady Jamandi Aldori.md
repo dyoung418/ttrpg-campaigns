@@ -4,7 +4,30 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Amiri]]"
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Edina Aldori]]"
+  - "[[Fort Drevlev]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Harrim]]"
+  - "[[Iron Wraiths]]"
+  - "[[Jolia Aldori]]"
+  - "[[King Irovetti]]"
+  - "[[Linzi]]"
+  - "[[Maegar Varn]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[Restov]]"
+  - "[[Riven]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[Tartuccio]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[The Stag Lord]]"
+  - "[[Valerie]]"
+  - "[[Varnhold]]"
 aliases: []
 status: alive
 role: "Noble patron; issued charter to found Freehaven"

@@ -1,0 +1,211 @@
+---
+type: index
+tags: []
+---
+
+# Tag: `campaign/kingmaker`
+
+> [!warning] Generated file — do not hand-edit
+> Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
+
+197 note(s) tagged `campaign/kingmaker`.
+
+## kingmaker
+
+- [[Aecora]] — `npc`
+- [[Aelir and Lytha]] — `npc`
+- [[Almon d'Avoine]] — `npc`
+- [[Almon's Hunt for Cassandra]] — `plot-hook`
+- [[Amara]] — `npc`
+- [[Amiri]] — `npc`
+- [[Amulet of the Fey Ward]] — `item`
+- [[Annamede Belavarah]] — `npc`
+- [[Armag Reborn]] — `npc`
+- [[Ashenfel]] — `location`
+- [[Astor]] — `character`
+- [[Atlee Quinge]] — `npc`
+- [[Avennara]] — `location`
+- [[Benedin]] — `npc`
+- [[Beneford]] — `npc`
+- [[Bird]] — `npc`
+- [[Book of Warding Prayers]] — `item`
+- [[Briar]] — `item`
+- [[Bronzeshield Hold]] — `location`
+- [[Brumble]] — `npc`
+- [[Campaign Timeline]] — `lore`
+- [[Candlemere Island]] — `location`
+- [[Cassandra]] — `npc`
+- [[Cat]] — `npc`
+- [[Chapter 10 - Sound of a Thousand Screams]] — `lore`
+- [[Cult of the Bloom]] — `faction`
+- [[Eclipsed Incantations]] — `item`
+- [[Edina Aldori]] — `npc`
+- [[Ekundayo]] — `npc`
+- [[Embeth Forest]] — `location`
+- [[Engelidis]] — `npc`
+- [[Erastil]] — `lore`
+- [[Eri Malai]] — `npc`
+- [[Evindra]] — `npc`
+- [[Faelir]] — `npc`
+- [[Feywind]] — `item`
+- [[Fort Drevlev]] — `location`
+- [[Freehaven]] — `faction`
+- [[Freehaven-Kyonin Treaty]] — `lore`
+- [[Gaspere Liacenza]] — `npc`
+- [[Gelbin Steambender]] — `npc`
+- [[Glade I — The Baleful Lantern]] — `location`
+- [[Glade J — The High Folly]] — `location`
+- [[Glimmerhaven]] — `location`
+- [[Golden Talons]] — `faction`
+- [[Grand Tournament of Freehaven]] — `plot-hook`
+- [[Great Aunt Sumi]] — `npc`
+- [[Great Great Aunt Gina]] — `npc`
+- [[Great Uncle Olaf]] — `npc`
+- [[Grigori]] — `npc`
+- [[Groetus]] — `lore`
+- [[Halvik]] — `npc`
+- [[Hannis Drevlev]] — `npc`
+- [[Hargulka]] — `npc`
+- [[Harrim]] — `npc`
+- [[Hateful Hermit]] — `npc`
+- [[House at the Edge of Time]] — `location`
+- [[Hyram]] — `npc`
+- [[Ilthuliak]] — `npc`
+- [[Imeckus Stroon]] — `npc`
+- [[Iron Wraiths]] — `faction`
+- [[Jameel Visser]] — `npc`
+- [[Jhofre Vascari]] — `npc`
+- [[Jolia Aldori]] — `npc`
+- [[Jubilost Narthropple]] — `npc`
+- [[Kargstaad]] — `npc`
+- [[King Irovetti]] — `npc`
+- [[King Vesket]] — `npc`
+- [[Kingmaker Campaign Summary]] — `lore`
+- [[Kisandra Numesti]] — `npc`
+- [[Kyonin]] — `location`
+- [[Lady Jamandi Aldori]] — `npc`
+- [[Lee]] — `character`
+- [[Leveton]] — `location`
+- [[Linzi]] — `npc`
+- [[Lizardfolk Village]] — `location`
+- [[Lord Darian]] — `npc`
+- [[Lucas]] — `character`
+- [[Lyriel]] — `npc`
+- [[Lyriel's Wait]] — `plot-hook`
+- [[Lyriels Amulet]] — `item`
+- [[Maegar Varn]] — `npc`
+- [[Melianse]] — `npc`
+- [[Milo]] — `character`
+- [[Milo's Lost Brother]] — `plot-hook`
+- [[Misbegotten Troll]] — `npc`
+- [[Mivon]] — `location`
+- [[Nagaji Monastic Order]] — `faction`
+- [[Nightmarch]] — `location`
+- [[Nomen Centaurs]] — `faction`
+- [[Nomen Heights]] — `location`
+- [[Nyrissa]] — `npc`
+- [[Oaktop]] — `location`
+- [[Octavia]] — `npc`
+- [[Oleg Leveton]] — `npc`
+- [[Oleg's Trading Post]] — `location`
+- [[Ovinrbaane]] — `item`
+- [[Pavel]] — `character`
+- [[Pavel and Edina]] — `plot-hook`
+- [[Pavel's Parentage]] — `plot-hook`
+- [[Pavetta Stroon-Drevlev]] — `npc`
+- [[Phomandala]] — `npc`
+- [[Pitax]] — `location`
+- [[Restov]] — `location`
+- [[Rindle]] — `npc`
+- [[Rindle (Construct)]] — `npc`
+- [[Rise n Dine]] — `location`
+- [[Riven]] — `character`
+- [[Riven's Letter to Lyriel]] — `item`
+- [[River Kingdoms]] — `location`
+- [[Rowan Half Dark]] — `npc`
+- [[RP 1 — Camping with Ekundayo]] — `session`
+- [[RP 10 — Traveling back to the Nomen Heights with Xamanthe]] — `session`
+- [[RP 11 — Rest and Relaxation at Silverstep]] — `session`
+- [[RP 12 — Once again traveling to Nomen Heights]] — `session`
+- [[RP 13 — Through the Dunsward to Restov]] — `session`
+- [[RP 14 — The Great Feast of Freehaven]] — `session`
+- [[RP 14.1 — Pavel Shoots his Shot]] — `session`
+- [[RP 14.2 — Lucas and the Bards]] — `session`
+- [[RP 15 — Holiday Shopping]] — `session`
+- [[RP 16 — Drevlev Infiltrations]] — `session`
+- [[RP 17 — Long Road Home]] — `session`
+- [[RP 18 — Word from Afar]] — `session`
+- [[RP 19 — The Forest Answers]] — `session`
+- [[RP 2 — After the Thylacine Fight]] — `session`
+- [[RP 20 — The Mud and the Blood]] — `session`
+- [[RP 21 — The Mysterious Disappearance of St. Flint's Master]] — `session`
+- [[RP 22 — The Rest of the Battle of Silverstep]] — `session`
+- [[RP 23 — Deep Under Candlemere]] — `session`
+- [[RP 24 — A Politician's Day]] — `session`
+- [[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]] — `session`
+- [[RP 25.1 — Pavel's Confusion]] — `session`
+- [[RP 26 — Riven's Journey to Kyonin]] — `session`
+- [[RP 3 — After the Stag Lord Fight]] — `session`
+- [[RP 4 — Returning to Nightmarch after Hargulka's Fortress]] — `session`
+- [[RP 5 — One Night in Nightmarch]] — `session`
+- [[RP 5.5 — Ekundayo's Feast]] — `session`
+- [[RP 6 — Reflections While Traveling]] — `session`
+- [[RP 7 — On the steps of the Tors of Levenies]] — `session`
+- [[RP 7 — Patching up after the Undead Mage]] — `session`
+- [[RP 9 — In the Sepulchar Chamber]] — `session`
+- [[Saint Flint]] — `npc`
+- [[Satinder Morne]] — `npc`
+- [[Senn]] — `npc`
+- [[Serenko]] — `location`
+- [[Session 100 - She Dropped Your Letter]] — `session`
+- [[Session 101 - The Heads Still Dream]] — `session`
+- [[Session 102 - The Undefeated]] — `session`
+- [[Session 103 - The Shape of Where I Used to Be]] — `session`
+- [[Silverstep]] — `location`
+- [[Stag Lord's Helm]] — `item`
+- [[Starberry Press]] — `faction`
+- [[Stolen Lands]] — `location`
+- [[Svetlana Leveton]] — `npc`
+- [[Talia]] — `npc`
+- [[Talia's Revenge]] — `plot-hook`
+- [[Tamary Numesti]] — `npc`
+- [[Tanglebriar]] — `location`
+- [[Tarlaxian]] — `npc`
+- [[Tartuccio]] — `npc`
+- [[Terrion Numesti]] — `npc`
+- [[Thaelirian]] — `npc`
+- [[The Arsonist of Bronzeshield Hold]] — `plot-hook`
+- [[The Demon's Legacy]] — `plot-hook`
+- [[The Few]] — `faction`
+- [[The Founding of Freehaven]] — `lore`
+- [[The Horned Hunter]] — `npc`
+- [[The Knurly Witch]] — `npc`
+- [[The Misbegotten Troll]] — `npc`
+- [[The Month of Destruction]] — `plot-hook`
+- [[The Nightmare Rook]] — `npc`
+- [[The Old Beldame]] — `npc`
+- [[The Rimebridge]] — `location`
+- [[The Stag Lord]] — `npc`
+- [[The Stag Lord's Fort]] — `location`
+- [[The Starlight Staff]] — `item`
+- [[The Sword and the Suitor]] — `lore`
+- [[The Temple of the Elk]] — `location`
+- [[The Wriggling Man]] — `npc`
+- [[Thorn River Camp]] — `location`
+- [[Thousandbreaths]] — `location`
+- [[Tiger Lords]] — `faction`
+- [[Tol-Kin]] — `npc`
+- [[Tors of Levenies]] — `location`
+- [[Tovan]] — `npc`
+- [[Treerazer]] — `npc`
+- [[Tuskwater River]] — `location`
+- [[Valerie]] — `npc`
+- [[Valley of the Dead]] — `location`
+- [[Varnhold]] — `location`
+- [[Vesket]] — `location`
+- [[Vordakai]] — `npc`
+- [[Vordakai's Eye-Gem]] — `item`
+- [[Vordakai's Island]] — `location`
+- [[Willas Gunderson]] — `npc`
+- [[Willowshade]] — `location`
+- [[Xamanthe]] — `npc`

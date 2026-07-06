@@ -5,7 +5,18 @@ tags:
   - campaign/kingmaker
   - construct
 sources: []
-related: []
+related:
+  - "[[Candlemere Island]]"
+  - "[[Milo]]"
+  - "[[Oaktop]]"
+  - "[[Pavel]]"
+  - "[[Rindle]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
 aliases: ["Rindle"]
 status: alive
 role: "Milo's mechanical construct; Inventor class feature; named after Milo's lost brother"

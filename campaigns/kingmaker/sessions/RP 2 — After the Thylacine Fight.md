@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
 date: ""
 session_number: 2
 status: complete

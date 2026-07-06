@@ -4,7 +4,22 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Maegar Varn]]"
+  - "[[Nightmarch]]"
+  - "[[Nomen Heights]]"
+  - "[[Octavia]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Island]]"
+  - "[[Willas Gunderson]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"

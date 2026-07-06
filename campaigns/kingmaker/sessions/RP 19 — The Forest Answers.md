@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Almon d'Avoine]]"
+  - "[[Almon's Hunt for Cassandra]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Feywind]]"
+  - "[[Golden Talons]]"
+  - "[[King Irovetti]]"
+  - "[[Riven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[Silverstep]]"
+  - "[[Tovan]]"
 date: ""
 session_number: 19
 status: complete

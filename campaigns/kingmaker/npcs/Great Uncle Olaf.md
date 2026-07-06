@@ -5,7 +5,14 @@ tags:
   - campaign/kingmaker
   - ancestor
 sources: []
-related: []
+related:
+  - "[[Book of Warding Prayers]]"
+  - "[[Cat]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Great Great Aunt Gina]]"
+  - "[[Lucas]]"
+  - "[[Pavel]]"
+  - "[[RP 13 — Through the Dunsward to Restov]]"
 aliases: ["Olaf"]
 status: deceased
 role: "Lucas's foxfolk ancestor; grants the Poltergeist ability"

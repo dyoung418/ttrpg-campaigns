@@ -4,7 +4,28 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Avennara]]"
+  - "[[Campaign Timeline]]"
+  - "[[Faelir]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[The Wriggling Man]]"
 status: active
 created: "2026-05-29"
 ---

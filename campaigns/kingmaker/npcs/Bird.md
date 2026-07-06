@@ -5,7 +5,17 @@ tags:
   - campaign/kingmaker
   - companion
 sources: []
-related: []
+related:
+  - "[[Cat]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[Session 102 - The Undefeated]]"
 aliases: []
 status: alive
 role: "Pavel's animal companion — bird of prey"

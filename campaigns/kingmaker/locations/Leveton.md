@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Freehaven]]"
+  - "[[Nightmarch]]"
+  - "[[Oleg Leveton]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[Svetlana Leveton]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"

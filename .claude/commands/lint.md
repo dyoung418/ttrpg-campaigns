@@ -36,7 +36,13 @@ Run the helper script to get a TSV manifest of every file in scope:
 bash /home/danny/ttrpg_campaigns/_scripts/lint-vault.sh /home/danny/ttrpg_campaigns/<scope-path>
 ```
 
-Each row gives you: path, folder, has-frontmatter, has-type, has-campaign, has-created, tags-form, outbound-link count, outbound-embed count. Keep this manifest in working memory for the rest of the run.
+Each row gives you: path, folder, has-frontmatter, has-type, has-campaign, has-created, tags-form, outbound-link count, outbound-embed count, type, status, status-ok, has-sources, has-related, type-tag. Keep this manifest in working memory for the rest of the run.
+
+Column semantics (full details in the script header):
+
+- `STATUS_OK` — `1` status is valid for the type per `_meta/conventions.md` §2; `0` off-vocab **or missing when the type requires one** (only `lore` may omit); `-` type has no status vocabulary.
+- `HAS_SOURCES` / `HAS_RELATED` — the `sources:` / `related:` keys exist (they must, on every typed note; always list-form).
+- `TYPE_TAG` — `1` means a deprecated type-name tag (`npc`, `location`, …) survives in `tags:`; type lives in `type:` only.
 
 You will also need an **inbound link map** for orphan detection. For each file in scope, count how many other files reference it by basename:
 
@@ -61,11 +67,13 @@ For each file in scope, apply these fixes silently. Edit only the frontmatter bl
 |---|---|
 | Missing `created` field | Use `git log --diff-filter=A --follow --format=%aI -- "<path>" \| tail -1 \| cut -d'T' -f1`. If git returns nothing, use today's date (`date +%Y-%m-%d`). |
 | `campaign:` is set but `campaign/<name>` tag missing | Add `campaign/<name>` to the `tags:` array. |
-| `tags:` value is a bare string (e.g. `tags: npc`) | Convert to array form: `tags: [npc]`. If comma-separated (`tags: npc, location`), split it. |
+| `tags:` value is a bare string (e.g. `tags: fey`) | Convert to array form: `tags: [fey]`. If comma-separated, split it. |
 | Missing trailing newline | Append `\n`. |
 | `type:` missing AND folder is unambiguous | Set `type:` from the folder name (mapping below). |
 | `campaign:` empty/missing but path is `campaigns/<name>/...` | Set `campaign: <name>`. |
-| `tags:` is missing the type tag itself | Add the type tag. |
+| `TYPE_TAG` = 1 (deprecated type-name tag in `tags:`) | Remove that tag — type lives in `type:` only (`_meta/conventions.md` §3). Prefer `python3 _scripts/vault-set-tags.py --remove <note> <tag>`. |
+| `sources:` key missing on a typed note | Add `sources: []`. Prefer `_scripts/vault-add-source.py` when there's a known source to record. |
+| `related:` key missing on a typed note | Add `related: []`, then note in the report that `python3 _scripts/vault-rebuild-backlinks.py` should be run to populate it (never hand-write `related` values). |
 
 **Folder → type mapping:**
 
@@ -128,7 +136,10 @@ If a file has `type:` missing AND it sits in an unrecognized folder (not in the 
 ### 4e. Frontmatter contradictions
 
 - `campaign:` says one campaign, path says another → conflict.
-- `type:` says `npc` but `tags:` includes `location` → conflict.
+
+### 4h. Off-vocab or missing `status`
+
+Any row with `STATUS_OK` = 0. The allowed per-type values live in `_meta/conventions.md` §2. Picking the right enum needs judgment about the entity's actual state (is that NPC `alive` or `missing`?), so this is triage, never auto-fix. Narrative nuance goes in the note body, not the field.
 
 ### 4f. `.base` property drift
 
@@ -170,6 +181,7 @@ Apply user-confirmed edits using Edit. For "stub": create a minimal frontmatter-
 | Contradiction | `(p)refer path (update frontmatter), (f)refer frontmatter (move file), (s)kip` |
 | `.base` drift | `(r)emove property from .base, (i)gnore` |
 | Ambiguous link | Report only — too dangerous to auto-fix |
+| Off-vocab/missing `status` | Propose the closest enum from `_meta/conventions.md` §2, ask user to confirm; move any narrative nuance into the body |
 
 For batched issues of the same kind, offer a "(a)pply to all" shortcut where it's safe.
 

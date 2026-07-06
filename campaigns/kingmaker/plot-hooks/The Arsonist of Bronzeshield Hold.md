@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 17 — Long Road Home]]"
 status: resolved
 created: 2026-05-29
 ---

@@ -5,7 +5,15 @@ tags:
   - campaign/kingmaker
   - ancestor
 sources: []
-related: []
+related:
+  - "[[Book of Warding Prayers]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Great Uncle Olaf]]"
+  - "[[Lucas]]"
+  - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Vordakai]]"
 aliases: ["Gina"]
 status: deceased
 role: "Lucas's foxfolk ancestor; grants Ancestral Touch & Inner Radiance Torrent"

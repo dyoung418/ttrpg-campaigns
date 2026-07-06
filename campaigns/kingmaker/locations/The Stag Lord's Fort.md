@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Nightmarch]]"
+  - "[[RP 3 — After the Stag Lord Fight]]"
+  - "[[Stag Lord's Helm]]"
+  - "[[The Stag Lord]]"
+  - "[[Thorn River Camp]]"
 aliases: []
 status: ruined
 region: "Stolen Lands (former)"

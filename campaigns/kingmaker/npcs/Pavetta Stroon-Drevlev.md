@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Fort Drevlev]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Imeckus Stroon]]"
+  - "[[Restov]]"
 aliases: []
 status: alive
 role: "Baroness; widow of Hannis Drevlev; person of formidable will"

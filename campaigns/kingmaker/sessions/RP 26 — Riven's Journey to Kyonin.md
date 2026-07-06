@@ -4,7 +4,21 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Campaign Timeline]]"
+  - "[[Embeth Forest]]"
+  - "[[Freehaven]]"
+  - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Jameel Visser]]"
+  - "[[Kyonin]]"
+  - "[[Linzi]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Lyriels Amulet]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[Thaelirian]]"
 date: ""
 session_number: 26
 status: complete

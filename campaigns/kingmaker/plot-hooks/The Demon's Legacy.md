@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aelir and Lytha]]"
+  - "[[Faelir]]"
+  - "[[Kyonin]]"
+  - "[[Riven]]"
 status: open
 created: "2026-05-29"
 ---

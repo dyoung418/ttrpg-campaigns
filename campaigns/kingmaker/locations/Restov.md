@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Pavetta Stroon-Drevlev]]"
+  - "[[Riven]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: accessible
 region: "Brevoy"

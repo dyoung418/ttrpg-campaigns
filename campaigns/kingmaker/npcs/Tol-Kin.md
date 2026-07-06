@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Beneford]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Linzi]]"
+  - "[[Lucas]]"
+  - "[[Nightmarch]]"
+  - "[[RP 14.2 — Lucas and the Bards]]"
 aliases: ["Master Tol-Kin"]
 status: alive
 role: "One of the greatest living bards; wandering storyteller"

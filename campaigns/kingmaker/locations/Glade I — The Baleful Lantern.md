@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Cat]]"
+  - "[[Misbegotten Troll]]"
+  - "[[Nyrissa]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Thousandbreaths]]"
 aliases: []
 status: hostile
 region: "Thousandbreaths demiplane"

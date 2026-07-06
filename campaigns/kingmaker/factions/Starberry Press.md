@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Linzi]]"
+  - "[[Nightmarch]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
 aliases: []
 status: active
 alignment: ""

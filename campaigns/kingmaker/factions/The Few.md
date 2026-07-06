@@ -4,7 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Amara]]"
+  - "[[Brumble]]"
+  - "[[Embeth Forest]]"
+  - "[[Freehaven]]"
+  - "[[Jameel Visser]]"
+  - "[[King Irovetti]]"
+  - "[[Kyonin]]"
+  - "[[Riven]]"
+  - "[[Rowan Half Dark]]"
+  - "[[Talia]]"
+  - "[[Talia's Revenge]]"
 aliases: []
 status: active
 alignment: ""

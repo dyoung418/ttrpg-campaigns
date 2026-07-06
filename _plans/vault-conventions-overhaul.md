@@ -78,29 +78,41 @@ migration is already applied.
 
 ---
 
-## Phase 2 — Automation: scripts + `_index/` (NO symlinks)  ⏳ TODO
+## Phase 2 — Automation: scripts + `_index/` (NO symlinks)  ✅ DONE (2026-07-05)
 
-Durable helper scripts in `_scripts/` (git-synced); user-facing ones get thin
-`.claude/commands/*.md` wrappers. Portability matters (GM uses Linux + Windows Git Bash) — prefer
-Python/POSIX, null-delimited paths. Behaviour spec: `_meta/conventions.md` §5.
+Implemented as stdlib-only Python 3 (portable to Windows Git Bash) sharing
+`_scripts/vaultlib.py` (textual frontmatter editing — only the targeted key is rewritten, so
+formatting elsewhere is preserved byte-for-byte). Each script has a thin `.claude/commands/*.md`
+wrapper and is listed in CLAUDE.md.
 
-- [ ] **`vault-set-tags`** — set/normalize a note's `tags`; validate against `_meta/tags.md`
-  Active set; unknown tags get filed under `## Proposed` (never silently invented).
-- [ ] **`vault-add-source`** — append an entry to a note's `sources:` list (idempotent).
-- [ ] **`vault-rebuild-backlinks`** — scan every `[[wikilink]]` across the vault; regenerate each
-  note's `related:` field (currently empty everywhere). This is derived data — always regenerate,
-  never hand-edit.
-- [ ] **`vault-rebuild-index`** — create/regenerate `_index/` (start with `_index/by-tag/`) from
-  frontmatter. `_index/` is committed & git-synced.
-- [ ] (optional) **`vault-set-body`** — only if scripted callers need it; `obsidian:obsidian-markdown`
-  already covers body writes.
-- [ ] **Upgrade `_scripts/lint-vault.sh`** — currently emits PATH/FOLDER/HAS_FM/HAS_TYPE/
-  HAS_CAMPAIGN/HAS_CREATED/TAGS_FORM/OUTBOUND_*. Add columns/checks for `status` (flag off-vocab
-  per type), `sources` present+list, `related` present, and flag any surviving type-name tag. Wire
-  new checks into `/lint`.
-- [ ] Run `vault-rebuild-backlinks` then `vault-rebuild-index` once to populate `related:` + `_index/`.
-- [ ] Verify: a well-connected note (e.g. `campaigns/kingmaker/npcs/Nyrissa.md`) has `related:`
-  matching its wikilinks; `_index/by-tag` lists notes under their tags. Commit Phase 2.
+- [x] **`vault-set-tags.py`** — replace/`--add`/`--remove` tags; normalizes to kebab-case;
+  refuses type-name tags; unknown tags auto-filed under `## Proposed` in `_meta/tags.md`
+  (date + source note) and applied provisionally. `--dry-run` supported (all scripts).
+- [x] **`vault-add-source.py`** — idempotent append to `sources:` (dedupe by wikilink target,
+  ignoring `|alias`).
+- [x] **`vault-rebuild-backlinks.py`** — `related:` = sorted union of **outbound + inbound**
+  wikilink connections (per conventions §1/§4), quoted wikilinks. Graph always spans
+  `campaigns/` + `ideas/`; optional scope arg limits which notes are rewritten. **`_index.md`
+  hub files are excluded from the graph** (they link everywhere → noise). Alias-aware
+  resolution; links read from note bodies only (frontmatter `related`/`sources` never feed back).
+- [x] **`vault-rebuild-index.py`** — wipes & rebuilds `_index/by-tag/`: one page per tag
+  (grouped by campaign, with `type`), plus `_index.md` overview. Hub `_index.md` files excluded.
+  Tag `/` → `--` in filenames (`campaign--kingmaker.md`).
+- [x] `vault-set-body` **skipped** (optional; `obsidian:obsidian-markdown` covers body writes).
+- [x] **`lint-vault.sh` upgraded** — new columns TYPE, STATUS, STATUS_OK (per-type vocab from
+  conventions §2; missing-but-required counts as 0; only `lore` may omit), HAS_SOURCES,
+  HAS_RELATED, TYPE_TAG. Now also excludes `_index/`, `_memory/`, `_plans/`, `_meta/`.
+  `/lint` command updated: new columns documented, obsolete "add the type tag" auto-fix
+  **removed**, type-name-tag removal + missing `sources:`/`related:` added as safe fixes,
+  off-vocab/missing `status` added as a triage kind.
+- [x] Ran both rebuilds: 204 notes' `related:` populated; 21 tag pages + overview written.
+  Re-run is idempotent (0 updates). All frontmatter still parses as valid YAML (0 errors).
+- [x] Verified: Nyrissa's `related:` = her outbound links ∪ inbound linkers; `_index/by-tag/fey.md`
+  lists exactly the fey-tagged notes.
+
+**Finding for a later `/lint` run:** 17 notes (items/locations/npcs, e.g. Nyrissa, Briar,
+Thousandbreaths) have a status-requiring `type` but **no `status:` field at all** — needs
+GM judgment per entity, so left for `/lint` triage, not auto-fixed.
 
 ---
 

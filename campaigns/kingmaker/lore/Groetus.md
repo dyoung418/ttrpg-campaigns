@@ -4,7 +4,9 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Freehaven]]"
+  - "[[Harrim]]"
 created: "2026-06-03"
 ---
 

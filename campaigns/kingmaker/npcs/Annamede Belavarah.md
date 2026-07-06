@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Gaspere Liacenza]]"
+  - "[[Jameel Visser]]"
+  - "[[King Irovetti]]"
+  - "[[Pitax]]"
 aliases: []
 status: alive
 role: "Bard from Pitax; no friend of King Irovetti; ally in the Pitax infiltration"

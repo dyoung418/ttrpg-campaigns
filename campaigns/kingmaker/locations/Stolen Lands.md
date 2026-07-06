@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Candlemere Island]]"
+  - "[[Freehaven]]"
+  - "[[Nightmarch]]"
+  - "[[Oaktop]]"
+  - "[[Restov]]"
+  - "[[Riven]]"
+  - "[[River Kingdoms]]"
+  - "[[The Old Beldame]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"

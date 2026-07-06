@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Cassandra]]"
+  - "[[Riven]]"
+  - "[[RP 20 — The Mud and the Blood]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Senn]]"
+  - "[[Silverstep]]"
+  - "[[Willowshade]]"
 aliases: ["Hadrik"]
 status: alive
 role: "Sergeant, Silverstep Guard"

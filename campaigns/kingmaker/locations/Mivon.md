@@ -4,7 +4,9 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Amara]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
 aliases: []
 status: accessible
 region: "River Kingdoms"

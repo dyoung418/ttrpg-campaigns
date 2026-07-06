@@ -4,7 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[RP 4 — Returning to Nightmarch after Hargulka's Fortress]]"
 aliases: []
 status: alive
 role: "Pixie protector of the forest; dispute with loggers settled by the PCs"

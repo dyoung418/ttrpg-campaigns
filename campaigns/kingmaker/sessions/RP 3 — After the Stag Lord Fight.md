@@ -4,7 +4,16 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Lucas]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[The Stag Lord]]"
+  - "[[The Stag Lord's Fort]]"
 date: ""
 session_number: 3
 status: complete

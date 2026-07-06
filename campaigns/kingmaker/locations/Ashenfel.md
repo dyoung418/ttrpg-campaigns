@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Aecora]]"
+  - "[[Freehaven]]"
+  - "[[Nightmarch]]"
+  - "[[Nomen Centaurs]]"
+  - "[[Nomen Heights]]"
+  - "[[The Founding of Freehaven]]"
+  - "[[Tors of Levenies]]"
+  - "[[Vordakai]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"

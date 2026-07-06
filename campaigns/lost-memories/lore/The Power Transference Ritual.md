@@ -4,7 +4,13 @@ campaign: lost-memories
 tags:
   - campaign/lost-memories
 sources: []
-related: []
+related:
+  - "[[Discovering the Artifact Mechanism]]"
+  - "[[Magister Aldric]]"
+  - "[[Order of the Silver Chalice]]"
+  - "[[The Switched Backstories]]"
+  - "[[The Wizard's Abduction]]"
+  - "[[The Wizard's Prison]]"
 aliases: []
 topic: ""
 created: "2026-05-27"

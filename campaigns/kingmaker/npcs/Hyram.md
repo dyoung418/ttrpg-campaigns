@@ -5,7 +5,14 @@ tags:
   - campaign/kingmaker
   - companion
 sources: []
-related: []
+related:
+  - "[[Benedin]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
 aliases: []
 status: alive
 role: "Benedin's animal companion — very large goat"

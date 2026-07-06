@@ -4,7 +4,32 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Candlemere Island]]"
+  - "[[Freehaven]]"
+  - "[[Gelbin Steambender]]"
+  - "[[Glimmerhaven]]"
+  - "[[Lucas]]"
+  - "[[Milo's Lost Brother]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Rindle]]"
+  - "[[Rindle (Construct)]]"
+  - "[[RP 12 — Once again traveling to Nomen Heights]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[RP 17 — Long Road Home]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[The Founding of Freehaven]]"
 aliases: ["Milo Tinkerfoot"]
 player: "Billy"
 class: "Inventor"

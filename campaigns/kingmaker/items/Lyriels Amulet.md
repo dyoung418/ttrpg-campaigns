@@ -5,7 +5,15 @@ tags:
   - campaign/kingmaker
   - artifact
 sources: []
-related: []
+related:
+  - "[[Avennara]]"
+  - "[[Kyonin]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 26 — Riven's Journey to Kyonin]]"
 created: "2026-05-29"
 ---
 

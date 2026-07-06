@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Freehaven]]"
+  - "[[Lizardfolk Village]]"
+  - "[[Tuskwater River]]"
+  - "[[Vesket]]"
 aliases: []
 status: alive
 role: "Lizardfolk king of the Lizardfolk Village; ally of Freehaven"

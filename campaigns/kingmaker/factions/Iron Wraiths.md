@@ -4,7 +4,11 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Lady Jamandi Aldori]]"
 aliases:
   - The Iron Wraiths
 status: unknown

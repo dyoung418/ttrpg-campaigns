@@ -4,7 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Freehaven]]"
+  - "[[King Vesket]]"
+  - "[[Nightmarch]]"
+  - "[[Tuskwater River]]"
+  - "[[Vesket]]"
 aliases: []
 status: accessible
 region: "Tuskwater River"

@@ -4,7 +4,20 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Edina Aldori]]"
+  - "[[Jolia Aldori]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Oaktop]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[The Sword and the Suitor]]"
 date: ""
 session_number: 25
 status: complete

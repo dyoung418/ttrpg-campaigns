@@ -4,7 +4,30 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Briar]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Edina Aldori]]"
+  - "[[Glade J — The High Folly]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Ilthuliak]]"
+  - "[[Jolia Aldori]]"
+  - "[[Lee]]"
+  - "[[Linzi]]"
+  - "[[Lucas]]"
+  - "[[Lyriel]]"
+  - "[[Milo]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Tarlaxian]]"
+  - "[[The Horned Hunter]]"
+  - "[[The Wriggling Man]]"
+  - "[[Thousandbreaths]]"
 date: 2026-05-30
 session_number: 100
 status: complete

@@ -4,7 +4,40 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Amiri]]"
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Cult of the Bloom]]"
+  - "[[Edina Aldori]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Hargulka]]"
+  - "[[King Irovetti]]"
+  - "[[Kyonin]]"
+  - "[[Lady Jamandi Aldori]]"
+  - "[[Lee]]"
+  - "[[Linzi]]"
+  - "[[Lucas]]"
+  - "[[Lyriel's Wait]]"
+  - "[[Maegar Varn]]"
+  - "[[Milo]]"
+  - "[[Nightmarch]]"
+  - "[[Nomen Centaurs]]"
+  - "[[Nyrissa]]"
+  - "[[Octavia]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[Restov]]"
+  - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[The Stag Lord]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai]]"
 date: ""
 session_number: 14
 status: complete

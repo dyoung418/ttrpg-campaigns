@@ -4,7 +4,21 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Bird]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cat]]"
+  - "[[Hargulka]]"
+  - "[[Nightmarch]]"
+  - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Rise n Dine]]"
+  - "[[Riven]]"
+  - "[[RP 1 — Camping with Ekundayo]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[Starberry Press]]"
+  - "[[The Stag Lord]]"
 date: ""
 session_number: 5
 status: complete

@@ -4,7 +4,13 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Embeth Forest]]"
+  - "[[King Irovetti]]"
+  - "[[Riven]]"
+  - "[[Talia]]"
+  - "[[Talia's Revenge]]"
+  - "[[The Few]]"
 aliases: []
 status: deceased
 role: "Bandit leader of the Few; killed by Riven"

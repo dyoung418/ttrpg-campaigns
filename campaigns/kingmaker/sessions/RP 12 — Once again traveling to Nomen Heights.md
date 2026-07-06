@@ -4,7 +4,25 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Bird]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Eclipsed Incantations]]"
+  - "[[Linzi]]"
+  - "[[Lucas]]"
+  - "[[Milo]]"
+  - "[[Nightmarch]]"
+  - "[[Nomen Heights]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[The Arsonist of Bronzeshield Hold]]"
+  - "[[Varnhold]]"
+  - "[[Vordakai]]"
+  - "[[Vordakai's Eye-Gem]]"
 date: ""
 session_number: 12
 status: complete

@@ -4,7 +4,12 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 5.5 — Ekundayo's Feast]]"
 aliases: []
 status: accessible
 region: "Nightmarch (Freehaven capital)"

@@ -19,3 +19,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Python bytecode from _scripts helpers
+__pycache__/

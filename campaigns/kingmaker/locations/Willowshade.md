@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Almon's Hunt for Cassandra]]"
+  - "[[Cassandra]]"
+  - "[[Golden Talons]]"
+  - "[[Halvik]]"
+  - "[[Lord Darian]]"
+  - "[[Riven]]"
+  - "[[RP 20 — The Mud and the Blood]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Senn]]"
+  - "[[Silverstep]]"
 aliases: []
 status: accessible
 region: "Stolen Lands — near Silverstep"

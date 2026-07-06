@@ -4,7 +4,32 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Bronzeshield Hold]]"
+  - "[[Brumble]]"
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Freehaven]]"
+  - "[[Hannis Drevlev]]"
+  - "[[King Irovetti]]"
+  - "[[Kisandra Numesti]]"
+  - "[[Nightmarch]]"
+  - "[[Oleg Leveton]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[Pavel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Riven]]"
+  - "[[RP 1 — Camping with Ekundayo]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 15 — Holiday Shopping]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 5.5 — Ekundayo's Feast]]"
+  - "[[Serenko]]"
+  - "[[Silverstep]]"
+  - "[[Terrion Numesti]]"
+  - "[[The Stag Lord]]"
+  - "[[Tiger Lords]]"
 aliases: []
 status: alive
 role: "Hunter; instrumental in the fall of the Stag Lord; now a resident of Nightmarch"

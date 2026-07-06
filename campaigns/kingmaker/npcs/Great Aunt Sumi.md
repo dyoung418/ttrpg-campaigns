@@ -5,7 +5,19 @@ tags:
   - campaign/kingmaker
   - ancestor
 sources: []
-related: []
+related:
+  - "[[Book of Warding Prayers]]"
+  - "[[Cat]]"
+  - "[[Great Great Aunt Gina]]"
+  - "[[Great Uncle Olaf]]"
+  - "[[Lucas]]"
+  - "[[Pavel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Riven]]"
+  - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[RP 3 — After the Stag Lord Fight]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
 aliases: ["Sumi"]
 status: deceased
 role: "Lucas's foxfolk ancestor; powerful healer and mage"

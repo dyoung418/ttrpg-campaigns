@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Armag Reborn]]"
+  - "[[Bronzeshield Hold]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Fort Drevlev]]"
+  - "[[Hannis Drevlev]]"
+  - "[[Kisandra Numesti]]"
+  - "[[RP 16 — Drevlev Infiltrations]]"
+  - "[[Tamary Numesti]]"
+  - "[[Tiger Lords]]"
 aliases: []
 status: alive
 role: "General under Hannis Drevlev; father of Kisandra; imprisoned for refusing to surrender a daughter"

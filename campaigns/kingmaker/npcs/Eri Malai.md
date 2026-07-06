@@ -4,7 +4,21 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Benedin]]"
+  - "[[Campaign Timeline]]"
+  - "[[Candlemere Island]]"
+  - "[[Engelidis]]"
+  - "[[King Irovetti]]"
+  - "[[Nagaji Monastic Order]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Pitax]]"
+  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[Saint Flint]]"
+  - "[[The Starlight Staff]]"
 aliases:
   - Saint Flint
 status: alive

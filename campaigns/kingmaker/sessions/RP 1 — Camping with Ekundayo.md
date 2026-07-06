@@ -4,7 +4,17 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - rp-scene
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Campaign Timeline]]"
+  - "[[Ekundayo]]"
+  - "[[Nightmarch]]"
+  - "[[Oleg's Trading Post]]"
+  - "[[Pavel]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Riven]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 6 — Reflections While Traveling]]"
 date: ""
 session_number: 1
 status: complete

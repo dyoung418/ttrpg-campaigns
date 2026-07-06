@@ -4,7 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Linzi]]"
+  - "[[RP 14.2 — Lucas and the Bards]]"
+  - "[[Tol-Kin]]"
 aliases: []
 status: alive
 role: "Court Bard; former student of Tol-Kin; Linzi's teacher"

@@ -5,7 +5,39 @@ tags:
   - campaign/kingmaker
   - companion
 sources: []
-related: []
+related:
+  - "[[Astor]]"
+  - "[[Bird]]"
+  - "[[Book of Warding Prayers]]"
+  - "[[Briar]]"
+  - "[[Candlemere Island]]"
+  - "[[Edina Aldori]]"
+  - "[[Glade I — The Baleful Lantern]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Great Aunt Sumi]]"
+  - "[[Great Uncle Olaf]]"
+  - "[[Lucas]]"
+  - "[[Misbegotten Troll]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
+  - "[[Pavel's Parentage]]"
+  - "[[Riven]]"
+  - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
+  - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 2 — After the Thylacine Fight]]"
+  - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[RP 3 — After the Stag Lord Fight]]"
+  - "[[RP 4 — Returning to Nightmarch after Hargulka's Fortress]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 102 - The Undefeated]]"
 aliases: []
 status: alive
 role: "Pavel's animal companion — large black panther"

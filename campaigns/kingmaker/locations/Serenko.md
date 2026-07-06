@@ -4,7 +4,15 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
 sources: []
-related: []
+related:
+  - "[[Campaign Timeline]]"
+  - "[[Cassandra]]"
+  - "[[Ekundayo]]"
+  - "[[Freehaven]]"
+  - "[[Nightmarch]]"
+  - "[[Riven]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[Silverstep]]"
 aliases:
   - Fort Serenko
 status: accessible
