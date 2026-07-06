@@ -6,8 +6,8 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"

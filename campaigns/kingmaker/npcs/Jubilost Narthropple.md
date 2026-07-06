@@ -5,8 +5,8 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
 aliases: []
 status: alive
 role: "Gnome explorer and cartographer; leader of a nine-gnome expedition; joined Freehaven"

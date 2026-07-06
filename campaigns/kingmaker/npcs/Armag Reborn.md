@@ -6,8 +6,8 @@ tags:
 sources: []
 related:
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
   - "[[Fort Drevlev]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[Ovinrbaane]]"
   - "[[Riven]]"

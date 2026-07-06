@@ -8,7 +8,7 @@ related:
   - "[[Aecora]]"
   - "[[Ashenfel]]"
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Centaurs]]"
   - "[[Riven]]"
   - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"

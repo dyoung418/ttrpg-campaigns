@@ -7,11 +7,11 @@ tags:
 related:
   - "[[Bird]]"
   - "[[Book of Warding Prayers]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Great Aunt Sumi]]"
   - "[[Great Great Aunt Gina]]"
   - "[[Great Uncle Olaf]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Pavel]]"
   - "[[Restov]]"

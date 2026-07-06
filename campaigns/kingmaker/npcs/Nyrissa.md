@@ -9,7 +9,6 @@ sources: []
 related:
   - "[[Astor]]"
   - "[[Briar]]"
-  - "[[Campaign Timeline]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Cult of the Bloom]]"
   - "[[Eclipsed Incantations]]"
@@ -21,6 +20,7 @@ related:
   - "[[Kargstaad]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Summary]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"

@@ -6,8 +6,8 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[RP 15 — Holiday Shopping]]"
   - "[[RP 24 — A Politician's Day]]"
   - "[[Stolen Lands]]"

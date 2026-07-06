@@ -5,7 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nyrissa]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[The Month of Destruction]]"

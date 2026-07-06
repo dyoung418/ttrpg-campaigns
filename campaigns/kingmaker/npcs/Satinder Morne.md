@@ -5,9 +5,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Fort Drevlev]]"
   - "[[Hannis Drevlev]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[RP 16 — Drevlev Infiltrations]]"
 aliases: []
 status: alive

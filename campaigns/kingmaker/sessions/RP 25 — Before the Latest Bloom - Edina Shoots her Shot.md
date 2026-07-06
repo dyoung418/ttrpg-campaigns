@@ -6,10 +6,10 @@ tags:
   - rp-scene
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
   - "[[Jolia Aldori]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"

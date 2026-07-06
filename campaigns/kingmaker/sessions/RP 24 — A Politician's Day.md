@@ -6,10 +6,10 @@ tags:
   - rp-scene
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Erastil]]"
   - "[[Freehaven]]"
   - "[[Grigori]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[The Old Beldame]]"
 date: ""
 session_number: 24

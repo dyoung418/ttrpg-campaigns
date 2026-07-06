@@ -5,8 +5,8 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Edina Aldori]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"

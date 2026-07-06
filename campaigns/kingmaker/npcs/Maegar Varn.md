@@ -5,9 +5,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
   - "[[Hannis Drevlev]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[The Founding of Freehaven]]"

@@ -7,10 +7,10 @@ sources: []
 related:
   - "[[Armag Reborn]]"
   - "[[Bronzeshield Hold]]"
-  - "[[Campaign Timeline]]"
   - "[[Ekundayo]]"
   - "[[Freehaven]]"
   - "[[Hannis Drevlev]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[Ovinrbaane]]"
   - "[[Pitax]]"

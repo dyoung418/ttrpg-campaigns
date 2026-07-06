@@ -7,7 +7,6 @@ sources: []
 related:
   - "[[Amiri]]"
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Edina Aldori]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
@@ -16,6 +15,7 @@ related:
   - "[[Iron Wraiths]]"
   - "[[Jolia Aldori]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Linzi]]"
   - "[[Maegar Varn]]"
   - "[[Pavel]]"

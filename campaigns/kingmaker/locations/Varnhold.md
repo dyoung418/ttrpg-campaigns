@@ -6,8 +6,8 @@ tags:
 sources: []
 related:
   - "[[Aecora]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Maegar Varn]]"
   - "[[Nightmarch]]"

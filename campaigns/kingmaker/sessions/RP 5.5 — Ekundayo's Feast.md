@@ -6,9 +6,9 @@ tags:
   - rp-scene
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Ekundayo]]"
   - "[[Hargulka]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Linzi]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"

@@ -5,8 +5,8 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Centaurs]]"
   - "[[Riven]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"

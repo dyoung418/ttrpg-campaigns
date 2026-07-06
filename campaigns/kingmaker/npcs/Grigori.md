@@ -6,12 +6,12 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[Hannis Drevlev]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[Pitax]]"
   - "[[Riven]]"

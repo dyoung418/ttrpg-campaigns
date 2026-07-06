@@ -5,10 +5,10 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
-  - "[[Campaign Timeline]]"
   - "[[Cassandra]]"
   - "[[Freehaven]]"
   - "[[Halvik]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lord Darian]]"
   - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[Silverstep]]"

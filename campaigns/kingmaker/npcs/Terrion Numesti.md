@@ -7,10 +7,10 @@ sources: []
 related:
   - "[[Armag Reborn]]"
   - "[[Bronzeshield Hold]]"
-  - "[[Campaign Timeline]]"
   - "[[Ekundayo]]"
   - "[[Fort Drevlev]]"
   - "[[Hannis Drevlev]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[RP 16 — Drevlev Infiltrations]]"
   - "[[Tamary Numesti]]"

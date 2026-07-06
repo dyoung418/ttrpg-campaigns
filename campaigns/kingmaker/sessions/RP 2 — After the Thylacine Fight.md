@@ -5,8 +5,8 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Oleg's Trading Post]]"
   - "[[Pavel]]"
   - "[[Riven]]"

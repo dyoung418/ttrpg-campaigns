@@ -8,7 +8,6 @@ sources: []
 related:
   - "[[Armag Reborn]]"
   - "[[Briar]]"
-  - "[[Campaign Timeline]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Evindra]]"
   - "[[Glade I — The Baleful Lantern]]"
@@ -16,6 +15,7 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Kargstaad]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Misbegotten Troll]]"
   - "[[Nyrissa]]"
   - "[[Session 100 - She Dropped Your Letter]]"

@@ -6,8 +6,8 @@ tags:
   - rp-scene
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Ekundayo]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[Oleg's Trading Post]]"
   - "[[Pavel]]"

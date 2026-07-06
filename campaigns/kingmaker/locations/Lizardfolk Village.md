@@ -5,10 +5,10 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Candlemere Island]]"
   - "[[Freehaven]]"
   - "[[King Vesket]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[Tuskwater River]]"
   - "[[Vesket]]"

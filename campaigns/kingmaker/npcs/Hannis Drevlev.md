@@ -5,7 +5,6 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Ekundayo]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
@@ -13,6 +12,7 @@ related:
   - "[[Imeckus Stroon]]"
   - "[[Iron Wraiths]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Maegar Varn]]"

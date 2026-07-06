@@ -5,8 +5,8 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
 aliases: []
 status: accessible

@@ -7,9 +7,9 @@ tags:
 related:
   - "[[Bird]]"
   - "[[Brumble]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Hargulka]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"

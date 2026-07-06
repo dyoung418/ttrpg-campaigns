@@ -8,8 +8,8 @@ related:
   - "[[Avennara]]"
   - "[[Benedin]]"
   - "[[Bronzeshield Hold]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
@@ -69,7 +69,7 @@ Resting at [[Silverstep]], [[Riven]] is moved by how much the lakeside town rese
 ## Notable Details / Flags
 
 - **Origin point of the [[Lyriel's Wait]] plot thread** and [[Riven's Letter to Lyriel]] — the moon-and-rose amulet (see [[Lyriels Amulet]]) is shown here.
-- Not referenced in the [[Campaign Timeline]]; sits between the Vordakai arc and the Great Feast.
+- Not referenced in the [[Kingmaker Campaign Timeline|Campaign Timeline]]; sits between the Vordakai arc and the Great Feast.
 - *(Discord images in source stripped; the moon-and-rose gift image is referenced.)*
 
 ## Sources

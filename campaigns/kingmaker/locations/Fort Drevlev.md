@@ -6,11 +6,11 @@ tags:
 sources: []
 related:
   - "[[Armag Reborn]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
   - "[[Grigori]]"
   - "[[Hannis Drevlev]]"
   - "[[Imeckus Stroon]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"

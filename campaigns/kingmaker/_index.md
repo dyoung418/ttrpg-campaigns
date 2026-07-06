@@ -36,6 +36,22 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 *Full character details (backstory, motivations, item wish lists) → see `characters/` folder*
 
+## Trackers
+
+Live Bases views over this campaign's notes.
+
+### NPC Tracker — [[Kingmaker NPC Tracker.base|open]]
+
+![[Kingmaker NPC Tracker.base]]
+
+### Plot Hook Board — [[Kingmaker Plot Hook Board.base|open]]
+
+![[Kingmaker Plot Hook Board.base]]
+
+### Session Log — [[Kingmaker Session Log.base|open]]
+
+![[Kingmaker Session Log.base]]
+
 ## Key NPCs
 
 **Current Threats**
@@ -176,7 +192,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ### RP Scenes
 
-*In timeline order (see [[Campaign Timeline]] for exact placement between sessions).*
+*In timeline order (see [[Kingmaker Campaign Timeline|Campaign Timeline]] for exact placement between sessions).*
 
 - [[RP 1 — Camping with Ekundayo]] — early-campaign bonding around the fire with [[Ekundayo]]
 - [[RP 2 — After the Thylacine Fight]] — brief exchange between Riven and Pavel after the thylacine fight
@@ -211,7 +227,7 @@ The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands in
 
 ## Lore & World Notes
 
-- [[Campaign Timeline]] — **master timeline** reconciling session numbers with RP-document numbers; summarizes past sessions and places each RP scene
+- [[Kingmaker Campaign Timeline|Campaign Timeline]] — **master timeline** reconciling session numbers with RP-document numbers; summarizes past sessions and places each RP scene
 - [[The Founding of Freehaven]] — kingdom history, milestones, governance
 - [[Kingmaker Campaign Summary]] — full adventure path overview and Nyrissa backstory
 - [[Chapter 10 - Sound of a Thousand Screams]] — Part 1/2/3 structure, Briar awakening, chapter outcomes

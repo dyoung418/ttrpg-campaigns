@@ -7,12 +7,12 @@ sources: []
 related:
   - "[[Annamede Belavarah]]"
   - "[[Atlee Quinge]]"
-  - "[[Campaign Timeline]]"
   - "[[Candlemere Island]]"
   - "[[Freehaven]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[Jhofre Vascari]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 23 — Deep Under Candlemere]]"

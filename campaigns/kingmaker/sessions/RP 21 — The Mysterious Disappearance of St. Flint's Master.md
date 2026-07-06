@@ -7,10 +7,10 @@ tags:
 related:
   - "[[Astor]]"
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
   - "[[Engelidis]]"
   - "[[Eri Malai]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nagaji Monastic Order]]"
   - "[[Nightmarch]]"
   - "[[Pitax]]"

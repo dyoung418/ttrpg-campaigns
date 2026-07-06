@@ -32,6 +32,22 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 
 *Full character details (backstory, motivations, item wish lists) → see `characters/` folder*
 
+## Trackers
+
+Live Bases views over this campaign's notes.
+
+### NPC Tracker — [[Lost Memories NPC Tracker.base|open]]
+
+![[Lost Memories NPC Tracker.base]]
+
+### Plot Hook Board — [[Lost Memories Plot Hook Board.base|open]]
+
+![[Lost Memories Plot Hook Board.base]]
+
+### Session Log — [[Lost Memories Session Log.base|open]]
+
+![[Lost Memories Session Log.base]]
+
 ## Key NPCs
 
 - [[Magister Aldric]] — antagonist; Magister of the Order of the Silver Chalice going rogue; abducted the PCs for magical experimentation

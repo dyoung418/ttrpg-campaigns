@@ -6,11 +6,11 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Cassandra]]"
   - "[[Ekundayo]]"
   - "[[Freehaven]]"
   - "[[Hargulka]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
   - "[[Oleg Leveton]]"

@@ -6,8 +6,8 @@ tags:
 sources: []
 related:
   - "[[Ashenfel]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Centaurs]]"
   - "[[Nomen Heights]]"
   - "[[Riven]]"

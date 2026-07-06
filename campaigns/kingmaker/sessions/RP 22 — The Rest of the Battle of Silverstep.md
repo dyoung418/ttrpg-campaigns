@@ -5,10 +5,10 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
-  - "[[Campaign Timeline]]"
   - "[[Cassandra]]"
   - "[[Ekundayo]]"
   - "[[Halvik]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lord Darian]]"
   - "[[Riven]]"
   - "[[RP 20 — The Mud and the Blood]]"

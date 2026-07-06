@@ -7,10 +7,10 @@ sources: []
 related:
   - "[[Astor]]"
   - "[[Avennara]]"
-  - "[[Campaign Timeline]]"
   - "[[Faelir]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"

@@ -6,9 +6,9 @@ tags:
 sources: []
 related:
   - "[[Bronzeshield Hold]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
   - "[[Groetus]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
 aliases: []

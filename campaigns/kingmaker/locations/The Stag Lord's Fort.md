@@ -5,7 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[RP 3 — After the Stag Lord Fight]]"
   - "[[Stag Lord's Helm]]"

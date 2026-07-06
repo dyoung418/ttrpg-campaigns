@@ -7,11 +7,11 @@ sources: []
 related:
   - "[[Bronzeshield Hold]]"
   - "[[Brumble]]"
-  - "[[Campaign Timeline]]"
   - "[[Cassandra]]"
   - "[[Freehaven]]"
   - "[[Hannis Drevlev]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[Nightmarch]]"
   - "[[Oleg Leveton]]"

@@ -5,9 +5,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
   - "[[King Vesket]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lizardfolk Village]]"
   - "[[Nightmarch]]"
   - "[[Tuskwater River]]"

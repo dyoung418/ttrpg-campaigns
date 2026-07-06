@@ -5,7 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
 aliases: []
 status: deceased
 role: "Hostile hermit encountered and fought during the kingdom's expansion"

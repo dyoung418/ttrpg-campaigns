@@ -6,9 +6,9 @@ tags:
   - rp-scene
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Hargulka]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Melianse]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"

@@ -32,7 +32,6 @@ tags: []
 - [[Briar]] — `item`
 - [[Bronzeshield Hold]] — `location`
 - [[Brumble]] — `npc`
-- [[Campaign Timeline]] — `lore`
 - [[Candlemere Island]] — `location`
 - [[Cassandra]] — `npc`
 - [[Cat]] — `npc`
@@ -81,6 +80,7 @@ tags: []
 - [[King Irovetti]] — `npc`
 - [[King Vesket]] — `npc`
 - [[Kingmaker Campaign Summary]] — `lore`
+- [[Kingmaker Campaign Timeline]] — `lore`
 - [[Kisandra Numesti]] — `npc`
 - [[Kyonin]] — `location`
 - [[Lady Jamandi Aldori]] — `npc`

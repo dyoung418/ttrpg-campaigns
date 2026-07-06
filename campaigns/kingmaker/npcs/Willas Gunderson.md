@@ -5,7 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Varnhold]]"
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"

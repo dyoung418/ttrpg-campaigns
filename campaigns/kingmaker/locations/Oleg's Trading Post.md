@@ -5,9 +5,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Ekundayo]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Leveton]]"
   - "[[Oleg Leveton]]"
   - "[[RP 1 — Camping with Ekundayo]]"

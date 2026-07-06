@@ -6,11 +6,11 @@ tags:
 sources: []
 related:
   - "[[Briar]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Eri Malai]]"
   - "[[Gaspere Liacenza]]"
   - "[[King Vesket]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Lee]]"
   - "[[Lizardfolk Village]]"

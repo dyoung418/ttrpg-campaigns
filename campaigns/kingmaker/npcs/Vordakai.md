@@ -7,9 +7,9 @@ sources: []
 related:
   - "[[Aecora]]"
   - "[[Ashenfel]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
   - "[[Great Great Aunt Gina]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Maegar Varn]]"
   - "[[Nomen Centaurs]]"
   - "[[Riven]]"

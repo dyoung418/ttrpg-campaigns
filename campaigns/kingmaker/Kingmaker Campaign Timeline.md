@@ -117,6 +117,7 @@ related:
   - "[[Xamanthe]]"
 aliases:
   - Kingmaker Timeline
+  - Campaign Timeline
 status: established
 created: "2026-06-17"
 ---

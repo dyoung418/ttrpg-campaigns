@@ -5,9 +5,9 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Great Aunt Sumi]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"

@@ -5,10 +5,10 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Fort Drevlev]]"
   - "[[Hannis Drevlev]]"
   - "[[Imeckus Stroon]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Restov]]"
 aliases: []
 status: alive

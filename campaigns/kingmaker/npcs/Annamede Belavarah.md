@@ -5,10 +5,10 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Gaspere Liacenza]]"
   - "[[Jameel Visser]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Pitax]]"
 aliases: []
 status: alive

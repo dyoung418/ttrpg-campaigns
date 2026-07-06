@@ -108,8 +108,12 @@ When the user describes TTRPG content in plain text, you:
 - Lore files: `campaigns/<name>/lore/<Topic Name>.md`
 - Session files: `campaigns/<name>/sessions/Session <NN> - <Title>.md`
 - Ideas bank files: `campaigns/ideas/<type>/<Name>.md` (no characters/ in ideas — PCs always belong to a campaign)
-- Base view files: `campaigns/<name>/<View Name>.base` (e.g., `NPC Tracker.base`)
-- Canvas files: `campaigns/<name>/<Map Name>.canvas` (e.g., `Kingmaker Relationship Map.canvas`)
+- Base view files: `campaigns/<name>/<Campaign> <View Name>.base` (e.g., `Kingmaker NPC Tracker.base`)
+- Canvas files: `campaigns/<name>/<Campaign> <Map Name>.canvas` (e.g., `Kingmaker Relationship Map.canvas`)
+- **Disambiguation rule:** Obsidian resolves links by basename vault-wide, so any filename that
+  would repeat across campaigns must carry the campaign name — all `.base`/`.canvas` files and
+  campaign-root overview notes (e.g. `Kingmaker Campaign Timeline.md`, not `Campaign Timeline.md`).
+  The `_index.md` hubs are the one structural exception.
 
 ## Response Style
 

@@ -6,7 +6,7 @@ tags:
   - rp-scene
 related:
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[Vordakai]]"

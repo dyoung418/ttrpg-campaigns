@@ -7,10 +7,10 @@ sources: []
 related:
   - "[[Astor]]"
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
   - "[[Candlemere Island]]"
   - "[[Engelidis]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nagaji Monastic Order]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"

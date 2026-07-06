@@ -6,9 +6,9 @@ tags:
 sources: []
 related:
   - "[[Annamede Belavarah]]"
-  - "[[Campaign Timeline]]"
   - "[[Embeth Forest]]"
   - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Riven]]"

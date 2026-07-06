@@ -7,8 +7,8 @@ sources: []
 related:
   - "[[Aecora]]"
   - "[[Ashenfel]]"
-  - "[[Campaign Timeline]]"
   - "[[Freehaven]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Heights]]"
   - "[[Octavia]]"
   - "[[Riven]]"

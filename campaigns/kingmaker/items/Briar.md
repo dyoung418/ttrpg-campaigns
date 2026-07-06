@@ -6,7 +6,6 @@ tags:
   - artifact
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Candlemere Island]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
@@ -14,6 +13,7 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Summary]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"

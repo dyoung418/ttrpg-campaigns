@@ -6,9 +6,9 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Jolia Aldori]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
   - "[[Oaktop]]"

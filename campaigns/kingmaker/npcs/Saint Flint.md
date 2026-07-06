@@ -5,11 +5,11 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Candlemere Island]]"
   - "[[Engelidis]]"
   - "[[Eri Malai]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nagaji Monastic Order]]"
   - "[[Pitax]]"
   - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"

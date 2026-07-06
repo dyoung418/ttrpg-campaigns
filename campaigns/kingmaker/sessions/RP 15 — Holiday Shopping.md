@@ -7,10 +7,10 @@ tags:
 related:
   - "[[Astor]]"
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
   - "[[Cassandra]]"
   - "[[Ekundayo]]"
   - "[[Feywind]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"

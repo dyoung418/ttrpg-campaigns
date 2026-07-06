@@ -7,8 +7,8 @@ sources: []
 related:
   - "[[Armag Reborn]]"
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
   - "[[Fort Drevlev]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Pavel]]"
   - "[[RP 17 — Long Road Home]]"

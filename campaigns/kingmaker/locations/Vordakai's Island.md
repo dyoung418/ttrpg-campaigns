@@ -5,7 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Heights]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
   - "[[RP 9 — In the Sepulchar Chamber]]"

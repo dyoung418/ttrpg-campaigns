@@ -6,7 +6,7 @@ tags:
 sources: []
 related:
   - "[[Aecora]]"
-  - "[[Campaign Timeline]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Centaurs]]"
   - "[[Nomen Heights]]"
   - "[[Pavel]]"

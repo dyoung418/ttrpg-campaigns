@@ -5,8 +5,8 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
-  - "[[Campaign Timeline]]"
   - "[[Cassandra]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Oleg Leveton]]"
   - "[[Oleg's Trading Post]]"
   - "[[Svetlana Leveton]]"

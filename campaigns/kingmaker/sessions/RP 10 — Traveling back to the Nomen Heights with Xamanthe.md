@@ -6,10 +6,10 @@ tags:
   - rp-scene
 related:
   - "[[Bird]]"
-  - "[[Campaign Timeline]]"
   - "[[Cat]]"
   - "[[Freehaven]]"
   - "[[Hyram]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Nomen Heights]]"
   - "[[Pavel]]"

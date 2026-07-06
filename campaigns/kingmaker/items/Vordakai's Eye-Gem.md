@@ -8,8 +8,8 @@ tags:
 sources: []
 related:
   - "[[Benedin]]"
-  - "[[Campaign Timeline]]"
   - "[[Eclipsed Incantations]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"

@@ -6,11 +6,11 @@ tags:
 sources: []
 related:
   - "[[Avennara]]"
-  - "[[Campaign Timeline]]"
   - "[[Candlemere Island]]"
   - "[[Freehaven-Kyonin Treaty]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel's Wait]]"
