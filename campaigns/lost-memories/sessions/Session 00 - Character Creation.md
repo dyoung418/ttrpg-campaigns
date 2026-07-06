@@ -16,7 +16,7 @@ created: "2026-05-27"
 
 > **Date**:
 > **Status**: Planned
-> **Next Session**: [[Session 01 - Title]]
+> **Next Session**: *(not yet planned)*
 
 ---
 

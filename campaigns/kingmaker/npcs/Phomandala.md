@@ -10,6 +10,7 @@ sources: []
 related:
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
+status: alive
 created: "2026-05-29"
 ---
 

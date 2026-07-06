@@ -4,6 +4,7 @@ tags:
   - ideas
 sources: []
 related: []
+created: "2026-05-27"
 ---
 
 # Ideas Bank

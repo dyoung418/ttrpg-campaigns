@@ -17,6 +17,7 @@ related:
   - "[[Tarlaxian]]"
   - "[[The Month of Destruction]]"
   - "[[Thousandbreaths]]"
+status: deceased
 created: "2026-05-29"
 ---
 

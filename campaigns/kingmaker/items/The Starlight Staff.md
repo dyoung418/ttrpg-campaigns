@@ -12,6 +12,7 @@ related:
   - "[[RP 23 — Deep Under Candlemere]]"
   - "[[Saint Flint]]"
 aliases: []
+status: lost
 created: "2026-05-30"
 ---
 

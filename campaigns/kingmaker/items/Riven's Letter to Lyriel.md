@@ -20,6 +20,7 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Silverstep]]"
+status: held
 created: "2026-05-29"
 ---
 

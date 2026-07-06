@@ -14,6 +14,7 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Tarlaxian]]"
   - "[[Thousandbreaths]]"
+status: hostile
 created: "2026-06-29"
 ---
 

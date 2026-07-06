@@ -13,6 +13,7 @@ related:
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"
+status: held
 created: "2026-05-29"
 ---
 

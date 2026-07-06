@@ -10,6 +10,7 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
   - "[[Thousandbreaths]]"
+status: alive
 created: "2026-05-29"
 ---
 

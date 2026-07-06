@@ -29,6 +29,7 @@ related:
   - "[[The Nightmare Rook]]"
   - "[[The Rimebridge]]"
   - "[[The Wriggling Man]]"
+status: hostile
 created: "2026-05-29"
 ---
 

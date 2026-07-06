@@ -14,6 +14,7 @@ related:
   - "[[Riven's Letter to Lyriel]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
   - "[[RP 26 — Riven's Journey to Kyonin]]"
+status: held
 created: "2026-05-29"
 ---
 

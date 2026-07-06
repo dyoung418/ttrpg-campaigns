@@ -15,6 +15,7 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Thousandbreaths]]"
+status: alive
 created: "2026-05-29"
 ---
 

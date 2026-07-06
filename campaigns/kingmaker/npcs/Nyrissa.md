@@ -48,6 +48,7 @@ related:
   - "[[The Rimebridge]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
+status: alive
 created: "2026-05-29"
 ---
 

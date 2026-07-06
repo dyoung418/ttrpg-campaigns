@@ -26,6 +26,7 @@ related:
   - "[[The Rimebridge]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
+status: hostile
 created: "2026-05-29"
 ---
 

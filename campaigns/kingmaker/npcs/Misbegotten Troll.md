@@ -11,6 +11,7 @@ related:
   - "[[Nyrissa]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Thousandbreaths]]"
+status: deceased
 created: "2026-06-05"
 ---
 

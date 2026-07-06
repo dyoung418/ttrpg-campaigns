@@ -12,6 +12,7 @@ related:
   - "[[Pavel]]"
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[Vordakai's Eye-Gem]]"
+status: held
 created: "2026-05-29"
 ---
 

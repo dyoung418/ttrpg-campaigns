@@ -53,7 +53,6 @@ The PCs wake up as prisoners with no memory of who they are. Stripped of their p
 ## Sessions
 
 - [[Session 00 - Character Creation]]
-- [[Session 01 - Title]]
 
 ## World
 

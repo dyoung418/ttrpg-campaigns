@@ -169,4 +169,4 @@ Ancient even by linnorm standards, Tarlaxian came to the [[House at the Edge of 
 - [[Thousandbreaths]]
 - [[Nyrissa]]
 - [[Ilthuliak]]
-- [[Session 103]] *(prep)*
+- [[Session 103 - The Shape of Where I Used to Be|Session 103]] *(prep)*
