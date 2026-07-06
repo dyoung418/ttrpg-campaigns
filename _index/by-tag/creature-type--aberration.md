@@ -3,13 +3,13 @@ type: index
 tags: []
 ---
 
-# Tag: `timeline`
+# Tag: `creature-type/aberration`
 
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-1 note(s) tagged `timeline`.
+1 note(s) tagged `creature-type/aberration`.
 
 ## kingmaker
 
-- [[Campaign Timeline]] — `lore`
+- [[The Wriggling Man]] — `npc`

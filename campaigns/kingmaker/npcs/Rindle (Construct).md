@@ -3,7 +3,7 @@ type: npc
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-  - construct
+  - creature-type/construct
 sources: []
 related:
   - "[[Candlemere Island]]"

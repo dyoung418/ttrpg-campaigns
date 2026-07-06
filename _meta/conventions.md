@@ -72,7 +72,7 @@ set lives under `## Active` in `_meta/tags.md`.
 
 **Type is not a tag.** `type:` already captures what a note *is*, so re-encoding it as a tag adds
 nothing. Tags are reserved for **cross-cutting retrieval axes** that group *across* types — e.g.
-`fey`, `first-world`, `undead`, `artifact` — connections `type:` can't express.
+`creature-type/fey`, `first-world`, `artifact` — connections `type:` can't express.
 
 **Format:** lowercase-kebab-case, in YAML frontmatter (block-list style).
 

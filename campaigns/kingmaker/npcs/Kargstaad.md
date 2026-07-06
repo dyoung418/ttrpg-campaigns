@@ -4,7 +4,7 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - enemy
-  - giant
+  - creature-type/giant
 sources: []
 related:
   - "[[Nyrissa]]"

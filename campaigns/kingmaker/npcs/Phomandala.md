@@ -4,8 +4,8 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - enemy
-  - dragon
-  - humanoid
+  - creature-type/humanoid
+  - creature-type/dragon
 sources: []
 related:
   - "[[House at the Edge of Time]]"

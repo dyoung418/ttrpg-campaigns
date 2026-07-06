@@ -3,13 +3,13 @@ type: index
 tags: []
 ---
 
-# Tag: `hag`
+# Tag: `creature-type/construct`
 
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-1 note(s) tagged `hag`.
+1 note(s) tagged `creature-type/construct`.
 
 ## kingmaker
 
-- [[The Knurly Witch]] — `npc`
+- [[Rindle (Construct)]] — `npc`

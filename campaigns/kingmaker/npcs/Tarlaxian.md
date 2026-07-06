@@ -4,7 +4,7 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - enemy
-  - dragon
+  - creature-type/dragon
 sources: []
 related:
   - "[[Astor]]"

@@ -45,9 +45,13 @@ vault-set-tags.py, then index rebuild; intake mode: judgment rules + script-enfo
 still writing type-name tags, `status: rp-scene`, singular `source:`). `/vault-enrich` stays
 documented-only (conventions §6). README gained a "Vault maintenance commands" section.
 
+**First `/vault-stitch` reconcile pass — DONE (2026-07-05).** GM rulings: `villain` merged →
+`enemy`; `dangerous` **promoted** (hazard axis, contra the drop hint); bestiary formalized as a
+nested **`creature-type/` axis** with `dragon` and `fey` migrated into it too (7 values:
+aberration, construct, dragon, fey, giant, hag, humanoid); `deity` promoted; `timeline`
+rejected. `## Proposed` is now empty.
+
 **Outstanding follow-ups (not part of the overhaul phases):**
-- Run `/vault-stitch` — the seeded `## Proposed` list awaits GM adjudication
-  (`villain`/`dangerous`→`enemy`, bestiary cluster, `deity`, `timeline`).
 - 17 notes have a status-requiring type but no `status:` field — surface via `/lint`.
 - ~~Andrew's Vault Edits.md~~ — done: both files moved to `_sources/processed/` (2026-07-05).
 

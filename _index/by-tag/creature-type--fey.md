@@ -3,13 +3,15 @@ type: index
 tags: []
 ---
 
-# Tag: `construct`
+# Tag: `creature-type/fey`
 
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-1 note(s) tagged `construct`.
+3 note(s) tagged `creature-type/fey`.
 
 ## kingmaker
 
-- [[Rindle (Construct)]] — `npc`
+- [[Evindra]] — `npc`
+- [[Nyrissa]] — `npc`
+- [[The Horned Hunter]] — `npc`

@@ -3,13 +3,15 @@ type: index
 tags: []
 ---
 
-# Tag: `giant`
+# Tag: `creature-type/dragon`
 
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-1 note(s) tagged `giant`.
+3 note(s) tagged `creature-type/dragon`.
 
 ## kingmaker
 
-- [[Kargstaad]] — `npc`
+- [[Ilthuliak]] — `npc`
+- [[Phomandala]] — `npc`
+- [[Tarlaxian]] — `npc`

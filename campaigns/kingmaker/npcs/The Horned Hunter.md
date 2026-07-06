@@ -3,8 +3,8 @@ type: npc
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-  - fey
   - enemy
+  - creature-type/fey
 sources: []
 related:
   - "[[Briar]]"

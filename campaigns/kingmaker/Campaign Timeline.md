@@ -2,7 +2,6 @@
 type: lore
 campaign: kingmaker
 tags:
-  - timeline
   - campaign/kingmaker
 sources: []
 related:

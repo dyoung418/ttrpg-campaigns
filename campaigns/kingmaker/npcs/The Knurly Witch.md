@@ -4,7 +4,7 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - enemy
-  - hag
+  - creature-type/hag
 sources: []
 related:
   - "[[House at the Edge of Time]]"

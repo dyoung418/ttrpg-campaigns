@@ -4,4 +4,4 @@ This is the canonical, cross-machine memory index for this vault (committed to g
 
 - [Vault Setup Complete](project_vault_setup.md) — TTRPG Obsidian vault fully built with /capture, /session, /campaign commands, 8 templates, and RLDM session framework
 - [Demon and the Worm Idea](kingmaker_demon_worm_idea.md) — pending GM decision (not canon): Wriggling Man = the demon that killed Riven's parents; seeds in "The Demon and the Worm Ideas" canvas; deadline is the K17 throne-room session
-- [Vault Conventions Overhaul](project_vault_conventions_overhaul.md) — Andrew's Vault Edits adopted, all 3 phases DONE (_meta docs, automation scripts + _index/by-tag + related, /vault-stitch); follow-ups: run /vault-stitch on seeded proposals, 17 notes missing required status (via /lint)
+- [Vault Conventions Overhaul](project_vault_conventions_overhaul.md) — Andrew's Vault Edits adopted, all 3 phases DONE (_meta docs, automation scripts + _index/by-tag + related, /vault-stitch); first /vault-stitch pass done (creature-type/ axis formalized); follow-up: 17 notes missing required status (via /lint)

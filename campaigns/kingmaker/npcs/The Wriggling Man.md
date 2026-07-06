@@ -4,7 +4,7 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - enemy
-  - aberration
+  - creature-type/aberration
 sources: []
 related:
   - "[[House at the Edge of Time]]"

@@ -3,13 +3,13 @@ type: index
 tags: []
 ---
 
-# Tag: `aberration`
+# Tag: `creature-type/humanoid`
 
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-1 note(s) tagged `aberration`.
+1 note(s) tagged `creature-type/humanoid`.
 
 ## kingmaker
 
-- [[The Wriggling Man]] — `npc`
+- [[Phomandala]] — `npc`
