@@ -61,6 +61,7 @@ Live Bases views over this campaign's notes.
 - [[The Knurly Witch]] — Annis hag cleric; Glade H and Cellar K16
 - [[Ilthuliak]] — Black dragon; Glade J (High Folly)
 - [[Phomandala]] — Medusa sorcerer; Ruined Halls M3
+- [[The Lantern King]] — the Eldest who broke Nyrissa and set the Apology bargain; behind the throne, not yet on-stage; becomes the next threat if Nyrissa falls (Chapter 11)
 
 **Allies & Campaign NPCs**
 - [[Lady Jamandi Aldori]] — Noble patron; charter-grantor; attended Great Feast in disguise; seeking cautious alliance with Freehaven
@@ -188,7 +189,7 @@ Live Bases views over this campaign's notes.
 - [[Session 100 - She Dropped Your Letter]] — strong start: Sending arrives mid-bloom; party marches to Thousandbreaths after Lyriel is taken
 - [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the road on toward Ilthuliak and the House
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
-- [[Session 103 - The Shape of Where I Used to Be]] — *(planned)* Briara wakes to Nyrissa's nearness; the Rimebridge and Tarlaxian; the gatehouse's ashamed dead as cliffhanger
+- [[Session 103 - The Shape of Where I Used to Be]] — Briara wakes to Nyrissa's nearness and confesses; the party rests, then reaches the House; the Rimebridge fight with Tarlaxian runs long and ends *mid-combat* (the gatehouse now opens 104)
 
 ### RP Scenes
 
@@ -243,6 +244,7 @@ Live Bases views over this campaign's notes.
 - [[Ovinrbaane]] — Legendary weapon wielded by [[Armag Reborn]]; wounded [[Benedin]] deep at [[Fort Drevlev]]; current location unknown
 - [[Riven's Letter to Lyriel]] — Sealed letter to Lyriel Anarindë; in Astor's keeping; send only if Riven doesn't return
 - [[Book of Warding Prayers]] — Sato family sacred history and prayer book; recovered from Hargulka's lair; Lucas carries it
+- [[Fox-Head Pendant]] — carved pendant (a wolf's head Lucas reflavors as a fox); grants Charisma; looted from Ilthuliak's keep, worn by Lucas
 
 ## Factions (full list)
 

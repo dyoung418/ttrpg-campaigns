@@ -49,6 +49,7 @@ added — source note — merge/synonym candidates.
 
 | Tag | Added | Source note | Merge / synonym candidate |
 | --- | --- | --- | --- |
+| *(none)* | | | |
 
 > [!note] Not in this registry
 > Type-name tags (`npc`, `location`, …) are **deprecated** — type lives in `type:` only. They are

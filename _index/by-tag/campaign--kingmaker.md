@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-197 note(s) tagged `campaign/kingmaker`.
+199 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
@@ -48,6 +48,7 @@ tags: []
 - [[Faelir]] — `npc`
 - [[Feywind]] — `item`
 - [[Fort Drevlev]] — `location`
+- [[Fox-Head Pendant]] — `item`
 - [[Freehaven]] — `faction`
 - [[Freehaven-Kyonin Treaty]] — `lore`
 - [[Gaspere Liacenza]] — `npc`
@@ -180,6 +181,7 @@ tags: []
 - [[The Founding of Freehaven]] — `lore`
 - [[The Horned Hunter]] — `npc`
 - [[The Knurly Witch]] — `npc`
+- [[The Lantern King]] — `npc`
 - [[The Misbegotten Troll]] — `npc`
 - [[The Month of Destruction]] — `plot-hook`
 - [[The Nightmare Rook]] — `npc`

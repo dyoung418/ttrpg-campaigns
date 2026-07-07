@@ -3,7 +3,8 @@ type: session
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
   - "[[Amulet of the Fey Ward]]"
   - "[[Astor]]"
@@ -24,7 +25,7 @@ related:
   - "[[Thousandbreaths]]"
 date: ""
 session_number: 103
-status: planned
+status: complete
 players_present:
   - Wes (Riven)
   - Darren (Pavel)
@@ -38,7 +39,7 @@ created: "2026-06-29"
 # Session 103 — The Shape of Where I Used to Be
 
 > **Date**:
-> **Status**: Planned
+> **Status**: Complete
 > **Previous Session**: [[Session 102 - The Undefeated]]
 
 ---
@@ -165,12 +166,45 @@ A lone Creature 20 loses the action-economy war against six honed PCs (they foun
 
 ---
 
-## Post-Session *(fill in after play)*
+## Post-Session *(actual play)*
+
+> [!note] Divergence from prep
+> The prep expected [[Tarlaxian]] to fall and the session to **end on the gatehouse portcullis**. In play the **Rimebridge fight ate the whole night** — the session ended *mid-combat* with the party still on the bridge and Tarlaxian still up. The gatehouse and its ashamed dead (K1) roll into **Session 104**.
 
 **What actually happened:**
 
+- **Recap of [[Session 102 - The Undefeated]].** The night opened with a recap: the fight through the trolls and cats, the talk with [[Briar|Briara]], the skull-lantern barricade, and the battle at [[Ilthuliak]]'s keep — the dragon animated the surrounding statues into a layered vertical fight, **[[Riven]] landed the killing arrow**, and once it fell the statues stopped moving. The party looted the keep afterward (haul below).
+- **Briara's confession** *(the cold open, as prepped).* Mid rest-debate, [[Briar|Briara]] went suddenly, uncharacteristically quiet, then spoke in a changed, serious voice: *"Oh. Oh, she's close. I can feel the shape of where I used to be."* [[Pavel]] took her aside; she said she had not felt [[Nyrissa]]'s presence *"for ages, ages and ages"* and confirmed she had been torn out of herself as punishment **"for love."** The banter dissolved into a real conversation about identity, reunion, and whether Briara should be **destroyed, restored, or returned** to Nyrissa. Pavel cross-referenced the party's notes and prior interviews (including [[Evindra]]'s account) and found the stories contradictory. No decision was reached.
+- **Scouting the path north.** Pavel climbed the keep tower. The way forward dimmed into *"a patch of darker darkness"* — not true darkness, just a deeper dimming than the realm's twilight. No imminent danger; he judged Nyrissa might be somewhere *ahead on the same plane* rather than just outside the walls.
+- **The rest fork — resolved toward resting.** [[Lucas]] argued for giving [[Lyriel]] *"the best chance"* rather than charging in exhausted. [[Lee]] aided (+1 circumstance), and Lucas landed a **DC 40 Diplomacy** on a **hero-point reroll** to bring the anxious Riven around. Before resting, Lucas nearly cast a planar spell (*Planar Palace*), but [[Astor]] warned that dimensional magic had already misbehaved in the pocket-realm (the earlier teleport trouble in the troll-and-cats fight); Lucas held off. **The party long-rested in the keep.** *(Per prep, the rest secretly gated the party's level-up.)* [[Milo]] rejoined here, having missed the previous session.
+- **To the House at the Edge of Time.** After morning prep the party marched ~an hour north through colder, dimmer air and rounded a bend to the [[House at the Edge of Time]] — unanchored *"at the edge of space and time,"* reachable only by a **300-ft black-ice bridge** with no rails, over black *"space water."* Briara fell silent, the presence now too close for comment.
+- **The Rimebridge — [[Tarlaxian]].** Pavel inspected the water, warned the others, and stepped onto the bridge first; **Tarlaxian erupted from the lake** and initiative was rolled. Pavel used recall knowledge to warn that **killing** Tarlaxian would curse the slayer for a year and block all healing (its *Curse of Death*). The fight became a chaotic bridge battle — Tarlaxian's rime breath, frostbite aura, bites, improved grab, and coil drag against the party's flight, quick jumps, shoves, Avalanche Boots, Battle Medicine, elixirs, and invisibility.
+  - **Lucas** identified its **weakness to cold iron** and lowest save (**Will**), then hit hard with cold-iron needle darts, later self-healing with Battle Medicine and an *elixir of life*.
+  - **Astor** used a lucky rabbit's foot to reroll a save, **critically shoved** Tarlaxian, and used Avalanche Boot effects to drive it toward the water; he innovated with big leaps to beat the iced greater difficult terrain.
+  - **Milo** flew [[Rindle (Construct)|Rindle]] over the bridge, crit a Crafting check to trigger Overdrive, and traded a healing potion with Astor.
+  - **Lee** was grabbed and **Coil-Dragged off the bridge into the lake**; **Pavel** hauled him back up with an Athletics check, and Lee then used Battle Medicine.
+- **Cliffhanger — the fight is nearly over, but positional.** The party's plan is **not to kill Tarlaxian — it's to get past him.** They correctly believe he **won't pursue beyond the bridge**, so reaching the far shore ends the threat. As the session closed they were **~3/4 of the way across**, but **Tarlaxian sits at the far end, blocking the exit.** He hits hard: **every PC except [[Riven]] has taken significant damage.** The open question they're solving is **how to shift him out of the doorway** — shove him off, force him under, or slip past — to cover the last stretch. Continues in Session 104.
+
+**Loot from Ilthuliak's keep** *(distributed this session):* thundering *returning starknife*; *bracers of armor*; *rod of negation*; a **wolf's-head pendant** (Lucas flavors it as a **fox head**; grants Charisma — Lucas now wears it, see [[Fox-Head Pendant]]); *cloak of the bat*; *silver tongue mutagen* (Milo — later offered for the coming negotiation); *elixir of life*; *minor healing potion*.
+
 **Threads opened:**
 
-**Threads closed:**
+- **Briara ↔ Nyrissa reunion** is now emotionally live: destroy her, restore her, or return her to the Queen — and would that *heal* Nyrissa or swallow Briara back into what abandoned her?
+- **The Lantern King's bargain** — the party surfaced conflicting accounts (Briara as an *instrument of Nyrissa's death* vs. Nyrissa's *love restored* if she completes the Apology). See [[The Lantern King]].
+
+**Threads closed / advanced:**
+
+- Rest fork resolved — they rested (secretly gated the level-up).
+- Reached the [[House at the Edge of Time]]; the crossing is underway.
 
 **Next session setup:**
+
+- **Get past Tarlaxian and off the bridge.** The party's win condition is the **far shore**, not the kill — he won't pursue beyond the span. They need to **clear him from the exit** (shove/force under/slip by) with most of the party hurt. If they *do* go for the kill: whoever lands it faces **Curse of Death (DC 46 Will)**, and regeneration means real damage or **cold iron** ([[Briar|Briara]] is cold iron) to keep him down — another reason to simply pass.
+- The **gatehouse (K1)** and its **ashamed dead** still wait — the prepped cliffhanger, now the opening beat of 104. Forgiveness frees them.
+- **Collect party wish lists** before the House's loot-dense interior.
+
+---
+
+## Sources
+
+- [[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]] *(AI-generated RP export, GM-edited to markdown; in-fiction names appear misspelled — Nerissa→Nyrissa, Liriel→Lyriel, Tarlaxion→Tarlaxian, Briara→Briar, Avindra→Evindra)*

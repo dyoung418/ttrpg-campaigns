@@ -4,7 +4,8 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - creature-type/fey
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
@@ -63,3 +64,4 @@ The PCs befriended Evindra and gained her trust. In return, she warned them that
 ## Session History
 
 - Pre-Chapter 10: Befriended by the party; provided the key intelligence on Nyrissa, Briar, and the Thousandbreaths entrance
+- [[Session 103 - The Shape of Where I Used to Be|Session 103]] *(referenced, not present)*: When [[Briar|Briara]]'s confession prompted the party to debate her fate, [[Pavel]] reviewed their notes and prior interviews — Evindra's account among them — and found the stories about Briara's relationship to Nyrissa **contradict each other**. Her testimony is now one of several conflicting sources the party is trying to reconcile.

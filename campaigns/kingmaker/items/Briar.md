@@ -4,7 +4,8 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - artifact
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
   - "[[Candlemere Island]]"
   - "[[Cat]]"
@@ -77,6 +78,8 @@ By the approach to the [[House at the Edge of Time]] (around [[Session 102 - The
 
 > [!note] Capture new Briara material here
 > She is a live, evolving voice. Record anything significant she says or reveals in play in this section.
+
+**In play ([[Session 103 - The Shape of Where I Used to Be|Session 103]]):** the confession landed as the session's cold open. Mid rest-debate Briara went abruptly, uncharacteristically quiet, then in a changed, serious voice: *"Oh. Oh, she's close. I can feel the shape of where I used to be."* Pressed by [[Pavel]], she said she had not felt [[Nyrissa]]'s presence *"for ages, ages and ages,"* and confirmed she was torn out of herself as punishment **"for love."** She named herself torn between wanting to be whole again and dreading reunion with her *"worst half."* As the party neared the [[House at the Edge of Time]] she **fell silent** — the presence too close for her usual commentary. The party has not decided whether to destroy, restore, or return her.
 
 ## Tactical Notes
 

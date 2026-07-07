@@ -5,7 +5,8 @@ tags:
   - campaign/kingmaker
   - enemy
   - creature-type/dragon
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
   - "[[Astor]]"
   - "[[Briar]]"
@@ -26,7 +27,7 @@ status: alive
 role: "Tarn linnorm; guardian of the bridge to the House at the Edge of Time"
 faction: "[[Nyrissa]] (loosely)"
 location: "The Rimebridge — bridge to the House at the Edge of Time"
-first_appeared: "Session 103 (planned)"
+first_appeared: "Session 103"
 created: "2026-06-03"
 ---
 
@@ -34,7 +35,12 @@ created: "2026-06-03"
 
 > **Role**: The wall on the bridge — a gargantuan tarn linnorm coiled at the far end of the span to the [[House at the Edge of Time]]
 > **Creature 20** (uncommon) — run here with the boss modifications below, which push the effective threat well past a standard solo Creature 20
-> **Status**: Alive; blocks the bridge but **won't pursue into the House**
+> **Status**: Alive — **combat in progress, nearly resolved.** He ambushed the party the moment [[Pavel]] stepped onto the bridge in [[Session 103 - The Shape of Where I Used to Be|Session 103]]. As that session closed the party was **~3/4 across** and Tarlaxian **holds the far end, blocking the exit**. Continues in Session 104.
+
+> [!note] Actual play so far (Session 103)
+> He erupted from the lake on Pavel's first step and initiative was rolled. [[Lucas]] recalled his **weakness to cold iron** and weak **Will** save and hit with cold-iron darts; [[Astor]] critically **shoved** him and used Avalanche Boots to push him toward the water; [[Lee]] was **Coil-Dragged off the bridge into the lake** and hauled back up by Pavel (Athletics).
+>
+> **Tactical state at the cliffhanger:** the party is **not trying to kill him — they're trying to get past.** They correctly read that he **won't pursue past the bridge** (see *History & Motivation*), so the far shore is safety. They're ~3/4 across; he blocks the far end; **every PC except [[Riven]] has taken significant damage** (he hits hard). The live problem is **how to displace him from the exit** — shove him off the ice, force him under, or slip by — to cover the final stretch. **No kill yet — so Curse of Death has not fallen on anyone**, and the party has reason *not* to seek the kill if they can simply pass.
 
 ## Summary
 

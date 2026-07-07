@@ -8,10 +8,11 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-3 note(s) tagged `creature-type/fey`.
+4 note(s) tagged `creature-type/fey`.
 
 ## kingmaker
 
 - [[Evindra]] — `npc`
 - [[Nyrissa]] — `npc`
 - [[The Horned Hunter]] — `npc`
+- [[The Lantern King]] — `npc`
