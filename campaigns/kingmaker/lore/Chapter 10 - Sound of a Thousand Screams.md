@@ -10,8 +10,10 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
   - "[[The Founding of Freehaven]]"
+  - "[[The Lantern King]]"
   - "[[The Misbegotten Troll]]"
   - "[[The Month of Destruction]]"
+  - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 created: "2026-05-29"
 ---

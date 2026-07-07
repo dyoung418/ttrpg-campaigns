@@ -6,7 +6,9 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
+  - "[[Briar]]"
   - "[[Edina Aldori]]"
+  - "[[Great Aunt Sumi]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Nightmarch]]"
@@ -19,6 +21,7 @@ related:
   - "[[RP 25.1 — Pavel's Confusion]]"
   - "[[Stolen Lands]]"
   - "[[The Month of Destruction]]"
+  - "[[The Oaktop Ankou]]"
 aliases: []
 status: contested
 region: "Stolen Lands"
@@ -29,7 +32,7 @@ created: 2026-06-17
 
 > **Region**: Stolen Lands (south)
 > **Type**: Ruined village / silver mine
-> **Status**: Contested — destroyed by [[Nyrissa]]'s forces; mine under enemy occupation when the party struck
+> **Status**: Retaken — village destroyed by [[Nyrissa]]'s forces; the party broke the mine garrison and killed its [[The Oaktop Ankou|Ankou]] commander (RP25.1)
 
 ## Description
 
@@ -44,6 +47,8 @@ The reason the enemy lingered. At the mine entrance, under lights on poles, **re
 The party ambushed the mine garrison on a moonless night. [[Pavel]] had already silenced the guards on the hilltops, leaving the valley blind. The plan: [[Riven]]'s forces feint from the west, fall back, and bait [[Nyrissa]]'s troops into pursuit, at which point the hidden party hits them. [[Lucas]]'s illusion magic broke the enemy line — a false fireball and a feigned rout drew the trolls and satyrs into a charge. [[Pavel]] went for the shaman; [[Lee]] and [[Rindle (Construct)|Rindle]] charged alongside.
 
 Throughout the staging, Pavel was preoccupied — quizzing [[Astor]] about [[Edina Aldori|Edina]] rather than the battle (see [[RP 25.1 — Pavel's Confusion]]).
+
+The bait worked *too* well. Instead of a rabble, the garrison turned out to be a disciplined **counter-ambush** — satyrs firing pre-cranked crossbow volleys, troll bodyguards screening two shamans who called lightning down on [[Riven]] and [[Lucas]]'s hidden archers. The mind behind that discipline was a First World general, **[[The Oaktop Ankou]]** — a thirty-foot Ankou of night and flame that emerged only once its minions were breaking. [[Pavel]] was dropped by a shaman's lightning and revived by [[Great Aunt Sumi]] before charging the Ankou head-on. The party killed the Ankou and broke the garrison, retaking the mine.
 
 ## Connected Locations
 

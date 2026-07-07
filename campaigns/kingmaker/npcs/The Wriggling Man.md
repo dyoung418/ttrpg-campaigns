@@ -7,6 +7,7 @@ tags:
   - creature-type/aberration
 sources: []
 related:
+  - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[House at the Edge of Time]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"

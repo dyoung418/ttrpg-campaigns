@@ -6,8 +6,10 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
+  - "[[Briar]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
+  - "[[Great Aunt Sumi]]"
   - "[[Jolia Aldori]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Linzi]]"
@@ -17,6 +19,7 @@ related:
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[The Oaktop Ankou]]"
 status: open
 created: "2026-05-29"
 ---
@@ -46,7 +49,9 @@ Edina does not blame the party for her sister's death. She knows she would have 
 
 **The courtyard confession (RP25).** [[Edina Aldori|Edina]] traveled to [[Nightmarch]] and sought [[Pavel]] out in the Old Fortress courtyard before the party marched. She apologized for the feast, thanked him for being beside her when [[Jolia Aldori]] died, and stated it plainly: *"I think about you, Pavel. More than I have any ordinary reason to. I have for a long time."* Pavel's first reaction was suspicion (*"Did Astor put you up to this? Are you playing games with me?"*); after she pushed back, he landed, almost inaudibly, on *"Are you saying you'd like to be ... friends?"* — *"Yes, that is exactly what I'm saying."* She fastened his pack and told [[Cat]] to look after him. The "friendship" framing is mutually understood as a placeholder for what's already there. (Full account in [[Edina Aldori]].)
 
-**Pavel processes it with Astor (RP25.1).** Days later, on a hilltop above the [[Oaktop]] silver mine the night before a battle, Pavel couldn't stop replaying the courtyard scene. He asked the married [[Astor]] what a woman *means* by wanting to be friends — and admitted his only friends are people he kills things with, plus [[Linzi]]. Astor's answer: he'd used the same "let's be friends" line on his own wife out of fear of asking for more — but ultimately, *"friends aren't the people you take lives with. They're the people you share life with."* Pavel was still angling for advice (*"if a woman... liked Cat and wanted to be your friend, what would you do next?"*) as he charged into the fight. He has not yet acted on any of it. See [[RP 25.1 — Pavel's Confusion]].
+**Pavel processes it with Astor (RP25.1).** Days later, on a hilltop above the [[Oaktop]] silver mine the night before a battle, Pavel couldn't stop replaying the courtyard scene. He asked the married [[Astor]] what a woman *means* by wanting to be friends — and admitted his only friends are people he kills things with, plus [[Linzi]]. Astor's answer: he'd used the same "let's be friends" line on his own wife out of fear of asking for more — but ultimately, *"friends aren't the people you take lives with. They're the people you share life with."* Astor's practical counsel when pressed: *"I'd tell her I'd like to get to know her better. Maybe over a nice meal."* Pavel recoiled — *"You mean **talk** to her? What would I have to talk to her about?"*
+
+**Pavel's (cowardly) resolution — mid-battle.** The Oaktop fight went badly, and Pavel deliberated about [[Edina Aldori|Edina]] *through the entire thing* — distracted enough that [[Astor]] had to twice shield him from troll axes, and a shaman's lightning eventually dropped him (revived by [[Great Aunt Sumi]]). A warm **Presence** even reached into his mind mid-fight, echoing Edina's parting *"be careful"* (an early stirring of [[Briar|Briara]] — see [[Briar]]). Turning her over and over, he kept retreating to safer ground: *"This is what friends are. Not whatever Edina meant. That can't possibly be friends."* Finally, facing a monstrous [[The Oaktop Ankou|Ankou]], he reached a private, bleak clarity: *"Edina wants to be friends. I don't know what that means — but more important, I don't think I want to know. I don't think I can handle it. Who would have guessed I'm such a coward?"* He has **not acted on Astor's advice** — if anything he's talked himself *out* of pursuing it, at least for now. See [[RP 25.1 — Pavel's Confusion]].
 
 ## Open Questions
 

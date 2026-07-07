@@ -8,13 +8,12 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
-  - "[[Nyrissa]]"
   - "[[Briar]]"
-  - "[[Evindra]]"
-  - "[[House at the Edge of Time]]"
-  - "[[Thousandbreaths]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Evindra]]"
+  - "[[Freehaven]]"
   - "[[Kingmaker Campaign Summary]]"
+  - "[[Nyrissa]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
 aliases: []
 status: alive

@@ -19,6 +19,7 @@ related:
   - "[[The Founding of Freehaven]]"
   - "[[The Horned Hunter]]"
   - "[[The Misbegotten Troll]]"
+  - "[[The Oaktop Ankou]]"
   - "[[Thousandbreaths]]"
 status: resolved
 created: 2026-05-29

@@ -8,12 +8,14 @@ tags:
 sources: []
 related:
   - "[[Amulet of the Fey Ward]]"
+  - "[[Fox-Head Pendant]]"
   - "[[Glade J — The High Folly]]"
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Tarlaxian]]"
   - "[[The Month of Destruction]]"
   - "[[Thousandbreaths]]"

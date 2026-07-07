@@ -9,6 +9,7 @@ related:
   - "[[Edina Aldori]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
 created: "2026-05-29"
 ---
 

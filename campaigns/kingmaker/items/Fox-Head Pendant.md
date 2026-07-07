@@ -6,8 +6,8 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
-  - "[[Lucas]]"
   - "[[Ilthuliak]]"
+  - "[[Lucas]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
 aliases: ["Wolf-Head Pendant"]
 status: held

@@ -8,6 +8,7 @@ related:
   - "[[Briar]]"
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
+  - "[[The Lantern King]]"
 created: "2026-05-29"
 ---
 

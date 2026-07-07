@@ -16,6 +16,7 @@ related:
   - "[[Riven]]"
   - "[[RP 1 — Camping with Ekundayo]]"
   - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
   - "[[RP 3 — After the Stag Lord Fight]]"
   - "[[Thaelirian]]"
 status: open

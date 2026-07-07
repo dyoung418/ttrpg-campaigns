@@ -6,6 +6,7 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
+  - "[[Briar]]"
   - "[[Cat]]"
   - "[[Jolia Aldori]]"
   - "[[Kingmaker Campaign Timeline]]"

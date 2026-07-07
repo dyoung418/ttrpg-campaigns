@@ -11,13 +11,17 @@ related:
   - "[[Great Great Aunt Gina]]"
   - "[[Great Uncle Olaf]]"
   - "[[Lucas]]"
+  - "[[Oaktop]]"
   - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
   - "[[Pavel's Parentage]]"
   - "[[Riven]]"
   - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
   - "[[RP 3 — After the Stag Lord Fight]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[The Oaktop Ankou]]"
 aliases: ["Sumi"]
 status: deceased
 role: "Lucas's foxfolk ancestor; powerful healer and mage"

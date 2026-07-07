@@ -3,7 +3,8 @@ type: character
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
 related:
   - "[[Amiri]]"
   - "[[Benedin]]"
@@ -49,6 +50,7 @@ related:
   - "[[Stag Lord's Helm]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
+  - "[[The Oaktop Ankou]]"
   - "[[The Old Beldame]]"
   - "[[The Stag Lord]]"
   - "[[The Sword and the Suitor]]"
@@ -141,7 +143,7 @@ The current arc is about what it means to fight for something rather than just t
 
 - **A Politician's Day (RP24)**: A long day as Councilor of [[Freehaven]] — land disputes, herbal tea in a shot glass, the walk home through the lower market. He passed the stone where [[Grigori]] used to stand. He always notices it. He came home to his wife's voice and a child's laughter dissolving into giggles, and stood on the doorstep letting it wash over him before going inside.
 
-- **"Friends aren't the people you take lives with." (above Oaktop — RP25.1)**: On a hilltop overlooking the [[Oaktop]] silver mine the night before an ambush on [[Nyrissa]]'s forces, Astor coordinated the plan ([[Riven]]'s force feints from the west to bait the trolls and satyrs into pursuit) while a distracted [[Pavel]] kept asking him about women. Brewing tea from his "travel-sized" set the whole time — and pouring it badly, spilling onto the earth — Astor fielded Pavel's question about what it means when a woman wants to be *friends*. He answered honestly that he'd opened with the same line to his now-wife, *"because I was scared it might be too much to ask for more."* When the battle began he grabbed his horned helm, cursed (the tea set was a gift from his in-laws), and gave Pavel the real answer: *"Friends aren't the people you take lives with. They're the people you share life with! ... The rest of you catch that? Remember them in the moments to come!"* See [[Pavel and Edina]].
+- **"Friends aren't the people you take lives with." (above Oaktop — RP25.1)**: On a hilltop overlooking the [[Oaktop]] silver mine the night before an ambush on [[Nyrissa]]'s forces, Astor coordinated the plan ([[Riven]]'s force feints from the west to bait the trolls and satyrs into pursuit) while a distracted [[Pavel]] kept asking him about women. Brewing tea from his "travel-sized" set the whole time — and pouring it badly, spilling onto the earth — Astor fielded Pavel's question about what it means when a woman wants to be *friends*. He answered honestly that he'd opened with the same line to his now-wife, *"because I was scared it might be too much to ask for more."* When the battle began he grabbed his horned helm, cursed (the tea set was a gift from his in-laws), and gave Pavel the real answer: *"Friends aren't the people you take lives with. They're the people you share life with! ... The rest of you catch that? Remember them in the moments to come!"* As the fight turned into a disciplined counter-ambush he kept shielding a distracted [[Pavel]] from crossbow volleys and troll axes (*"Get your head back in the fight, boy!"*), his own plate soaking the hits. Worn thin by Pavel's endless "theoretical" questions, he vented an alchemical **rage-suppressant brew from a tank in his armor** — a lever-triggered "*Serenity now*" that shifted him to a detached, neutral-observer calm (he mused [[Milo]] could build a replica). His theoretical relationship advice, delivered mid-charge: *"I'd tell her I'd like to get to know her better. Maybe over a nice meal."* See [[Pavel and Edina]] and [[The Oaktop Ankou]].
 
 ## Sources
 

@@ -6,10 +6,12 @@ tags:
   - artifact
 sources:
   - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
+  - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
 related:
   - "[[Candlemere Island]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Edina Aldori]]"
   - "[[Evindra]]"
   - "[[House at the Edge of Time]]"
   - "[[King Irovetti]]"
@@ -17,17 +19,22 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Nyrissa]]"
+  - "[[Oaktop]]"
   - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
   - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 23 — Deep Under Candlemere]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Tarlaxian]]"
   - "[[The Horned Hunter]]"
+  - "[[The Lantern King]]"
   - "[[The Month of Destruction]]"
+  - "[[The Oaktop Ankou]]"
   - "[[The Rimebridge]]"
   - "[[Thousandbreaths]]"
 aliases: ["Briara"]
@@ -56,6 +63,9 @@ Briar is the artifact sword forged from [[Nyrissa]]'s own capacity for love, emp
 ## Awakening (Sharpness Points)
 
 Briar grows more powerful the more it is exposed to enemies from the First World — [[Nyrissa]]'s home plane. Full rules: Appendix 4, page 585.
+
+> [!note] Early stirring (RP 25.1, ~Session 25)
+> Long before Briar could speak, [[Pavel]] felt a warm **Presence** rise in his mind while wielding it against First World foes at the [[Oaktop]] battle — *the self-conscious pleasure of having pleased someone and earned a smile*, evoking his mother and [[Edina Aldori|Edina]] at once. It pushed at his emotional centers, trying to form words, and "purred" at him; unsettled, he shoved it back. In hindsight this reads as the **first stirring of [[Briar|Briara]]** — Nyrissa's stolen capacity to love reaching toward its bearer well ahead of the full awakening below. See [[RP 25.1 — Pavel's Confusion]].
 
 - **Entering Thousandbreaths** for the first time: +1 Sharpness Point. Nyrissa notices the flash of green light.
 - **Facing the lesser jabberwock** (Day 28): Briar temporarily blazes to full power for the fight, then returns to its earned level.

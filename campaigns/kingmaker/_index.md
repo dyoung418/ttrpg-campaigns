@@ -116,6 +116,7 @@ Live Bases views over this campaign's notes.
 
 **Defeated**
 - [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar; killed by the PCs mid-bloom as Linzi's Sending about Lyriel arrived (Session 100); never claimed the sword
+- [[The Oaktop Ankou]] — First World Ankou general who commanded Nyrissa's counter-ambush at the [[Oaktop]] silver mine; killed by the party (RP25.1)
 - [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard) — *encounter skipped by GM decision; still in his glade as lore*
 - [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party
 - [[The Stag Lord]] — Bandit lord; first major adversary

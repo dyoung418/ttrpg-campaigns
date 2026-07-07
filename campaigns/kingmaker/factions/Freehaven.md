@@ -70,6 +70,7 @@ related:
   - "[[Tamary Numesti]]"
   - "[[The Few]]"
   - "[[The Founding of Freehaven]]"
+  - "[[The Lantern King]]"
   - "[[The Old Beldame]]"
   - "[[The Stag Lord]]"
   - "[[The Temple of the Elk]]"

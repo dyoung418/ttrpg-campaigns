@@ -10,6 +10,9 @@ related:
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[The Lantern King]]"
   - "[[The Month of Destruction]]"
   - "[[Thousandbreaths]]"
 aliases: []

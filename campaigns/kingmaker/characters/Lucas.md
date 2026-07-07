@@ -10,6 +10,7 @@ related:
   - "[[Book of Warding Prayers]]"
   - "[[Briar]]"
   - "[[Cat]]"
+  - "[[Fox-Head Pendant]]"
   - "[[Freehaven]]"
   - "[[Glade J — The High Folly]]"
   - "[[Great Aunt Sumi]]"
