@@ -29,6 +29,7 @@ Cross-cutting theme tags currently in real use across the vault:
 | `enemy` | role | Antagonists and hostile forces. |
 | `artifact` | item-class | Major/legendary items. |
 | `ancestor` | theme | Ancestral figures, bloodline history. |
+| `backstory` | theme | Figures/content rooted in a PC's pre-campaign backstory — parents, mentors, lost loves, old enemies, home regions, origin mysteries. Applies even once they become active in play. Distinct from `ancestor` (spirit-world bloodline figures). |
 | `tome` | item-class | Books, grimoires, records of note. |
 | `rp-scene` | session-kind | Roleplay-scene session logs (see `_meta/conventions.md` §2). |
 | `dangerous` | hazard | Hazardous items/locations worth retrieving as a group. |

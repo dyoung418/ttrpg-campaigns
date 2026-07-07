@@ -13,6 +13,7 @@ related:
   - "[[Avennara]]"
   - "[[Benedin]]"
   - "[[Bronzeshield Hold]]"
+  - "[[Carandini Family]]"
   - "[[Cassandra]]"
   - "[[Ekundayo]]"
   - "[[Embeth Forest]]"

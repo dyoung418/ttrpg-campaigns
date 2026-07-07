@@ -3,6 +3,7 @@ type: npc
 campaign: kingmaker
 tags:
   - campaign/kingmaker
+  - backstory
 sources: []
 related:
   - "[[Mivon]]"

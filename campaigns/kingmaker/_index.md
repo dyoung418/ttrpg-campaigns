@@ -255,6 +255,7 @@ Live Bases views over this campaign's notes.
 - [[Iron Wraiths]] — another charter-holder group; went dark; assumed dead
 - [[Golden Talons]] — Two Pitax battalions; marched on Silverstep during the war; defeated
 - [[Nagaji Monastic Order]] — nagaji religious order; operated underground in Pitax; re-emerged post-war; led by Saint Flint
+- [[Carandini Family]] — [[Lee]]'s woodland-elf family; nineteen alphabetically-named children; offscreen backstory (head [[Aee]], Court Arcanist [[Cee]])
 - [[Tiger Lords]] — barbarian/troll warband led by [[Armag Reborn]]; allied with Pitax and Drevlev; defeated
 - [[Cult of the Bloom]] — cult exploiting a First World scar to spawn the Blooms; their incursion was closed by the PCs
 

@@ -3,6 +3,7 @@ type: plot-hook
 campaign: kingmaker
 tags:
   - campaign/kingmaker
+  - backstory
 sources: []
 related:
   - "[[Gelbin Steambender]]"

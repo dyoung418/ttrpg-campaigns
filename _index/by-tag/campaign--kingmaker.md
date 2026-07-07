@@ -8,11 +8,12 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-199 note(s) tagged `campaign/kingmaker`.
+206 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
 - [[Aecora]] — `npc`
+- [[Aee]] — `npc`
 - [[Aelir and Lytha]] — `npc`
 - [[Almon d'Avoine]] — `npc`
 - [[Almon's Hunt for Cassandra]] — `plot-hook`
@@ -32,17 +33,22 @@ tags: []
 - [[Briar]] — `item`
 - [[Bronzeshield Hold]] — `location`
 - [[Brumble]] — `npc`
+- [[Cad]] — `npc`
 - [[Candlemere Island]] — `location`
+- [[Carandini Family]] — `faction`
 - [[Cassandra]] — `npc`
 - [[Cat]] — `npc`
+- [[Cee]] — `npc`
 - [[Chapter 10 - Sound of a Thousand Screams]] — `lore`
 - [[Cult of the Bloom]] — `faction`
 - [[Eclipsed Incantations]] — `item`
 - [[Edina Aldori]] — `npc`
 - [[Ekundayo]] — `npc`
+- [[Elithya Carandini]] — `npc`
 - [[Embeth Forest]] — `location`
 - [[Engelidis]] — `npc`
 - [[Erastil]] — `lore`
+- [[Erevan Carandini]] — `npc`
 - [[Eri Malai]] — `npc`
 - [[Evindra]] — `npc`
 - [[Faelir]] — `npc`
@@ -185,6 +191,7 @@ tags: []
 - [[The Misbegotten Troll]] — `npc`
 - [[The Month of Destruction]] — `plot-hook`
 - [[The Nightmare Rook]] — `npc`
+- [[The Oaktop Ankou]] — `npc`
 - [[The Old Beldame]] — `npc`
 - [[The Rimebridge]] — `location`
 - [[The Stag Lord]] — `npc`

@@ -8,10 +8,11 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-3 note(s) tagged `first-world`.
+4 note(s) tagged `first-world`.
 
 ## kingmaker
 
 - [[House at the Edge of Time]] — `location`
+- [[The Oaktop Ankou]] — `npc`
 - [[The Rimebridge]] — `location`
 - [[Thousandbreaths]] — `location`

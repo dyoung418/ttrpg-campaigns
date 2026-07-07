@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-4 note(s) tagged `creature-type/fey`.
+5 note(s) tagged `creature-type/fey`.
 
 ## kingmaker
 
@@ -16,3 +16,4 @@ tags: []
 - [[Nyrissa]] — `npc`
 - [[The Horned Hunter]] — `npc`
 - [[The Lantern King]] — `npc`
+- [[The Oaktop Ankou]] — `npc`

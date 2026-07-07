@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-10 note(s) tagged `enemy`.
+11 note(s) tagged `enemy`.
 
 ## kingmaker
 
@@ -21,4 +21,5 @@ tags: []
 - [[The Horned Hunter]] — `npc`
 - [[The Knurly Witch]] — `npc`
 - [[The Lantern King]] — `npc`
+- [[The Oaktop Ankou]] — `npc`
 - [[The Wriggling Man]] — `npc`
