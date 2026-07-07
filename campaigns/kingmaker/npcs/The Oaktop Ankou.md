@@ -26,7 +26,7 @@ location: "[[Oaktop]] — the silver mine (Stolen Lands)"
 first_appeared: "RP 25.1 — Pavel's Confusion"
 created: "2026-07-07"
 ---
-
+![[Pavel__Ankou_2.jpg]]
 # The Oaktop Ankou
 
 > **Role**: The First World general behind the disciplined counter-ambush at the [[Oaktop]] silver mine
