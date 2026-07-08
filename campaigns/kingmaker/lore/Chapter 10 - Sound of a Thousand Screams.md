@@ -7,6 +7,7 @@ sources: []
 related:
   - "[[Briar]]"
   - "[[Evindra]]"
+  - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
   - "[[The Founding of Freehaven]]"

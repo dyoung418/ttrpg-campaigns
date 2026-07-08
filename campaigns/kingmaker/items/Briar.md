@@ -30,12 +30,14 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[Tarlaxian]]"
   - "[[The Horned Hunter]]"
   - "[[The Lantern King]]"
   - "[[The Month of Destruction]]"
   - "[[The Oaktop Ankou]]"
   - "[[The Rimebridge]]"
+  - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 aliases: ["Briara"]
 status: held

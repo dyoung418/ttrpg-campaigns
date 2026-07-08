@@ -10,6 +10,7 @@ sources:
 related:
   - "[[Astor]]"
   - "[[Briar]]"
+  - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Lee]]"
@@ -20,7 +21,9 @@ related:
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[The Rimebridge]]"
+  - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 aliases: []
 status: alive

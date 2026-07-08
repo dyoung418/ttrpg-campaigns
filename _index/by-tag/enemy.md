@@ -8,10 +8,11 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-11 note(s) tagged `enemy`.
+12 note(s) tagged `enemy`.
 
 ## kingmaker
 
+- [[Ghostly Guards]] — `npc`
 - [[Ilthuliak]] — `npc`
 - [[Kargstaad]] — `npc`
 - [[Misbegotten Troll]] — `npc`

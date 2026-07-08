@@ -11,6 +11,7 @@ related:
   - "[[Avennara]]"
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Ghostly Guards]]"
   - "[[Ilthuliak]]"
   - "[[Kingmaker Campaign Summary]]"
   - "[[Lyriel]]"
@@ -21,6 +22,7 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[Tarlaxian]]"
   - "[[The Knurly Witch]]"
   - "[[The Rimebridge]]"
@@ -56,7 +58,7 @@ created: "2026-05-29"
 
 | Area | Contents |
 |------|----------|
-| K1. Gatehouse | 8× Ghostly Guards (CR 15) — elven ghosts from Nyrissa's first kingdom. Shame: attacks vs. apparent elves or Calistria worshippers suffer −2. Forgive Foe (DC 39 Diplomacy/Society) frees them. Portcullis: Hardness 18, HP 72. |
+| K1. Gatehouse | 8× [[Ghostly Guards]] (CR 15) — elven ghosts from Nyrissa's first kingdom. Shame: attacks vs. apparent elves or Calistria worshippers suffer −2. Forgive Foe (DC 39 Diplomacy/Society) frees them. Portcullis: Hardness 18, HP 72. **Run as a *forgiveness puzzle*, not a damage race** — Bound Rejuvenation makes killing futile so Forgive Foe is the discovered out; freed guards raise the portcullis. Full scene + statblock in [[Ghostly Guards]]. |
 | K2. Great Courtyard | Lesser Jabberwock (CR 21, Moderate 19) if not yet slain in Part 1; Elite Sard (CR 20, Low 19) if jabberwock is already dead. Won't chase into House. |
 | K3. Stables | 6 phantom steeds (6th-level spell). Keyed to rider by opening stall. |
 | K4. Lower Hall | 4× Ankou Assassins (CR 17) hiding in wall paintings. Also secretly spy for the Lantern King. Flee at <50 HP. |
@@ -70,9 +72,9 @@ created: "2026-05-29"
 | K12. Stairwell | Leads to Level 2 (L5). |
 | K13. Salon of Confusing Sounds | Eldritch Echoes trap (Hazard 20, Complex). 2+ non-natives ending turn here: DC 42 Will save each round or stupefied 1 + confused. Crit fail: permanent stupefied 2. Disable: Performance DC 42 or Intimidation DC 48. Treasure: greater maestro's instrument (platinum flute). |
 | K14. Hall of Weeping Demons | Healing pool (3 uses, 150 HP + 6th-level restoration) if laughing demon statue is found (DC 40 Perception). Room recharges on House reset. |
-| K15. Servants' Wing | 12× Ghostly Guards spread across rooms. Knurly Witch joins if she's here (retreated to K16). |
+| K15. Servants' Wing | 12× [[Ghostly Guards]] spread across rooms. Knurly Witch joins if she's here (retreated to K16). |
 | K16. Cellar | [[The Knurly Witch]]'s bolt-hole. Fights to death if cornered here after retreating. |
-| K17. Throne Room | [[The Wriggling Man]] (CR 21) — disguised as an angel via *veil* + *project image* + *time stop* ruse. Fights aggressively if ruse fails. The throne is a Fable portal → area M7c (activating thought: "holding court before a crowd of thousands"). |
+| K17. Throne Room | [[The Wriggling Man]] (CR 21) — holds [[Lyriel]] here. **Run the "Two Lyriels" redesign** (illusory decoy Lyriel as bait; the real, veiled/silenced Lyriel hidden so AoEs risk hitting her) — see the encounter redesign in [[The Wriggling Man]]; it supersedes the vanilla angel ruse. The throne is a Fable portal → area M7c (activating thought: "holding court before a crowd of thousands"). |
 | K18. Dressing Chamber | Noble outfits, courtiers' outfits. Platinum signet ring (1,500 gp) in one pocket (DC 30 Perception). |
 | K19. Ruined Washroom | 3× Elite Bythos Aeons (CR 17) — trapped since the House was built. Can't leave room. Reset with House. Freed only if Nyrissa is killed or forgiven. |
 | K20. Dripping Clock | Pludock (CR 1, water mephit) tends a water clock. Chatty and helpful if befriended. Knows K14 healing pool and K6 bear trap. Will reveal the Fable location if pushed, then Nyrissa kills him remotely. |

@@ -38,6 +38,7 @@ related:
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[The Wriggling Man]]"
 aliases: []
 status: alive
 role: "Pavel's animal companion — large black panther"

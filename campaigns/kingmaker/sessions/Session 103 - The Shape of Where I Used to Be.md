@@ -23,6 +23,7 @@ related:
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[Tarlaxian]]"
   - "[[The Lantern King]]"
   - "[[The Rimebridge]]"

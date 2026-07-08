@@ -31,6 +31,7 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[Silverstep]]"
   - "[[Thaelirian]]"
   - "[[The Horned Hunter]]"
@@ -111,3 +112,5 @@ Later, at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Unde
 > - Does she know what became of him? Has she heard of the kingdom-builder in the Stolen Lands?
 > - She may carry guilt of her own — not for anything she did, but for *being the reason he came to her* that day.
 > - A reunion between Riven and Lyriel should be earned, not easy.
+> - **The rescue (Throne Room K17):** [[The Wriggling Man]] holds her behind a *two-Lyriels* illusion — a screaming decoy at center stage while the real Lyriel is hidden, silenced, and veiled elsewhere, positioned so the party's AoEs risk hitting her. Finding the *real* her is the puzzle. The clean out is [[Lyriels Amulet|her amulet]], which Riven carries — it warms toward the true Lyriel, indifferent to illusion. See the encounter redesign in [[The Wriggling Man]].
+> - **When freed, she names the endgame thesis:** as a healer who's been captive inside the grief-soaked House, she tells Riven the queen is *hollow, not hateful* — *"Some hurts can't be cut out. You can only forgive them."* This is how [[Lyriel's Wait]] feeds the [[Nyrissa]] choice.

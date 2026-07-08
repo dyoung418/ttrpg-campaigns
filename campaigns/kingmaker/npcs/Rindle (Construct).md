@@ -17,6 +17,7 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
 aliases: ["Rindle"]
 status: alive
 role: "Milo's mechanical construct; Inventor class feature; named after Milo's lost brother"

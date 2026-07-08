@@ -72,12 +72,14 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[Silverstep]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Month of Destruction]]"
   - "[[The Oaktop Ankou]]"
   - "[[The Starlight Staff]]"
+  - "[[The Wriggling Man]]"
   - "[[Treerazer]]"
   - "[[Xamanthe]]"
 aliases: ["Pavelan Lebeda"]
@@ -109,12 +111,6 @@ He lived with the hunting dogs from age 8 to 16. He liked them more than most pe
 Near the end of his service, sitting alone in the dark one evening and feeling lonely, a large black panther walked out of the night and sat beside him. Pavel shared his food. [[Cat]] has followed him ever since. The army's regulations didn't accommodate a panther, so Pavel took the first chance to muster out. He wants to be his own boss for a while.
 
 From his sheet: "Pavel's full name is Pavelan Lebeda.  At least, that's what his mother insisted on calling him, but he usually tells people he's "just Pavel," with no family name.
-
-According to his mother, Pavel was the product of a youthful love affair between her and the lord from the castle above the town.  The townspeople snickered -- and Pavel has his doubts -- but it's undeniably strange that when she died, someone showed up at his door and saved him from the streets by giving him a position as a kennel boy, taking care of the hunting dogs at the castle.
-
-Pavel lived with the dogs from age 8 to 16, and to tell the truth, he likes animals more than most people.  At age 16, he joined the army and served eight years in the scouting corps on the borders of the River Kingdoms. 
-
-Near the end of his term in the army, he was sitting by himself in the dark one evening, feeling a little lonely, when a large black panther unexpectedly walked out of the dark and sat next to him.  Pavel shared his food with the cat, and Cat has followed him ever since.  This caused friction within the strict regulations of the army, so Pavel took the next opportunity to muster out.  He wants to be his own boss for a while.
 
 Pavel doesn't follow politics much, but he considers himself a true child of Rostland.  If the Issians push too hard, he won't hesitate to take up arms again."
 

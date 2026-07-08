@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-206 note(s) tagged `campaign/kingmaker`.
+208 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
@@ -59,6 +59,7 @@ tags: []
 - [[Freehaven-Kyonin Treaty]] — `lore`
 - [[Gaspere Liacenza]] — `npc`
 - [[Gelbin Steambender]] — `npc`
+- [[Ghostly Guards]] — `npc`
 - [[Glade I — The Baleful Lantern]] — `location`
 - [[Glade J — The High Folly]] — `location`
 - [[Glimmerhaven]] — `location`
@@ -168,6 +169,7 @@ tags: []
 - [[Session 101 - The Heads Still Dream]] — `session`
 - [[Session 102 - The Undefeated]] — `session`
 - [[Session 103 - The Shape of Where I Used to Be]] — `session`
+- [[Session 104 - The First Mercy]] — `session`
 - [[Silverstep]] — `location`
 - [[Stag Lord's Helm]] — `item`
 - [[Starberry Press]] — `faction`

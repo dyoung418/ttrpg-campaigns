@@ -16,6 +16,7 @@ related:
   - "[[Elithya Carandini]]"
   - "[[Erevan Carandini]]"
   - "[[Freehaven]]"
+  - "[[Ghostly Guards]]"
   - "[[Nightmarch]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
@@ -31,8 +32,10 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
+  - "[[The Wriggling Man]]"
 aliases: ["Lee Carandini"]
 player: "Tom"
 class: "Swashbuckler (Aldori Duelist dedication)"
