@@ -7,11 +7,15 @@ tags:
   - creature-type/undead
 sources: []
 related:
+  - "[[Astor]]"
+  - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[House at the Edge of Time]]"
   - "[[Lee]]"
   - "[[Lucas]]"
+  - "[[Milo]]"
   - "[[Nyrissa]]"
+  - "[[Pavel]]"
   - "[[Riven]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Tarlaxian]]"
@@ -107,6 +111,16 @@ force isn't working. Either way the lesson lands: *some things in this House can
 > trivializing a boss. No stat mods needed.
 
 ---
+
+> [!note] In play ([[Session 104 - The First Mercy|Session 104]]) — the design landed
+> The party **discovered Forgive Foe on their own.** [[Milo]] and [[Pavel]] ID'd the guards as **undead**
+> (not fey) tied to [[Nyrissa]]'s conquest; Danny confirmed they could be **released, not just killed.**
+> The mercy tactic became the night's spine — [[Astor]] opened it (failed but lowered the DC), [[Milo]]
+> landed the first **release** (a guard *"drifted away like smoke"*), [[Lee]] made *"it's not your fault"*
+> a recurring refrain that stacked penalties, and [[Pavel]] had [[Briar|Briara]] invoke **Nyrissa's own
+> authority** to dismiss them. [[Riven]]'s **ghost-touch Astral Rune** did real work from the air.
+> The session ended **mid-fight**: four damaged guards inside the guardhouse, one bloodied and immobilized
+> outside — several already softened with stacked forgiveness penalties. Resolution continues in Session 105.
 
 ## The Emotional Core
 

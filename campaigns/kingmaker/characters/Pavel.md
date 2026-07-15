@@ -19,6 +19,7 @@ related:
   - "[[Eri Malai]]"
   - "[[Evindra]]"
   - "[[Freehaven]]"
+  - "[[Ghostly Guards]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[Great Aunt Sumi]]"
   - "[[Great Uncle Olaf]]"

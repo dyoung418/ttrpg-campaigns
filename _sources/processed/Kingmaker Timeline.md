@@ -131,6 +131,7 @@
 			* [[RP24 — A Politician's Day]] takes place here.
 			* [[RP25 Before the Latest Bloom - Edina Shoots her Shot]] takes place here
 			* [[RP25.1 Pavels Confusion]] takes place here
+			* [[RP25.2 Pavel misses again]] takes place here
 * [[Session 100 - She Dropped Your Letter|Session 100]]
 	* **Lyriel's kidnapping** and tracking down Nyrissa
 * [[Session 101 - The Heads Still Dream|Session 101]]

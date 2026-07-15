@@ -10,6 +10,7 @@ related:
   - "[[Candlemere Island]]"
   - "[[Freehaven]]"
   - "[[Gelbin Steambender]]"
+  - "[[Ghostly Guards]]"
   - "[[Glimmerhaven]]"
   - "[[Lucas]]"
   - "[[Milo's Lost Brother]]"

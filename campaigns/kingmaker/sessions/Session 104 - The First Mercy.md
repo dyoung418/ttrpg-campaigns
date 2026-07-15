@@ -3,7 +3,8 @@ type: session
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "Session 104 — AI-generated actual-play summary (pasted, GM-reviewed; in-fiction names de-typo'd: Nerissa→Nyrissa, Tarlaxion→Tarlaxian, Rendell→Rindle)"
 related:
   - "[[Astor]]"
   - "[[Briar]]"
@@ -25,7 +26,7 @@ related:
   - "[[Thousandbreaths]]"
 date: ""
 session_number: 104
-status: planned
+status: complete
 players_present:
   - Wes (Riven)
   - Darren (Pavel)
@@ -39,7 +40,7 @@ created: "2026-07-07"
 # Session 104 — The First Mercy
 
 > **Date**:
-> **Status**: Planned
+> **Status**: Complete
 > **Previous Session**: [[Session 103 - The Shape of Where I Used to Be]]
 
 > [!note] Where this sits in the endgame
@@ -241,12 +242,88 @@ beat to realize what landing the kill costs, and remember passing is a full win.
 
 ---
 
-## Post-Session *(fill in after play)*
+## Post-Session *(actual play)*
+
+> [!note] Divergence from prep — the prep held up remarkably well
+> The prep worried whether **Forgive Foe** would surface *naturally* rather than as a rules-lookup. In
+> play it landed exactly as designed: the party independently ID'd the guards as **bound, ashamed dead**,
+> realized they could be **freed rather than killed**, and made the mercy tactic the emotional center of
+> the night — multiple players chanting *"it's not your fault."* Two differences from the plan: **(1)**
+> [[Tarlaxian]] was **never killed** — the party had boxed him in *Ball of Stone* at the end of 103 and
+> simply **left him behind** (no Curse of Death; the "passing is a full win" read, confirmed). **(2)** The
+> gate fight did **not** finish — the session ended **mid-combat inside the guardhouse**, four guards still
+> up. The rest of the gate rolls into **Session 105**.
 
 **What actually happened:**
 
+- **Recap & the boxed linnorm.** Play resumed mid-initiative from 103: the party had trapped
+  [[Tarlaxian]] in a *Ball of Stone* prison at the bridge's far end and advanced past it to the closed
+  **portcullis** guarding the [[House at the Edge of Time]]. [[Riven]], flying high, had spotted **ghostly
+  guards** in the open-topped guardhouse above the gate; they'd spotted him back.
+- **Pavel baits the linnorm.** Rather than a mechanical solve, [[Pavel]] flew onto the corner of the stone
+  box and taunted Tarlaxian — *"You want a piece of us? Come and get it. I've got your snickersnack waiting
+  right here."* — healing himself with **Jyoti's Feather.** Tarlaxian smashed a roof panel and got a head
+  through far enough to bite him; Pavel stayed up but *"bleeding copiously."* Tarlaxian finished breaking
+  free later in the fight, **but by then the party had passed him and he was no longer the threat.**
+- **Riven opens the gate fight from the air.** After clarifying the guardhouse (~40 ft, open-topped, arrow
+  slits), Riven **hunted prey** and opened with a **critical hit** from long range, his **Astral Rune**
+  functioning as **ghost touch** against the incorporeal dead. He held the high ground all night, climbing
+  to 160, then 240 ft, raining ghost-touch fire — one guard outside the guardhouse ended the session
+  **bloodied and immobilized** by his crit. *(Note re: Lucas's earlier attempt — the save succeeded but the
+  teleport itself failed; the House's anti-teleport nature, seeded in prep, held.)*
+- **Astor forces the gate.** [[Astor]] **Force Opened** the portcullis by main strength (spring-loaded
+  mechanism), turning the standoff into a full guardhouse melee and letting the party pour in.
+- **The identification — undead, not fey.** [[Milo]] (Recall Knowledge) and [[Pavel]] pinned the guards as
+  **undead** (rapiers and bows, resistant to nonmagical damage), *not* fey — Pavel explicitly asked why
+  undead would be in a fey realm. Danny confirmed they were tied to **[[Nyrissa]]'s conquest of kingdoms**
+  — likely **her first victims** — and, crucially, told the party these guards **could be released rather
+  than merely killed** (by Nyrissa's death, or by an act of forgiveness). This is the prep's Secret 2 & 7
+  made tangible; see [[Ghostly Guards]].
+- **The First Mercy.** The forgiveness tactic became the night's spine:
+  - **[[Astor]]** engaged it first — his opening attempt *failed* but still lowered the difficulty of future
+    attempts (the stacking penalty), and his big-area **Heal** damaged the undead while healing the party.
+  - **[[Milo]]** landed the first true release (spending hero points): the guard's expression **softened and
+    it drifted away like smoke.** He forgave others across the fight, stacking penalties.
+  - **[[Lee]]** made the mercy the emotional refrain, repeating *"it's not your fault"* — succeeding again
+    and again, worsening each target's forgiveness penalty, while feinting and striking between lines.
+  - **[[Pavel]]** shifted [[Briar|Briara]] back to sword form and had **her** tell the ghosts they were
+    **released from Nyrissa's duty** — Danny adjudicated Briara's diplomacy with a very high assumed bonus,
+    treating her as carrying **Nyrissa's own lost authority** to dismiss the bound dead. It softened the
+    target without fully freeing it. *(New Briara development — captured in [[Briar]].)*
+- **The cost of the brawl.** Against the guards' immunity to precision damage, [[Pavel]]'s rogue strikes
+  fell off; shoving the incorporeal dead barely moved them. The party leaned harder into mercy + area
+  healing. [[Lucas]] and [[Astor]] kept everyone up — Astor **intercepted a hit meant for Lucas** to keep
+  him conscious; Lucas used **Doctor's Visitation / Treat Wounds**, Astor cycled **Revivifying Mutagen**
+  (ending Serene Mutagen) and a defensive stance while enduring persistent bleed.
+- **Where it ended.** Most of the party stood inside the guardhouse's first floor with **four damaged
+  ghostly guards** still up; one guard outside was **bloodied and immobilized**; Riven hovered at 240 ft.
+  Next turn is **Pavel's.** The party is now, functionally, *inside the gate of the House.*
+
 **Threads opened:**
 
-**Threads closed:**
+- **Briara can speak with Nyrissa's authority.** The table established that Briara — Nyrissa's stolen
+  capacity to love — can attempt to **release the queen's bound servants in her name.** A potentially huge
+  lever for the rest of the House (and a rhyme for the endgame choice). See [[Briar]].
+- **The mechanics of Nyrissa's hold** on the dead (shame, reluctance, a sense of debt) are now visible to
+  the party but not fully understood — how far the mercy tactic scales is an open question.
+
+**Threads closed / advanced:**
+
+- **Off the Rimebridge at last.** The [[Tarlaxian]] problem is resolved *without a kill* — he broke free of
+  the *Ball of Stone* but was left behind on the bridge; **no one ate the Curse of Death.** The party read
+  "pass, don't kill" correctly from 103.
+- **The portcullis is open** (Astor forced it) and the party is through the threshold into the guardhouse.
+- **Forgive Foe is now a known, practiced verb** — the campaign's central mercy mechanic surfaced and
+  proved itself on-screen, exactly as the endgame spine intended.
 
 **Next session setup:**
+
+- **Finish the gate.** Begin on **Pavel's turn.** Resolve the **four damaged guards** inside and the
+  **bloodied, immobilized guard** outside; the softened ghosts carry stacked forgiveness penalties, so
+  releasing them should come faster. Freed guards **raise no further resistance** and (per [[Ghostly Guards]])
+  may **leave a whisper** — the House is watching; *"the one with many faces keeps the elf-woman"* (seeds
+  [[The Wriggling Man]] / [[Lyriel]]).
+- **Into the House proper.** Past the guardhouse lie the Great Courtyard (K2) and the House interior. The
+  mid-crawl target remains rescuing [[Lyriel]] from [[The Wriggling Man]] — *not* the Queen yet.
+- **Still outstanding:** party **wish lists** for the loot-dense interior; whether Briara's release-in-
+  Nyrissa's-name trick can be turned on the House's other bound dead.

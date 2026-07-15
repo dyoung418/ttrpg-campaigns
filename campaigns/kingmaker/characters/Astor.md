@@ -12,6 +12,7 @@ related:
   - "[[Edina Aldori]]"
   - "[[Eri Malai]]"
   - "[[Freehaven]]"
+  - "[[Ghostly Guards]]"
   - "[[Grigori]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Lee]]"

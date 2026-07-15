@@ -191,6 +191,7 @@ Live Bases views over this campaign's notes.
 - [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the road on toward Ilthuliak and the House
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
 - [[Session 103 - The Shape of Where I Used to Be]] — Briara wakes to Nyrissa's nearness and confesses; the party rests, then reaches the House; the Rimebridge fight with Tarlaxian runs long and ends *mid-combat* (the gatehouse now opens 104)
+- [[Session 104 - The First Mercy]] — the party leaves the boxed Tarlaxian behind and forces the gate; at the guardhouse they discover the ashamed dead can be **forgiven, not just killed**, and make mercy the night's spine — ending *mid-fight* with several guards freed (continues 105)
 
 ### RP Scenes
 

@@ -38,7 +38,7 @@ created: "2026-06-03"
 
 > **Role**: The wall on the bridge — a gargantuan tarn linnorm coiled at the far end of the span to the [[House at the Edge of Time]]
 > **Creature 20** (uncommon) — run here with the boss modifications below, which push the effective threat well past a standard solo Creature 20
-> **Status**: Alive — **combat in progress, nearly resolved.** He ambushed the party the moment [[Pavel]] stepped onto the bridge in [[Session 103 - The Shape of Where I Used to Be|Session 103]]. As that session closed the party was **~3/4 across** and Tarlaxian **holds the far end, blocking the exit**. Continues in Session 104.
+> **Status**: Alive — **left behind on the bridge.** In [[Session 104 - The First Mercy|Session 104]] the party had already boxed him in a *Ball of Stone* prison and simply **advanced past him to the gate.** He broke free of the stone late in the fight, but by then the party was through the portcullis and off the bridge — **he never pursued, and no one killed him, so Curse of Death fell on nobody.** He remains alive in his tarn, the crossing behind the party for good.
 
 > [!note] Actual play so far (Session 103)
 > He erupted from the lake on Pavel's first step and initiative was rolled. [[Lucas]] recalled his **weakness to cold iron** and weak **Will** save and hit with cold-iron darts; [[Astor]] critically **shoved** him and used Avalanche Boots to push him toward the water; [[Lee]] was **Coil-Dragged off the bridge into the lake** and hauled back up by Pavel (Athletics).
