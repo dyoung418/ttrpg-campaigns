@@ -1,0 +1,4 @@
+# Obsidian (Electron) writes LF, so keep LF in the working tree on every OS.
+# Without this, core.autocrlf=true on Windows checks files out as CRLF and Git
+# reports phantom "modified" files after Obsidian rewrites them as LF.
+* text=auto eol=lf
