@@ -59,7 +59,7 @@ created: "2026-05-29"
 | Area | Contents |
 |------|----------|
 | K1. Gatehouse | 8× [[Ghostly Guards]] (CR 15) — elven ghosts from Nyrissa's first kingdom. Shame: attacks vs. apparent elves or Calistria worshippers suffer −2. Forgive Foe (DC 39 Diplomacy/Society) frees them. Portcullis: Hardness 18, HP 72. **Run as a *forgiveness puzzle*, not a damage race** — Bound Rejuvenation makes killing futile so Forgive Foe is the discovered out; freed guards raise the portcullis. Full scene + statblock in [[Ghostly Guards]]. |
-| K2. Great Courtyard | Lesser Jabberwock (CR 21, Moderate 19) if not yet slain in Part 1; Elite Sard (CR 20, Low 19) if jabberwock is already dead. Won't chase into House. |
+| K2. Great Courtyard — **the Court of Watching Faces** | Lesser Jabberwock (CR 21, Moderate 19) if not yet slain in Part 1; **Elite Sard (CR 20, Low 19)** if jabberwock is already dead *(the party's case — jabberwock dead)*. Won't chase into House. **Aspects:** (1) **doors of faces** that track the party — the House is awake and [[Nyrissa]] watches through them; (2) **the Sard on the stones** — a crystalline made-guardian with **no Shame**, so Forgive Foe fails on it (the counter-lesson to the gate); (3) **the flickering sky** oscillating mountain↔starfield. **The courtyard is the Sard's second front** — animated faces wail (fear), heckle (−1), give it cover, and a time-flicker grants it an extra Stride. See [[Session 105 - The Thing That Cannot Be Forgiven]]. |
 | K3. Stables | 6 phantom steeds (6th-level spell). Keyed to rider by opening stall. |
 | K4. Lower Hall | 4× Ankou Assassins (CR 17) hiding in wall paintings. Also secretly spy for the Lantern King. Flee at <50 HP. |
 | K5. Dining Room | Phantasmal feast — DC 39 Fort: Success = 30 temp HP + new save vs. ongoing disease/poison. Failure = drained 2 (crit: drained 4). Cursed cloak of the bat on a statue. |
@@ -78,6 +78,55 @@ created: "2026-05-29"
 | K18. Dressing Chamber | Noble outfits, courtiers' outfits. Platinum signet ring (1,500 gp) in one pocket (DC 30 Perception). |
 | K19. Ruined Washroom | 3× Elite Bythos Aeons (CR 17) — trapped since the House was built. Can't leave room. Reset with House. Freed only if Nyrissa is killed or forgiven. |
 | K20. Dripping Clock | Pludock (CR 1, water mephit) tends a water clock. Chatty and helpful if befriended. Knows K14 healing pool and K6 bear trap. Will reveal the Fable location if pushed, then Nyrissa kills him remotely. |
+
+### The Court of Watching Faces — K2 Courtyard Hazard
+
+Run the K2 courtyard as a **Complex Hazard** that rolls initiative and acts *alongside* the Elite Sard, so a
+lone Creature 20 doesn't get dogpiled by six level-17 PCs. Full context: [[Session 105 - The Thing That Cannot Be Forgiven]].
+
+> [!danger] The Court of Watching Faces — **Complex Hazard 19**
+> **Traits** Complex · Environmental · Magical · Occult · Mental
+> **Stealth** +33 (this is its initiative; the faces are obvious)
+> **Description** The doors, arches, and lintels are carved faces — laughing, frowning, frightened — and
+> they are *awake*. [[Nyrissa]] watches through them, and the House turns its grief on intruders: wailing to
+> unnerve, jeering to spoil aim, and sliding its stone to shield its guardian.
+>
+> **Disable** DC 45 Religion or Occultism (three successes; each quiets one face-cluster and removes one
+> Routine action); **or** DC 43 Performance to out-sing the Mocking Chorus (suppresses it until the Court's
+> next turn); **or** shatter the faces directly (*Break the Faces*).
+>
+> **AC** 43; **Fort** +31, **Ref** +23, **Will** +35
+> Individual faces: **AC 40, Hardness 20, HP 60 (BT 30)** each. The courtyard as a whole can't be destroyed.
+> **Immunities** critical hits, object immunities, precision, unconscious *(not immune to mental — it can be quieted)*
+>
+> **Constant — The House Watches** (aura, occult, mental) — the Sard **can't be flanked** here (a face slides
+> to its back; never flat-footed to flanking). Hidden/undetected creatures gain **no circumstance bonus** vs.
+> a House denizen — the walls see for it.
+> **Constant — Grief-Soaked Air** — a creature that is **frightened** in the courtyard **can't reduce its
+> frightened value below 1** at end of turn. Ends on leaving the courtyard or when the Court is disabled.
+>
+> **Routine (2 actions)** — on its initiative, in order:
+> 1. **Wail of the Frightened Faces** ✦ (auditory, emotion, fear, mental) — each non-denizen in the courtyard
+>    attempts **DC 43 Will**: *Success* unaffected · *Failure* frightened 1 · *Crit Failure* frightened 2.
+> 2. **Mocking Chorus** ✦ (auditory, linguistic, mental) — one chosen creature takes **−2 circumstance** to
+>    its next attack roll, skill check, or save before the Court's next turn.
+>
+> *(Each face-cluster destroyed or quieted removes one Routine action; when both are gone the Court is
+> disabled for the fight.)*
+>
+> **Shifting Regard** ⤾ (reaction, once/round; **Trigger** a creature ends a move action adjacent to a wall
+> or door) — a face lunges: **maw +33**, 4d8+15 mental (basic DC 43 Will), and on a hit **DC 43 Will** or
+> frightened 1.
+> **Time-Flicker** ⤳ (free action, once/encounter; **Trigger** the Sard begins its turn) — the sky lurches
+> mountains↔starfield and the guardian slips between frames of time, gaining an extra **Stride or Step**.
+> **The Queen's Eye** ⤾ (reaction; **Trigger** a creature uses Forgive Foe or [[Briar|Briara]] speaks in
+> Nyrissa's name here) — the faces swivel toward the source. The on-screen tell for **Secret 3**: cues
+> [[Lucas]]'s ancestors to warn him the Queen just *felt* it. (Optional teeth: that creature is **observed**,
+> losing House concealment until its next turn.)
+>
+> **Break the Faces** — faces are destructible (AC 40, Hardness 20, HP 60, BT 30). Every **3** destroyed
+> removes one Routine action — real work for a Guardian/striker who'd rather smash walls than the Sard.
+> **Reset** — rebuilds when the House resets.
 
 ## Level 2 (L Areas)
 

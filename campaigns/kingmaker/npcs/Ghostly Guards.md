@@ -92,11 +92,18 @@ image before any dice: spears levelled at Riven and Lee, arms straining, *unable
    rather than as it kills. That contrast is the lesson.
 
 ### The reward: mercy opens the door
-When the party frees the guards (or enough of them), **the freed dead raise the portcullis themselves**
-and stand aside — the soldiers of a fallen kingdom letting living heroes pass where they never could
-save their own. The party skips the Hardness-18 gate-breaking entirely. *Mercy is literally the faster
-door.* A freed guard may also leave a **whisper** (the Session 104 "reward"): the House is watching; and
-*"the one with many faces keeps the elf-woman."* (Seeds [[Session 104 - The First Mercy]] Secrets 4, 5, 10.)
+As designed, when the party frees the guards (or enough of them), **the freed dead raise the portcullis
+themselves** and stand aside — the soldiers of a fallen kingdom letting living heroes pass where they never
+could save their own — skipping the Hardness-18 gate-breaking entirely. *Mercy is the faster door.*
+
+> [!note] In actual play the portcullis is already open
+> In [[Session 104 - The First Mercy|104]], [[Astor]] **Force Opened** the portcullis and the spring
+> mechanism **locked it open**, so this "freed guards raise the gate" payoff is **moot** for this table.
+> The mercy reward in [[Session 105 - The Thing That Cannot Be Forgiven|105]] collapses to the **whisper**
+> and the dead standing aside as the party passes.
+
+A freed guard may leave a **whisper** (the mercy "reward"): the House is watching; and *"the one with many
+faces keeps the elf-woman."* (Seeds [[Session 104 - The First Mercy]] Secrets 4, 5, 10.)
 
 ### If they brute-force it anyway
 Valid — but make sure they **saw** the option and chose the sword, so the [[Nyrissa]] choice later isn't

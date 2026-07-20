@@ -192,6 +192,7 @@ Live Bases views over this campaign's notes.
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
 - [[Session 103 - The Shape of Where I Used to Be]] — Briara wakes to Nyrissa's nearness and confesses; the party rests, then reaches the House; the Rimebridge fight with Tarlaxian runs long and ends *mid-combat* (the gatehouse now opens 104)
 - [[Session 104 - The First Mercy]] — the party leaves the boxed Tarlaxian behind and forces the gate; at the guardhouse they discover the ashamed dead can be **forgiven, not just killed**, and make mercy the night's spine — ending *mid-fight* with several guards freed (continues 105)
+- [[Session 105 - The Thing That Cannot Be Forgiven]] — *(planned)* finish the mercy at the gate (grace, not discovery), then the **counter-lesson** in the Court of Watching Faces: the **Elite Sard**, a made guardian with no Shame that mercy can't touch; the House itself fights alongside it
 
 ### RP Scenes
 

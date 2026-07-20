@@ -153,7 +153,9 @@ Pavel was there through all of it. Afterward, he went looking for Edina in Resto
 
 ## Magic Item Wish List
 
--
+- **An apex item** — e.g. a *Cloak of Swiftness* or *Belt of Long Life* (speed / longevity flavor)
+- **An armor rune / upgrade** (a property rune to improve his armor)
+- **Utility consumables**: *dust of appearance*; *potions of healing*; scrolls or wands of *heroism*, *invisibility*, and similar utility spells
 
 ## Notable Moments
 

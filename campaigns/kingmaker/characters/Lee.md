@@ -99,7 +99,7 @@ The [[Carandini Family]] line: [[Erevan Carandini|Erevan]] and [[Elithya Carandi
 
 ## Magic Item Wish List
 
-> [!todo] Needs content
+- **Runes for his swords** — fundamental and/or property runes to upgrade his dueling blades
 
 ## Notable Moments
 

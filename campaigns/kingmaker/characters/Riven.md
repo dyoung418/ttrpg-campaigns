@@ -202,7 +202,7 @@ The backstory explicitly states this: *"true redemption lies not in great deeds,
 
 ## Magic Item Wish List
 
-- 
+- **Bow upgrade for [[Feywind]]** — a *major striking* rune, or a quick-strike / speed-style property rune to add an attack
 
 ## Notable Moments
 
