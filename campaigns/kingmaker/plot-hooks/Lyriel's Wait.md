@@ -14,6 +14,7 @@ related:
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriels Amulet]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
@@ -25,6 +26,7 @@ related:
   - "[[RP 15 — Holiday Shopping]]"
   - "[[RP 18 — Word from Afar]]"
   - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[The Wriggling Man]]"
 status: active
 created: "2026-05-29"
@@ -32,7 +34,7 @@ created: "2026-05-29"
 
 # Lyriel's Wait
 
-**Status**: Resolving — she came, and she was taken; the rescue is in motion
+**Status**: Resolving — she came, she was taken, and the rescue has arrived at the Queen's door
 
 ## Summary
 
@@ -63,6 +65,10 @@ Linzi's quiet comfort at the Starberry Press, before the tournament: *"But with 
 > *"A woman taken at the city gate — fey and trolls. She dropped a letter. Your handwriting, Riven. Addressed to Lyriel Anarindë. She came."*
 
 Lyriel is now captive in the [[House at the Edge of Time]]. [[Nyrissa]] holds her as leverage — she had been mining Riven's dreams and knew Lyriel was coming before Lyriel arrived. The timing was deliberate: she waited until the relationship was healing to strike.
+
+**The throne room was the wrong door ([[Session 106 - The Thing He Wears|Session 106]]).** Every breadcrumb — the freed guards' whisper that *"the one with many faces keeps the elf-woman"* — pointed the party at K17 and [[The Wriggling Man]]. They got there. **She wasn't in it.** What the worm has is a **piece of her jewelry, worn openly as a trophy**, which [[Riven]] recognized on him ([[Lyriel's Stolen Jewelry]]). She has been moved deeper into the House and is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c) — through the very throne he's standing on. The fight for that door is still running; the session ended mid-combat.
+
+So the wait doesn't end with a rescue scene of its own any more. **It ends in front of the Queen.** Riven reaches Lyriel and makes the campaign's central choice about Nyrissa *in the same breath* — see the revised endgame spine in [[Session 106 - The Thing He Wears|Session 106]].
 
 ## Possible Developments
 

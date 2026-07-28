@@ -19,6 +19,8 @@ related:
   - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Lantern King]]"
   - "[[The Rimebridge]]"

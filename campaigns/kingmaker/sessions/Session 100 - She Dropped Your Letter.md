@@ -24,6 +24,7 @@ related:
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[Session 101 - The Heads Still Dream]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Horned Hunter]]"
   - "[[The Wriggling Man]]"

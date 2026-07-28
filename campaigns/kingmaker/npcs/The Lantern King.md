@@ -16,6 +16,7 @@ related:
   - "[[Nyrissa]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
 aliases: []
 status: alive
 role: "The Eldest who punished Nyrissa; author of the Apology bargain; the threat behind the throne"

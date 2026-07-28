@@ -14,8 +14,10 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Lee]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Lyriels Amulet]]"
+  - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"
   - "[[Riven]]"
@@ -23,6 +25,8 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[Thousandbreaths]]"
 status: alive
@@ -35,6 +39,17 @@ created: "2026-05-29"
 
 [[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G) but is currently in the **Throne Room (K17)**  ([[Chapter 10 - Sound of a Thousand Screams|Chapter 10]]) of the [[House at the Edge of Time]].
 
+## Current Status
+
+**Engaged — the fight is live.** The party met him in the throne room in
+[[Session 106 - The Thing He Wears|Session 106]], which ended **mid-combat**; Session 107 resumes in
+initiative. He is the fey who abducted [[Lyriel]] at the [[Nightmarch]] gate, and he **wears a piece of
+her jewelry as a trophy** ([[Lyriel's Stolen Jewelry]]) — [[Riven]] recognized it on him.
+
+**Lyriel is not with him.** She has been moved deeper into the House and is held with [[Nyrissa]] in the
+moonlit plaza (**M7c**), through the throne he is standing on. He is the doorkeeper, not the jailer —
+see [[#Encounter Redesign — The Trophy (campaign version — CURRENT, use this)|the Trophy design]] below.
+
 ## Stats
 
 - **AC** 47 (all-around vision) | **HP** 325, fast healing 20
@@ -46,7 +61,7 @@ created: "2026-05-29"
 - **Languages**: Abyssal, Aklo, Common, Draconic, Sylvan, Terran, Undercommon
 - **Skills**: Acrobatics +39, Arcana +41, Deception +39, Nature +37, Society +41, Stealth +39
 
-**Items**: Bag of holding IV (containing full spellbook library), +2 greater fire resistant greater resilient leather armor, major staff of transmutation
+**Items**: Bag of holding IV (containing full spellbook library), +2 greater fire resistant greater resilient leather armor, major staff of transmutation, **[[Lyriel's Stolen Jewelry|a piece of Lyriel's jewelry]]** *(worn openly — a trophy, and the party's only physical proof of her)*
 
 ## Key Spells
 
@@ -60,69 +75,99 @@ created: "2026-05-29"
 
 **Squirming Embrace** (1 action): 8d8 damage, DC 44 Reflex. Only if he's already in melee (rare).
 
-## Encounter Redesign — The Two Lyriels *(campaign version — use this)*
+## Encounter Redesign — The Trophy *(campaign version — CURRENT, use this)*
 
-> [!warning] GM Only
-> This **supersedes the vanilla "angel ruse"** below (kept for reference). The Wriggling Man is the
-> endgame's **no-mercy foil** — a pure deceiver with *no Shame entry*, the counter-example that teaches
-> the party which enemies to forgive and which to simply kill. His whole fight is built so that his
-> **illusions make *rescuing [[Lyriel]]* the hard problem**, not surviving him. And the skill it forces
-> — *seeing past a monstrous illusion to the wounded real person beneath* — is exactly what the
-> [[Nyrissa]] choice will demand. He is holding Lyriel on Nyrissa's orders (leverage; Nyrissa mined
-> [[Riven]]'s dreams to know she was coming).
+> [!warning] GM Only — **replaced the "Two Lyriels" design in [[Session 106 - The Thing He Wears|Session 106]]**
+> Danny ruled at the table that **[[Lyriel]] is not in the throne room.** She has been moved deeper in
+> and is held **with [[Nyrissa]] herself** in the moonlit plaza (**M7c**). The Wriggling Man kept
+> **a piece of her jewelry** and **wears it openly as a trophy** — [[Riven]] recognized it on him.
+> *(The old two-Lyriels/hostage-vise design is dead. It is preserved at the bottom of this note as
+> [[#Superseded — The Two Lyriels design|Superseded]] for reference only. Do not run it.)*
 
-### The setup (before the PCs arrive)
-- **The decoy Lyriel** — an *illusory scene* + *project image* figure of Lyriel, chained dramatically
-  at a **focal point** (the throne, or center-stage on the dais), crying out to [[Riven]] by name in
-  her own voice (illusory sound / *ventriloquism*). She is **bait**, positioned to pull the party —
-  Riven especially — straight into the kill zone.
-- **The real Lyriel** — hidden **elsewhere in the room**: bound and either **unconscious or under
-  *silence***, and **veiled** to read as furniture, a statue, or tucked behind an *illusory scene*
-  "wall." She makes no sound and is not where her voice seems to come from.
-- **The Wriggling Man** — unseen: behind the throne, *invisible*, or **discorporated into the walls
-  as worms**, sustaining every illusion for free via **Effortless Concentration**.
+He is still the endgame's **no-mercy foil** — a pure deceiver with *no Shame entry*, the counter-example
+that teaches the party which enemies to forgive and which to simply kill. What changed is what the fight
+is *about*. It is no longer a rescue. It is a **door**, a **taunt**, and an **interrogation.**
 
-### The vise — why the illusion makes the rescue harder
-1. **The bait draws blood.** Rushing the decoy pulls the party over his prepared ground —
-   *black tentacles*, *reverse gravity* (a column yanking them to the ceiling), and *fireball* down
-   the room's long axis. The emotional pull (a chained, screaming Lyriel) is the trap's trigger.
-2. **The hostage is a shield against their best weapon.** A worm that walks has **weakness to area &
-   splash damage 20** — the party's optimal answer. He positions the **real** Lyriel so that AoEs
-   aimed at "the statues," the swarm, or the decoy **risk hitting her.** Either they don't AoE (and he
-   tanks single-target all day behind fast healing 20), or they do — and gamble with her life.
-3. **The voice lies.** Illusory sound throws *Lyriel's* cries to the **decoy's** location; the real
-   Lyriel is silent. **Following the voice is following the lie.**
-4. **He can wear her face** *(optional gut-punch)* — with *veil* he can make **himself** appear as a
-   second Lyriel, or swap the decoy's location, so at the crux the party may face a "Lyriel" who is
-   actually *him*. Someone has to be willing to strike her face. Use once, for the turn.
+### What he is now: the doorkeeper
 
-### The outs — finding the real Lyriel *(reward what the party already carries)*
-- **[[Lyriels Amulet|Lyriel's amulet]] — the homing beacon** *(the clean, thematic answer)*: Riven has
-  carried her moon-and-rose amulet the entire campaign. Near the real Lyriel it **warms and the motif
-  glows**, indifferent to illusion — **love finds the true thing.** It points at *her*, not the decoy.
-  This is Riven's beat: he stops trusting his eyes and trusts what he feels. *(If he's since passed the
-  amulet on, whoever holds it gets the tug.)*
-- **[[Cat]]'s scent** — Pavel's panther has **scent (imprecise)**; illusions have no smell. Cat can nose
-  out the real, living Lyriel and the worm-swarm behind the walls. A non-magical out that spotlights
-  [[Pavel]].
-- **Disbelief & true senses** — Interacting with/studying the decoy grants a **Will save vs. his spell
-  DC (44)** to disbelieve; *true seeing*, *see invisibility*, and Recall Knowledge (Arcana/Occultism)
-  on the illusions all crack it.
-- **[[Briar|Briara]]** — as Nyrissa's stolen *capacity to love* given voice, she can feel the difference
-  between a **genuine** frightened, loving person and a hollow projection. She points, quietly, at the
-  real one. *(And it costs her something to be this near the House and still choose to help — capture
-  it.)*
-- **Recall Knowledge on him** — reveals *worm that walks*, master illusionist, **no honor and no mercy
-  in him**: everything he shows you is a lie, and he is safe to kill.
+The throne in K17 **is the Fable portal to M7c** (activating thought: *"holding court before a crowd of
+thousands"*) — and M7c is where Nyrissa watches the House from, and where Lyriel now is. So the geography
+does the work for you:
+
+- **He is standing on the last door.** The party doesn't have to search the room for a hidden woman —
+  they have to *get to the throne*, and he cannot let them. His whole fight is denial of one 10-ft square.
+- **He is the last thing between Riven and her.** Not because he holds her, but because he is in the way.
+- **He knows exactly where she is** — and he is the only creature the party has met who can say so. That
+  makes killing him and *making him talk* pull in opposite directions. Good.
+
+### The trophy — the emotional engine
+
+He wears [[Lyriel's Stolen Jewelry|the piece he took from her]] plainly, where it can be seen. Not hidden,
+not a reveal to be searched for — **a taunt.** It says three things at once, and Riven hears all three:
+
+1. **She was real and he had his hands on her.** He is the fey from the gate at [[Nightmarch]].
+2. **She is not here.** Every previous breadcrumb — *"the one with many faces keeps the elf-woman"* — led
+   the party to this room expecting a rescue. The room is empty of her. The plan was correct and the
+   destination was wrong.
+3. **He kept it because it was worth keeping.** He is not a jailer doing a job. He collects.
+
+> [!tip] Riven's beat — the mirror
+> Riven has carried [[Lyriels Amulet|her amulet]] the whole campaign: **the piece she gave.** The worm
+> wears **the piece he took.** Same woman, two objects, and the difference between them is the entire
+> distinction the House keeps teaching — what is *given* versus what is *taken*, love versus possession.
+> Let someone notice it out loud. Riven does not need to be told what it means.
+
+**The temptation is rage, not deception.** The old design's failure mode was Riven trusting his eyes; this
+one's is Riven **tunneling** — burning every action on the thing wearing her jewelry while the party needs
+him shooting something else. Reward him for staying a soldier. Don't punish him for not.
+
+### The vise — why this is still hard
+
+1. **He wants to be attacked.** He *chose* to wear it visibly. Every round Riven spends on him instead of
+   the shards is a round the shards spend holding the throne. The trophy is bait with no illusion attached
+   — it works because it's **true**.
+2. **He talks the whole time.** He has no hostage to threaten, so his weapon is what he *knows*. He offers
+   her location, in pieces, for concessions — leave, drop the sword, one of you stays. **Everything he says
+   may be a lie and there is no way to check.** (Sense Motive gets you *"he is enjoying this,"* nothing more.)
+   *(Suggested register: courteous, delighted, unhurried. He has waited a long time to be looked at.)*
+3. **Killing him may cost them the answer.** Play this straight — if they cut him down without asking, they
+   get the trophy and no directions, and must find M7c the hard way (the throne, K11's teleporter, or
+   Briara). **Do not gate progress on the interrogation.** It is a shortcut, not a key.
+4. **The AoE tax survives — the trophy is destructible.** A worm that walks has **weakness to area & splash
+   20**, which is the party's optimal answer *and* the thing most likely to reduce a delicate piece of elven
+   jewelry to slag. Tell them that, once, through Recall Knowledge or plain description. Then let Riven
+   decide whether he wants this thing killed *fast* or killed *carefully*. **He'll want it careful.** That's
+   the same tax the hostage used to charge, paid by a different heart.
+
+### The outs — what the party already carries *(re-pointed, not discarded)*
+
+- **[[Cat]]'s scent** — Pavel's panther still noses out which body is the real worm-swarm and which is
+  *project image*; illusions have no smell. **This is now the primary anti-Shell-Game tool** and it
+  spotlights [[Pavel]].
+- **Disbelief & true senses** — studying a body grants a **Will save vs. DC 44** to disbelieve; *true
+  seeing*, *see invisibility*, and Recall Knowledge (Arcana/Occultism) all crack the images.
+- **[[Briar|Briara]]** — Nyrissa's stolen capacity to love, and she has *been* in M7c. She can feel that
+  Lyriel is **not in this room**, and can say so early if the party is thrashing — she is the mercy that
+  stops them wasting the night searching. She may also recognize the jewelry as a thing her queen
+  *permitted* him to keep. *(Costs her something to say. Capture it in [[Briar]].)*
+- **[[Lyriels Amulet|Lyriel's amulet]]** — the old homing-beacon role is gone with the hostage, but keep
+  the object live: near the stolen piece it should **go cold**, or pull toward the throne and the plaza
+  beyond it. *Love still points at her — it just points through the door now.* Optional; use it if Riven
+  reaches for the amulet, which he will.
+- **Recall Knowledge on him** — *worm that walks*, master illusionist, **no honor and no mercy in him**:
+  everything he shows you is a lie, and he is safe to kill.
 
 ### The payoff
-When the real Lyriel is freed, she delivers the **endgame thesis** (see Session 104's spine): she has
-been a captive audience inside this grief-soaked House and, as a *healer*, names what she's sensed — a
-queen who is **hollow, not hateful**: *"Some hurts can't be cut out. You can only forgive them."* The
-rescue and the mercy-lesson are the same beat: the party had to **see past the monster to the wounded
-real thing** to save her — the exact move the Nyrissa choice asks of them. **He, by contrast, gets no
-mercy** — he's the lie you cut down. He fights to the death (contingency *dimension door* to M6, then
-returns to finish it).
+
+**He gets no mercy, and now the fight says so cleanly.** With no hostage in the room there is not one
+honest reason to spare him — no leverage, no innocent downrange, no Shame to reach for. This is the purest
+possible statement of the House's counter-lesson: *some enemies you simply kill.* He fights to the death
+(contingency *dimension door* to M6 at ≤50 HP, then returns to finish it).
+
+**What the party leaves with:** the trophy, and the knowledge that the rescue and the Queen are now the
+**same room.** That is the structural change — [[Lyriel]]'s rescue no longer happens *before* the Nyrissa
+confrontation to inform it. They arrive at the final choice with her already in front of them.
+See [[Lyriel]] and the revised spine notes for how the endgame re-shapes around that.
 
 ---
 
@@ -153,14 +198,22 @@ to find him, not to hurt him — exactly the tax a solo needs.
 - **Dial:** two bodies instead of three if it's too swingy; or drop the shard's −10 turn to a single
   extra Strike.
 
-### 2. Split Their Focus — the hostage is a *clock*, not a shield *(the real equalizer)*
-A solo boss is only scary against a **reduced** party. So make the rescue *demand bodies*:
-- He actively menaces the **real** [[Lyriel]] — *black tentacles* around her, or a visible round-by-round
-  "execution" of the **decoy** to panic Riven — so **2–3 PCs must peel off** to find and free her while
-  the rest fight. He is then effectively fighting **3–4 PCs, not 6.**
-- **Worm-swarm adds** (2–3, Creature ~15–17): larval swarms he's shed. They **body-block** the lane to
-  Lyriel, and they're the AoE-bait (party *wants* to fireball a swarm — but Lyriel is right there, #4).
-  Guilt-free to kill (they're *him*, no Shame), which keeps him the clean no-mercy foil.
+### 2. Split Their Focus — the **throne** is the objective *(the real equalizer)*
+> [!note] Rewritten in 106
+> This mod used to run off the hostage-in-the-room. [[Lyriel]] isn't here, so the thing that *demands
+> bodies* is now the **throne** — the Fable portal to M7c, and the only way onward.
+
+A solo boss is only scary against a **reduced** party. So make the *door* demand bodies:
+- **He denies the throne.** He cannot let anyone reach it and Envision the activating thought (2 actions,
+  and they have to be *standing there*, undisturbed). So **2–3 PCs must peel off** to fight toward the dais
+  and hold it long enough to open the portal, while the rest keep him off them. He is then effectively
+  fighting **3–4 PCs, not 6** — and the party has a win condition that isn't his HP bar.
+- **Worm-swarm adds** (2–3, Creature ~15–17): larval swarms he's shed. They **body-block the dais** and
+  occupy the throne's square — a swarm sitting *on* the seat means nobody's Envisioning anything. They're
+  guilt-free to kill (they're *him*, no Shame), which keeps him the clean no-mercy foil.
+- **The escape valve is also the pressure.** If the party opens the portal early they can *leave through
+  it* — straight into M7c, Nyrissa, and Lyriel, with the Wriggling Man alive behind them. Let them. That's
+  a legitimate and thrilling outcome; he follows.
 - **Dial:** the swarms are the difficulty knob — add one, or none, to taste.
 
 ### 3. Precision-Proof *(already in his kit — play it on purpose)*
@@ -168,10 +221,16 @@ A solo boss is only scary against a **reduced** party. So make the rescue *deman
 do **only their base weapon dice.** Your two front-liners can't burst him down; they're better spent on
 the swarms (#2) and the rescue. Don't forget this mid-fight; it's half the reason he survives.
 
-### 4. The AoE Tax *(reinforce his weakness against the hostage)*
+### 4. The AoE Tax *(now paid by the trophy, not the hostage)*
 His one real vulnerability — **weakness to area & splash 20** — is also the party's obvious answer to a
-swarm. The **hidden Lyriel makes them pay for it:** an AoE big enough to matter risks her, or the empty
-space where the decoy stands. Force the choice; don't let them free-fire.
+swarm. With no hostage downrange, **[[Lyriel's Stolen Jewelry|the trophy he wears]] is what's at risk:** a
+*fireball* big enough to matter is a *fireball* through a delicate piece of elven silver, and what Riven
+carries out of this room is the only thing of hers he'll have for a while. Say it once, plainly, then make
+them choose. Same tax, different heart.
+
+*(If the table doesn't bite — some parties will happily melt it — don't force it. The fallback tax is the
+**throne**: heavy area damage on the dais risks the portal trigger itself, and nobody wants to explain to
+Nyrissa's door that they blew it up.)*
 
 ### 5. The Lying Floor *(pre-cast terrain — the room as second combatant)*
 Set the board before initiative:
@@ -184,9 +243,13 @@ Set the board before initiative:
 
 ### 6. Reshuffle, Don't Flee *(turn the contingency into a second act)*
 His **contingency *dimension door* at ≤50 HP** shouldn't be a heal-and-return speed bump. When he blinks
-to M6 and returns ~1 minute later, he comes back having **reset the Shell Game and relocated Lyriel** —
-new veils, new decoy position, tentacles re-seeded. The party must **re-solve which body is real and
-where she is.** One escape only; the second phase is where the fight is won or the hostage is lost.
+to M6 and returns ~1 minute later, he comes back having **reset the Shell Game and re-seeded the dais** —
+new veils, fresh shards planted on the throne, tentacles re-laid across the approach. The party must
+**re-solve which body is real** and **retake the door they already fought to.** One escape only; the
+second phase is where the fight is won.
+
+*(He returns **still wearing the trophy.** If the party got close enough to take it in phase one, let them —
+then he has nothing left to bargain with and the fight goes pure. That's a fine trade.)*
 
 ### 7. Number Tuning *(structure over inflation)*
 Bump **HP 325 → ~420** so he survives the 3–4 rounds these fixes need against six PCs; leave AC 47 and
@@ -259,7 +322,20 @@ be the **AoE bait** (the party wants to burn a swarm, but Lyriel is right there)
 
 ---
 
-## Tactics (Throne Room K17) *(vanilla — superseded by the redesign above; kept for reference)*
+## Superseded — The Two Lyriels design *(DO NOT RUN — kept for reference)*
+
+> [!failure] Retired in [[Session 106 - The Thing He Wears|Session 106]]
+> The original campaign redesign assumed **[[Lyriel]] was hidden in the throne room** behind a two-Lyriels
+> illusion: a screaming *project image* decoy at center stage as bait, the real Lyriel veiled and silenced
+> elsewhere in the room, positioned so the party's AoEs risked hitting her, with [[Lyriels Amulet|her
+> amulet]] warming as the homing beacon that found her. The party's job was to **see past a monstrous
+> illusion to the wounded real person beneath** — a rehearsal for the [[Nyrissa]] choice.
+>
+> **Danny ruled otherwise at the table in 106:** she was never in the room. He kept only her jewelry.
+> The rehearsal-for-Nyrissa function is gone — but the *real* Nyrissa scene now has Lyriel standing in it,
+> which does the same job for keeps. See [[#Encounter Redesign — The Trophy (campaign version — CURRENT, use this)|the Trophy design]] above.
+
+## Tactics (Throne Room K17) *(vanilla AP text — superseded; kept for reference)*
 
 He sets up an elaborate deception before the PCs arrive:
 

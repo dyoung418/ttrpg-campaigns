@@ -36,6 +36,7 @@ related:
   - "[[Grigori]]"
   - "[[Halvik]]"
   - "[[Hargulka]]"
+  - "[[House at the Edge of Time]]"
   - "[[Hyram]]"
   - "[[Jameel Visser]]"
   - "[[King Irovetti]]"
@@ -46,6 +47,7 @@ related:
   - "[[Lord Darian]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Lyriels Amulet]]"
   - "[[Nightmarch]]"
@@ -91,6 +93,8 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Silverstep]]"
   - "[[Stolen Lands]]"
   - "[[Talia]]"
@@ -232,6 +236,8 @@ The backstory explicitly states this: *"true redemption lies not in great deeds,
 
 - **[[Willowshade]] (Pitax War — Cassandra's last stand)**: Riven arrived at the pine-grove camp with thirty Rangers — he had sent [[Ekundayo]] north with the other Rangers to reinforce [[Serenko]]. Over a charcoal map with [[Cassandra]], [[Halvik]], and [[Senn]], he devised the Willowshade trap: forty halberds feigning strength across the meadow ford, giving ground slowly to draw [[Lord Darian]]'s two hundred Talons into the hollow where the ridges closed tight. Rangers on both heights. *"Mercenaries don't die for pride. They die when their paymaster falls and their captains lie in the dirt."* When Hadrik asked what if the Guard broke before the ford, Riven said: *"They won't."* Not loud, not forceful — certain. On the ridge next morning, he loosed arrow after arrow with [[Feywind]], each shaft trailing fire and pale light, and called the storm with his druid magic — hail, sleet, blizzard wind through the hollow. He killed [[Lord Darian]] with a flaming arrow through the breastplate. The Talons broke. Then he went down to [[Cassandra]]. She lay against the sergeant's arm, a spear through her ribs. He pressed his hand to the wound and tried to heal her twice. The green light guttered and died in the blood. She met his eyes: *"Don't."* He let the magic go. He told her she'd set the trap and won the day. *"Then… don't waste it,"* she said. Her hand slackened from the haft. At the temple of Desna he spoke over her: *"She spent her life on this field. We owe it to her and the others who fell today to live true and fight on."* That night he stood rigid, watching the funeral pyre drift out across the lake, eyes not on the bier but on the water and the mountains beyond.
 
+- **The thing he wears ([[Session 106 - The Thing He Wears|Session 106]] — Throne Room, K17)**: The party finally reached [[The Wriggling Man]], the fey who took [[Lyriel]] at the [[Nightmarch]] gate — and she was not there. What Riven saw instead was **a piece of her jewelry, worn openly on the worm as a trophy** ([[Lyriel's Stolen Jewelry]]). He recognized it. She has been moved deeper into the House, held with [[Nyrissa]] herself. He has carried [[Lyriels Amulet|the piece she gave him]] for the whole campaign; now he is looking at the piece that was taken from her, on the thing that took it. *The fight is still running — the session ended mid-combat.* **⚠ Riven's actual reaction at the table is not yet captured — fill this in when 106's play is recorded.**
+
 - **Gold in the stands, hollow at the edges (Archery Contest — Grand Tournament)**: With six nations watching, [[Riven]] stood at the end of the line and won the Archery Contest with a common longbow — taking gold for Freehaven over delegations from Tymon, Gralton, Daggermark, Mivon, and Pitax. The champion of Gralton clasped his shoulder. A Mivon dignitary pressed a goblet into his hand. The coliseum erupted. And Riven scanned the stands, row by row, face by face, through every arrow and through the entire celebration. She wasn't there. The medal hung on his chest and the moment felt *hollow at the edges.* Later that night he stood on the outer wall above the celebrating city, watching the road.
 
 - **"She wasn't there." (the outer wall — night of the Archery Contest)**: He didn't turn when [[Pavel]] approached. Just shifted and said it quietly, to no one in particular: *"She wasn't there. Didn't feel like drinking. Thought I'd watch the road instead."* Pavel stepped to his side, scanned his face — he's better now at reading the faces he knows well — and asked if there was reason to believe she might come. *"Hope's not much of a reason. But it kept me looking."* He explained: he'd written her a second letter, inviting her to come with the Kyonin delegation. He thought maybe he'd see her in the stands. First arrow, last arrow — it wouldn't matter. Pavel whispered back that he hasn't had that kind of hope in a long, long time, and then said plainly: *"If you need to go home to figure this out and make yourself whole… you won't go alone."* [[Astor]] arrived soon after — brought mugs, and when Riven waved off the drink, dropped a heavy coat on his hand instead. To Astor's question about what they were talking about, Riven answered in one word: *"Hope."* He mentioned Kyonin as home — Astor caught it and filed it silently, unsure what to do with it. When conversation shifted to the tournament, Riven refocused: noted Irovetti's cheating, authorized Pavel to go spy on Irovetti's subordinates, and sent Pavel off the wall without ceremony. *"The freedom of the people is at stake. We cannot fail them."* Pavel vaulted the parapet and dropped thirty feet. Gone.
@@ -252,4 +258,5 @@ The backstory explicitly states this: *"true redemption lies not in great deeds,
 
 **Level**: 17
 **Notable equipment**: [[Feywind]] (father's longbow), [[Lyriels Amulet|Lyriel's Amulet]], [[Brumble]] (bear companion)
-**Conditions / ongoing effects**:
+**Conditions / ongoing effects**: **In combat** — Throne Room (K17), [[House at the Edge of Time]], vs. [[The Wriggling Man]]; resumes in initiative in 107
+**Live for him right now**: the worm wears [[Lyriel's Stolen Jewelry|a piece of Lyriel's jewelry]] as a trophy and she is **not** in the room — she's held with [[Nyrissa]] in M7c, through the throne he's defending

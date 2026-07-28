@@ -1,6 +1,6 @@
 ---
 name: kingmaker-demon-worm-idea
-description: "Brainstormed premise (2026-07-02, NOT yet canon): The Wriggling Man IS the demon that killed Riven's parents — idea seeds live in the 'The Demon and the Worm Ideas' canvas"
+description: "URGENT as of Session 106 (2026-07-27) — decide now or lose it: is The Wriggling Man the demon that killed Riven's parents? The party is mid-fight with him; seeds in 'The Demon and the Worm Ideas' canvas"
 metadata: 
   node_type: memory
   type: project
@@ -19,6 +19,26 @@ The GM is considering making [[The Wriggling Man]] and the demon that killed Riv
 
 **Open question the GM should answer before canonizing:** does the Wriggling Man *remember* killing them (a confrontation Riven can win) or not (the horror of the footnote)?
 
-**Why:** the K17 throne-room encounter is imminent (Session 103 is planned; the Wriggling Man recognition beat is parked for the session after the Rimebridge), so this decision has a real deadline.
+> [!danger] **The deadline arrived. Session 106 (2026-07-27) — the party is mid-fight with him NOW.**
+> The K17 throne-room encounter is **live and unresolved**; Session 107 resumes in initiative. If the merge
+> is going to be canon, the recognition beat has to fire **in this fight or never** — once he's dead the
+> option is gone for good. **Raise this with the GM before 107 is prepped.**
 
-**How to apply:** if the GM adopts the merge, canonize across `npcs/The Wriggling Man.md`, `npcs/Aelir and Lytha.md`, `plot-hooks/The Demon's Legacy.md`, `characters/Riven.md`, and `npcs/Nyrissa.md`, and fold the chosen beats into the next session plan. If he rejects it, delete this memory and (ask first) the canvas.
+**What Session 106 changed:** Danny ruled that **[[Lyriel]] is not in the throne room** — she's held with
+[[Nyrissa]] in M7c — and that the Wriggling Man **wears a piece of Lyriel's jewelry as a trophy**, which
+Riven recognized. See `sessions/Session 106 - The Thing He Wears.md` and `items/Lyriel's Stolen Jewelry.md`.
+
+This **strengthens** the merge rather than weakening it:
+- **Seed 5 (the symmetry) survives and sharpens.** The same entity took his parents and took Lyriel — and
+  now the party can *see* that he kept a piece of her. If he's the demon, he has collected from Riven twice.
+  A GM who wants to be cruel can imply he kept something the first time too.
+- **Seed 3 (Feywind gets recognized first) is still the reveal**, and the trophy sets the table for it: the
+  fight already has Riven staring at an object that proves what this thing took from him. His eyes finding
+  Aelir's bow — *"Where did you get that bow?"* — lands on prepared ground.
+- **The open question is still open:** does he *remember* killing them (a confrontation Riven can win) or
+  not (the horror of the footnote)? **This must be answered before the recognition beat is played.**
+
+**How to apply:** if the GM adopts the merge, canonize across `npcs/The Wriggling Man.md`,
+`npcs/Aelir and Lytha.md`, `plot-hooks/The Demon's Legacy.md`, `characters/Riven.md`, `npcs/Nyrissa.md`,
+and `items/Lyriel's Stolen Jewelry.md`, and fold the beats into the 107 prep. If he rejects it, delete this
+memory and (ask first) the canvas.

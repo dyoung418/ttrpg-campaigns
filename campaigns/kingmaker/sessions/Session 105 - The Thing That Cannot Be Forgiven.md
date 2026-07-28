@@ -9,8 +9,6 @@ related:
   - "[[Briar]]"
   - "[[Feywind]]"
   - "[[Ghostly Guards]]"
-  - "[[Great Aunt Sumi]]"
-  - "[[Great Great Aunt Gina]]"
   - "[[House at the Edge of Time]]"
   - "[[Lee]]"
   - "[[Lucas]]"
@@ -20,13 +18,14 @@ related:
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Lantern King]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 date: ""
 session_number: 105
-status: planned
+status: complete
 players_present:
   - Wes (Riven)
   - Darren (Pavel)
@@ -40,8 +39,9 @@ created: "2026-07-16"
 # Session 105 — The Thing That Cannot Be Forgiven
 
 > **Date**:
-> **Status**: Planned
+> **Status**: Complete — **actual play not yet captured**
 > **Previous Session**: [[Session 104 - The First Mercy]]
+> **Next Session**: [[Session 106 - The Thing He Wears]]
 
 > [!note] Where this sits in the endgame
 > Still the **run-up**, not the finale. The whole [[House at the Edge of Time]] is a **4–5 session
@@ -312,6 +312,17 @@ scrolls) all fit the interior — Dressing Chamber (K18), Teleporter valuables (
 ---
 
 ## Post-Session *(fill in after play)*
+
+> [!warning] Played — but the actual play was never captured
+> This session **was run** (confirmed 2026-07-27). The prep above is what was *planned*; nothing below
+> records what actually happened at the table. Everything after it — the party reaching the Throne Room
+> in [[Session 106 - The Thing He Wears|Session 106]] — implies the gate was finished and the courtyard
+> crossed, but the details (how the Sard fight went, whether the "mercy fails" beat landed, who got the
+> Sard's Heart, what the freed guards said) are **unrecorded**.
+>
+> **To fill this in:** run `/capture kingmaker` with a summary, or drop the AI actual-play export into
+> `_sources/new/` and run `/ingest` — the way [[Session 104 - The First Mercy|104]] was done.
+> **`players_present` is assumed from prep and unconfirmed.**
 
 **What actually happened:**
 

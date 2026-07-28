@@ -9,6 +9,7 @@ related:
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Lyriels Amulet]]"
   - "[[Riven]]"

@@ -21,7 +21,9 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Current State
 
-The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They have cut through the glades — [[Ilthuliak]] now dead at the High Folly — and stand one crossing from the [[House at the Edge of Time]], with [[Lyriel]] held inside as leverage to draw them on. Ahead lies [[The Rimebridge]] and its guardian [[Tarlaxian]]. The sword [[Briar|Briara]] has fully awakened and now *speaks*.
+The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They cut through the glades, crossed [[The Rimebridge]] past [[Tarlaxian]], and are now **deep inside the [[House at the Edge of Time]]** — the gate forgiven open, the courtyard crossed, and the Throne Room (K17) reached.
+
+**As of [[Session 106 - The Thing He Wears|Session 106]]** they are **mid-fight with [[The Wriggling Man]]** — and [[Lyriel]] is not in the room. He wears [[Lyriel's Stolen Jewelry|a piece of her jewelry]] as a trophy; she has been moved deeper in and is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c), through the very throne he's defending. The rescue and the campaign's central choice about the Queen are now the **same scene**. The sword [[Briar|Briara]] has fully awakened, *speaks*, and carries Nyrissa's stolen authority.
 
 ## The Party
 
@@ -56,7 +58,7 @@ Live Bases views over this campaign's notes.
 
 **Current Threats**
 - [[Nyrissa]] — The Heartless Queen, true villain; nymph queen seeking to complete the Apology
-- [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks in Throne Room K17
+- [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks in Throne Room K17. **Engaged — fight live, resumes in initiative in 107.** The fey who took Lyriel at the gate; wears a piece of her jewelry as a trophy
 - [[Tarlaxian]] — Tarn linnorm guarding [[The Rimebridge]] to the House; reskinned to frost as a solo boss
 - [[The Knurly Witch]] — Annis hag cleric; Glade H and Cellar K16
 - [[Ilthuliak]] — Black dragon; Glade J (High Folly)
@@ -171,7 +173,7 @@ Live Bases views over this campaign's notes.
 
 - [[Milo's Lost Brother]] — Milo's brother Rindle was taken by bandits; Milo's construct bears his name; status unknown
 - [[Grand Tournament of Freehaven]] — announced by Riven; 5 events; 3 months out; open to all
-- [[Lyriel's Wait]] — Riven has written a letter to Lyriel (given to Astor); actively in motion
+- [[Lyriel's Wait]] — she came, she was taken, and the rescue has reached the Queen's door; ends in front of [[Nyrissa]] in M7c, not in a scene of its own
 - [[Pavel and Edina]] — shared history in Restov; her sister died; she knows his name; boots: ruined
 - [[Almon's Hunt for Cassandra]] — transformed; Cassandra died at Willowshade; Almon d'Avoine still unaccounted for with intelligence on Riven's command decisions
 
@@ -192,7 +194,8 @@ Live Bases views over this campaign's notes.
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
 - [[Session 103 - The Shape of Where I Used to Be]] — Briara wakes to Nyrissa's nearness and confesses; the party rests, then reaches the House; the Rimebridge fight with Tarlaxian runs long and ends *mid-combat* (the gatehouse now opens 104)
 - [[Session 104 - The First Mercy]] — the party leaves the boxed Tarlaxian behind and forces the gate; at the guardhouse they discover the ashamed dead can be **forgiven, not just killed**, and make mercy the night's spine — ending *mid-fight* with several guards freed (continues 105)
-- [[Session 105 - The Thing That Cannot Be Forgiven]] — *(planned)* finish the mercy at the gate (grace, not discovery), then the **counter-lesson** in the Court of Watching Faces: the **Elite Sard**, a made guardian with no Shame that mercy can't touch; the House itself fights alongside it
+- [[Session 105 - The Thing That Cannot Be Forgiven]] — finish the mercy at the gate (grace, not discovery), then the **counter-lesson** in the Court of Watching Faces: the **Elite Sard**, a made guardian with no Shame that mercy can't touch; the House itself fights alongside it *(played — actual play not yet captured)*
+- [[Session 106 - The Thing He Wears]] — the party finally meets [[The Wriggling Man]] in the Throne Room — and **[[Lyriel]] isn't there.** He wears a piece of her jewelry as a trophy; she's been moved deeper in, held **with [[Nyrissa]]** in M7c. Ends *mid-combat* (continues 107) *(actual play not yet captured)*
 
 ### RP Scenes
 
@@ -246,6 +249,8 @@ Live Bases views over this campaign's notes.
 - [[Vordakai's Eye-Gem]] — Cyclops lich's gem eye; in party's possession; exerts a psychic pull; too dangerous to use
 - [[Ovinrbaane]] — Legendary weapon wielded by [[Armag Reborn]]; wounded [[Benedin]] deep at [[Fort Drevlev]]; current location unknown
 - [[Riven's Letter to Lyriel]] — Sealed letter to Lyriel Anarindë; in Astor's keeping; send only if Riven doesn't return
+- [[Lyriels Amulet]] — moon-and-rose amulet Lyriel gave Riven when he left Kyonin; he still carries it — **the piece she gave**
+- [[Lyriel's Stolen Jewelry]] — taken from Lyriel at the Nightmarch gate and worn openly by [[The Wriggling Man]] as a trophy — **the piece he took**
 - [[Book of Warding Prayers]] — Sato family sacred history and prayer book; recovered from Hargulka's lair; Lucas carries it
 - [[Fox-Head Pendant]] — carved pendant (a wolf's head Lucas reflavors as a fox); grants Charisma; looted from Ilthuliak's keep, worn by Lucas
 

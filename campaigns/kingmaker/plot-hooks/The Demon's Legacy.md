@@ -9,6 +9,7 @@ related:
   - "[[Faelir]]"
   - "[[Kyonin]]"
   - "[[Riven]]"
+  - "[[Session 106 - The Thing He Wears]]"
 status: open
 created: "2026-05-29"
 ---

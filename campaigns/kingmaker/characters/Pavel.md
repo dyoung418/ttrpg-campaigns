@@ -74,6 +74,7 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Silverstep]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"

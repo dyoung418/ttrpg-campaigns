@@ -14,15 +14,20 @@ related:
   - "[[Ghostly Guards]]"
   - "[[Ilthuliak]]"
   - "[[Kingmaker Campaign Summary]]"
+  - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Nyrissa]]"
   - "[[Phomandala]]"
+  - "[[Riven]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Knurly Witch]]"
   - "[[The Rimebridge]]"
@@ -74,7 +79,7 @@ created: "2026-05-29"
 | K14. Hall of Weeping Demons | Healing pool (3 uses, 150 HP + 6th-level restoration) if laughing demon statue is found (DC 40 Perception). Room recharges on House reset. |
 | K15. Servants' Wing | 12× [[Ghostly Guards]] spread across rooms. Knurly Witch joins if she's here (retreated to K16). |
 | K16. Cellar | [[The Knurly Witch]]'s bolt-hole. Fights to death if cornered here after retreating. |
-| K17. Throne Room | [[The Wriggling Man]] (CR 21) — holds [[Lyriel]] here. **Run the "Two Lyriels" redesign** (illusory decoy Lyriel as bait; the real, veiled/silenced Lyriel hidden so AoEs risk hitting her) — see the encounter redesign in [[The Wriggling Man]]; it supersedes the vanilla angel ruse. The throne is a Fable portal → area M7c (activating thought: "holding court before a crowd of thousands"). |
+| K17. Throne Room | [[The Wriggling Man]] (CR 21) — **fight live as of [[Session 106 - The Thing He Wears\|Session 106]], resumes in initiative.** [[Lyriel]] is **NOT here** (ruled in 106); he wears [[Lyriel's Stolen Jewelry\|a piece of her jewelry]] as a trophy. **Run the "Trophy" redesign** — he is the *doorkeeper*: the throne is the portal to M7c where Lyriel and Nyrissa are, so **denying the throne** is his whole fight. See [[The Wriggling Man]]; it supersedes both the vanilla angel ruse *and* the retired "Two Lyriels" design. Fable portal → M7c (activating thought: "holding court before a crowd of thousands"). |
 | K18. Dressing Chamber | Noble outfits, courtiers' outfits. Platinum signet ring (1,500 gp) in one pocket (DC 30 Perception). |
 | K19. Ruined Washroom | 3× Elite Bythos Aeons (CR 17) — trapped since the House was built. Can't leave room. Reset with House. Freed only if Nyrissa is killed or forgiven. |
 | K20. Dripping Clock | Pludock (CR 1, water mephit) tends a water clock. Chatty and helpful if befriended. Knows K14 healing pool and K6 bear trap. Will reveal the Fable location if pushed, then Nyrissa kills him remotely. |
@@ -163,6 +168,21 @@ Four extradimensional pockets within the House. Each is a 100-ft sphere. To ente
 | Pool in M6 | Lying on one's back in the sun | M7a — open summer field |
 
 **M7c** is Nyrissa's command center: she can observe every room in the House simultaneously (clairvoyance/clairaudience) and can kill any of her allies she observes with a single Envision action. She watches all PC progress from here.
+
+> [!important] M7c now holds **[[Lyriel]]** *(ruled in [[Session 106 - The Thing He Wears|Session 106]])*
+> Lyriel was moved out of the throne room and is held **here, with [[Nyrissa]] herself** — the Queen keeps
+> her captive audience in the one room she never leaves. **This makes M7c the finale**: the rescue and the
+> choice about Nyrissa are now a single scene rather than two, and the party reaches it *through the throne
+> in K17*.
+>
+> Practical consequences:
+> - **Lyriel has been watching Nyrissa work** — she's seen the Queen observe, order, and kill from this
+>   room. She is a witness, not just a prize, and she is a **healer** looking at a hollow woman.
+> - **Her thesis line lands in front of its subject.** *"Some hurts can't be cut out. You can only forgive
+>   them."* — said to Riven, heard by Nyrissa. Protect this beat; see [[Lyriel]]'s GM notes for how.
+> - **Nyrissa's kill-an-ally Envision is a live threat with a hostage in the room.** Decide in advance
+>   whether she would ever turn it on Lyriel. *(Recommendation: no — Lyriel is leverage and Nyrissa is
+>   hollow, not cruel. But the party shouldn't know that.)*
 
 **M7d** contains: The Apology chalice (999 glowing grains of sand, nearly full), trophies from the Stolen Lands (unicorn's horn, silver dragon claw, Armag's skull tooth, plus lost PC items), and 2,000 gp in ritual supplies.
 

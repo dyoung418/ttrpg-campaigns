@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-208 note(s) tagged `campaign/kingmaker`.
+211 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
@@ -99,6 +99,7 @@ tags: []
 - [[Lord Darian]] — `npc`
 - [[Lucas]] — `character`
 - [[Lyriel]] — `npc`
+- [[Lyriel's Stolen Jewelry]] — `item`
 - [[Lyriel's Wait]] — `plot-hook`
 - [[Lyriels Amulet]] — `item`
 - [[Maegar Varn]] — `npc`
@@ -170,6 +171,8 @@ tags: []
 - [[Session 102 - The Undefeated]] — `session`
 - [[Session 103 - The Shape of Where I Used to Be]] — `session`
 - [[Session 104 - The First Mercy]] — `session`
+- [[Session 105 - The Thing That Cannot Be Forgiven]] — `session`
+- [[Session 106 - The Thing He Wears]] — `session`
 - [[Silverstep]] — `location`
 - [[Stag Lord's Helm]] — `item`
 - [[Starberry Press]] — `faction`

@@ -10,6 +10,7 @@ related:
   - "[[Feywind]]"
   - "[[Kyonin]]"
   - "[[Riven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[The Demon's Legacy]]"
 aliases: ["Aelir", "Lytha"]
 status: deceased

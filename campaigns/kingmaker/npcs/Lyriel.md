@@ -14,6 +14,7 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Lyriels Amulet]]"
   - "[[Nightmarch]]"
@@ -32,23 +33,25 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Silverstep]]"
   - "[[Thaelirian]]"
   - "[[The Horned Hunter]]"
   - "[[The Wriggling Man]]"
 aliases: ["Lyriel Anarindë"]
 status: captive
-role: "Riven's former love; captive of Nyrissa in the House at the Edge of Time"
+role: "Riven's former love; held with Nyrissa herself in the moonlit plaza (M7c)"
 faction: ""
-location: "House at the Edge of Time (captive)"
+location: "House at the Edge of Time — M7c, the moonlit plaza (Nyrissa's control room)"
 created: "2026-05-29"
 ---
 
 # Lyriel
 
 > **Role**: Riven's former love; the reason for his fall from grace
-> **Location**: Kyonin (presumably — details unknown)
-> **Status**: Unknown
+> **Location**: [[House at the Edge of Time]] — **M7c**, the moonlit plaza, held with [[Nyrissa]]
+> **Status**: Captive, alive — leverage, not a trophy
 
 ## Description
 
@@ -90,7 +93,16 @@ Later, at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Unde
 
 ## Current Status
 
-**Captive in the [[House at the Edge of Time]].** She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by a fey and trolls (the fey was [[The Wriggling Man]] in disguise, acting on [[Nyrissa]]'s orders). In the struggle she dropped [[Riven's Letter to Lyriel|Riven's letter]], which was found by witnesses and reported to [[Linzi]], who sent Riven a Sending mid-bloom. [[Nyrissa]] holds her as leverage — alive, not as a trophy. [[Nyrissa]] knew she was coming because she had been mining Riven's dreams.
+**Captive in the [[House at the Edge of Time]] — held with [[Nyrissa]] herself in M7c.** She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by a fey and trolls (the fey was [[The Wriggling Man]] in disguise, acting on [[Nyrissa]]'s orders). In the struggle she dropped [[Riven's Letter to Lyriel|Riven's letter]], which was found by witnesses and reported to [[Linzi]], who sent Riven a Sending mid-bloom. [[Nyrissa]] holds her as leverage — alive, not as a trophy. [[Nyrissa]] knew she was coming because she had been mining Riven's dreams.
+
+> [!important] Changed in [[Session 106 - The Thing He Wears|Session 106]] — she is **not** in the throne room
+> The party reached K17 expecting to find her with [[The Wriggling Man]]. **She was never there.** She has
+> been moved deeper in, to the **moonlit plaza (M7c)** — [[Nyrissa]]'s control room, reached through the
+> throne the Wriggling Man is standing on. All the party has of her in K17 is
+> [[Lyriel's Stolen Jewelry|the piece of her jewelry he wears as a trophy]], which [[Riven]] recognized.
+>
+> **Consequence:** her rescue and the Nyrissa confrontation are now the **same scene**. See the revised
+> endgame spine in [[Session 106 - The Thing He Wears|Session 106]].
 
 ## Relationships
 
@@ -112,5 +124,26 @@ Later, at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Unde
 > - Does she know what became of him? Has she heard of the kingdom-builder in the Stolen Lands?
 > - She may carry guilt of her own — not for anything she did, but for *being the reason he came to her* that day.
 > - A reunion between Riven and Lyriel should be earned, not easy.
-> - **The rescue (Throne Room K17):** [[The Wriggling Man]] holds her behind a *two-Lyriels* illusion — a screaming decoy at center stage while the real Lyriel is hidden, silenced, and veiled elsewhere, positioned so the party's AoEs risk hitting her. Finding the *real* her is the puzzle. The clean out is [[Lyriels Amulet|her amulet]], which Riven carries — it warms toward the true Lyriel, indifferent to illusion. See the encounter redesign in [[The Wriggling Man]].
-> - **When freed, she names the endgame thesis:** as a healer who's been captive inside the grief-soaked House, she tells Riven the queen is *hollow, not hateful* — *"Some hurts can't be cut out. You can only forgive them."* This is how [[Lyriel's Wait]] feeds the [[Nyrissa]] choice.
+> - ~~**The rescue (Throne Room K17):** the *two-Lyriels* illusion — decoy at center stage, the real Lyriel veiled elsewhere, the amulet as homing beacon.~~ **Retired in [[Session 106 - The Thing He Wears|Session 106]]** — she was never in K17. See the superseded section in [[The Wriggling Man]].
+> - **Where she actually is: M7c, with [[Nyrissa]].** Reached through the throne in K17 (activating thought: *"holding court before a crowd of thousands"*). The Queen keeps her captive audience in the one room she never leaves — which, for a woman taken *because* Riven's heart was finally healing, is exactly the cruelty that fits.
+> - **All that's left of her in K17** is [[Lyriel's Stolen Jewelry|the piece of her jewelry]] the Wriggling Man wears as a trophy. Riven recognized it.
+> - **She still names the endgame thesis:** as a healer who's been captive inside the grief-soaked House, she tells Riven the queen is *hollow, not hateful* — *"Some hurts can't be cut out. You can only forgive them."* This is how [[Lyriel's Wait]] feeds the [[Nyrissa]] choice.
+
+> [!warning] GM Only — **protect the thesis beat**
+> This is the real cost of moving her, and it needs handling. In the old structure Lyriel delivered the
+> mercy thesis in a quiet scene *before* the Queen, so the party could carry it into the final choice. Now
+> she says it **in the same room as Nyrissa, under threat, mid-fight** — higher stakes, better theatre, and
+> very easy to lose in the noise of a boss encounter. Some ways to protect it:
+>
+> - **Front-load it.** Give her the line on arrival, before initiative — the party spills into the plaza,
+>   sees her, and she gets one clean exchange with Riven while Nyrissa lets it happen (the Queen is
+>   *hollow*; she'd watch, curious, rather than interrupt). Cheapest and most reliable.
+> - **Make her a participant, not scenery.** She is a **healer** and she has been watching Nyrissa for
+>   weeks. Let her act — a line, a plea, a hand on Riven's arm at the crux — so the thesis arrives as a
+>   *choice she makes* under pressure rather than as exposition.
+> - **Let Nyrissa hear it.** Lyriel naming her as *hollow, not hateful* **to her face** is a beat the old
+>   structure couldn't buy at any price. Nyrissa has not been told the truth about herself by someone with
+>   nothing to gain in a very long time.
+> - **Don't make her a hostage-mechanic.** She was leverage to *draw them in*; that job is done. Resist
+>   re-running the "AoE risks the hostage" vise in the finale — the party already paid that tax to the
+>   trophy in K17, and Riven should get to fight the last fight with his hands free.

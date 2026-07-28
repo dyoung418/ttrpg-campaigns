@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-17 note(s) tagged `backstory`.
+18 note(s) tagged `backstory`.
 
 ## kingmaker
 
@@ -24,6 +24,7 @@ tags: []
 - [[Faelir]] — `npc`
 - [[Gelbin Steambender]] — `npc`
 - [[Lyriel]] — `npc`
+- [[Lyriel's Stolen Jewelry]] — `item`
 - [[Milo's Lost Brother]] — `plot-hook`
 - [[Pavel's Parentage]] — `plot-hook`
 - [[Rindle]] — `npc`

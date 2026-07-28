@@ -24,6 +24,7 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Misbegotten Troll]]"
   - "[[Oaktop]]"
@@ -41,6 +42,8 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Horned Hunter]]"
@@ -81,6 +84,21 @@ Nyrissa watches the PCs' entire progress through her House from Fable M7c. She e
 If Thousandbreaths has been **uprooted** before this fight, she starts the combat **frightened 1** (drops if PCs retreat). Forgive Foe DC reduces to **46**.
 
 **Fable M7c advantage**: She can observe every room and kill any ally she sees who has been controlled or is cooperating with the PCs (single Envision action). She will alert surviving minions to intercept the PCs at critical moments.
+
+> [!important] **[[Lyriel]] is in M7c with her** *(ruled in [[Session 106 - The Thing He Wears|Session 106]])*
+> Lyriel is no longer held by [[The Wriggling Man]] in the throne room — she was moved into the Queen's own
+> Fable. **This makes the final fight and the rescue the same scene**, and it changes how this encounter runs:
+>
+> - **She has a witness.** Lyriel has watched Nyrissa observe, order, and kill from this room for weeks.
+>   She is a **healer** who has spent that time looking at a hollow woman, and when she says so out loud —
+>   *"Some hurts can't be cut out. You can only forgive them"* — **Nyrissa hears it too.** No one with
+>   nothing to gain has told Nyrissa the truth about herself in a very long time. That is the single
+>   strongest argument for the *forgive* ending, and it now happens on-screen instead of beforehand.
+> - **Decide in advance whether she'd ever use the Envision kill on Lyriel.** *(Recommendation: no — Lyriel
+>   is leverage, and Nyrissa is hollow rather than cruel. But the party must not be able to count on that.)*
+> - **Don't run Lyriel as a hostage mechanic.** Her job as bait is finished; the party already paid the
+>   "protect the fragile thing from your own AoE" tax to the trophy in K17. Let [[Riven]] fight this one
+>   with his hands free. Full guidance in [[Lyriel]]'s GM notes.
 
 ## The Shame Mechanic
 

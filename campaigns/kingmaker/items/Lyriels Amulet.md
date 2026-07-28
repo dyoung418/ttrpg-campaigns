@@ -9,6 +9,7 @@ related:
   - "[[Avennara]]"
   - "[[Kyonin]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
