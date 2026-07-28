@@ -5,13 +5,16 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Benedin]]"
+  - "[[Briar]]"
   - "[[Candlemere Island]]"
   - "[[Freehaven]]"
   - "[[Gelbin Steambender]]"
   - "[[Ghostly Guards]]"
   - "[[Glimmerhaven]]"
+  - "[[House at the Edge of Time]]"
   - "[[Lucas]]"
   - "[[Milo's Lost Brother]]"
   - "[[Nightmarch]]"
@@ -32,7 +35,9 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[The Founding of Freehaven]]"
+  - "[[The Wriggling Man]]"
 aliases: ["Milo Tinkerfoot"]
 player: "Billy"
 class: "Inventor"

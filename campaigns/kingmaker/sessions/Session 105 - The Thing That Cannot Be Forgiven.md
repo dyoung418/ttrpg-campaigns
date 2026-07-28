@@ -3,24 +3,31 @@ type: session
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Briar]]"
+  - "[[Candlemere Island]]"
   - "[[Feywind]]"
   - "[[Ghostly Guards]]"
+  - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Maestro's Flute]]"
   - "[[Milo]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"
+  - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Lantern King]]"
+  - "[[The Oaktop Ankou]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 date: ""
@@ -39,9 +46,18 @@ created: "2026-07-16"
 # Session 105 — The Thing That Cannot Be Forgiven
 
 > **Date**:
-> **Status**: Complete — **actual play not yet captured**
+> **Status**: Complete — actual play captured below
 > **Previous Session**: [[Session 104 - The First Mercy]]
 > **Next Session**: [[Session 106 - The Thing He Wears]]
+
+> [!warning] The centerpiece never happened — **the party skipped the courtyard**
+> Job (1) landed: the gate was finished and every guard freed. Job (2) **did not.** The party looked at
+> the Great Courtyard (K2), decided against crossing it, and went in through a **side door on the north
+> face of the House** instead — bypassing the [[#The Elite Sard (K2)|Elite Sard]] entirely. The Sard is
+> **still alive and unfought**, and the **Sard's Heart never dropped**, so [[Riven]]'s and [[Lee]]'s rune
+> upgrades are still owed. The "mercy has limits" counter-lesson was instead delivered — accidentally and
+> much harder — by the **Ankou assassins in the Lower Hall (K4)**. Everything below the line is prep as
+> *planned*; see [[#Post-Session (actual play)|Post-Session]] for what was actually run.
 
 > [!note] Where this sits in the endgame
 > Still the **run-up**, not the finale. The whole [[House at the Edge of Time]] is a **4–5 session
@@ -311,23 +327,121 @@ scrolls) all fit the interior — Dressing Chamber (K18), Teleporter valuables (
 
 ---
 
-## Post-Session *(fill in after play)*
+## Post-Session *(actual play)*
 
-> [!warning] Played — but the actual play was never captured
-> This session **was run** (confirmed 2026-07-27). The prep above is what was *planned*; nothing below
-> records what actually happened at the table. Everything after it — the party reaching the Throne Room
-> in [[Session 106 - The Thing He Wears|Session 106]] — implies the gate was finished and the courtyard
-> crossed, but the details (how the Sard fight went, whether the "mercy fails" beat landed, who got the
-> Sard's Heart, what the freed guards said) are **unrecorded**.
->
-> **To fill this in:** run `/capture kingmaker` with a summary, or drop the AI actual-play export into
-> `_sources/new/` and run `/ingest` — the way [[Session 104 - The First Mercy|104]] was done.
-> **`players_present` is assumed from prep and unconfirmed.**
+> [!note] Divergence from prep — the gate landed, the courtyard was **skipped**
+> **(1)** The mercy at the gate finished exactly as designed — grace, not discovery, with two crit-success
+> forgivenesses bookending the fight. **(2)** The party **never entered the Great Courtyard.** They looked
+> at it, judged it wrong, and took a **side door on the north face** into the House interior, so the
+> **Elite Sard was never fought** and the **Sard's Heart never dropped.** **(3)** The "stretch" scene became
+> the whole back half: the party pushed deep into the interior in one night — K14, K11, a storeroom, K13,
+> K6 — and ended **mid-combat with the Ankou assassins in the Lower Hall (K4)**, which prep had held in
+> reserve. **(4)** Secret 3 fired on schedule via [[Great Aunt Sumi]]. **(5)** No **whisper** from the freed
+> guards is recorded — *"the one with many faces keeps the elf-woman"* does not appear in the transcript.
 
 **What actually happened:**
 
+- **The gate, finished.** Play resumed mid-initiative on [[Pavel]]'s turn. He held up
+  [[Briar|Briara]] and pleaded her into service — *"Sword Briara, we really need your help here. These
+  ghosts are in dire need of forgiveness."* **Critical success**: the guard heard a voice that rang true
+  enough to [[Nyrissa]]'s own that **its eyes filled with tears** before it dissipated. Briara's reaction
+  afterward was pure Briara: *"I'm going to have some words with Nyrissa at the end of this. Why do I have
+  to do all the work?"*
+- **The ghosts made them pay for it.** Pavel healed [[Lucas]] for 43 just as a guard bore down. The
+  remaining dead pressed hard — rapier work, and an **ectoplasmic maneuver that disarmed Briara out of
+  Pavel's hands.** [[Riven]], still high above and out of earshot of the whole forgiveness conversation,
+  put a **hunted shot** into a guard while descending, and it dissipated in front of him. Lucas tried to
+  forgive one *"in the name of Isis"* and failed, then fell back on **Battle Medicine** for [[Lee]] and
+  [[Astor]] while the party argued battle-medicine immunity and held the line.
+- **The last mercy.** The final guard went down to **another critical-success forgiveness.** All the gate
+  dead are **released** — [[Ghostly Guards]] at K1 are done.
+- **The House is out of joint.** With combat over, the temporal distortion became the scene. Some walls
+  looked *a thousand years* old, others brand new. **Astor** found a **gouge in the wall that exactly
+  matched the mark his own weapon had made moments earlier** — as if the House had already recorded the
+  event — and pushed the idea that the place might hold *forewarnings*, not just echoes. Lucas connected it
+  to [[Candlemere Island|Candlemere]], where days had turned out to be months, and floated that time here
+  might run backward or in loops.
+- **The chalk test.** [[Riven]] spotted a **tree with a faint glow beneath the bark**. Lucas marked
+  surfaces with chalk to test the effect and got the night's best image: half the mark stayed bright while
+  the rest trailed off faded — *already drawn where his hand was about to go.* Plants in the courtyard
+  stood in spring and autumn at the same time.
+- **Interrogating Briara — the night's real RP.** The party turned on the sword directly: is Nyrissa
+  watching through you? What form do you want? Do you want to be reunited with your lesser half? Briara's
+  answer was sharp and unhesitating — she wants Nyrissa to **beg** to be reunited. The conversation also
+  surfaced that she has been **flirting with some of the party and not others**, and that with [[Milo]] she
+  is almost **maternal**. She was openly enthusiastic about being an **elven curve blade**, which visibly
+  unsettled Pavel. *(Captured in [[Briar]].)*
+- **Secret 3, delivered.** [[Great Aunt Sumi]] pressed through to Lucas with the warning the prep had
+  loaded: *"Be careful, my grandchild. There's a presence here watching you."* She felt it **most strongly
+  whenever the sword spoke** — the queen-voice tax, landing exactly as designed.
+- **They looked at the courtyard and said no.** Checking the doors off the courtyard, Riven identified one
+  as a **stable** by smell (K3) and another as a **tower stair** spiralling up. Then they heard **crying**
+  through a third — and took it. **The party entered the House by the north side door and never crossed
+  the Great Courtyard.** *(See `_assets/house at the edge of time first floor.webp`.)*
+- **The weeping statues (K14).** Decaying plants, an **empty pool**, and shelves of small demon
+  statuettes — the sobbing was coming from the *statues*. Pavel spotted the one statuette **laughing
+  instead of crying**, pointed it out to Lucas, and pointedly **did not touch it**, reading it as a trigger.
+  *(It was: that's the switch for the Hall of Weeping Demons' healing pool. **They left 3 uses of
+  150 HP + 6th-level restoration on the table.**)*
+- **The dead teleport circle (K11).** Pavel picked a lock into a long corridor of doors. Inside a
+  meditation chamber — stained glass, **tree-shaped green candlesticks** — a stone dais proved to be a
+  **teleportation circle**. Riven's **Detect Magic** returned a *"distinct lack of magic"*: present, but
+  dead. [[Milo]] judged that restoring it would cost nearly as much as building one from scratch, the runes
+  having faded through *"centuries of disuse."* **The jade candlesticks were left behind.**
+- **The storeroom.** Damp, preserved food, dusty shelves, windows onto the courtyard. More chalk, more
+  confirmation that the House's age is inconsistent room to room.
+- **The salon (K13) — and the flute.** Frescoes of primeval forests, blooms, and beautiful women; plush
+  sofas; the most refined room yet — until **telepathic whispering** began intruding, hard to tell from the
+  party's own thoughts. Initiative was rolled, but it resolved as a **trap/haunting rather than a fight.**
+  Riven found a **magic flute**; they left with it. *(See [[Maestro's Flute]].)*
+- **The bear (K6).** A domed room with a **caged taxidermy black bear**. Lucas played music for it, then
+  tried to shut the effect down with **6th-level dispel magic through the Rod of Negation** — the
+  counteract **wasn't strong enough.** The bear finished its dance and, on the third pirouette,
+  **exploded**, charring the room and hurting several PCs. **Astor used Energy Interceptor to eat Pavel's
+  share.** The table joked about it; the damage was real.
+- **The Lower Hall (K4) — the cliffhanger.** Past a healing break: polished marble, a carving of **the sun
+  being devoured by a great dragon**, and wall paintings of a **twilight forest with dark shapes among the
+  trees**. Pavel read that something was wrong with the paintings and warned everyone off. Rather than walk
+  into it, **Riven shot the painting** — and darkness peeled off the scene into a **shadow creature**.
+  Pavel recognized the type from prior experience: servants of powerful fey, or of the **eldest of the
+  First World**. *(These are the **[[Ankou Assassins]]**.)*
+- **The fight that ended the night.** It flew over the party, worked with **shadow doubles**, and fired a
+  **line attack for 104 void damage on a failure plus 34 on the return** — Astor noting that anything
+  dropped to 0 by it **dies instantly**. Lucas hit it with a 6th-rank **Holy Light** for 43 fire, then
+  **Whispers of Weakness** revealed its lowest save is **Fortitude** and that its claws *"look like cold
+  iron"* — **weak to cold iron.** Astor **grappled the caster** to stop another line. Milo and
+  [[Rindle (Construct)|Rindle]] ran Overdrive, Lock On, pneumatic hammer, and hammer throws; Lee healed
+  Lucas. One shadow was left on a sliver. **Session ended with the combat live.**
+
 **Threads opened:**
 
-**Threads closed:**
+- **Briara wants Nyrissa to beg.** Not reunion on any terms — reunion *on her terms*, with the Queen
+  humbled first. This is now the sword's stated price, and it cuts directly across both endgame options.
+- **The House may show the future, not just the past.** Astor's gouge-before-the-blow and Lucas's
+  chalk-drawn-ahead-of-the-hand are the same phenomenon. Nobody has worked out whether it can be *used*.
+- **The blue-glowing tree** in the courtyard is unexplained and untouched. *(It is also the M7b Fable
+  portal trigger — the party doesn't know that.)*
+- **The Elite Sard is still out there.** Never engaged, never even seen up close. It holds the courtyard
+  and the ivy tower (M2), and the party has to cross that ground eventually — or keep going around.
+- **Cold iron is the key to the House's shadows.** Established on-screen against the Ankou and carried
+  straight into 106.
+
+**Threads closed / advanced:**
+
+- **The Weeping Gate is finished.** Every gatehouse guard freed by forgiveness, none killed. The
+  campaign's mercy thesis is now two-for-two on-screen.
+- **Secret 3 is spent and confirmed** — the party has been told, through Sumi, that using Briara's voice
+  draws the Queen's eye.
+- **The teleport circle (K11) is a dead end** — established in fiction, not just in prep.
+- **The party is deep inside the House** on the first night in, without having fought the courtyard.
 
 **Next session setup:**
+
+- **Resume in initiative** in the Lower Hall (K4) against the Ankou and their doubles.
+- **The Sard's Heart is not available** — Riven's *major striking* rune for [[Feywind]] and Lee's sword
+  runes need another source. The interior is loot-dense (K11, K18, M5, M7d); re-seed there.
+- **The healing pool (K14) is still unclaimed** if anyone thinks to go back and move the laughing statue.
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]

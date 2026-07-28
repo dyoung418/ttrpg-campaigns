@@ -7,16 +7,20 @@ sources:
   - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
 related:
   - "[[Amiri]]"
+  - "[[Ankou Assassins]]"
   - "[[Benedin]]"
+  - "[[Brass Telescope]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
   - "[[Eri Malai]]"
   - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
   - "[[Grigori]]"
+  - "[[House at the Edge of Time]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Lee]]"
   - "[[Lucas]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Milo]]"
   - "[[Nightmarch]]"
@@ -50,6 +54,7 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Stag Lord's Helm]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
@@ -57,6 +62,7 @@ related:
   - "[[The Old Beldame]]"
   - "[[The Stag Lord]]"
   - "[[The Sword and the Suitor]]"
+  - "[[The Wriggling Man]]"
 aliases:
   - Astor Medvyed
 player: Slava

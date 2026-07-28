@@ -5,18 +5,23 @@ tags:
   - campaign/kingmaker
   - enemy
   - creature-type/aberration
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
 related:
+  - "[[Ankou Assassins]]"
+  - "[[Astor]]"
   - "[[Briar]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
   - "[[Lee]]"
+  - "[[Lucas]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Lyriels Amulet]]"
+  - "[[Milo]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"
@@ -49,6 +54,49 @@ her jewelry as a trophy** ([[Lyriel's Stolen Jewelry]]) — [[Riven]] recognized
 **Lyriel is not with him.** She has been moved deeper into the House and is held with [[Nyrissa]] in the
 moonlit plaza (**M7c**), through the throne he is standing on. He is the doorkeeper, not the jailer —
 see [[#Encounter Redesign — The Trophy (campaign version — CURRENT, use this)|the Trophy design]] below.
+
+### How the fight has gone so far *(actual play, 106)*
+
+He opened **before the party knew he was there**: [[Astor]] scouted into the throne room, initiative was
+called, and a **fireball** came out of the far side of the chamber with no visible source. He then held
+concealment behind an **illusion** — [[Pavel]]'s **See the Unseen** found the **statues near the throne
+blurry, and the wall behind the throne blurry**, and Pavel called it out as *"an illusion and something
+invisible."* A second See the Unseen later confirmed **the statues themselves are the illusion**, with him
+standing behind them.
+
+His answer to being found was **Reverse Gravity**, which is the single best thing he did — it threw the
+party onto the ceiling and the undersides of the walkways and cost the table real time just re-establishing
+where everyone was. It did not hurt anyone: **Riven's winged sandals (Gentle Landing), Astor's cape and
+acrobatics, and Pavel's own fall negation** all cancelled the fall. [[Milo]] was the only one genuinely
+thrown around by it.
+
+**How the party cracked him:**
+
+| Who | What | Effect |
+|---|---|---|
+| [[Lucas]] | **Pernicious Poltergeist** (frightened rider) | He **failed his Will save → frightened 2** |
+| [[Riven]] | **Beacon Shot** | Burst him into **glimmering gemstone flecks — invisibility stripped** (still hidden, but targetable) |
+| [[Astor]] | Leapt from the ceiling; landing **missed**, follow-up **grapple critically succeeded** off the frightened condition | **He is grappled** — but the table never settled whether *restrained* applied |
+
+**The reveal landed hard, and not the way it was designed to.** When Astor got hold of him he resolved as
+**a humanoid mass of wriggling worms**, and the party saw [[Lyriel's Stolen Jewelry|the jewelry]] on him —
+and their **first read was that the worm creature *was Lyriel*.** Said out loud at the table: *"Riven, I'm
+so sorry, that's not how I expected Lyriel to end up."* The trophy did not read as a trophy. It read as
+**remains**.
+
+> [!tip] Use that in 107
+> The prep had the jewelry saying *"she was real, she is not here, and I kept it."* In play it said
+> something worse first: **that this thing is what's left of her.** He was frightened and grappled when
+> they worked it out, so he never got to *play* with it. He should now. He is a deceiver with all-around
+> vision and a read on the room — letting the misunderstanding stand for one round, or actively feeding it,
+> is exactly what he is for. It costs him nothing and it is the cruellest lever available to him.
+>
+> **Note the constraint:** he has taken little real damage and his **contingency** (dimension door to M6 at
+> ≤50 HP) is untouched. He has room to talk.
+
+**What he has not done yet:** spoken a single line. He has been an ambush, an illusion, and a spell effect.
+The whole "he talks, he offers her location in pieces, he lies" half of the Trophy design is **entirely
+unspent.**
 
 ## Stats
 
@@ -359,3 +407,7 @@ If he incapacitates a PC, he cannot resist using **Squirming Embrace** on them.
 - [[Nyrissa]]
 - [[Thousandbreaths]]
 - [[House at the Edge of Time]]
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]

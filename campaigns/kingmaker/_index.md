@@ -21,7 +21,7 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 ## Current State
 
-The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They cut through the glades, crossed [[The Rimebridge]] past [[Tarlaxian]], and are now **deep inside the [[House at the Edge of Time]]** — the gate forgiven open, the courtyard crossed, and the Throne Room (K17) reached.
+The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They cut through the glades, crossed [[The Rimebridge]] past [[Tarlaxian]], and are now **deep inside the [[House at the Edge of Time]]** — the gate forgiven open, the courtyard **skipped** (they went in by a side door, leaving the Elite Sard alive and unfought), and the Throne Room (K17) reached by way of the Lower Hall, the salon, and a taxidermy bear that exploded.
 
 **As of [[Session 106 - The Thing He Wears|Session 106]]** they are **mid-fight with [[The Wriggling Man]]** — and [[Lyriel]] is not in the room. He wears [[Lyriel's Stolen Jewelry|a piece of her jewelry]] as a trophy; she has been moved deeper in and is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c), through the very throne he's defending. The rescue and the campaign's central choice about the Queen are now the **same scene**. The sword [[Briar|Briara]] has fully awakened, *speaks*, and carries Nyrissa's stolen authority.
 
@@ -119,6 +119,7 @@ Live Bases views over this campaign's notes.
 **Defeated**
 - [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar; killed by the PCs mid-bloom as Linzi's Sending about Lyriel arrived (Session 100); never claimed the sword
 - [[The Oaktop Ankou]] — First World Ankou general who commanded Nyrissa's counter-ambush at the [[Oaktop]] silver mine; killed by the party (RP25.1)
+- [[Ankou Assassins]] — the four Ankou hidden in the wall paintings of the House's Lower Hall (K4); killed across Sessions 105–106, two by their own *Massacre*; their Lantern King spy role was never discovered
 - [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard) — *encounter skipped by GM decision; still in his glade as lore*
 - [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party
 - [[The Stag Lord]] — Bandit lord; first major adversary
@@ -194,8 +195,8 @@ Live Bases views over this campaign's notes.
 - [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
 - [[Session 103 - The Shape of Where I Used to Be]] — Briara wakes to Nyrissa's nearness and confesses; the party rests, then reaches the House; the Rimebridge fight with Tarlaxian runs long and ends *mid-combat* (the gatehouse now opens 104)
 - [[Session 104 - The First Mercy]] — the party leaves the boxed Tarlaxian behind and forces the gate; at the guardhouse they discover the ashamed dead can be **forgiven, not just killed**, and make mercy the night's spine — ending *mid-fight* with several guards freed (continues 105)
-- [[Session 105 - The Thing That Cannot Be Forgiven]] — finish the mercy at the gate (grace, not discovery), then the **counter-lesson** in the Court of Watching Faces: the **Elite Sard**, a made guardian with no Shame that mercy can't touch; the House itself fights alongside it *(played — actual play not yet captured)*
-- [[Session 106 - The Thing He Wears]] — the party finally meets [[The Wriggling Man]] in the Throne Room — and **[[Lyriel]] isn't there.** He wears a piece of her jewelry as a trophy; she's been moved deeper in, held **with [[Nyrissa]]** in M7c. Ends *mid-combat* (continues 107) *(actual play not yet captured)*
+- [[Session 105 - The Thing That Cannot Be Forgiven]] — the gate finished by mercy (every guard freed, none killed); [[Briar|Briara]] names her price — **Nyrissa must beg** — and [[Great Aunt Sumi]] warns that something is watching. Then the party **skips the courtyard**, goes in a side door, and tears through the interior (weeping statues, a dead teleport circle, the salon, an exploding bear) into the Lower Hall, ending *mid-fight* with the [[Ankou Assassins]]
+- [[Session 106 - The Thing He Wears]] — the Ankou finally die (two by their own *Massacre*), then a telescope, then the Throne Room: a fireball from nowhere, **Reverse Gravity**, and [[The Wriggling Man]] revealed as a mass of worms wearing [[Lyriel's Stolen Jewelry|Lyriel's jewelry]] — which the party first mistook for her **remains**. **[[Lyriel]] isn't there**; she's held with [[Nyrissa]] in M7c. Ends *mid-combat* (continues 107)
 
 ### RP Scenes
 
@@ -253,6 +254,8 @@ Live Bases views over this campaign's notes.
 - [[Lyriel's Stolen Jewelry]] — taken from Lyriel at the Nightmarch gate and worn openly by [[The Wriggling Man]] as a trophy — **the piece he took**
 - [[Book of Warding Prayers]] — Sato family sacred history and prayer book; recovered from Hargulka's lair; Lucas carries it
 - [[Fox-Head Pendant]] — carved pendant (a wolf's head Lucas reflavors as a fox); grants Charisma; looted from Ilthuliak's keep, worn by Lucas
+- [[Maestro's Flute]] — platinum *greater maestro's instrument* pulled from the salon (K13) of the House; Lucas kept it, nobody has identified it
+- [[Brass Telescope]] — looted from the House's observatory (K7); shows real Material Plane stars from a room with no window
 
 ## Factions (full list)
 

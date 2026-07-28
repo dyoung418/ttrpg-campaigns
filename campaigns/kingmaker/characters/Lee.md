@@ -7,6 +7,7 @@ sources:
   - "[[_sources/processed/backstories/Lees backstory|Lee's Backstory]]"
 related:
   - "[[Aee]]"
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Benedin]]"
   - "[[Cad]]"
@@ -17,6 +18,7 @@ related:
   - "[[Erevan Carandini]]"
   - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
+  - "[[House at the Edge of Time]]"
   - "[[Nightmarch]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
@@ -34,6 +36,7 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Wriggling Man]]"

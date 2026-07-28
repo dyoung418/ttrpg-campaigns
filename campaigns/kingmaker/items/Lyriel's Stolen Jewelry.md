@@ -4,8 +4,10 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - backstory
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
 related:
+  - "[[Astor]]"
   - "[[House at the Edge of Time]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"
@@ -32,6 +34,20 @@ created: "2026-07-27"
 A piece of elven jewelry taken from [[Lyriel]] when she was abducted at the [[Nightmarch]] gate. [[The Wriggling Man]] wears it **openly, where it can be seen** — not concealed, not hidden to be discovered. A trophy.
 
 [[Riven]] recognized it on him in [[Session 106 - The Thing He Wears|Session 106]].
+
+> [!important] What actually happened at the table — it did not read as a trophy
+> The reveal came at the end of a **Reverse Gravity** scramble, the moment [[Astor]] fell from the ceiling
+> and critically grappled the invisible caster. What he had hold of resolved as **a humanoid mass of
+> wriggling worms** — and the party saw the jewelry **on it** before anyone had worked out what the thing
+> was. Their first read, said out loud, was the worst one available:
+>
+> > *"Riven, I'm so sorry, that's not how I expected Lyriel to end up."*
+>
+> **They thought the worm creature was her.** The design intent was *she was real, she is not here, and I
+> kept it*; what the table actually got, for a beat, was **remains**. That horror resolved quickly, but it
+> happened, and it is now the most loaded thing in the room. See [[The Wriggling Man]] for how to use it in
+> 107 — he was frightened and grappled when they worked it out, so he never got to play with the
+> misunderstanding. He should.
 
 > [!question] GM decision — what the piece actually is
 > Danny established at the table only that it is *"a piece of her jewelry"* that Riven recognized. The
@@ -94,3 +110,7 @@ He kept this. He did not have to.
 >   risk, warn them first. If they nuke it *knowing*, that's a real and interesting choice — let it burn,
 >   and let Riven live with a party that chose the clean kill. Either way it should be a decision, never a
 >   surprise.
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]

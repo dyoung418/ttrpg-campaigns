@@ -7,6 +7,7 @@ tags:
 sources: []
 related:
   - "[[Armag Reborn]]"
+  - "[[Brass Telescope]]"
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Evindra]]"

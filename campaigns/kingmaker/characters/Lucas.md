@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Benedin]]"
   - "[[Book of Warding Prayers]]"
@@ -21,6 +22,7 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Linzi]]"
+  - "[[Maestro's Flute]]"
   - "[[Milo]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
@@ -47,8 +49,10 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
+  - "[[The Wriggling Man]]"
   - "[[Tol-Kin]]"
 aliases:
   - Lucas Sato

@@ -7,7 +7,9 @@ tags:
   - creature-type/fey
 sources: []
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
+  - "[[Brass Telescope]]"
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Cult of the Bloom]]"
@@ -16,6 +18,7 @@ related:
   - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
   - "[[Glade I — The Baleful Lantern]]"
+  - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Kargstaad]]"

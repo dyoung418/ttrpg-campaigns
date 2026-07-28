@@ -8,6 +8,7 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
 related:
+  - "[[Ankou Assassins]]"
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Evindra]]"

@@ -7,18 +7,23 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
   - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
+  - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
 related:
+  - "[[Ankou Assassins]]"
   - "[[Candlemere Island]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Edina Aldori]]"
   - "[[Evindra]]"
   - "[[Ghostly Guards]]"
+  - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
+  - "[[Milo]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
@@ -33,6 +38,7 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Horned Hunter]]"
   - "[[The Lantern King]]"
@@ -97,6 +103,43 @@ By the approach to the [[House at the Edge of Time]] (around [[Session 102 - The
 
 **In play ([[Session 104 - The First Mercy|Session 104]]) — Briara can speak with Nyrissa's authority.** At the gatehouse fight against the [[Ghostly Guards]] (Nyrissa's bound, ashamed dead), [[Pavel]] shifted Briara to sword form and had **her** tell the ghosts they were **released from Nyrissa's duty.** Danny adjudicated her diplomacy with a very high assumed bonus, treating Briara — as [[Nyrissa]]'s stolen capacity to love — as able to invoke the queen's **own lost authority** to dismiss her servants. The attempt *softened* the target (didn't fully free it), but it establishes a live lever: **Briara may be able to help release the House's other bound dead in Nyrissa's name** — a mercy that runs through the very piece of the queen that was torn away.
 
+**In play ([[Session 105 - The Thing That Cannot Be Forgiven|Session 105]]) — she did the work, and she
+wants to be paid for it.** Two things happened, and the second is the important one.
+
+*She finished the gate.* [[Pavel]] held her up and asked outright — *"Sword Briara, we really need your
+help here. These ghosts are in dire need of forgiveness."* **Critical success**: the [[Ghostly Guards|guard]]
+heard a voice that rang true enough to [[Nyrissa]]'s own that **its eyes filled with tears** before it
+dissipated. Her reaction afterward was not triumph but grievance: *"I'm going to have some words with
+Nyrissa at the end of this. **Why do I have to do all the work?**"*
+
+*She named her price.* The party then interrogated her directly in the courtyard — is Nyrissa watching
+through you, what form do you want, do you want to be reunited with your lesser half. Her answer was sharp,
+immediate, and is now **the sword's stated terms**:
+
+> [!important] Briara wants Nyrissa to **beg** to be reunited
+> Not reunion refused, and not reunion welcomed — reunion **on her terms, with the Queen humbled first.**
+> Note the framing she chose: Nyrissa is her ***lesser*** half. The stolen piece does not think of itself
+> as the fragment.
+
+This cuts across both endings. The **death** ending reunites them with no apology possible; the
+**forgiveness** ending hands Nyrissa exactly the grace Briara has just said must be earned. The party is
+now openly suspicious that she is a **conduit, a trap, or a vessel for Nyrissa's awareness** — a suspicion
+[[Great Aunt Sumi]] fed the same session, warning [[Lucas]] there was *"a presence here watching you"* and
+that she felt it **most strongly whenever the sword spoke.**
+
+*Also established in 105:*
+- **She flirts selectively.** She has been flirting with some party members and pointedly not others — and
+  with [[Milo]] she is almost **maternal**. She is not a generalized seduction effect; she has taste.
+- **She wants to be an elven curve blade.** She was openly enthusiastic about the form, which unsettled
+  Pavel — he is aware that a sword having *preferences* about its own shape is not a small thing.
+
+**In play ([[Session 106 - The Thing He Wears|Session 106]]) — the form argument.** Briar's awakened state
+lets her **change weapon form**, and she and Pavel now fight about it. In the [[Ankou Assassins|Ankou]]
+fight he swapped her to **elven curve blade** for the reach and the escalating damage, then back to
+**chainsword** later over her objection, with the line: ***"She's not the boss of me."*** [[Riven]] backed
+the curve blade on the numbers (*"gets more damage on subsequent hits"*). It plays as comedy at the table;
+underneath it is a wielder and a weapon negotiating who is holding whom.
+
 ## Tactical Notes
 
 - **Nyrissa's vulnerability**: The sword is foretold to kill her. She focuses attacks on whoever wields it.
@@ -119,3 +162,5 @@ If the PCs choose the forgiveness path (see Chapter 11), Briar can be the instru
 ## Sources
 
 - [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — Pavel holds Briar at the Star Hole (*"it better be worth it"*)
+- [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]

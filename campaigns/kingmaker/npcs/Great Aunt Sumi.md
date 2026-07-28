@@ -4,13 +4,18 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - ancestor
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
 related:
   - "[[Book of Warding Prayers]]"
+  - "[[Briar]]"
   - "[[Cat]]"
+  - "[[Ghostly Guards]]"
   - "[[Great Great Aunt Gina]]"
   - "[[Great Uncle Olaf]]"
+  - "[[House at the Edge of Time]]"
   - "[[Lucas]]"
+  - "[[Nyrissa]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"
@@ -21,6 +26,7 @@ related:
   - "[[RP 3 — After the Stag Lord Fight]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[The Oaktop Ankou]]"
 aliases: ["Sumi"]
 status: deceased
@@ -91,7 +97,28 @@ Grants [[Lucas]] the **Healing** Oracle Ancestor ability.
 > - She "disdains non-magic ways of doing things" — this is a good handle if Lucas ever relies on mundane methods.
 > - She is close enough a relative that the Stolen Lands' unusual attunement to the spirit world makes her easier to contact than older legendary ancestors.
 
+## In the House at the Edge of Time
+
+> [!warning] The warning ([[Session 105 - The Thing That Cannot Be Forgiven|Session 105]])
+> Inside the [[House at the Edge of Time]] the veil is thin enough that Sumi pressed through to [[Lucas]]
+> during his healing work with a plain warning — no glare, no complaint, no digression about her birthday:
+>
+> > *"Be careful, my grandchild. There's a presence here watching you."*
+>
+> And she specified: she felt it **most strongly whenever the sword spoke.** [[Briar|Briara]] is
+> [[Nyrissa]]'s stolen capacity to love, and every time the party uses her queen-voice, the Queen turns her
+> eye a little closer. This is the on-screen delivery of the prep's Secret 3, and it fed the party's
+> standing suspicion that Briara may be a **conduit, a trap, or a vessel for Nyrissa's awareness.**
+
+**Why it lands:** Sumi is normally an inconvenience — she appears to disapprove of Lucas's methods and to
+be insufficiently addressed. Here she appeared to be **frightened for him**, which is new, and which is
+exactly why the table took it seriously.
+
 ## Session History
 
 - First appeared: Post-Stag Lord battle, manifesting to Pavel during healing
 - The Ancestor Vision (night camp): Appeared in a white wedding dress during Lucas's dream/vision; spectral and colorless; shifts between human and fox form; snuggled up to Olaf/Pavel during the confrontation; attempted to hide behind Olaf when [[Cat]] roared; beaten Olaf on the head shouting *"GET US OUT OF HERE, YOU FOOL!"* when the vision began to collapse
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]

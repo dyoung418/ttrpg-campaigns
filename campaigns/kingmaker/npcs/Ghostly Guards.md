@@ -5,11 +5,15 @@ tags:
   - campaign/kingmaker
   - enemy
   - creature-type/undead
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
   - "[[Lee]]"
   - "[[Lucas]]"
@@ -19,11 +23,12 @@ related:
   - "[[Riven]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Wriggling Man]]"
 aliases:
   - The Ashamed Dead
-status: hostile
+status: alive
 role: "Bound elven dead of Nyrissa's first kingdom; gatehouse (K1) and servants' wing (K15) of the House"
 location: "House at the Edge of Time — Gatehouse (K1) and Servants' Wing (K15)"
 created: "2026-07-07"
@@ -35,6 +40,12 @@ created: "2026-07-07"
 > destroyed when they sent the Jabberwock against her. They died failing to protect a realm that was
 > already doomed, and out of shame they have stood guard at her door ever since, defending the queen
 > whose punishment damned them. **8 at the Gatehouse (K1)**; 12 more in the Servants' Wing (K15).
+
+> **Current status:** the **K1 gatehouse guards are all released** — every one of them freed by
+> forgiveness across [[Session 104 - The First Mercy|104]] and
+> [[Session 105 - The Thing That Cannot Be Forgiven|105]], none killed. The **12 in the Servants' Wing
+> (K15) remain bound** and untouched. *(`status: alive` reflects the K15 group still being in play; the
+> gate group is gone for good.)*
 
 > [!note] This is a *choice* fight, not a damage race
 > These are the campaign's **first Shame creatures** and the party's introduction to **Forgive Foe**
@@ -130,6 +141,31 @@ force isn't working. Either way the lesson lands: *some things in this House can
 > The session ended **mid-fight**: four damaged guards inside the guardhouse, one bloodied and immobilized
 > outside — several already softened with stacked forgiveness penalties. Resolution continues in Session 105.
 
+> [!success] In play ([[Session 105 - The Thing That Cannot Be Forgiven|Session 105]]) — **the gate is finished, and no guard was killed**
+> Every remaining guard at K1 was **freed by forgiveness.** [[Pavel]] opened the session by asking
+> [[Briar|Briara]] for help — *"these ghosts are in dire need of forgiveness"* — and **critically
+> succeeded**: the guard heard a voice close enough to [[Nyrissa]]'s own that **its eyes filled with
+> tears** before it dissipated. The dead made them work for the rest, landing rapier hits and an
+> **ectoplasmic maneuver that disarmed Briara out of Pavel's hands**; [[Riven]] dropped one with a hunted
+> shot on his way down from altitude; [[Lucas]] tried and failed to forgive one *"in the name of Isis"* and
+> fell back on Battle Medicine for [[Lee]] and [[Astor]]. The **last guard went down to a second
+> critical-success forgiveness.**
+>
+> **The whisper never happened.** The designed reward — a freed guard leaving *"the one with many faces
+> keeps the elf-woman"* — is **not in the actual-play record** for 104 or 105. The party reached
+> [[The Wriggling Man]] in [[Session 106 - The Thing He Wears|106]] without it. Treat the breadcrumb as
+> **unspent**, not delivered.
+>
+> **Still standing:** the **12 guards in the Servants' Wing (K15)** have not been touched. The party now
+> has a *practiced* method for them, and [[Briar|Briara]]'s queen-voice is proven — but so is its cost
+> (see below).
+
+> [!note] The queen-voice tax fired
+> In 105, [[Great Aunt Sumi]] delivered the warning to [[Lucas]]: *"Be careful, my grandchild. There's a
+> presence here watching you"* — and she felt it **most strongly whenever the sword spoke.** Secret 3 is
+> now on the table in-fiction. Using Briara to dismiss the K15 guards is still available, and the party
+> knows it costs them something.
+
 ## The Emotional Core
 
 These are Nyrissa's **victims**, not her loyalists — the dead of the kingdom she failed, standing guard
@@ -151,3 +187,8 @@ mechanic and the House's other Shame creatures: [[House at the Edge of Time#The 
 - [[Session 104 - The First Mercy]] — the gate is this session's centerpiece
 - [[Nyrissa]] — the queen they died failing; her Shame mechanic is the same lesson at full scale
 - [[Chapter 10 - Sound of a Thousand Screams]]
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]

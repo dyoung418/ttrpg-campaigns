@@ -8,15 +8,19 @@ tags:
   - first-world
 sources:
   - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
+  - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Briar]]"
   - "[[Great Aunt Sumi]]"
+  - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[The Month of Destruction]]"
 aliases: ["The Ankou General"]
 status: deceased
@@ -49,8 +53,17 @@ A gargantuan figure — roughly **thirty feet tall** — of night and flame:
 
 The Ankou revealed itself as the Oaktop battle turned, its minions cheering as the darkness pulled together into its form. [[Pavel]] — freshly revived by [[Great Aunt Sumi]] after a troll shaman's lightning dropped him — recognized it for what it was and, finding grim clarity about his own fears, hoisted [[Briar]] and **charged its flaming head**. The RP source cuts off on that charge, but the party went on to **kill the Ankou** and break the Oaktop garrison.
 
+## Why This Matters Later
+
+Killing this thing is why [[Pavel]] **recognized the next ones on sight.** When shadow shapes peeled out of
+the wall paintings in the Lower Hall of the [[House at the Edge of Time]] in
+[[Session 105 - The Thing That Cannot Be Forgiven|Session 105]], Pavel identified them immediately as
+Ankou — servants of powerful fey, or of the eldest beings of the First World — and the party fought them
+knowing roughly what they were dealing with. See [[Ankou Assassins]].
+
 ## Related Notes
 
+- [[Ankou Assassins]] — the four in the House at the Edge of Time; same kind, smaller and subtler
 - [[Oaktop]] — the battlefield it commanded
 - [[Nyrissa]] — its liege; the bloom assault it served
 - [[The Month of Destruction]] — the wider campaign it was part of
@@ -58,3 +71,4 @@ The Ankou revealed itself as the Oaktop battle turned, its minions cheering as t
 ## Sources
 
 - [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]] — the Ankou revealed at the battle's climax
+- [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]] — why Pavel recognized the House Ankou

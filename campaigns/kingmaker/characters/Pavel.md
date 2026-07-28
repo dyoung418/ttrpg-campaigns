@@ -5,9 +5,11 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Benedin]]"
   - "[[Bird]]"
+  - "[[Brass Telescope]]"
   - "[[Briar]]"
   - "[[Bronzeshield Hold]]"
   - "[[Brumble]]"
@@ -24,6 +26,7 @@ related:
   - "[[Great Aunt Sumi]]"
   - "[[Great Uncle Olaf]]"
   - "[[Hargulka]]"
+  - "[[House at the Edge of Time]]"
   - "[[Hyram]]"
   - "[[Jolia Aldori]]"
   - "[[King Irovetti]]"
@@ -75,6 +78,7 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
   - "[[Silverstep]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"

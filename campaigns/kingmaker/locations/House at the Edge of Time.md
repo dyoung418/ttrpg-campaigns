@@ -5,20 +5,31 @@ tags:
   - campaign/kingmaker
   - first-world
   - thousandbreaths
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
 related:
   - "[[Amulet of the Fey Ward]]"
+  - "[[Ankou Assassins]]"
+  - "[[Astor]]"
   - "[[Avennara]]"
+  - "[[Brass Telescope]]"
   - "[[Briar]]"
+  - "[[Candlemere Island]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Ghostly Guards]]"
+  - "[[Great Aunt Sumi]]"
   - "[[Ilthuliak]]"
   - "[[Kingmaker Campaign Summary]]"
+  - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
+  - "[[Maestro's Flute]]"
+  - "[[Milo]]"
   - "[[Nyrissa]]"
+  - "[[Pavel]]"
   - "[[Phomandala]]"
   - "[[Riven]]"
   - "[[Session 100 - She Dropped Your Letter]]"
@@ -30,6 +41,7 @@ related:
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
   - "[[The Knurly Witch]]"
+  - "[[The Oaktop Ankou]]"
   - "[[The Rimebridge]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
@@ -38,7 +50,7 @@ created: "2026-05-29"
 ---
 
 # House at the Edge of Time
-
+![[house at the edge of time first floor.webp]]
 [[Nyrissa]]'s mansion at the heart of [[Thousandbreaths]]. Reached via a long stone bridge over a dark, effectively bottomless lake. A walled gatehouse guards the island. The far side of the lake flickers between mountain ranges and starfield — it literally stands at the edge of time.
 
 ## House Features
@@ -59,24 +71,66 @@ created: "2026-05-29"
 
 **Raised Alarms**: Occupants are already on high alert. If an alarm is raised: +2 circumstance bonus on initiative checks for all House denizens for 24 hours.
 
+## Party Progress *(as of [[Session 106 - The Thing He Wears|Session 106]])*
+
+> [!important] The party skipped the courtyard
+> After clearing the gate in [[Session 105 - The Thing That Cannot Be Forgiven|105]], the party **looked at
+> the Great Courtyard (K2) and chose not to cross it**, entering the House instead through a **side door on
+> the north face**. See `_assets/house at the edge of time first floor.webp` (marked *"Door where party
+> entered"*). Consequences: **the Elite Sard was never fought and is still alive**, and the **Sard's Heart**
+> that was to seed [[Riven]]'s and [[Lee]]'s runes never dropped.
+
+| Area | State | Notes |
+|---|---|---|
+| **K1 Gatehouse** | ✅ **cleared — by mercy** | All guards **freed by forgiveness**, none killed. Portcullis spring-locked open since 104. |
+| **K2 Great Courtyard** | ⚠️ **bypassed — Sard alive** | Crossed the edge only. Party observed the temporal distortion and the **blue-glowing tree** (the M7b portal trigger — they don't know that). |
+| **K3 Stables** | 👁 identified, unentered | Riven identified it by smell from the courtyard door. |
+| **K14 Hall of Weeping Demons** | ⚠️ **entered, prize missed** | Found the weeping statuettes and the **one laughing statue** — Pavel deliberately **did not touch it**, so the **healing pool (3× 150 HP + 6th-level restoration) is unclaimed.** |
+| **K11 Teleporter Entrance** | ⚠️ **found, loot left** | Detect Magic returned *"a distinct lack of magic"* — circle confirmed **dead**; Milo judged restoration ≈ building one from scratch. **The 6 jade candlesticks (5,000 gp each) were left behind.** |
+| **Storeroom** | ✅ searched | Damp, preserved food, dusty shelves; used for more chalk tests of the House's inconsistent age. |
+| **K13 Salon of Confusing Sounds** | ⚠️ **looted, hazard live** | Telepathic whispers began; initiative rolled; party grabbed the **[[Maestro's Flute]]** and left **without disabling the Eldritch Echoes hazard.** |
+| **K6 Dancing Bear** | ✅ **triggered — it exploded** | Lucas's 6th-level dispel via the **Rod of Negation failed to counteract.** Bear detonated on the third pirouette; room charred, several PCs hurt. |
+| **K4 Lower Hall** | ✅ **cleared** | **[[Ankou Assassins]]** revealed when Riven shot the painting. Fight ran across the end of 105 and most of 106; **all dead**, two killed by their own *Massacre* rebound. Used as the rest site afterward. |
+| **Flooded tunnel** | 👁 scouted | Rubble and standing water; shallows near the far door. Not followed. |
+| **K7 Observatory** | ✅ **looted** | **[[Brass Telescope]]** taken (~3,500 gp) — shows real Material Plane stars with **no window in the room.** |
+| **K17 Throne Room** | 🔴 **combat live** | Fireball ambush → illusion behind the throne → **Reverse Gravity** → **[[The Wriggling Man]]** revealed as a humanoid mass of worms wearing **[[Lyriel's Stolen Jewelry]]**. **107 resumes in initiative.** |
+
+**Not yet touched:** K5, K8, K9, K10, K12, K15 (12 more [[Ghostly Guards]]), K16, K18, K19, K20, and all of
+Levels 2–3.
+
+### The House's temporal distortion — as the party experienced it
+
+Established on-screen in 105, and worth running consistently from here on. The House is **not uniformly
+old**: one wall looks a thousand years weathered, the next looks newly built; plants in the courtyard stand
+in spring and autumn simultaneously. More unsettling, it appears to record events **before they finish
+happening** —
+
+- [[Astor]] found a **gouge in the wall exactly matching the mark his own weapon had just made**, already
+  there, and argued the House might hold *forewarnings* rather than only echoes.
+- [[Lucas]] chalked a wall and watched **half the mark stay bright while the rest trailed off faded —
+  drawn ahead of where his hand was about to go.**
+
+[[Lucas]] tied it to [[Candlemere Island|Candlemere]], where days turned out to have been months, and
+floated that time here may run backward or in loops. **Nobody has worked out whether it can be used.**
+
 ## Level 1 (K Areas)
 
 | Area | Contents |
 |------|----------|
 | K1. Gatehouse | 8× [[Ghostly Guards]] (CR 15) — elven ghosts from Nyrissa's first kingdom. Shame: attacks vs. apparent elves or Calistria worshippers suffer −2. Forgive Foe (DC 39 Diplomacy/Society) frees them. Portcullis: Hardness 18, HP 72. **Run as a *forgiveness puzzle*, not a damage race** — Bound Rejuvenation makes killing futile so Forgive Foe is the discovered out; freed guards raise the portcullis. Full scene + statblock in [[Ghostly Guards]]. |
-| K2. Great Courtyard — **the Court of Watching Faces** | Lesser Jabberwock (CR 21, Moderate 19) if not yet slain in Part 1; **Elite Sard (CR 20, Low 19)** if jabberwock is already dead *(the party's case — jabberwock dead)*. Won't chase into House. **Aspects:** (1) **doors of faces** that track the party — the House is awake and [[Nyrissa]] watches through them; (2) **the Sard on the stones** — a crystalline made-guardian with **no Shame**, so Forgive Foe fails on it (the counter-lesson to the gate); (3) **the flickering sky** oscillating mountain↔starfield. **The courtyard is the Sard's second front** — animated faces wail (fear), heckle (−1), give it cover, and a time-flicker grants it an extra Stride. See [[Session 105 - The Thing That Cannot Be Forgiven]]. |
+| K2. Great Courtyard — **the Court of Watching Faces** | ⚠️ **BYPASSED (105) — the Sard is still alive.** The party crossed only the edge, judged the open ground wrong, and went in by a **north side door** instead. They noted the temporal distortion and the **blue-glowing tree** (which is the M7b portal trigger; they don't know that). Everything below is **unspent** and still runs whenever they come back through. — Lesser Jabberwock (CR 21, Moderate 19) if not yet slain in Part 1; **Elite Sard (CR 20, Low 19)** if jabberwock is already dead *(the party's case — jabberwock dead)*. Won't chase into House. **Aspects:** (1) **doors of faces** that track the party — the House is awake and [[Nyrissa]] watches through them; (2) **the Sard on the stones** — a crystalline made-guardian with **no Shame**, so Forgive Foe fails on it (the counter-lesson to the gate); (3) **the flickering sky** oscillating mountain↔starfield. **The courtyard is the Sard's second front** — animated faces wail (fear), heckle (−1), give it cover, and a time-flicker grants it an extra Stride. See [[Session 105 - The Thing That Cannot Be Forgiven]]. |
 | K3. Stables | 6 phantom steeds (6th-level spell). Keyed to rider by opening stall. |
-| K4. Lower Hall | 4× Ankou Assassins (CR 17) hiding in wall paintings. Also secretly spy for the Lantern King. Flee at <50 HP. |
+| K4. Lower Hall | ✅ **CLEARED (105–106).** 4× [[Ankou Assassins]] (CR 17) hid in the wall paintings — revealed when [[Riven]] shot one rather than walk past it. All dead; two killed by their own *Massacre* rebound. Established on-screen: **weak to cold iron**, lowest save **Fortitude**, shadow doubles vanish unless **sustained**. (They never fled at <50 HP.) Their **Lantern King spy role was never discovered** — see [[Ankou Assassins]]. |
 | K5. Dining Room | Phantasmal feast — DC 39 Fort: Success = 30 temp HP + new save vs. ongoing disease/poison. Failure = drained 2 (crit: drained 4). Cursed cloak of the bat on a statue. |
-| K6. Dancing Bear | Explosion Bear trap (Hazard 20) — stuffed bear dances for 3 rounds then explodes (16d10 fire, DC 42 Reflex, 20-ft radius). Disable: Thievery DC 48 (legendary) or Nyrissa says "Good bear." |
-| K7. Observatory | Brass telescope (3,500 gp). One-way window to exterior. |
+| K6. Dancing Bear | ✅ **SPRUNG (105) — it exploded.** [[Lucas]] played music for it and tried a 6th-level *dispel magic* through the **Rod of Negation**; the **counteract failed.** It finished the dance and detonated on the third pirouette, charring the room and injuring several PCs ([[Astor]] ate [[Pavel]]'s share with Energy Interceptor). |
+| K7. Observatory | ✅ **LOOTED (106).** [[Brass Telescope]] taken (3,500 gp) — it shows **real Material Plane stars** despite the room having **no window**, which the party noted and did not pursue. |
 | K8. Storeroom | **Inverted room** — everything falls upward. DC 15 Reflex to grab doorframe. |
 | K9. Swill Feast | Rotting feast room. Silver service worth 1,300 gp if cleaned. |
 | K10. Poisoned Well | Blinding sickness (20th-level strain, DC 40 Fort) from drinking the water. |
-| K11. Teleporter Entrance | Stone dais — bypasses the teleport trap. Nyrissa may notice on DC 50 Perception. Jade candlesticks (5,000 gp each × 6). |
+| K11. Teleporter Entrance | ⚠️ **FOUND (105), LOOT LEFT.** A meditation chamber — stained glass, tree-shaped green candlesticks, and the stone dais. [[Riven]]'s *Detect Magic* returned *"a distinct lack of magic"*: **the circle is dead**, its runes faded through centuries of disuse, and [[Milo]] judged restoration ≈ building one from scratch. **The 6 jade candlesticks (5,000 gp each) were left behind.** *(Note: the dais is still the safe teleport destination if it can be repaired.)* |
 | K12. Stairwell | Leads to Level 2 (L5). |
-| K13. Salon of Confusing Sounds | Eldritch Echoes trap (Hazard 20, Complex). 2+ non-natives ending turn here: DC 42 Will save each round or stupefied 1 + confused. Crit fail: permanent stupefied 2. Disable: Performance DC 42 or Intimidation DC 48. Treasure: greater maestro's instrument (platinum flute). |
-| K14. Hall of Weeping Demons | Healing pool (3 uses, 150 HP + 6th-level restoration) if laughing demon statue is found (DC 40 Perception). Room recharges on House reset. |
+| K13. Salon of Confusing Sounds | ⚠️ **LOOTED (105), HAZARD STILL LIVE.** Eldritch Echoes trap (Hazard 20, Complex). 2+ non-natives ending turn here: DC 42 Will each round or stupefied 1 + confused. Crit fail: permanent stupefied 2. Disable: Performance DC 42 or Intimidation DC 48. The whispers started, initiative was rolled, and the party **grabbed the [[Maestro's Flute]] and left without disabling it.** |
+| K14. Hall of Weeping Demons | ⚠️ **ENTERED (105), PRIZE MISSED.** Healing pool (3 uses, 150 HP + 6th-level restoration), unlocked by finding the laughing demon statue among the weeping ones. **The party found the laughing statue and deliberately did not touch it**, reading it as a trap trigger — so **the pool is still unclaimed.** Room recharges on House reset. |
 | K15. Servants' Wing | 12× [[Ghostly Guards]] spread across rooms. Knurly Witch joins if she's here (retreated to K16). |
 | K16. Cellar | [[The Knurly Witch]]'s bolt-hole. Fights to death if cornered here after retreating. |
 | K17. Throne Room | [[The Wriggling Man]] (CR 21) — **fight live as of [[Session 106 - The Thing He Wears\|Session 106]], resumes in initiative.** [[Lyriel]] is **NOT here** (ruled in 106); he wears [[Lyriel's Stolen Jewelry\|a piece of her jewelry]] as a trophy. **Run the "Trophy" redesign** — he is the *doorkeeper*: the throne is the portal to M7c where Lyriel and Nyrissa are, so **denying the throne** is his whole fight. See [[The Wriggling Man]]; it supersedes both the vanilla angel ruse *and* the retired "Two Lyriels" design. Fable portal → M7c (activating thought: "holding court before a crowd of thousands"). |
@@ -210,3 +264,8 @@ Nyrissa's Forgive Foe DC: 50 normally (46 if Thousandbreaths has been uprooted).
 - [[Ilthuliak]]
 - [[Phomandala]]
 - [[Chapter 10 - Sound of a Thousand Screams]]
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]

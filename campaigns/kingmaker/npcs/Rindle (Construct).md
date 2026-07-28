@@ -6,6 +6,7 @@ tags:
   - creature-type/construct
 sources: []
 related:
+  - "[[Ankou Assassins]]"
   - "[[Candlemere Island]]"
   - "[[Milo]]"
   - "[[Oaktop]]"
@@ -18,6 +19,8 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
 aliases: ["Rindle"]
 status: alive
 role: "Milo's mechanical construct; Inventor class feature; named after Milo's lost brother"

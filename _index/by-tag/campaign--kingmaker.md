@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-211 note(s) tagged `campaign/kingmaker`.
+214 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
@@ -20,6 +20,7 @@ tags: []
 - [[Amara]] — `npc`
 - [[Amiri]] — `npc`
 - [[Amulet of the Fey Ward]] — `item`
+- [[Ankou Assassins]] — `npc`
 - [[Annamede Belavarah]] — `npc`
 - [[Armag Reborn]] — `npc`
 - [[Ashenfel]] — `location`
@@ -30,6 +31,7 @@ tags: []
 - [[Beneford]] — `npc`
 - [[Bird]] — `npc`
 - [[Book of Warding Prayers]] — `item`
+- [[Brass Telescope]] — `item`
 - [[Briar]] — `item`
 - [[Bronzeshield Hold]] — `location`
 - [[Brumble]] — `npc`
@@ -103,6 +105,7 @@ tags: []
 - [[Lyriel's Wait]] — `plot-hook`
 - [[Lyriels Amulet]] — `item`
 - [[Maegar Varn]] — `npc`
+- [[Maestro's Flute]] — `item`
 - [[Melianse]] — `npc`
 - [[Milo]] — `character`
 - [[Milo's Lost Brother]] — `plot-hook`
