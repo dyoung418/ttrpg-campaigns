@@ -7,10 +7,13 @@ sources: []
 related:
   - "[[Aecora]]"
   - "[[Amiri]]"
+  - "[[Ankou Assassins]]"
   - "[[Annamede Belavarah]]"
   - "[[Armag Reborn]]"
   - "[[Atlee Quinge]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
+  - "[[Brass Telescope]]"
   - "[[Briar]]"
   - "[[Bronzeshield Hold]]"
   - "[[Candlemere Island]]"
@@ -22,11 +25,15 @@ related:
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
   - "[[Gaspere Liacenza]]"
+  - "[[Ghostly Guards]]"
+  - "[[Great Aunt Sumi]]"
   - "[[Grigori]]"
   - "[[Hannis Drevlev]]"
   - "[[Hargulka]]"
   - "[[Harrim]]"
   - "[[Hateful Hermit]]"
+  - "[[House at the Edge of Time]]"
+  - "[[Ilthuliak]]"
   - "[[Imeckus Stroon]]"
   - "[[Iron Wraiths]]"
   - "[[Jameel Visser]]"
@@ -37,10 +44,12 @@ related:
   - "[[King Vesket]]"
   - "[[Kisandra Numesti]]"
   - "[[Lady Jamandi Aldori]]"
+  - "[[Lee]]"
   - "[[Linzi]]"
   - "[[Lizardfolk Village]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Maegar Varn]]"
   - "[[Melianse]]"
@@ -93,14 +102,22 @@ related:
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Session 104 - The First Mercy]]"
+  - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Silverstep]]"
   - "[[Svetlana Leveton]]"
+  - "[[Tarlaxian]]"
   - "[[Tartuccio]]"
   - "[[Terrion Numesti]]"
   - "[[The Old Beldame]]"
+  - "[[The Rimebridge]]"
   - "[[The Stag Lord]]"
   - "[[The Stag Lord's Fort]]"
   - "[[The Temple of the Elk]]"
+  - "[[The Wriggling Man]]"
   - "[[Thorn River Camp]]"
   - "[[Thousandbreaths]]"
   - "[[Tiger Lords]]"
@@ -278,9 +295,39 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 
 - Entering the **[[Thousandbreaths]]** — the Baleful Lantern. → [[Session 101 - The Heads Still Dream|Session 101]]
 
-## Session 102
+## Session 102 — The Undefeated
 
-- → [[Session 102 - The Undefeated]]
+- The road deeper through [[Thousandbreaths]]. At the **High Folly** the party faces [[Ilthuliak]], the black dragon, who **wakes her petrified army** rather than fight alone.
+- They reach the long stone bridge to the [[House at the Edge of Time]] — and the session ends looking at it. → [[Session 102 - The Undefeated]]
+
+## Session 103 — The Shape of Where I Used to Be
+
+- [[Briar|Briara]] wakes to [[Nyrissa]]'s nearness and **confesses**: *"I can feel the shape of where I used to be."* She names why she was torn out — **for love** — and then falls silent as the House draws close.
+- The party rests, crosses to the House, and the **[[The Rimebridge|Rimebridge]] fight with [[Tarlaxian]]** runs long. Ends **mid-combat**. → [[Session 103 - The Shape of Where I Used to Be]]
+
+## Session 104 — The First Mercy
+
+- The party leaves the boxed [[Tarlaxian]] behind and forces the gate.
+- At the gatehouse they discover the House's central lesson: the **ashamed dead can be forgiven, not just killed.** [[Ghostly Guards|Guards]] are freed rather than destroyed, and mercy becomes the night's spine. Ends **mid-fight**. → [[Session 104 - The First Mercy]]
+
+## Session 105 — The Thing That Cannot Be Forgiven
+
+- The gate is finished **by mercy** — every guard freed, none killed. [[Briar|Briara]] names her price for helping: **[[Nyrissa]] must beg.** [[Great Aunt Sumi]] warns that something is watching.
+- **The party skips the Great Courtyard (K2)** and enters by a north side door — leaving the **Elite Sard alive and unfought**, and the Sard's Heart runes for [[Riven]] and [[Lee]] undropped.
+- They tear through the interior — weeping statues, a dead teleport circle, the salon, an exploding taxidermy bear — into the Lower Hall, ending **mid-fight** with the [[Ankou Assassins]]. → [[Session 105 - The Thing That Cannot Be Forgiven]]
+
+## Session 106 — The Thing He Wears
+
+- The [[Ankou Assassins|Ankou]] finally die — **two of them killed by their own *Massacre*** rebounding. The party rests and loots the [[Brass Telescope]] from the Observatory.
+- **The Throne Room (K17):** a fireball from nowhere, an illusion behind the throne, **Reverse Gravity**, and [[The Wriggling Man]] revealed as a humanoid mass of worms **wearing [[Lyriel's Stolen Jewelry|Lyriel's jewelry]]** — which the party first mistook for her **remains**.
+- **Structural ruling: [[Lyriel]] isn't there.** She's held with [[Nyrissa]] herself in M7c, through the very throne he's defending — so the rescue and the choice about the Queen become **one scene**. Ends **mid-combat**. → [[Session 106 - The Thing He Wears]]
+
+## Session 107 — I Can't Wait Until You Meet Her
+
+- The throne-room fight runs the entire night: reverse gravity, *Silence*, a wall of force splitting the room, and the party solving his statblock (**weak save Fortitude; weak to area and splash**). [[Pavel]] tries to lift the locket and watches it **sink into the worms**.
+- **[[The Wriggling Man]] speaks for the first time** — ***"Narissa was right to bring you here. I can't wait until you meet her."*** If true, the march on Thousandbreaths was an **invitation**, not a pursuit.
+- Then [[Lucas]]'s *divine wrath* trips his **contingency** and **he simply leaves** — alive, healing, trophy and all, to **M6**. The throne was never contested.
+- The party rests 10 minutes, reaches **Level 2**, and walks into the **Great Hall (L1)**, where two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] burst out from under the tables. Ends **on initiative**. **The party is now level 18.** → [[Session 107 - I Cant Wait Until You Meet Her]]
 
 ## Sources
 

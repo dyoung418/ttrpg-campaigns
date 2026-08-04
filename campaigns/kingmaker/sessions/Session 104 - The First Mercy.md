@@ -10,6 +10,7 @@ related:
   - "[[Briar]]"
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"

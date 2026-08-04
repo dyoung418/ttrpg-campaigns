@@ -19,6 +19,7 @@ related:
   - "[[RP 23 — Deep Under Candlemere]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
   - "[[RP 3 — After the Stag Lord Fight]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Thaelirian]]"
 status: open
 created: "2026-05-29"

@@ -15,6 +15,7 @@ related:
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Milo]]"

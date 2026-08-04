@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-214 note(s) tagged `campaign/kingmaker`.
+217 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
@@ -27,6 +27,7 @@ tags: []
 - [[Astor]] — `character`
 - [[Atlee Quinge]] — `npc`
 - [[Avennara]] — `location`
+- [[Barbtongued Wyverns]] — `npc`
 - [[Benedin]] — `npc`
 - [[Beneford]] — `npc`
 - [[Bird]] — `npc`
@@ -176,6 +177,8 @@ tags: []
 - [[Session 104 - The First Mercy]] — `session`
 - [[Session 105 - The Thing That Cannot Be Forgiven]] — `session`
 - [[Session 106 - The Thing He Wears]] — `session`
+- [[Session 107 - I Cant Wait Until You Meet Her]] — `session`
+- [[Session 108 - That Is Not Yours]] — `session`
 - [[Silverstep]] — `location`
 - [[Stag Lord's Helm]] — `item`
 - [[Starberry Press]] — `faction`

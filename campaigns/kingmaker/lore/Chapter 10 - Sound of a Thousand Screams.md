@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Barbtongued Wyverns]]"
   - "[[Briar]]"
   - "[[Evindra]]"
   - "[[Ghostly Guards]]"

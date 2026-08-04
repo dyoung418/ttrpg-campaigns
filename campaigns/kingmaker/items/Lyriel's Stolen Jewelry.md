@@ -6,17 +6,22 @@ tags:
   - backstory
 sources:
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
 related:
   - "[[Astor]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"
   - "[[Lyriels Amulet]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
+  - "[[Pavel]]"
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[The Wriggling Man]]"
 aliases: ["The Trophy"]
 status: lost
@@ -49,9 +54,31 @@ A piece of elven jewelry taken from [[Lyriel]] when she was abducted at the [[Ni
 > 107 — he was frightened and grappled when they worked it out, so he never got to play with the
 > misunderstanding. He should.
 
-> [!question] GM decision — what the piece actually is
-> Danny established at the table only that it is *"a piece of her jewelry"* that Riven recognized. The
-> specific object is still open. The strongest option is already seeded in Lyriel's own description:
+> [!danger] **It cannot be stolen — ruled in [[Session 107 - I Cant Wait Until You Meet Her|Session 107]]**
+> [[Pavel]] got into reach and attempted a **Steal** action to lift the piece off him. Danny described
+> **the jewelry sinking down into his chest as the worms swarmed over it.** It is not an ornament resting
+> on a body — the swarm *holds* it, and closes around it when threatened.
+>
+> **Consequences, all of which sharpen the design:**
+> - **It left the throne room on him.** When his contingency fired, the trophy went with him.
+> - **Killing him is now the only way to get it back.** That pulls directly against *making him talk* —
+>   which is precisely the vise the encounter wanted, arrived at by a route nobody planned.
+> - **The AoE tax got worse.** The party can no longer hope to grab it first and *then* burn him down.
+>   Area damage is still the answer to a worm that walks, and now the jewelry is inside the blast every
+>   single time. **Make sure [[Riven]] understands this before the rematch** — it should be a decision,
+>   never a surprise.
+
+> [!question] GM decision — what the piece actually is *(narrowed in 107)*
+> Danny established in 106 only that it is *"a piece of her jewelry"* that Riven recognized — **but in
+> 107 he described it at the table as a *locket*.** That is now the front-runner by default, and it is a
+> good one: a locket is a container, which means it may still **hold something**, and *"what's inside"*
+> is a free second beat whenever Riven finally opens it. The original options are kept below in case the
+> GM wants to overrule his own off-hand description.
+>
+> - **A locket** *(established in play — recommended, just run with it)* — and decide what, if anything,
+>   is in it. A portrait? A lock of hair? Nothing at all, which is its own answer?
+> - **A hair pin** *(the earlier recommendation)* — her introduction describes *"a loose braid pinned up
+>   with strands escaped against her neck."* Riven has looked at that pin a hundred times.
 >
 > - **A hair pin** *(recommended)* — her introduction describes *"a loose braid pinned up with strands
 >   escaped against her neck."* Riven has looked at that pin a hundred times. It's small, intimate,
@@ -78,7 +105,12 @@ He kept this. He did not have to.
 
 ## Current Location / Holder
 
-[[The Wriggling Man]] — worn openly, Throne Room (K17), [[House at the Edge of Time]]. The fight for it is live as of [[Session 106 - The Thing He Wears|Session 106]].
+**[[The Wriggling Man]] — and gone with him.** He wore it openly in the Throne Room (K17) of the
+[[House at the Edge of Time]] across [[Session 106 - The Thing He Wears|106]] and
+[[Session 107 - I Cant Wait Until You Meet Her|107]]. When his contingency fired at the end of 107 he
+**translocated out of the fight still carrying it** — by his statblock, to **M6, Nyrissa's Garden**.
+
+The party never got it. **They have to beat him a second time.**
 
 ## Plot Relevance
 

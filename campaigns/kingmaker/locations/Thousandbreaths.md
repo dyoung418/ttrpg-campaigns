@@ -25,6 +25,7 @@ related:
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Tarlaxian]]"
   - "[[The Knurly Witch]]"
   - "[[The Misbegotten Troll]]"

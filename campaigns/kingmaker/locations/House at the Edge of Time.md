@@ -8,11 +8,13 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
 related:
   - "[[Amulet of the Fey Ward]]"
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Avennara]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Brass Telescope]]"
   - "[[Briar]]"
   - "[[Candlemere Island]]"
@@ -21,6 +23,7 @@ related:
   - "[[Great Aunt Sumi]]"
   - "[[Ilthuliak]]"
   - "[[Kingmaker Campaign Summary]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
@@ -39,6 +42,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
   - "[[The Knurly Witch]]"
   - "[[The Oaktop Ankou]]"
@@ -71,7 +76,7 @@ created: "2026-05-29"
 
 **Raised Alarms**: Occupants are already on high alert. If an alarm is raised: +2 circumstance bonus on initiative checks for all House denizens for 24 hours.
 
-## Party Progress *(as of [[Session 106 - The Thing He Wears|Session 106]])*
+## Party Progress *(as of [[Session 107 - I Cant Wait Until You Meet Her|Session 107]])*
 
 > [!important] The party skipped the courtyard
 > After clearing the gate in [[Session 105 - The Thing That Cannot Be Forgiven|105]], the party **looked at
@@ -93,10 +98,17 @@ created: "2026-05-29"
 | **K4 Lower Hall** | ✅ **cleared** | **[[Ankou Assassins]]** revealed when Riven shot the painting. Fight ran across the end of 105 and most of 106; **all dead**, two killed by their own *Massacre* rebound. Used as the rest site afterward. |
 | **Flooded tunnel** | 👁 scouted | Rubble and standing water; shallows near the far door. Not followed. |
 | **K7 Observatory** | ✅ **looted** | **[[Brass Telescope]]** taken (~3,500 gp) — shows real Material Plane stars with **no window in the room.** |
-| **K17 Throne Room** | 🔴 **combat live** | Fireball ambush → illusion behind the throne → **Reverse Gravity** → **[[The Wriggling Man]]** revealed as a humanoid mass of worms wearing **[[Lyriel's Stolen Jewelry]]**. **107 resumes in initiative.** |
+| **K17 Throne Room** | ⚠️ **fight over — the boss escaped** | Fireball ambush → illusion behind the throne → **Reverse Gravity** → **[[The Wriggling Man]]** revealed as a humanoid mass of worms wearing **[[Lyriel's Stolen Jewelry]]**. Fought across 106 and all of 107; he **fired his contingency and translocated away** (statblock says to **M6**) rather than dying. **The throne was never contested and the M7c portal was never opened.** |
+| **Second-floor walkway (L7 area)** | ✅ **used as a rest site** | Party regrouped here after the boss vanished, roped off the drop, rested 10 minutes, and listened at the doors — [[Riven]] heard something in one of the rooms. |
+| **L1 Great Hall** | 🔴 **combat live** | Entered at the end of [[Session 107 - I Cant Wait Until You Meet Her|107]]. **2× [[Barbtongued Wyverns]]** were hidden under the long tables and flew out the moment they were seen. **108 resumes in initiative.** |
 
-**Not yet touched:** K5, K8, K9, K10, K12, K15 (12 more [[Ghostly Guards]]), K16, K18, K19, K20, and all of
-Levels 2–3.
+**Not yet touched:** K5, K8, K9, K10, K12, K15 (12 more [[Ghostly Guards]]), K16, K18, K19, K20, the
+rest of Level 2 (L3, L8), and all of Level 3.
+
+> [!important] The party is on **Level 2** now — and the boss is loose behind them
+> [[The Wriggling Man]] is **alive, at large, and healing** somewhere in the House (M6 by his
+> statblock). Anything the party does from here happens with an intelligent, mobile, furious
+> arch-deceiver deciding when to reappear. **He knows the whole floor plan and they don't.**
 
 ### The House's temporal distortion — as the party experienced it
 
@@ -133,7 +145,7 @@ floated that time here may run backward or in loops. **Nobody has worked out whe
 | K14. Hall of Weeping Demons | ⚠️ **ENTERED (105), PRIZE MISSED.** Healing pool (3 uses, 150 HP + 6th-level restoration), unlocked by finding the laughing demon statue among the weeping ones. **The party found the laughing statue and deliberately did not touch it**, reading it as a trap trigger — so **the pool is still unclaimed.** Room recharges on House reset. |
 | K15. Servants' Wing | 12× [[Ghostly Guards]] spread across rooms. Knurly Witch joins if she's here (retreated to K16). |
 | K16. Cellar | [[The Knurly Witch]]'s bolt-hole. Fights to death if cornered here after retreating. |
-| K17. Throne Room | [[The Wriggling Man]] (CR 21) — **fight live as of [[Session 106 - The Thing He Wears\|Session 106]], resumes in initiative.** [[Lyriel]] is **NOT here** (ruled in 106); he wears [[Lyriel's Stolen Jewelry\|a piece of her jewelry]] as a trophy. **Run the "Trophy" redesign** — he is the *doorkeeper*: the throne is the portal to M7c where Lyriel and Nyrissa are, so **denying the throne** is his whole fight. See [[The Wriggling Man]]; it supersedes both the vanilla angel ruse *and* the retired "Two Lyriels" design. Fable portal → M7c (activating thought: "holding court before a crowd of thousands"). |
+| K17. Throne Room | ⚠️ **FOUGHT (106–107) — [[The Wriggling Man]] (CR 21) ESCAPED.** He fired his **contingency** *dimension door* (≤50 HP → M6) at the end of 107 and left the field alive and healing. **The throne itself was never contested; the M7c portal is still unopened.** [[Lyriel]] is **NOT here** (ruled in 106); he wears [[Lyriel's Stolen Jewelry\|a piece of her jewelry]] as a trophy — **and it cannot be stolen off him: it sinks into his chest and the worms close over it.** **Run the "Trophy" redesign** — he is the *doorkeeper*: the throne is the portal to M7c where Lyriel and Nyrissa are, so **denying the throne** is his whole fight. See [[The Wriggling Man]]; it supersedes both the vanilla angel ruse *and* the retired "Two Lyriels" design. Fable portal → M7c (activating thought: "holding court before a crowd of thousands"). |
 | K18. Dressing Chamber | Noble outfits, courtiers' outfits. Platinum signet ring (1,500 gp) in one pocket (DC 30 Perception). |
 | K19. Ruined Washroom | 3× Elite Bythos Aeons (CR 17) — trapped since the House was built. Can't leave room. Reset with House. Freed only if Nyrissa is killed or forgiven. |
 | K20. Dripping Clock | Pludock (CR 1, water mephit) tends a water clock. Chatty and helpful if befriended. Knows K14 healing pool and K6 bear trap. Will reveal the Fable location if pushed, then Nyrissa kills him remotely. |
@@ -191,7 +203,7 @@ lone Creature 20 doesn't get dogpiled by six level-17 PCs. Full context: [[Sessi
 
 | Area | Contents |
 |------|----------|
-| L1. Great Hall | 2× Barbtongued Wyverns (CR 18) — Nyrissa's pets. Fight to death. |
+| L1. Great Hall | 🔴 **COMBAT LIVE (107).** 2× [[Barbtongued Wyverns]] (CR 18) — [[Nyrissa]]'s pets. Fight to death; **no Shame, so Forgive Foe fails.** The party entered at the end of 107; the wyverns were **hiding under the long tables** and flew out on sight. **108 resumes in initiative.** *Room as described at the table:* vaulted ceiling, supports carved as **serpentine dragons**, **seven statues of a beautiful woman** with a sword or in aggressive poses (**they are Nyrissa — nobody has recognized her yet**), two long tables and benches around a **large marble serpent-dragon**. |
 | L2. Stairwell | Leads to Level 3 (M3). |
 | L3. Guest Rooms | Four large rooms, unused. Temporal echoes of the PCs themselves may appear here. |
 | L4. Stairwell | Leads to Level 3 (M1). |

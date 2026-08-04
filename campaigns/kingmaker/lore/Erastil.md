@@ -6,7 +6,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Astor]]"
   - "[[RP 24 — A Politician's Day]]"
+  - "[[Session 108 - That Is Not Yours]]"
 aliases:
   - Old Deadeye
 status: stub

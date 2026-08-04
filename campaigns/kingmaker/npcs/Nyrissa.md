@@ -5,10 +5,12 @@ tags:
   - campaign/kingmaker
   - enemy
   - creature-type/fey
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Brass Telescope]]"
   - "[[Briar]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
@@ -47,6 +49,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Horned Hunter]]"
@@ -123,9 +127,42 @@ She has been watching the PCs since they arrived in the Stolen Lands, subtly hel
 
 **A critical blind spot**: [[King Irovetti]] discovered [[Briar]] and kept it in his palace — *without Nyrissa's knowledge*. Her own pawn was sitting on the one object that could destroy her. The PCs found it when they killed him. Nyrissa does not know how long it was hidden from her, or what she missed while Briar was out of her awareness.
 
+## "Narissa was right to bring you here" — said on-screen, [[Session 107 - I Cant Wait Until You Meet Her|Session 107]]
+
+The party has never been told, in the fiction, that Nyrissa has been **cultivating them.** They believe
+they chased her into [[Thousandbreaths]] after she made the mistake of taking [[Lyriel]]. In 107
+[[The Wriggling Man]] told them otherwise, in his first spoken line of the campaign:
+
+> *"Well, aren't you a motley crew? **Narissa was right to bring you here.** I can't wait until you meet her."*
+
+**In backstory terms this is simply true** — see the Background above: she has watched and quietly
+strengthened them since they arrived in the Stolen Lands, because the 1,000th kingdom has to be *worth*
+taking. What is new is that **it has now been said out loud to their faces**, by someone with every
+reason to lie about it.
+
+> [!question] GM decision before 108 — how much of this does she own?
+> Three readings, and they lead to different final scenes:
+> - **She summoned them deliberately.** Lyriel's abduction was bait, the House is the trap, and the
+>   Apology finishes here on her terms. Cleanest, cruellest, best supported by the AP.
+> - **She cultivated them but did not summon them.** Taking Lyriel was about hurting [[Riven]] and about
+>   [[Briar]] — and the Wriggling Man is a courtier flattering his queen's foresight after the fact.
+>   Truer to a woman who is **hollow, not clever**.
+> - **He is lying to unmake their confidence** on the doorstep. Costs him nothing and works on everyone.
+>
+> Whichever it is, **she should be able to answer it herself in M7c**, plainly and without gloating —
+> the horror of Nyrissa is that she does terrible things *methodically*, not gleefully. If she confirms
+> she grew them like a crop, that is the moment the party understands they were never the heroes of her
+> story. See [[The Wriggling Man]] for the version of this question from his side.
+
+**Seven of her are already watching them.** The **Great Hall (L1)**, which the party walked into at the
+end of 107, holds **seven statues of a beautiful woman** with a sword or in aggressive poses. They are
+her. **Nobody has recognized her yet** — [[Briar|Briara]] would, instantly, and it would cost her
+something to say so. See [[Barbtongued Wyverns]].
+
 ## Key Allies
 
-- [[The Wriggling Man]] — arcane advisor, in throne room K17
+- [[The Wriggling Man]] — arcane advisor. Fought the party in throne room K17 across Sessions 106–107 and **escaped alive** via his contingency; **at large and healing** somewhere in the House (M6 by his statblock)
+- [[Barbtongued Wyverns]] — her two pets in the Great Hall (L1); **combat live as of 107**
 - [[The Knurly Witch]] — hag cleric, in glade H / cellar K16
 - [[Ilthuliak]] — black dragon, in glade J
 - [[The Horned Hunter]] — satyr ranger, sent to steal Briar during Part 1; **dead** — killed by the PCs (Session 100), ending her Fey Conduit view of the party

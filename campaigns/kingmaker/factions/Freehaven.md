@@ -62,6 +62,7 @@ related:
   - "[[RP 26 — Riven's Journey to Kyonin]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[Serenko]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
   - "[[Stag Lord's Helm]]"
   - "[[Stolen Lands]]"

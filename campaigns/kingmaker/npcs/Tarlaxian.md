@@ -13,6 +13,7 @@ related:
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Nyrissa]]"

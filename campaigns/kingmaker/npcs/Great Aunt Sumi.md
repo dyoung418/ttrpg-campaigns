@@ -14,6 +14,7 @@ related:
   - "[[Great Great Aunt Gina]]"
   - "[[Great Uncle Olaf]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"
@@ -27,6 +28,7 @@ related:
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[The Oaktop Ankou]]"
 aliases: ["Sumi"]
 status: deceased

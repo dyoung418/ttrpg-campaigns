@@ -35,6 +35,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
   - "[[Thaelirian]]"
   - "[[The Horned Hunter]]"

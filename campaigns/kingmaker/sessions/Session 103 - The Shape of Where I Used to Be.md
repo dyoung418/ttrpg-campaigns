@@ -13,6 +13,7 @@ related:
   - "[[Fox-Head Pendant]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
@@ -28,6 +29,7 @@ related:
   - "[[Tarlaxian]]"
   - "[[The Lantern King]]"
   - "[[The Rimebridge]]"
+  - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 date: ""
 session_number: 103

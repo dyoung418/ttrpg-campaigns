@@ -23,7 +23,9 @@ A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware th
 
 The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They cut through the glades, crossed [[The Rimebridge]] past [[Tarlaxian]], and are now **deep inside the [[House at the Edge of Time]]** — the gate forgiven open, the courtyard **skipped** (they went in by a side door, leaving the Elite Sard alive and unfought), and the Throne Room (K17) reached by way of the Lower Hall, the salon, and a taxidermy bear that exploded.
 
-**As of [[Session 106 - The Thing He Wears|Session 106]]** they are **mid-fight with [[The Wriggling Man]]** — and [[Lyriel]] is not in the room. He wears [[Lyriel's Stolen Jewelry|a piece of her jewelry]] as a trophy; she has been moved deeper in and is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c), through the very throne he's defending. The rescue and the campaign's central choice about the Queen are now the **same scene**. The sword [[Briar|Briara]] has fully awakened, *speaks*, and carries Nyrissa's stolen authority.
+**As of [[Session 107 - I Cant Wait Until You Meet Her|Session 107]]** the throne-room fight is over and **[[The Wriggling Man]] got away** — he fired his contingency and translocated out rather than dying, taking [[Lyriel's Stolen Jewelry|Lyriel's stolen jewelry]] with him. He is **alive, at large, and healing** somewhere in the House. Before he left he spoke for the first time, and what he said reframes the campaign: ***"Narissa was right to bring you here. I can't wait until you meet her."*** — the march on Thousandbreaths may have been an **invitation**, not a pursuit.
+
+[[Lyriel]] is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c), through the very throne he was defending — so the rescue and the campaign's central choice about the Queen are now the **same scene**. The throne was never contested and that portal is still shut. The party is now **level 18**, on **Level 2 of the House**, and in initiative against two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] in the Great Hall. The sword [[Briar|Briara]] has fully awakened, *speaks*, and carries Nyrissa's stolen authority.
 
 ## The Party
 
@@ -58,7 +60,8 @@ Live Bases views over this campaign's notes.
 
 **Current Threats**
 - [[Nyrissa]] — The Heartless Queen, true villain; nymph queen seeking to complete the Apology
-- [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks in Throne Room K17. **Engaged — fight live, resumes in initiative in 107.** The fey who took Lyriel at the gate; wears a piece of her jewelry as a trophy
+- [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks. **ESCAPED (107) — at large in the House and healing.** Fought across 106–107, then fired his contingency rather than dying. The fey who took Lyriel at the gate; still carries a piece of her jewelry, which **sinks into his chest and cannot be stolen**. A rematch is owed — and his one escape is spent
+- [[Barbtongued Wyverns]] — Nyrissa's two pets in the Great Hall (L1). **Combat live — 108 resumes in initiative**
 - [[Tarlaxian]] — Tarn linnorm guarding [[The Rimebridge]] to the House; reskinned to frost as a solo boss
 - [[The Knurly Witch]] — Annis hag cleric; Glade H and Cellar K16
 - [[Ilthuliak]] — Black dragon; Glade J (High Folly)
@@ -197,6 +200,7 @@ Live Bases views over this campaign's notes.
 - [[Session 104 - The First Mercy]] — the party leaves the boxed Tarlaxian behind and forces the gate; at the guardhouse they discover the ashamed dead can be **forgiven, not just killed**, and make mercy the night's spine — ending *mid-fight* with several guards freed (continues 105)
 - [[Session 105 - The Thing That Cannot Be Forgiven]] — the gate finished by mercy (every guard freed, none killed); [[Briar|Briara]] names her price — **Nyrissa must beg** — and [[Great Aunt Sumi]] warns that something is watching. Then the party **skips the courtyard**, goes in a side door, and tears through the interior (weeping statues, a dead teleport circle, the salon, an exploding bear) into the Lower Hall, ending *mid-fight* with the [[Ankou Assassins]]
 - [[Session 106 - The Thing He Wears]] — the Ankou finally die (two by their own *Massacre*), then a telescope, then the Throne Room: a fireball from nowhere, **Reverse Gravity**, and [[The Wriggling Man]] revealed as a mass of worms wearing [[Lyriel's Stolen Jewelry|Lyriel's jewelry]] — which the party first mistook for her **remains**. **[[Lyriel]] isn't there**; she's held with [[Nyrissa]] in M7c. Ends *mid-combat* (continues 107)
+- [[Session 107 - I Cant Wait Until You Meet Her]] — the throne-room fight runs the whole night: reverse gravity, *Silence*, a wall of force splitting the room, and the party solving his statblock (**Fortitude, area & splash**). [[Pavel]] tries to lift the locket and watches it **sink into the worms**. Then [[Lucas]]'s *divine wrath* trips the **contingency** and **the Wriggling Man simply leaves** — alive, healing, trophy and all. Before he goes he speaks: ***"Narissa was right to bring you here."*** The party rests 10 minutes, climbs to Level 2, and walks into the Great Hall, where two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] burst out from under the tables (continues 108)
 
 ### RP Scenes
 

@@ -12,9 +12,11 @@ sources:
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
 related:
   - "[[Astor]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Briar]]"
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Milo]]"

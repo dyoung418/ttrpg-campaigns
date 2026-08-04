@@ -9,6 +9,7 @@ related:
   - "[[Aee]]"
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
   - "[[Cad]]"
   - "[[Candlemere Island]]"
@@ -19,6 +20,7 @@ related:
   - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
@@ -37,6 +39,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Wriggling Man]]"
@@ -45,7 +49,7 @@ player: "Tom"
 class: "Swashbuckler (Aldori Duelist dedication)"
 race: "Elf (Woodland)"
 background: "Sword Scion"
-level: 17
+level: 18
 status: active
 created: "2026-05-29"
 ---
@@ -54,7 +58,7 @@ created: "2026-05-29"
 
 > **Player**: Tom
 > **Class / Race**: Woodland Elf — Swashbuckler (Aldori Duelist dedication)
-> **Level**: 17
+> **Level**: 18
 > **Kingdom Role**: General of [[Freehaven]]
 > **Full Name**: Lee Carandini
 
@@ -111,7 +115,7 @@ The [[Carandini Family]] line: [[Erevan Carandini|Erevan]] and [[Elithya Carandi
 
 ## Current Status
 
-**Level**: 17
+**Level**: 18
 **Notable equipment**:
 **Conditions / ongoing effects**:
 

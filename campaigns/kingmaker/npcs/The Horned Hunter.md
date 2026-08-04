@@ -13,6 +13,7 @@ related:
   - "[[Nyrissa]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[The Month of Destruction]]"
+  - "[[The Wriggling Man]]"
 status: deceased
 created: "2026-05-29"
 ---

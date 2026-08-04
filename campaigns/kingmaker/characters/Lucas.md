@@ -7,6 +7,7 @@ sources: []
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
   - "[[Book of Warding Prayers]]"
   - "[[Briar]]"
@@ -50,6 +51,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Wriggling Man]]"
@@ -62,7 +65,7 @@ race: Kitsune
 background: Brevic Outcast
 heritage: Empty Sky Kitsune
 diety: Isis
-level: 17
+level: 18
 status: active
 created: 2026-05-29
 ---
@@ -71,7 +74,7 @@ created: 2026-05-29
 
 > **Player**: Jon
 > **Class / Race**: Foxfolk (kitsune) — Oracle (Ancestor mystery)
-> **Level**: 17
+> **Level**: 18
 > **Kingdom Role**: Magister of [[Freehaven]]
 > **Family Name**: Sato (referenced by Pavel: "the new generation of Satos")
 ![[lucas2.png]]
@@ -120,7 +123,13 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
 ## Magic Item Wish List
 
-> [!todo] Needs content
+> [!note] Proposed by prep (2026-08-04), **not player-stated** — Jon has never given a list. Overwrite the moment he does.
+
+- **A relic of [[Great Aunt Sumi]]** *(top pick)* — she taught him with a **healer's kit** and she is still the ancestor who reaches him most reliably. An object that was *hers* is the obvious emotional item for this character, and it doubles as a focus that steadies the ancestor connection. She already warned him something was watching in [[Session 105 - The Thing That Cannot Be Forgiven|105]].
+- **A staff or rechargeable control item** — he burned a **Wand of Wall of Force** in 107 and it was the single best tactical play of the night. He should get to do that more than once.
+- **A Charisma apex item** — his key stat as an Oracle, and he has never had one.
+
+
 
 ## Notable Moments
 
@@ -152,6 +161,6 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
 ## Current Status
 
-**Level**: 17
+**Level**: 18
 **Notable equipment**:
 **Conditions / ongoing effects**:

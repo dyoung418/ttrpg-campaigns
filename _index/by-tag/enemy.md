@@ -8,11 +8,12 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-13 note(s) tagged `enemy`.
+14 note(s) tagged `enemy`.
 
 ## kingmaker
 
 - [[Ankou Assassins]] — `npc`
+- [[Barbtongued Wyverns]] — `npc`
 - [[Ghostly Guards]] — `npc`
 - [[Ilthuliak]] — `npc`
 - [[Kargstaad]] — `npc`

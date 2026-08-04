@@ -37,6 +37,7 @@ related:
   - "[[Linzi]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Milo]]"
   - "[[Nightmarch]]"
@@ -79,6 +80,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
@@ -93,7 +96,7 @@ player: "Darren"
 class: "Rogue (Beastmaster, Druid, and Witch dedications)"
 race: "Half-Elf (Aiuvarin heritage)"
 background: "Field Medic"
-level: 17
+level: 18
 status: active
 created: "2026-05-29"
 ---
@@ -104,7 +107,7 @@ created: "2026-05-29"
 > **Player**: Darren
 > **Class / Race**: Half-Elf (Aiuvarin heritage) — Rogue / Beastmaster, Druid, and Witch dedications
 > **Background**: Field Medic
-> **Level**: 17
+> **Level**: 18
 > **Kingdom Role**: Warden of [[Freehaven]]
 > **Full Name**: Pavelan Lebeda (he introduces himself as "just Pavel")
 
@@ -211,6 +214,6 @@ Pavel was there through all of it. Afterward, he went looking for Edina in Resto
 
 ## Current Status
 
-**Level**: 17
+**Level**: 18
 **Notable equipment**: [[Cat]] (black panther companion), [[Bird]] (bird of prey companion)
 **Conditions / ongoing effects**:

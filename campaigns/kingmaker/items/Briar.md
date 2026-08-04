@@ -9,8 +9,10 @@ sources:
   - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
   - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Candlemere Island]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
@@ -39,6 +41,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
   - "[[The Horned Hunter]]"
   - "[[The Lantern King]]"
@@ -139,6 +143,19 @@ fight he swapped her to **elven curve blade** for the reach and the escalating d
 **chainsword** later over her objection, with the line: ***"She's not the boss of me."*** [[Riven]] backed
 the curve blade on the numbers (*"gets more damage on subsequent hits"*). It plays as comedy at the table;
 underneath it is a wielder and a weapon negotiating who is holding whom.
+
+**In play ([[Session 107 - I Cant Wait Until You Meet Her|Session 107]]) — the vorpal clause, established
+at the table.** Pavel fought [[The Wriggling Man]] in **chainsword form** and the effect was spelled out
+explicitly: roughly **50 damage** on the strike, and **against *denizens of the First World* Briara
+functions as a *vorpal* blade — DC 37 Fortitude.** She did not sever him (he made the save), but this is
+the first time her full-awakening *vorpal* property has been named with a number in play, and it applies
+to essentially every remaining enemy in [[Thousandbreaths]] and the [[House at the Edge of Time]] —
+including [[Nyrissa]] herself.
+
+> [!note] Worth noticing
+> She grows stronger the more First World blood she tastes (below), *and* she decapitates First World
+> creatures on a failed Fortitude save. The House is, from her point of view, a banquet. Nobody has
+> asked her how she feels about that.
 
 ## Tactical Notes
 

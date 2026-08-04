@@ -11,6 +11,7 @@ related:
   - "[[Kyonin]]"
   - "[[Riven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[The Demon's Legacy]]"
 aliases: ["Aelir", "Lytha"]
 status: deceased

@@ -7,14 +7,18 @@ tags:
   - creature-type/aberration
 sources:
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Briar]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Feywind]]"
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
@@ -29,10 +33,15 @@ related:
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
+  - "[[The Demon's Legacy]]"
+  - "[[The Horned Hunter]]"
   - "[[Thousandbreaths]]"
 status: alive
 created: "2026-05-29"
@@ -42,20 +51,66 @@ created: "2026-05-29"
 
 **Creature 21** | Unique, CE, Medium, Aberration, Swarm (Variant male worm that walks wizard)
 
-[[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G) but is currently in the **Throne Room (K17)**  ([[Chapter 10 - Sound of a Thousand Screams|Chapter 10]]) of the [[House at the Edge of Time]].
+[[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G). He held the **Throne Room (K17)** ([[Chapter 10 - Sound of a Thousand Screams|Chapter 10]]) of the [[House at the Edge of Time]] until Session 107, when he **escaped the fight alive** — he is now in **M6, Nyrissa's Garden**, healing, and hunting the party.
 
 ## Current Status
 
-**Engaged — the fight is live.** The party met him in the throne room in
-[[Session 106 - The Thing He Wears|Session 106]], which ended **mid-combat**; Session 107 resumes in
-initiative. He is the fey who abducted [[Lyriel]] at the [[Nightmarch]] gate, and he **wears a piece of
-her jewelry as a trophy** ([[Lyriel's Stolen Jewelry]]) — [[Riven]] recognized it on him.
+**⚠️ ESCAPED — at large, healing, and owed a rematch.** He fought the party across
+[[Session 106 - The Thing He Wears|106]] and all of
+[[Session 107 - I Cant Wait Until You Meet Her|107]], then **triggered his contingency and translocated
+out of the throne room mid-fight** rather than dying. By his statblock that is *dimension door* to
+**M6, Nyrissa's Garden**, fired at **≤50 HP**. He has **fast healing 20**; the party correctly assumed
+he is regenerating and chose to rest rather than chase. **He is not dead and the throne is still his.**
+
+He is the fey who abducted [[Lyriel]] at the [[Nightmarch]] gate, and he **wears a piece of her jewelry
+as a trophy** ([[Lyriel's Stolen Jewelry]]) — [[Riven]] recognized it on him, and **it left the room on
+him.** [[Pavel]] tried to Steal it and the **jewelry sank into his chest as the worms swarmed over it.**
+It cannot be lifted. Killing him is now the only way to get it back.
 
 **Lyriel is not with him.** She has been moved deeper into the House and is held with [[Nyrissa]] in the
-moonlit plaza (**M7c**), through the throne he is standing on. He is the doorkeeper, not the jailer —
+moonlit plaza (**M7c**), through the throne he was standing on. He is the doorkeeper, not the jailer —
 see [[#Encounter Redesign — The Trophy (campaign version — CURRENT, use this)|the Trophy design]] below.
 
-### How the fight has gone so far *(actual play, 106)*
+### He speaks — and he says Nyrissa invited them *(107)*
+
+His first words in the campaign, eyeless face turning to take in each PC in turn:
+
+> *"Well, aren't you a motley crew? **Narissa was right to bring you here.** I can't wait until you
+> meet her."*
+
+**This is the biggest thing he has given the party and it may be the biggest lie he has told them.** It
+asserts that the march on [[Thousandbreaths]] was not a pursuit but an **invitation** — that
+[[Lyriel]]'s abduction was bait the party swallowed, and that [[Nyrissa]] *wanted* them in her house.
+It is consistent with a queen who grows kingdoms in order to harvest them, and it is exactly what a
+master deceiver would say to poison a party's confidence on the doorstep.
+
+> [!question] GM decision before 108
+> **Is it true, and does *he* believe it?** Three readings, all playable:
+> - **True and he knows it** — Nyrissa needed them here, the whole campaign is her harvest, and he is
+>   gloating. Cruellest, and best supported by the AP's actual plot.
+> - **True but he has it backwards** — she took Lyriel to *hurt* them, not to summon them, and he is
+>   flattering his queen's foresight after the fact. He is a courtier; courtiers do this.
+> - **A lie, deployed live** — he watched six people walk in believing they were the hunters and
+>   handed them the one sentence that unmakes that. Costs him nothing.
+>
+> [[Briar|Briara]] would know. [[Lyriel]] can confirm it from M7c. Nyrissa would say it plainly. **Don't
+> let the line evaporate** — somebody at the table should get to chase it.
+
+**He also tried to send them back to the courtyard.** His *Suggestion* on [[Astor]] (resisted) was:
+*"I can't believe you guys didn't check the courtyard. That's an ideal place to hide an abductee. You
+should go check that right now."* He is pointing them at **K2 — which the party skipped in 105 and
+where the Elite Sard is still alive.** Whether that is a trap, a stall, or a genuine tell is a live
+question.
+
+> [!note] Both sides of that exchange were lying *(GM-confirmed)*
+> [[Astor]] shot back that they had *"already looked through the courtyard."* **He was bluffing** — the
+> party has never searched K2, only crossed its edge. So the Wriggling Man tried to send them into the
+> Sard's arms, and Astor told him it wouldn't work, and **neither of them knows the other was lying.**
+> The bait is still fully loaded and the party is still ignorant of what's out there.
+
+### How the fight went *(actual play, 106–107)*
+
+#### 106 — the ambush and the reveal
 
 He opened **before the party knew he was there**: [[Astor]] scouted into the throne room, initiative was
 called, and a **fireball** came out of the far side of the chamber with no visible source. He then held
@@ -93,10 +148,286 @@ so sorry, that's not how I expected Lyriel to end up."* The trophy did not read 
 >
 > **Note the constraint:** he has taken little real damage and his **contingency** (dimension door to M6 at
 > ≤50 HP) is untouched. He has room to talk.
+>
+> **⚠️ Outcome (107): he never used the misunderstanding.** He spent his one social turn on the
+> *"Narissa brought you here"* taunt and a *Suggestion*, and then the fight became pure attrition. The
+> "she is what's left of her" lever is **still unspent** and now belongs to the rematch.
 
-**What he has not done yet:** spoken a single line. He has been an ambush, an illusion, and a spell effect.
-The whole "he talks, he offers her location in pieces, he lies" half of the Trophy design is **entirely
-unspent.**
+#### 107 — the grind, and the exit
+
+**He fought a full session and walked away from it.** The party could not close, and he could not break
+them; then he simply left.
+
+**What the party learned — all of it, permanently:**
+
+| Discovery | How | Consequence |
+|---|---|---|
+| **Lowest save is Fortitude; weak to area & splash damage** | [[Lucas]]'s **Whispers of Weakness** | The statblock is solved. They spent the rest of the night re-arming around it and will come back built for it. |
+| **Resists grapple, but *shove* works** | [[Astor]], repeatedly | His anti-grapple defense doesn't cover forced movement. |
+| **Not immune to *immobilized*** | Confirmed at the table | A real control handle. He had to spend actions escaping it. |
+| **Precision-proof, and hard to hit with arrows** | [[Riven]] missing a great deal | The swarm body blunts the party's two best single-target dealers exactly as designed (Boss Mod #3). |
+| **The trophy is *inside* him** | [[Pavel]]'s Steal attempt | The jewelry **sank into his chest as the worms swarmed over it.** It cannot be pickpocketed. |
+
+**What he did with it:** parked in [[Astor]]'s space and used him as cover (every ranged attack at the
+worm needed a flat check), lashed the front line with tendrils and persistent damage, and used
+**Squirming Embrace** when he could. He ate a *Silence* scroll from Pavel and it barely slowed him.
+[[Lee]] critically missed a bleeding finisher **three separate times** and never landed the trick he
+spent the whole night setting up.
+
+**The wall changed the shape of the fight, not the outcome.** [[Lucas]] cut the room in half with a
+**Wand of Wall of Force**; the party pivoted to lobbing **Necklace of Fireballs** and **junk bombs**
+over it while Astor **Cloud Jumped** across to keep shoving. Then Lucas came to the wall's edge, cast a
+**6th-level *Divine Wrath***, **the contingency fired, and he was gone.**
+
+**Where he went:** **M6, Nyrissa's Garden** *(GM-confirmed)* — where the Elite Mu Spore sleeps in the
+ceiling. He is there now, healing at 20/round. **Danny's intent: he hunts the party down again.** He
+picks the time and the room; they don't.
+
+---
+
+## ⚔️ Session 108 — The Ambush in the Great Hall *(planned with the GM — RUN THIS)*
+
+> [!important] The rematch is **108**, not later. He interrupts the wyvern fight.
+> The party is already in initiative in **L1** against two [[Barbtongued Wyverns]]. **He drops from the
+> vaulted ceiling onto [[Pavel]]** while the rest of the party is pinned by Nyrissa's pets — and he is
+> here for **[[Briar|Briara]]**.
+>
+> This solves both halves of the 107 problem at once: **the wyverns are his second front** (so he needs
+> no swarm shards), and **he is not standing in an empty room waiting to be shot.**
+
+**He is at full HP.** He fled at ≤50 with fast healing 20 and the party then rested ten minutes —
+that's ~100 rounds of regeneration. He is whole, unhurt, and he has had time to think.
+
+### Opening beat
+
+> The tables erupt — two long shapes come out from beneath them on membrane wings, barbed tongues
+> already lashing — and seven carved women watch it happen with swords in their stone hands.
+>
+> And then the ceiling moves.
+>
+> Something that has been folded up against the vaulting since before you opened the door comes apart
+> and falls. Not a body — a column of them, thousands of them, pouring down through forty feet of air
+> and re-knitting itself on the way. It lands behind Pavel. It is whole. It is unhurt. It has been
+> waiting.
+>
+> *"That,"* it says pleasantly, *"is not yours."*
+
+> [!note] That last line is the first true thing he has ever told them
+> **Briar *is* [[Nyrissa]]'s** — her stolen capacity to love. He is not lying, and the party has no way
+> to know that. Let it sit.
+
+### Engulf the Blade — the objective *(3-stage track, not a single roll)*
+
+He takes the sword **the same way he took the locket**: he swallows it. The party watched that happen
+four rounds ago, so the stakes need **no explanation from the GM** — they will understand instantly.
+
+**Why a track and not a Disarm:** he has **no Athletics** on his skill list, and a single contested roll
+either fizzles for rounds (the 107 failure mode) or takes the sword on one unlucky die (arbitrary).
+Use **Acrobatics +39** — a swarm doesn't *wrench* a blade away, it flows around it and slips it out.
+
+| Stage | What the table sees |
+|---|---|
+| **1 — Grip** | Worms sheet up Pavel's forearms and over the crossguard. Briara's voice goes wrong. |
+| **2 — Sheathed** | The blade is inside him to the hilt. Pavel is gripping a hilt attached to a body of worms. |
+| **3 — Swallowed** | Gone — exactly like [[Lyriel's Stolen Jewelry|the locket]]. |
+
+- **He needs three successes**, one stage per attempt.
+- **The party can push it back a stage with area or splash damage** — the swarm spasms and loses its
+  hold. *This is the session's best design beat:* the weakness they discovered in 107 is now **the
+  mechanism for saving the sword**, not just a damage bonus. It spotlights [[Milo]], and it gives
+  everyone tangled with a wyvern a concrete reason to break off.
+- **Hard cap ~4 rounds.** If he hasn't got it, he abandons the attempt and changes tactics. Do not let
+  the mini-game become the new slog.
+
+> [!warning] He cannot destroy Briar — and this is a usable constraint
+> He has ***disjunction***, but [[Nyrissa]] needs the sword **intact**; it holds her soul. He must
+> **take** it, never break it. If the party works this out, it is real tactical information: the one
+> thing he will not risk is the blade itself.
+
+### Reform the Throat — his answer to *Silence*
+
+> **Reform the Throat** ⬍ (1 action) — He shifts the worms that make his voice into a different part of
+> the mass. **Ends a *silence* effect on him.**
+
+[[Pavel]] silencing him in 107 was a genuinely clever play and **it should keep working** — it just
+shouldn't be a win button. This costs him **a third of a turn**, every time, forever. Same principle as
+the rest of the redesign: **control tools cost him a turn; they don't switch him off.**
+
+Sell it in character the first time: ***"You did that to me once."*** He *learned.* That reads as an
+intelligent enemy rather than GM fiat, and it tells the table their 107 play mattered enough to change
+the boss.
+
+**Note his win condition is physical**, so *Silence* was never going to stall this fight the way it
+stalled the last one. That is the point.
+
+### No third escape
+
+**The contingency is spent and he does not re-prepare it.** He still has ***dimension door*** — but he
+uses it to **leave *with* the sword**, not to survive. **This is the fight where he dies or he wins.**
+
+### If he wins — how the party knows where he went
+
+The bad version is a search. Use the two answers that are already built in:
+
+1. **[[Briar|Briara]] screams, and does not stop.** She has dreaded exactly this since
+   [[Session 103 - The Shape of Where I Used to Be|103]] — being carried back to the queen she was torn
+   out of — and she gets **louder** the nearer she is to Nyrissa (*"I can feel the shape of where I used
+   to be"*). **The thing he stole is the thing that gives him away.** He knows it, which is why he can't
+   lurk: he has to run straight to M7c. [[Pavel]] hears her best.
+2. **He gloats the destination**, because he cannot help himself:
+   > *"She'll want to see this. You know where she is — you've been standing on the door all night."*
+
+   That finally pays off the **M7c / throne-portal** information the party never managed to squeeze out
+   of him. A loss becomes **a chase with a countdown**, not a wall.
+
+### Difficulty check — go in with your eyes open
+
+- **Encounter budget:** Creature 21 at PL+3 (**120 XP**) + 2× Creature 18 at PL+0 (**80 XP**) =
+  **200 XP**. For six players, Severe is 180 and Extreme is 240. **This is a hard Severe pushing
+  Extreme.**
+- **⚠️ They have not had a long rest.** Ten minutes restores focus points and Treat Wounds — **not spell
+  slots.** [[Lucas]] spent a 6th-level *Heal*, a 6th-level *Divine Wrath*, *Void Warp*, and a sustained
+  *telekinetic storm* in 107. [[Pavel]] burned his *Silence* scroll. [[Milo]] spent a fireball bead and
+  junk bombs. **This is a low-Extreme fight against depleted casters.**
+- **Keep a dial ready:** one wyvern disengages, or arrives a round late, or breaks off to guard the door.
+
+### Keep in your pocket: the recognition beat
+
+The demon-and-the-worm merge is on hold **because 107 was a slog** — but if *this* fight lands, the
+option is live again in this very session. **It costs one line on the way down**, and commits to
+nothing: his eyes catch on **[[Feywind]]** in [[Riven]]'s hands mid-fall. *"Where did you get that
+bow?"* Say it or don't. See [[The Demon's Legacy]].
+
+*(Honest caveat: this configuration puts him on **Pavel** and Riven on wyvern duty, so the recognition
+beat is **less** available than it would be in a straight duel. The one-line version on the drop is the
+only cheap way to keep the door open.)*
+
+---
+
+## 🔴 The Rematch — the design reasoning *(why the above looks like it does)*
+
+> [!failure] The GM's verdict on 107: **it was a slog**
+> *"He had a lot of hit points and with his resistances, he was hard for the team to make progress
+> against. The Wriggling Man was doing well against them for a while, but then when he was silenced and
+> behind a wall, he couldn't do much against them either."*
+>
+> **This matters beyond the encounter.** Danny declined to canonize the demon-and-the-worm merge in 107
+> *specifically because* the fight was tedious — he won't hang [[Riven]]'s origin wound on an enemy the
+> table found boring. **Fixing this fight is the prerequisite for the biggest story beat still on the
+> table.** See [[The Demon's Legacy]].
+
+### The diagnosis — two failures, one root cause
+
+Both halves of the complaint come from the same thing: **he is one body with one enormous HP bar and
+binary counters.** There is no middle setting.
+
+| What went wrong | Why |
+|---|---|
+| **The party couldn't make progress** | **HP 325 (or 420 with Boss Mod #7)** + **physical resistance 20** + **precision immunity** + **fast healing 20**. [[Riven]] (archer), [[Pavel]] (sneak attack), and [[Lee]] (precise strike) — **three of six PCs** — had their primary damage gutted, and whatever survived got 20 shaved off. Damage went in; nothing visible came out. |
+| **He couldn't do anything either** | He is a **caster with no plan B.** [[Pavel]]'s *Silence* turned off his whole kit, and once [[Lucas]]'s wall of force took line of effect he had nothing left but tendril slaps. He went from terrifying to furniture in one round, with no middle state. |
+| **And he stayed boxed** | This one is on the monster, not the party. A Creature 21 archmage with ***dimension door*** prepared and a *fly* speed **does not stand behind a 20-foot wall waiting to be shot at.** He should have relocated immediately and punished the man who spent the wand. |
+
+> [!warning] Do NOT use Boss Mod #7 (the HP bump to ~420)
+> That mod was written before this fight and the slog is its refutation. **The fix for a solo boss is
+> more *fronts*, not more *HP*** — which [[#2. Split Their Focus — the **throne** is the objective (the real equalizer)|Boss Mod #2]] already said. If anything, **cut** his HP.
+
+### Fix 1 — Stop tracking one HP bar. Track **volume**.
+
+He is a swarm; he shouldn't have hit points, he should have **mass**. Split the bar into **four coils**
+and make each one a permanent, visible, narrated loss. Same total, completely different feel — every
+~75 damage now produces an **event** the table can see.
+
+| Threshold | What bursts | What he permanently loses |
+|---|---|---|
+| **300 → 225** | A coil sloughs off and dies on the floor | **Mobility** — no more *fly*, no more *reverse gravity*. He is grounded. |
+| **225 → 150** | Second coil | **His top spell rank** — no *time stop*, no *disjunction*, no *reverse gravity* |
+| **150 → 75** | Third coil | **Effortless Concentration** — he can no longer sustain. Every zone he has up **drops.** |
+| **75 → 0** | The last of him | Dead |
+
+Implementation is trivial: keep one bar, mark 225 / 150 / 75, narrate the burst. He should **react** each
+time — the courteous register cracking a little further. *That* is a boss fight: the party watching a
+proud thing come apart in stages.
+
+### Fix 2 — Cut the numbers that made hits feel like nothing
+
+- **Physical resistance 20 → 10** (or drop it). This is the single biggest quality-of-life change for
+  [[Riven]], who spent the night missing and then getting shaved.
+- **Precision immunity → let [[Briar|Briara]] through it.** Either soften to *precision resistance 10*,
+  or keep the immunity and rule that **Briara's vorpal-vs-First-World clause bypasses it** —
+  established in play in 107 (DC 37 Fort). Three of six players losing their signature move for two
+  sessions is the actual cost here. Give **Pavel** his moment back, and it is thematically earned:
+  Briara was forged to kill exactly this.
+- **Fast healing 20 → only if he took no damage since his last turn.** Fast healing on a high-HP boss is
+  salt in the wound. This version **rewards sustained pressure** instead of punishing insufficient burst.
+
+He still takes ~3 rounds to kill. The difference is that the party **watches it happen.**
+
+### Fix 3 — Give him a body, so *Silence* costs him instead of ending him
+
+*Silence* was a great play and it should keep working — it should just not switch him off. Two
+no-spell abilities, usable while silenced, walled, grappled, or immobilized:
+
+- **Devouring Tide** ⬍⬍ (2 actions, area) — he floods his own square and every adjacent one with worms:
+  **basic Reflex vs. DC 44**, extra damage to anyone sharing his space. This is his *"my mouth is shut
+  and I am still the worst thing in the room"* button.
+- **Wear the Wounded** ⬍ (1 action) — he pours into an adjacent creature's space and stays there. While
+  he does, **an attack against him that misses by 4 or more hits the host instead.** This already
+  happened by accident against [[Astor]] in 107 — formalize it so it reads as a *threat* the party has to
+  solve, not a rules argument they have to have.
+
+**And he never lets himself be boxed.** Wall him, and he *dimension door*s out on his next action and
+reappears behind the softest target. The party's control tools should **cost him a turn** — a real,
+satisfying win — rather than **turn him off**.
+
+### Fix 4 — Give the fight an objective that isn't his HP bar *(the big one)*
+
+He is hunting them, so he should **want something.** The strongest option is already loaded and costs
+nothing to set up:
+
+> [!important] **He comes for [[Briar|Briara]].**
+> - [[The Horned Hunter]]'s standing mission was to **steal Briar for [[Nyrissa]]** — and he is **dead**
+>   (Session 100), leaving the Wriggling Man as her remaining senior agent.
+> - Briara is **the one object foretold to kill Nyrissa.** Getting her back is worth more to the Queen
+>   than six corpses.
+> - He has ***disjunction***, ***baleful polymorph***, ***feeblemind***, and swarm-body Steal tricks —
+>   and the party has **just watched him swallow a locket into his own chest.** They know exactly what
+>   happens to things he takes. **He would eat the sword.**
+>
+> **This makes it a fight the party can lose without dying** — which is inherently more exciting than an
+> HP race. It puts [[Pavel]] at the center, it forces everyone to reposition around one carried object,
+> and it means an escape on his terms is a **disaster** instead of an anticlimax. And the symmetry is
+> free: *he took the piece Riven loved; now he reaches for the thing Pavel carries.*
+
+Weaker but valid alternatives if the sword feels too risky: he is trying to **reach and seal the throne
+portal**, or to **drag one PC back to Nyrissa alive.** Anything with a win condition that isn't zero HP.
+
+### Fix 5 — Where he ambushes them
+
+**Never a clean 1v6 in an empty room again.** In descending order of how much it fixes:
+
+1. **He interrupts another fight.** The party is already committed and already spending resources when he
+   walks in. This is the cheapest and most effective fix for solo-boss action economy — and it is exactly
+   what a hunter does.
+2. **He brings the room with him.** Fight him somewhere already hostile: **M6** with the Elite Mu Spore
+   overhead, **K13** with the live Eldritch Echoes hazard, the flooded tunnel, or — best of all — the
+   **K2 courtyard he tried to send them to**, where the **Elite Sard** is still waiting. He told them to
+   go there. Let him be telling the truth for once.
+3. **He does not stand and fight.** Hit, hurt, withdraw, reappear. A running fight across two or three
+   rooms beats one static box.
+
+### What he opens with
+
+The entire *"her location, in pieces, for concessions he won't honour"* half of the Trophy design is
+**still unspent** — he never bargained in 107. He has had time alone to think, he knows what they want,
+and he now knows **exactly which of them will bite.** Open the rematch with him already talking.
+
+> [!tip] One more unspent lever
+> In 106 the party's first read was that the worm creature **was Lyriel's remains.** He was frightened
+> and grappled at the time and never got to play with it. He is a deceiver with all-around vision and a
+> read on the room. **He should let that misunderstanding back into the air.** It costs him nothing and
+> it is the cruellest thing available to him.
+
+---
 
 ## Stats
 
@@ -211,6 +542,12 @@ him shooting something else. Reward him for staying a soldier. Don't punish him 
 honest reason to spare him — no leverage, no innocent downrange, no Shame to reach for. This is the purest
 possible statement of the House's counter-lesson: *some enemies you simply kill.* He fights to the death
 (contingency *dimension door* to M6 at ≤50 HP, then returns to finish it).
+
+> [!warning] Amended in 107 — the contingency is **spent**, and he did not come back that night
+> He fired it and **left the field.** He has one escape and he has used it, which means the rematch is
+> **the last round of this fight** — he cannot blink out again. Say that to yourself before running it;
+> it changes how hard he can afford to push, and it means *some enemies you simply kill* finally gets
+> to be true.
 
 **What the party leaves with:** the trophy, and the knowledge that the rescue and the Queen are now the
 **same room.** That is the structural change — [[Lyriel]]'s rescue no longer happens *before* the Nyrissa

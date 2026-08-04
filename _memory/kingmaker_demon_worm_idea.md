@@ -1,6 +1,6 @@
 ---
 name: kingmaker-demon-worm-idea
-description: "URGENT as of Session 106 (2026-07-27) — decide now or lose it: is The Wriggling Man the demon that killed Riven's parents? The party is mid-fight with him; seeds in 'The Demon and the Worm Ideas' canvas"
+description: "STILL LIVE as of Session 107 (2026-08-03) — the Wriggling Man ESCAPED the throne-room fight, so the window to canonize him as the demon that killed Riven's parents reopened; a rematch is owed. Seeds in 'The Demon and the Worm Ideas' canvas"
 metadata: 
   node_type: memory
   type: project
@@ -19,10 +19,42 @@ The GM is considering making [[The Wriggling Man]] and the demon that killed Riv
 
 **Open question the GM should answer before canonizing:** does the Wriggling Man *remember* killing them (a confrontation Riven can win) or not (the horror of the footnote)?
 
-> [!danger] **The deadline arrived. Session 106 (2026-07-27) — the party is mid-fight with him NOW.**
-> The K17 throne-room encounter is **live and unresolved**; Session 107 resumes in initiative. If the merge
-> is going to be canon, the recognition beat has to fire **in this fight or never** — once he's dead the
-> option is gone for good. **Raise this with the GM before 107 is prepped.**
+> [!important] **GM ruling (2026-08-04): still undecided, and he told us why.**
+> Danny **deliberately did not pull the trigger in 107.** His reason is the important part, and it is a
+> design condition, not a story doubt:
+>
+> > *"The battle with the Wriggling Man was a bit of a slog — not too exciting for the table — so it
+> > didn't feel like a good opportunity to make him into that important a character."*
+>
+> **So the merge is gated on the fight, not on the fiction.** He will not hang Riven's origin wound on
+> an enemy the table found tedious. The decision therefore runs in this order:
+> 1. **Make the rematch genuinely exciting** (see the redesign work in [[The Wriggling Man]]);
+> 2. **Then** decide whether this is the creature that killed [[Aelir and Lytha]].
+>
+> Do not push for the merge again until the rematch has landed. If the rematch is *also* a slog, the
+> honest answer is **no** — and the seeds should be re-homed onto some other enemy, or the demon should
+> stay unidentified.
+
+> [!success] **The deadline came and went — and the window REOPENED. Session 107 (2026-08-03).**
+> The recognition beat **did not fire** in the throne-room fight. But **he didn't die either** — at the
+> end of 107 [[Lucas]]'s 6th-level *divine wrath* tripped his **contingency** and he **translocated out
+> of the fight alive**, still wearing Lyriel's locket, healing at 20/round somewhere in the House (M6 by
+> his statblock). **A rematch is owed and the option is intact.**
+>
+> **This is arguably better than the original plan.** A second meeting is a *stronger* place for the
+> reveal than the first: the party now knows him, has heard him talk, has seen him keep a trophy, and has
+> been personally humiliated by him walking away. Riven has had time to sit with the man who wears his
+> love's jewelry. **If the merge is canon, the recognition beat lands harder in the rematch than it ever
+> would have in the ambush.**
+>
+> **His one escape is spent** (contingency used) — so the rematch really is the last round of this fight.
+> **That** is now the deadline. Raise it with the GM before 108 or 109 is prepped.
+>
+> **New material from 107 that feeds the merge:** he finally spoke, and his line was ***"Narissa was
+> right to bring you here. I can't wait until you meet her."*** He is chatty, gloating, and enjoys being
+> looked at — which is exactly the register in which *"Where did you get that bow?"* can be answered. He
+> also tried to send the party back to the **courtyard** with a *Suggestion*, so he is willing to spend
+> words on manipulation rather than damage.
 
 **What Session 106 changed:** Danny ruled that **[[Lyriel]] is not in the throne room** — she's held with
 [[Nyrissa]] in M7c — and that the Wriggling Man **wears a piece of Lyriel's jewelry as a trophy**, which

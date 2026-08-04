@@ -14,6 +14,7 @@ related:
   - "[[Armag Reborn]]"
   - "[[Astor]]"
   - "[[Avennara]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
   - "[[Bird]]"
   - "[[Briar]]"
@@ -97,6 +98,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
   - "[[Stolen Lands]]"
   - "[[Talia]]"
@@ -121,7 +124,7 @@ player: Wes
 class: Ranger (Eldritch Archer dedication)
 race: Elf (Ancient Elf heritage, Druid dedication)
 background: Field Medic
-level: 17
+level: 18
 status: active
 created: 2026-05-29
 ---
@@ -131,7 +134,7 @@ created: 2026-05-29
 > **Player**: Wes
 > **Class / Race**: Elf (Ancient Elf heritage) — Ranger / Eldritch Archer dedication / Druid dedication
 > **Background**: Field Medic
-> **Level**: 17
+> **Level**: 18
 > **Kingdom Role**: Ruler of [[Freehaven]] (senior-most leader)
 ![[riven.png]]
 ## Description
@@ -258,7 +261,7 @@ The backstory explicitly states this: *"true redemption lies not in great deeds,
 
 ## Current Status
 
-**Level**: 17
+**Level**: 18
 **Notable equipment**: [[Feywind]] (father's longbow), [[Lyriels Amulet|Lyriel's Amulet]], [[Brumble]] (bear companion)
-**Conditions / ongoing effects**: **In combat** — Throne Room (K17), [[House at the Edge of Time]], vs. [[The Wriggling Man]]; resumes in initiative in 107
-**Live for him right now**: the worm wears [[Lyriel's Stolen Jewelry|a piece of Lyriel's jewelry]] as a trophy and she is **not** in the room — she's held with [[Nyrissa]] in M7c, through the throne he's defending
+**Conditions / ongoing effects**: **In combat** — Great Hall (L1), [[House at the Edge of Time]], vs. two [[Barbtongued Wyverns]]; resumes in initiative in 108
+**Live for him right now**: [[The Wriggling Man]] **escaped** with [[Lyriel's Stolen Jewelry|Lyriel's locket]] still inside him — Riven fought all night for it and came away with nothing. [[Lyriel]] is held with [[Nyrissa]] in M7c, through a throne the party never reached. And the worm claims the Queen *brought them here*.

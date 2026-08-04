@@ -7,6 +7,7 @@ tags:
 sources: []
 related:
   - "[[Ankou Assassins]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Candlemere Island]]"
   - "[[Milo]]"
   - "[[Oaktop]]"
@@ -21,6 +22,7 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 108 - That Is Not Yours]]"
 aliases: ["Rindle"]
 status: alive
 role: "Milo's mechanical construct; Inventor class feature; named after Milo's lost brother"

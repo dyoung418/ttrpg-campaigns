@@ -8,10 +8,12 @@ sources:
 related:
   - "[[Amiri]]"
   - "[[Ankou Assassins]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
   - "[[Brass Telescope]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
+  - "[[Erastil]]"
   - "[[Eri Malai]]"
   - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
@@ -55,6 +57,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Stag Lord's Helm]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
@@ -69,7 +73,7 @@ player: Slava
 class: Guardian (formerly Barbarian)
 race: Human
 background: Brevic Noble
-level: 17
+level: 18
 status: active
 created: 2026-05-29
 ---
@@ -80,7 +84,7 @@ created: 2026-05-29
 > **Class / Race**: Human — Guardian (formerly Barbarian)
 > **Background**: Brevic Noble
 > **Deity**: Erastil
-> **Level**: 17
+> **Level**: 18
 > **Kingdom Role**: Counselor of [[Freehaven]]
 ![[astor medvyed.webp]]
 ![[Astor2 full.png]]
@@ -128,7 +132,11 @@ The current arc is about what it means to fight for something rather than just t
 
 ## Magic Item Wish List
 
--
+> [!note] Proposed by prep (2026-08-04), **not player-stated** — Slava has never given a list. Overwrite the moment he does.
+
+- **A better shield** *(top pick)* — he was shield-blocking with **Hardness 10** gear in [[Session 107 - I Cant Wait Until You Meet Her|Session 107]], which is thin at 18th level. A supreme sturdy shield or an *indestructible shield* rewards the Guardian's entire core loop and fixes an observed weakness.
+- **A Strength apex item** — **shove was the one thing that reliably worked** on [[The Wriggling Man]] when grapple didn't. Make his signature move stick.
+- **Something of [[Erastil]]'s** — a holy rune or a relic of community and protection. His faith is his defining trait and has **never been mechanically acknowledged** in 100+ sessions.
 
 ## Notable Moments
 
@@ -160,6 +168,6 @@ The current arc is about what it means to fight for something rather than just t
 
 ## Current Status
 
-**Level**: 17
+**Level**: 18
 **Notable equipment**: [[Stag Lord's Helm]] — taken from the Stag Lord at the campaign's beginning; magical stag horn helmet; worn every day since
 **Conditions / ongoing effects**:

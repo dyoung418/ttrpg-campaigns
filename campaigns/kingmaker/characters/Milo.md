@@ -7,6 +7,7 @@ sources: []
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
+  - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
   - "[[Briar]]"
   - "[[Candlemere Island]]"
@@ -36,6 +37,8 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Wriggling Man]]"
 aliases: ["Milo Tinkerfoot"]
@@ -43,7 +46,7 @@ player: "Billy"
 class: "Inventor"
 race: "Halfling (Gutsy Halfling heritage)"
 background: "Junk Collector"
-level: 17
+level: 18
 status: active
 created: "2026-05-29"
 ---
@@ -53,7 +56,7 @@ created: "2026-05-29"
 > **Player**: Billy
 > **Class / Race**: Halfling (Gutsy Halfling heritage) — Inventor
 > **Background**: Junk Collector
-> **Level**: 17
+> **Level**: 18
 > **Kingdom Role**: Treasurer of [[Freehaven]]
 ![[milo.png]]![[milo2.png]]
 Milo's halfling heritage is evident in his physical features. He has warm, tan skin, giving him a healthy and outdoorsy complexion. His hair is a deep chestnut brown. Milo's most captivating feature is undoubtedly his bright, inquisitive eyes. They are a vibrant shade of emerald green, sparkling with curiosity and intelligence.
@@ -107,7 +110,13 @@ Milo Tinkerfoot's belief system revolves around the pursuit of justice, the prot
 
 ## Magic Item Wish List
 
-> [!todo] Needs content
+> [!note] Proposed by prep (2026-08-04), **not player-stated** — Billy has never given a list. Overwrite the moment he does.
+
+- **An upgrade for [[Rindle (Construct)|Rindle]]** *(top pick)* — plating, a better weapon, or a rune. The construct carries his dead brother's name; **anything that makes Rindle harder to break lands twice.**
+- **Splash / bomb gear** — a bandolier, or an item that boosts splash damage. Splash is now the party's known answer to [[The Wriggling Man]], and Milo is the splash guy — he threw the Necklace of Fireballs and the junk bombs in 107.
+- **A legacy piece from [[Gelbin Steambender]] or his father's workshop** — his parents' inventions killed them. An heirloom device that actually *works* would close that loop.
+
+
 
 ## Notable Moments
 
@@ -115,6 +124,6 @@ Milo Tinkerfoot's belief system revolves around the pursuit of justice, the prot
 
 ## Current Status
 
-**Level**: 17
+**Level**: 18
 **Notable equipment**:
 **Conditions / ongoing effects**:
