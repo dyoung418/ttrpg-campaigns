@@ -8,7 +8,6 @@
       "Bash(python3 _scripts/vault-rebuild-index.py)",
       "Bash(python3 _scripts/vault-set-tags.py:*)",
       "Bash(python3 _scripts/vault-add-source.py:*)",
-      "Bash(python3 -)",
       "Bash(cd *)",
       "Bash(obsidian open *)",
       "Bash(git status:*)",
