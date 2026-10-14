@@ -9,6 +9,7 @@ sources:
   - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Amulet of the Fey Ward]]"
   - "[[Ankou Assassins]]"
@@ -19,11 +20,11 @@ related:
   - "[[Briar]]"
   - "[[Candlemere Island]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
+  - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
   - "[[Great Aunt Sumi]]"
   - "[[Ilthuliak]]"
   - "[[Kingmaker Campaign Summary]]"
-  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lee]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
@@ -44,13 +45,15 @@ related:
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
+  - "[[Stolen Lands]]"
   - "[[Tarlaxian]]"
+  - "[[The Horned Hunter]]"
   - "[[The Knurly Witch]]"
   - "[[The Oaktop Ankou]]"
   - "[[The Rimebridge]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
-status: hostile
+status: accessible
 created: "2026-05-29"
 ---
 
@@ -76,7 +79,16 @@ created: "2026-05-29"
 
 **Raised Alarms**: Occupants are already on high alert. If an alarm is raised: +2 circumstance bonus on initiative checks for all House denizens for 24 hours.
 
-## Party Progress *(as of [[Session 107 - I Cant Wait Until You Meet Her|Session 107]])*
+## Party Progress *(final — [[Session 108 - That Is Not Yours|Session 108]])*
+
+> [!success] The party reached M7c, and the campaign ended there
+> **L1 Great Hall cleared**: both [[Barbtongued Wyverns]] and [[The Wriggling Man]] dead. [[Astor]] then
+> remembered something odd **behind the throne in K17**. The party went back and passed through it one by
+> one ([[Pavel]] first, then [[Riven]] and Astor), arriving in a small outdoor garden courtyard, more
+> First World than anything else in the House, with [[Nyrissa]] and [[Lyriel]]. The negotiation there
+> ended the campaign: Briara returned, Lyriel freed, Nyrissa at peace with [[Freehaven]].
+>
+> The table below is the state **as of 107**, plus the 108 rows.
 
 > [!important] The party skipped the courtyard
 > After clearing the gate in [[Session 105 - The Thing That Cannot Be Forgiven|105]], the party **looked at
@@ -100,15 +112,14 @@ created: "2026-05-29"
 | **K7 Observatory** | ✅ **looted** | **[[Brass Telescope]]** taken (~3,500 gp) — shows real Material Plane stars with **no window in the room.** |
 | **K17 Throne Room** | ⚠️ **fight over — the boss escaped** | Fireball ambush → illusion behind the throne → **Reverse Gravity** → **[[The Wriggling Man]]** revealed as a humanoid mass of worms wearing **[[Lyriel's Stolen Jewelry]]**. Fought across 106 and all of 107; he **fired his contingency and translocated away** (statblock says to **M6**) rather than dying. **The throne was never contested and the M7c portal was never opened.** |
 | **Second-floor walkway (L7 area)** | ✅ **used as a rest site** | Party regrouped here after the boss vanished, roped off the drop, rested 10 minutes, and listened at the doors — [[Riven]] heard something in one of the rooms. |
-| **L1 Great Hall** | 🔴 **combat live** | Entered at the end of [[Session 107 - I Cant Wait Until You Meet Her|107]]. **2× [[Barbtongued Wyverns]]** were hidden under the long tables and flew out the moment they were seen. **108 resumes in initiative.** |
+| **K17 Throne → M7c** | ✅ **portal used** | [[Session 108 - That Is Not Yours|Session 108]]: the throne was the door. Party arrived in a garden courtyard with [[Nyrissa]] and [[Lyriel]]. **The campaign ended here.** |
+| **L1 Great Hall** | ✅ **cleared ([[Session 108 - That Is Not Yours|Session 108]])** — was *combat live* | Entered at the end of [[Session 107 - I Cant Wait Until You Meet Her|107]]. **2× [[Barbtongued Wyverns]]** were hidden under the long tables and flew out the moment they were seen. Both killed in 108, along with [[The Wriggling Man]]. |
 
 **Not yet touched:** K5, K8, K9, K10, K12, K15 (12 more [[Ghostly Guards]]), K16, K18, K19, K20, the
 rest of Level 2 (L3, L8), and all of Level 3.
 
-> [!important] The party is on **Level 2** now — and the boss is loose behind them
-> [[The Wriggling Man]] is **alive, at large, and healing** somewhere in the House (M6 by his
-> statblock). Anything the party does from here happens with an intelligent, mobile, furious
-> arch-deceiver deciding when to reappear. **He knows the whole floor plan and they don't.**
+> [!note] *(Superseded by [[Session 108 - That Is Not Yours|Session 108]])* The party was on **Level 2** with the boss loose behind them
+> [[The Wriggling Man]] was **alive, at large, and healing** after 107 (M6 by his statblock). He rejoined the wyvern fight in L1 in 108 and died there.
 
 ### The House's temporal distortion — as the party experienced it
 
@@ -145,7 +156,7 @@ floated that time here may run backward or in loops. **Nobody has worked out whe
 | K14. Hall of Weeping Demons | ⚠️ **ENTERED (105), PRIZE MISSED.** Healing pool (3 uses, 150 HP + 6th-level restoration), unlocked by finding the laughing demon statue among the weeping ones. **The party found the laughing statue and deliberately did not touch it**, reading it as a trap trigger — so **the pool is still unclaimed.** Room recharges on House reset. |
 | K15. Servants' Wing | 12× [[Ghostly Guards]] spread across rooms. Knurly Witch joins if she's here (retreated to K16). |
 | K16. Cellar | [[The Knurly Witch]]'s bolt-hole. Fights to death if cornered here after retreating. |
-| K17. Throne Room | ⚠️ **FOUGHT (106–107) — [[The Wriggling Man]] (CR 21) ESCAPED.** He fired his **contingency** *dimension door* (≤50 HP → M6) at the end of 107 and left the field alive and healing. **The throne itself was never contested; the M7c portal is still unopened.** [[Lyriel]] is **NOT here** (ruled in 106); he wears [[Lyriel's Stolen Jewelry\|a piece of her jewelry]] as a trophy — **and it cannot be stolen off him: it sinks into his chest and the worms close over it.** **Run the "Trophy" redesign** — he is the *doorkeeper*: the throne is the portal to M7c where Lyriel and Nyrissa are, so **denying the throne** is his whole fight. See [[The Wriggling Man]]; it supersedes both the vanilla angel ruse *and* the retired "Two Lyriels" design. Fable portal → M7c (activating thought: "holding court before a crowd of thousands"). |
+| K17. Throne Room | ✅ **DONE — portal used in [[Session 108 - That Is Not Yours|Session 108]].** The party passed through the throne to M7c and ended the campaign there. *Pre-108 state:* **FOUGHT (106–107) — [[The Wriggling Man]] (CR 21) ESCAPED.** He fired his **contingency** *dimension door* (≤50 HP → M6) at the end of 107 and left the field alive and healing. **The throne itself was never contested; the M7c portal is still unopened.** [[Lyriel]] is **NOT here** (ruled in 106); he wears [[Lyriel's Stolen Jewelry\|a piece of her jewelry]] as a trophy — **and it cannot be stolen off him: it sinks into his chest and the worms close over it.** **Run the "Trophy" redesign** — he is the *doorkeeper*: the throne is the portal to M7c where Lyriel and Nyrissa are, so **denying the throne** is his whole fight. See [[The Wriggling Man]]; it supersedes both the vanilla angel ruse *and* the retired "Two Lyriels" design. Fable portal → M7c (activating thought: "holding court before a crowd of thousands"). |
 | K18. Dressing Chamber | Noble outfits, courtiers' outfits. Platinum signet ring (1,500 gp) in one pocket (DC 30 Perception). |
 | K19. Ruined Washroom | 3× Elite Bythos Aeons (CR 17) — trapped since the House was built. Can't leave room. Reset with House. Freed only if Nyrissa is killed or forgiven. |
 | K20. Dripping Clock | Pludock (CR 1, water mephit) tends a water clock. Chatty and helpful if befriended. Knows K14 healing pool and K6 bear trap. Will reveal the Fable location if pushed, then Nyrissa kills him remotely. |
@@ -203,7 +214,7 @@ lone Creature 20 doesn't get dogpiled by six level-17 PCs. Full context: [[Sessi
 
 | Area | Contents |
 |------|----------|
-| L1. Great Hall | 🔴 **COMBAT LIVE (107).** 2× [[Barbtongued Wyverns]] (CR 18) — [[Nyrissa]]'s pets. Fight to death; **no Shame, so Forgive Foe fails.** The party entered at the end of 107; the wyverns were **hiding under the long tables** and flew out on sight. **108 resumes in initiative.** *Room as described at the table:* vaulted ceiling, supports carved as **serpentine dragons**, **seven statues of a beautiful woman** with a sword or in aggressive poses (**they are Nyrissa — nobody has recognized her yet**), two long tables and benches around a **large marble serpent-dragon**. |
+| L1. Great Hall | ✅ **CLEARED ([[Session 108 - That Is Not Yours|Session 108]]).** Both wyverns and [[The Wriggling Man]] killed here. *Pre-108 state:* **COMBAT LIVE (107).** 2× [[Barbtongued Wyverns]] (CR 18) — [[Nyrissa]]'s pets. Fight to death; **no Shame, so Forgive Foe fails.** The party entered at the end of 107; the wyverns were **hiding under the long tables** and flew out on sight. *Room as described at the table:* vaulted ceiling, supports carved as **serpentine dragons**, **seven statues of a beautiful woman** with a sword or in aggressive poses (**they are Nyrissa — nobody has recognized her yet**), two long tables and benches around a **large marble serpent-dragon**. |
 | L2. Stairwell | Leads to Level 3 (M3). |
 | L3. Guest Rooms | Four large rooms, unused. Temporal echoes of the PCs themselves may appear here. |
 | L4. Stairwell | Leads to Level 3 (M1). |
@@ -217,7 +228,7 @@ lone Creature 20 doesn't get dogpiled by six level-17 PCs. Full context: [[Sessi
 | M1. Attic | 4× Banshees (CR 17) — Calistria priestesses who died of old age here. Can't leave room. |
 | M2. Ivy Tower | Elite Sard (CR 20) on rooftop. Moves to K2 if the lesser jabberwock was already slain. |
 | M3. Ruined Halls | [[Phomandala]] (CR 19, medusa sorcerer) + 2× Whimwyrms (CR 17). Doesn't attack immediately; quizzes PCs on law vs. chaos. |
-| M4. Nyrissa's Library | Research notes about the Fable portals (DC 30 Nature or DC 40 others, 1 hour). Library worth 14,000 gp; +3 item bonus on Recall Knowledge for First World, Stolen Lands, or magic theory topics. |
+| M4. Nyrissa's Library | Research notes about the Fable portals (DC 30 Nature or DC 40 others, 1 hour). Library worth 14,000 gp; +3 item bonus on Recall Knowledge for First World, [[Stolen Lands]], or magic theory topics. |
 | M5. Abandoned Treasury | Most looted by the Eldest. Remaining: miniature jade castle (6,000 gp), 999 pp, gold decanter (8,000 gp), greater storm flash, scroll of 8th-level dragon form, greater hat of the magi. |
 | M6. Nyrissa's Garden | Elite Mu Spore (CR 21) — sleeping in the ceiling, fills upper half of 40-ft room. Pool in the floor is a Fable portal → M7a. |
 | M7. The Fables | Extreme 19. Four nested demiplanes. See below. **Nyrissa** (CR 23) is here (usually M7c). |
@@ -235,7 +246,7 @@ Four extradimensional pockets within the House. Each is a 100-ft sphere. To ente
 
 **M7c** is Nyrissa's command center: she can observe every room in the House simultaneously (clairvoyance/clairaudience) and can kill any of her allies she observes with a single Envision action. She watches all PC progress from here.
 
-> [!important] M7c now holds **[[Lyriel]]** *(ruled in [[Session 106 - The Thing He Wears|Session 106]])*
+> [!important] M7c held **[[Lyriel]]** *(ruled in [[Session 106 - The Thing He Wears|Session 106]]; played out and resolved in [[Session 108 - That Is Not Yours|Session 108]] — she was freed there)*
 > Lyriel was moved out of the throne room and is held **here, with [[Nyrissa]] herself** — the Queen keeps
 > her captive audience in the one room she never leaves. **This makes M7c the finale**: the rescue and the
 > choice about Nyrissa are now a single scene rather than two, and the party reaches it *through the throne
@@ -254,7 +265,7 @@ Four extradimensional pockets within the House. Each is a 100-ft sphere. To ente
 
 ## Approaching the House
 
-Before entering: Tarlaxian, an elite tarn linnorm (CR 21), guards the lake and bridge. Won't pursue into the House, but blocks the bridge to prevent retreat.
+Before entering: [[Tarlaxian]], an elite tarn linnorm (CR 21), guards the lake and bridge. Won't pursue into the House, but blocks the bridge to prevent retreat.
 
 ## The Forgive Foe Mechanic
 
@@ -281,3 +292,4 @@ Nyrissa's Forgive Foe DC: 50 normally (46 if Thousandbreaths has been uprooted).
 
 - [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]
 - [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

@@ -8,15 +8,16 @@ related:
   - "[[Freehaven]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Nightmarch]]"
+  - "[[Stolen Lands]]"
 aliases: []
-status: accessible
+status: cleared
 region: "Stolen Lands"
 created: "2026-06-17"
 ---
 
 # The Temple of the Elk
 
-> **Region**: Stolen Lands (near [[Nightmarch]])
+> **Region**: [[Stolen Lands]] (near [[Nightmarch]])
 > **Type**: Ancient shrine
 > **Status**: Cleared
 

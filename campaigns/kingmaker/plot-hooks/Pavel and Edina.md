@@ -9,6 +9,7 @@ related:
   - "[[Briar]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
+  - "[[Freehaven]]"
   - "[[Great Aunt Sumi]]"
   - "[[Jolia Aldori]]"
   - "[[Lady Jamandi Aldori]]"
@@ -16,23 +17,27 @@ related:
   - "[[Nightmarch]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
+  - "[[Restov]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[The Oaktop Ankou]]"
-status: open
+status: unresolved
+priority: low
 created: "2026-05-29"
 ---
 
 # Pavel and Edina
 
-**Status**: Open — unresolved, emotionally raw
+**Status**: Unresolved. The campaign ended in [[Session 108 - That Is Not Yours|Session 108]] with this thread still open.
 
 ## Summary
 
 Early in the campaign, the party was invited to a hunting competition in dangerous territory. [[Edina Aldori]] and her sister (both nieces of [[Lady Jamandi Aldori]]) were also competing. The party came upon the sisters in serious trouble with a stronger-than-expected beast. They fought together and won. [[Jolia Aldori]] died from her wounds anyway. [[Pavel]] was there for all of it.
 
-Afterward, Pavel sought Edina out in Restov — looking for glimpses of her, moments with her — convinced she wouldn't remember him. At the Great Feast of Freehaven, she stepped between him and [[Astor]] during a near-brawl and said his name. He discovered he was wrong about being forgotten. Then he vomited on her boots.
+Afterward, Pavel sought Edina out in [[Restov]] — looking for glimpses of her, moments with her — convinced she wouldn't remember him. At the Great Feast of [[Freehaven]], she stepped between him and [[Astor]] during a near-brawl and said his name. He discovered he was wrong about being forgotten. Then he vomited on her boots.
 
 ## What's Known
 
@@ -58,7 +63,6 @@ Edina does not blame the party for her sister's death. She knows she would have 
 - What happened in the aftermath of the hunt — how much time did she spend with Pavel before returning to Restov?
 - Does she know he came looking for her in Restov?
 - How does she feel about *him* specifically — distinct from gratitude to the party and grief for her sister?
-- What is her sister's name?
 
 ## Key NPCs
 

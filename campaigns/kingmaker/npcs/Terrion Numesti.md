@@ -9,6 +9,7 @@ related:
   - "[[Bronzeshield Hold]]"
   - "[[Ekundayo]]"
   - "[[Fort Drevlev]]"
+  - "[[Freehaven]]"
   - "[[Hannis Drevlev]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
@@ -41,7 +42,7 @@ When the PCs took [[Fort Drevlev]] (Session 60), they freed Terrion. His capture
 
 ## Relationships
 
-- [[Kisandra Numesti]] — his daughter; [[Ekundayo]]'s fiancée; escaped to warn Freehaven
+- [[Kisandra Numesti]] — his daughter; [[Ekundayo]]'s fiancée; escaped to warn [[Freehaven]]
 - [[Tamary Numesti]] — his daughter taken captive by the Tiger Lords; rescued by the PCs
 - [[Hannis Drevlev]] — his lord, who ordered him to give up a daughter
 - [[Tiger Lords]] — took [[Tamary Numesti]] captive

@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Amulet of the Fey Ward]]"
   - "[[Astor]]"
   - "[[Briar]]"
   - "[[Cat]]"
@@ -26,6 +27,7 @@ related:
   - "[[Riven's Letter to Lyriel]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[Tarlaxian]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 date: ""
@@ -86,7 +88,7 @@ Resume straight into the Smilodon fight. The troll returns **fully healed** a ro
 2. **Aftermath in the Baleful Lantern.** Breath, loot, the head-lanterns guttering. A beat for Pavel/Cat; the lantern-heads can be made to speak (clue feature).
 3. **The Path Between.** Thousandbreaths' shifting perspective and constant voices; thorns off-path. Short travel beat where a secret or two can surface.
 4. **[[Glade J — The High Folly]]: [[Ilthuliak]].** The petrified army, the white tower, the acid lake. She sees them coming — opens with *time stop*. Lee's nightmare/proving fight. Likely centerpiece if the Lantern wraps quickly.
-5. **The bridge to the [[House at the Edge of Time]] — cliffhanger.** Tarlaxian coiled at the far end; the House flickering across the bottomless lake; faces carved on every door. End here if reached.
+5. **The bridge to the [[House at the Edge of Time]] — cliffhanger.** [[Tarlaxian]] coiled at the far end; the House flickering across the bottomless lake; faces carved on every door. End here if reached.
 
 ---
 
@@ -122,7 +124,7 @@ Resume straight into the Smilodon fight. The troll returns **fully healed** a ro
 ### [[Glade J — The High Folly]]
 - **The petrified army** — mossy stone statues of a First World host frozen mid-charge around a 300-ft white tower (climbable terrain to *reach* Ilthuliak).
 - **[[Ilthuliak]] atop the tower** — she sees them coming, opens with *time stop*; the acid lake waits below.
-- **The hoard** — fey-made Amulet of the Fey Ward hidden in it (Secret 7 / reward).
+- **The hoard** — fey-made [[Amulet of the Fey Ward]] hidden in it (Secret 7 / reward).
 
 ### The Bridge to the [[House at the Edge of Time]] *(cliffhanger — likely only glimpsed)*
 - Bottomless dark lake; far shore flickers between mountain ranges and open starfield.

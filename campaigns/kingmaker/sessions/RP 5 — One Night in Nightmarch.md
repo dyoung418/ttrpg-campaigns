@@ -13,6 +13,7 @@ related:
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"
+  - "[[Restov]]"
   - "[[Rise n Dine]]"
   - "[[Riven]]"
   - "[[RP 1 — Camping with Ekundayo]]"
@@ -20,7 +21,8 @@ related:
   - "[[Starberry Press]]"
   - "[[The Stag Lord]]"
 date: ""
-session_number: 5
+rp_number: 5
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -32,7 +34,7 @@ created: 2026-06-17
 
 # RP 5 — One Night in Nightmarch
 
-> **Source**: RP5 (a winter evening at the inn; after Hargulka's fortress, before the trip to Restov)
+> **Source**: RP5 (a winter evening at the inn; after Hargulka's fortress, before the trip to [[Restov]])
 > **Status**: `rp-scene`
 > **Players present**: [[Riven]], [[Pavel]]
 > **Setting**: The common room of the [[Rise n Dine]] in [[Nightmarch]], a cold winter night.

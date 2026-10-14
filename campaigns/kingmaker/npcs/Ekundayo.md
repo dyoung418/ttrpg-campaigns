@@ -18,6 +18,7 @@ related:
   - "[[Oleg's Trading Post]]"
   - "[[Pavel]]"
   - "[[Pavel's Parentage]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 1 — Camping with Ekundayo]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
@@ -85,4 +86,4 @@ There he met and proposed to [[Kisandra Numesti]], daughter of [[Terrion Numesti
 - Post-Stag Lord: Settled in Nightmarch; met and proposed to [[Kisandra Numesti]]
 - Tiger Lords arc: Kisandra's sister was taken captive; PCs rescued her (Kisandra herself escaped to warn Freehaven)
 - Great Feast of Freehaven: Present; nudged [[Brumble]] with his foot to get the bear to roar and silence the hall for Riven's speech
-- Pitax War: [[Riven]] sent Ekundayo north with the other Rangers to reinforce [[Serenko]] while Riven took thirty Rangers south to [[Silverstep]]
+- [[Pitax]] War: [[Riven]] sent Ekundayo north with the other Rangers to reinforce [[Serenko]] while Riven took thirty Rangers south to [[Silverstep]]

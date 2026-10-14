@@ -10,6 +10,7 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Leveton]]"
   - "[[Oleg's Trading Post]]"
+  - "[[Stolen Lands]]"
   - "[[Svetlana Leveton]]"
   - "[[The Stag Lord]]"
   - "[[Thorn River Camp]]"
@@ -29,7 +30,7 @@ created: "2026-06-17"
 
 ## Description
 
-A gruff, hard-working frontier trader who, with his wife [[Svetlana Leveton]], ran a small trading post on the northern edge of the Rostland Hinterlands and Greenbelt when the PCs first arrived in the Stolen Lands.
+A gruff, hard-working frontier trader who, with his wife [[Svetlana Leveton]], ran a small trading post on the northern edge of the Rostland Hinterlands and Greenbelt when the PCs first arrived in the [[Stolen Lands]].
 
 ## Background
 

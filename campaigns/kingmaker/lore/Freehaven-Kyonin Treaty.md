@@ -7,7 +7,9 @@ sources: []
 related:
   - "[[Avennara]]"
   - "[[Embeth Forest]]"
+  - "[[Freehaven]]"
   - "[[Jameel Visser]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
@@ -22,7 +24,7 @@ Signed during [[Riven]]'s three-month diplomatic mission to [[Kyonin]]. Negotiat
 
 ## Terms
 
-- **Recognition**: Kyonin recognizes Freehaven as a sovereign neighbor.
+- **Recognition**: Kyonin recognizes [[Freehaven]] as a sovereign neighbor.
 - **Trade**: Trade routes open between the two realms.
 - **Elven ruins access**: Kyonin sends wardens and scholars to the old elven ruins within Freehaven's borders.
 - **Freehaven's obligations**: Freehaven provides guides, escorts, supplies, and protection for those expeditions.

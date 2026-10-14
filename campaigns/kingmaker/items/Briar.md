@@ -10,21 +10,27 @@ sources:
   - "[[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
+  - "[[Astor]]"
   - "[[Barbtongued Wyverns]]"
   - "[[Candlemere Island]]"
   - "[[Cat]]"
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Edina Aldori]]"
   - "[[Evindra]]"
+  - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
   - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Lee]]"
   - "[[Lucas]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
   - "[[Milo]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"
@@ -44,6 +50,7 @@ related:
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
   - "[[Tarlaxian]]"
+  - "[[The Founding of Freehaven]]"
   - "[[The Horned Hunter]]"
   - "[[The Lantern King]]"
   - "[[The Month of Destruction]]"
@@ -52,7 +59,7 @@ related:
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
 aliases: ["Briara"]
-status: held
+status: returned
 created: "2026-05-29"
 ---
 
@@ -64,7 +71,18 @@ created: "2026-05-29"
 
 ## Current Wielder
 
-**[[Pavel]]** — Briar is in Pavel's possession. He was holding it in the aftermath of [[Candlemere Island]], sitting at the edge of the Star Hole with [[Cat]], thinking: *"That's twice now we've put our lives on the line for this sword. And the worst is yet to come, I think. It better be worth it."*
+> [!success] **Returned to [[Nyrissa]] — [[Session 108 - That Is Not Yours|Session 108]].** The sword no longer exists.
+> The party gave Briara back as the price of [[Lyriel]], peace for [[Freehaven]], and Nyrissa's
+> friendship. [[Pavel]] asked [[Astor]] to be the one to give it. Astor knelt and raised the sword;
+> Nyrissa asked, *"Is it your desire to be reunited with me?"* and Briara answered, after a pause,
+> ***"Yes."*** At her touch a pure white light filled the room; when it faded Nyrissa was on the floor,
+> sobbing, and **there was no sword in sight.** Briara went back to her freely.
+>
+> *Pavel's reading of her, from the speech:* to [[Milo]] she was a mother figure, to Astor a daughter,
+> to [[Lee]] a flirt, to [[Riven]] a swooning admirer, to [[Lucas]] a best friend. *"I don't think a sword
+> can make those emotions up."*
+
+*Before 108:* **[[Pavel]]** — Briar is in Pavel's possession. He was holding it in the aftermath of [[Candlemere Island]], sitting at the edge of the Star Hole with [[Cat]], thinking: *"That's twice now we've put our lives on the line for this sword. And the worst is yet to come, I think. It better be worth it."*
 
 ## How the Party Acquired It
 
@@ -78,7 +96,7 @@ Briar is the artifact sword forged from [[Nyrissa]]'s own capacity for love, emp
 
 Briar grows more powerful the more it is exposed to enemies from the First World — [[Nyrissa]]'s home plane. Full rules: Appendix 4, page 585.
 
-> [!note] Early stirring (RP 25.1, ~Session 25)
+> [!note] Early stirring (RP 25.1, ~Session 95)
 > Long before Briar could speak, [[Pavel]] felt a warm **Presence** rise in his mind while wielding it against First World foes at the [[Oaktop]] battle — *the self-conscious pleasure of having pleased someone and earned a smile*, evoking his mother and [[Edina Aldori|Edina]] at once. It pushed at his emotional centers, trying to form words, and "purred" at him; unsettled, he shoved it back. In hindsight this reads as the **first stirring of [[Briar|Briara]]** — Nyrissa's stolen capacity to love reaching toward its bearer well ahead of the full awakening below. See [[RP 25.1 — Pavel's Confusion]].
 
 - **Entering Thousandbreaths** for the first time: +1 Sharpness Point. Nyrissa notices the flash of green light.
@@ -101,7 +119,7 @@ By the approach to the [[House at the Edge of Time]] (around [[Session 102 - The
 **The reunion she dreads and longs for:** Briara fears returning to Nyrissa as much as she yearns for it — she does not know whether reunion would *heal* the Queen or simply see her swallowed back into the thing that abandoned her. This is the emotional core of the campaign's two endings (death vs. forgiveness), now able to speak for itself.
 
 > [!note] Capture new Briara material here
-> She is a live, evolving voice. Record anything significant she says or reveals in play in this section.
+> She was a live, evolving voice until Session 108, when she went back to Nyrissa. This section is closed.
 
 **In play ([[Session 103 - The Shape of Where I Used to Be|Session 103]]):** the confession landed as the session's cold open. Mid rest-debate Briara went abruptly, uncharacteristically quiet, then in a changed, serious voice: *"Oh. Oh, she's close. I can feel the shape of where I used to be."* Pressed by [[Pavel]], she said she had not felt [[Nyrissa]]'s presence *"for ages, ages and ages,"* and confirmed she was torn out of herself as punishment **"for love."** She named herself torn between wanting to be whole again and dreading reunion with her *"worst half."* As the party neared the [[House at the Edge of Time]] she **fell silent** — the presence too close for her usual commentary. The party has not decided whether to destroy, restore, or return her.
 
@@ -166,6 +184,8 @@ including [[Nyrissa]] herself.
 
 ## Story Significance
 
+**What actually happened:** the forgiveness path. Briara was **given back**, not used as a weapon, and Nyrissa was made whole. See [[Session 108 - That Is Not Yours|Session 108]].
+
 If Briar is used to slay Nyrissa, it restores her lost capacity for love in her final moments — a tragic death that is also, in a sense, a reunion.
 
 If the PCs choose the forgiveness path (see Chapter 11), Briar can be the instrument of Nyrissa's redemption rather than her death.
@@ -181,3 +201,4 @@ If the PCs choose the forgiveness path (see Chapter 11), Briar can be the instru
 - [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — Pavel holds Briar at the Star Hole (*"it better be worth it"*)
 - [[_sources/processed/session_notes/Session 105|Session 105 — Actual-Play Notes]]
 - [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

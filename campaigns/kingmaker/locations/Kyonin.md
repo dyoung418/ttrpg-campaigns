@@ -6,13 +6,17 @@ tags:
 sources: []
 related:
   - "[[Aelir and Lytha]]"
+  - "[[Astor]]"
   - "[[Avennara]]"
   - "[[Candlemere Island]]"
   - "[[Embeth Forest]]"
   - "[[Faelir]]"
   - "[[Feywind]]"
+  - "[[Freehaven]]"
   - "[[Freehaven-Kyonin Treaty]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[Jameel Visser]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"
@@ -29,9 +33,12 @@ related:
   - "[[RP 26 — Riven's Journey to Kyonin]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Tanglebriar]]"
   - "[[Thaelirian]]"
   - "[[The Demon's Legacy]]"
   - "[[The Few]]"
+  - "[[Treerazer]]"
 aliases: []
 status: accessible
 region: "Elf homeland (Inner Sea)"
@@ -45,7 +52,7 @@ created: "2026-06-03"
 > **Relevance**: [[Riven]]'s ancestral homeland; signatory of the [[Freehaven-Kyonin Treaty]]; site of his three-month diplomatic mission and reunion with [[Lyriel]]
 
 > [!todo] Needs content
-> Establish geography, capital, government, the Kyonin party's stance toward Freehaven, and the specifics of Riven's history there (when did he leave, why, on what terms).
+> Establish geography, capital, government, the Kyonin party's stance toward [[Freehaven]], and the specifics of Riven's history there (when did he leave, why, on what terms).
 
 ## Connections to the Party
 

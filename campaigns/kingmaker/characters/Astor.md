@@ -5,23 +5,29 @@ tags:
   - campaign/kingmaker
 sources:
   - "[[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Amiri]]"
   - "[[Ankou Assassins]]"
   - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
   - "[[Brass Telescope]]"
+  - "[[Briar]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
   - "[[Erastil]]"
   - "[[Eri Malai]]"
   - "[[Freehaven]]"
   - "[[Ghostly Guards]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[Grigori]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
+  - "[[Kyonin]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Lee]]"
   - "[[Lucas]]"
+  - "[[Lyriel]]"
   - "[[Lyriel's Stolen Jewelry]]"
   - "[[Lyriel's Wait]]"
   - "[[Milo]]"
@@ -30,9 +36,12 @@ related:
   - "[[Oaktop]]"
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"
+  - "[[Pitax]]"
+  - "[[Restov]]"
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[RP 1 — Camping with Ekundayo]]"
+  - "[[RP 11 — Rest and Relaxation at Silverstep]]"
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
@@ -40,7 +49,6 @@ related:
   - "[[RP 16 — Drevlev Infiltrations]]"
   - "[[RP 17 — Long Road Home]]"
   - "[[RP 18 — Word from Afar]]"
-  - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
   - "[[RP 23 — Deep Under Candlemere]]"
   - "[[RP 24 — A Politician's Day]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
@@ -50,6 +58,7 @@ related:
   - "[[RP 6 — Reflections While Traveling]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[RP 9 — In the Sepulchar Chamber]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
@@ -60,6 +69,7 @@ related:
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
   - "[[Stag Lord's Helm]]"
+  - "[[Stolen Lands]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Oaktop Ankou]]"
@@ -67,6 +77,7 @@ related:
   - "[[The Stag Lord]]"
   - "[[The Sword and the Suitor]]"
   - "[[The Wriggling Man]]"
+  - "[[Tors of Levenies]]"
 aliases:
   - Astor Medvyed
 player: Slava
@@ -90,7 +101,7 @@ created: 2026-05-29
 ![[Astor2 full.png]]
 ## Backstory Hook
 
-A Brevic noble who came to the Stolen Lands as a barbarian — physical, forceful, prone to demonstrating his strength. At [[Lady Jamandi Aldori]]'s feast at the start of the campaign, he was arm wrestling before the evening was over.
+A Brevic noble who came to the [[Stolen Lands]] as a barbarian — physical, forceful, prone to demonstrating his strength. At [[Lady Jamandi Aldori]]'s feast at the start of the campaign, he was arm wrestling before the evening was over.
 
 After helping found [[Freehaven]], Astor made a deliberate choice: he stepped back from active adventuring and turned his full attention to the kingdom he'd helped build. He married, started a family, and retrained himself from the ground up — trading the barbarian's rage for the Guardian's discipline and resolve.
 
@@ -148,23 +159,26 @@ The current arc is about what it means to fight for something rather than just t
 
 - **The return**: With [[Nyrissa]]'s assault on the kingdom, Astor rejoined the party. He has more to lose than anyone.
 
--  **The Great Feast of Freehaven**: In his element — telling the tallest stories, laughing the loudest, challenging [[Amiri]] to a drinking rematch, and arm-wrestling challengers one after another (giving each a glimmer of hope before winning). He redirected anyone trying to corner [[Pavel]] in conversation, absorbing them into his own circle instead. In the midst of all this, [[Riven]] pulled him aside for a serious private exchange: Nyrissa is behind everything, the fight isn't over, and Riven handed him a letter addressed in Elven script to **Lyriel Anarindë** with instructions to send it to Kyonin only if Riven doesn't return. His second ask: lead the people. Astor accepted both without argument. His response was measured: he reflected on the family motto — *"Endurance overcomes All"* — and reframed it: not just about being tough, but about safeguarding the next generation so they can finish what you couldn't. *"I'll keep your letter, and with a little luck, I'll be returning it to you on MY deathbed."* He also acquired reading glasses recently — discovered he needed them for close work, didn't know he had the problem until now.
+-  **The Great Feast of Freehaven**: In his element — telling the tallest stories, laughing the loudest, challenging [[Amiri]] to a drinking rematch, and arm-wrestling challengers one after another (giving each a glimmer of hope before winning). He redirected anyone trying to corner [[Pavel]] in conversation, absorbing them into his own circle instead. In the midst of all this, [[Riven]] pulled him aside for a serious private exchange: Nyrissa is behind everything, the fight isn't over, and Riven handed him a letter addressed in Elven script to **[[Lyriel|Lyriel Anarindë]]** with instructions to send it to [[Kyonin]] only if Riven doesn't return. His second ask: lead the people. Astor accepted both without argument. His response was measured: he reflected on the family motto — *"Endurance overcomes All"* — and reframed it: not just about being tough, but about safeguarding the next generation so they can finish what you couldn't. *"I'll keep your letter, and with a little luck, I'll be returning it to you on MY deathbed."* He also acquired reading glasses recently — discovered he needed them for close work, didn't know he had the problem until now.
 - 
-- **The Sword and the Suitor (Great Feast — later in the evening)**: After arm-wrestling a towering half-orc (theatrically appearing challenged before winning), Astor entered the impromptu dance circle and performed athletically — whirling motions, deep knee bends, high kicks; full of cheerful energy if lacking polish. He pointed to the next dancer and exited to cheers. Then [[Edina Aldori]] entered and performed **The Sword and the Suitor**, using a Pavel Stick as the Sword. She chose Astor as her Suitor over all the visiting Restov nobles. He stepped gamely into the role — and it became apparent that Astor *knew this dance* and used to be quite good at it. He read Edina's pattern (the Sword's timing, her footwork's predictable structure) and navigated it with genuine skill, taking one pair of hits when he broke concentration at a smile, then regrouping. When he finally took the Sword from her hand and raised it to wild cheers, it was earned. When [[Pavel]] came stalking through the crowd minutes later, Astor whipped the Pavel Stick up to a guard position before Edina stepped between them.
+- **[[The Sword and the Suitor]] (Great Feast — later in the evening)**: After arm-wrestling a towering half-orc (theatrically appearing challenged before winning), Astor entered the impromptu dance circle and performed athletically — whirling motions, deep knee bends, high kicks; full of cheerful energy if lacking polish. He pointed to the next dancer and exited to cheers. Then [[Edina Aldori]] entered and performed **The Sword and the Suitor**, using a Pavel Stick as the Sword. She chose Astor as her Suitor over all the visiting [[Restov]] nobles. He stepped gamely into the role — and it became apparent that Astor *knew this dance* and used to be quite good at it. He read Edina's pattern (the Sword's timing, her footwork's predictable structure) and navigated it with genuine skill, taking one pair of hits when he broke concentration at a smile, then regrouping. When he finally took the Sword from her hand and raised it to wild cheers, it was earned. When [[Pavel]] came stalking through the crowd minutes later, Astor whipped the Pavel Stick up to a guard position before Edina stepped between them.
 
 -
 
 - **Mugs and a coat / the outer wall (night of the Archery Contest)**: Found [[Riven]] and [[Pavel]] on the outer wall watching the road. Announced himself by clearing his throat — his footsteps aren't quiet. Offered Riven a mug; Riven waved it off; Astor dropped a heavy fuzzy coat on his hand instead. Offered Pavel one too. *"It's a cold night. You should take care and stay warm."* He looked up at the stars, set down his mug, and asked what they were talking about. Answer: *"Hope."* Riven mentioned Kyonin as home. Astor caught it, puzzled — isn't home *here?* He filed it without comment and snapped back when Riven shifted to tournament strategy.
 
-  On the **Test of the Axe**: *"I wouldn't worry too much. Freehaven's strength has always been our acceptance of so many people. Pitax is putting all their hopes on one mountain of a man. But what if we have a great lumberjack in our kingdom?"* He spread his hands as if presenting a great idea — find someone who knows the trade's tricks the way a hunter knows the difference between target shooting and the field. He plans to find Nightmarch's lumberjacks at their usual drinking spot and buy a few rounds. Riven pointed out the first industry Nightmarch ever started was the lumber camp, over a decade ago. He learned separately from the groundskeeper that Pitax used adamantine arrows at the Archery Contest. He kept it quiet: Riven won clean, and raising the accusation without knowing who fired the arrows risks making the winner look like the cheater.
+  On the **Test of the Axe**: *"I wouldn't worry too much. Freehaven's strength has always been our acceptance of so many people. [[Pitax]] is putting all their hopes on one mountain of a man. But what if we have a great lumberjack in our kingdom?"* He spread his hands as if presenting a great idea — find someone who knows the trade's tricks the way a hunter knows the difference between target shooting and the field. He plans to find Nightmarch's lumberjacks at their usual drinking spot and buy a few rounds. Riven pointed out the first industry [[Nightmarch]] ever started was the lumber camp, over a decade ago. He learned separately from the groundskeeper that Pitax used adamantine arrows at the Archery Contest. He kept it quiet: Riven won clean, and raising the accusation without knowing who fired the arrows risks making the winner look like the cheater.
 
 - **A Politician's Day (RP24)**: A long day as Councilor of [[Freehaven]] — land disputes, herbal tea in a shot glass, the walk home through the lower market. He passed the stone where [[Grigori]] used to stand. He always notices it. He came home to his wife's voice and a child's laughter dissolving into giggles, and stood on the doorstep letting it wash over him before going inside.
 
 - **"Friends aren't the people you take lives with." (above Oaktop — RP25.1)**: On a hilltop overlooking the [[Oaktop]] silver mine the night before an ambush on [[Nyrissa]]'s forces, Astor coordinated the plan ([[Riven]]'s force feints from the west to bait the trolls and satyrs into pursuit) while a distracted [[Pavel]] kept asking him about women. Brewing tea from his "travel-sized" set the whole time — and pouring it badly, spilling onto the earth — Astor fielded Pavel's question about what it means when a woman wants to be *friends*. He answered honestly that he'd opened with the same line to his now-wife, *"because I was scared it might be too much to ask for more."* When the battle began he grabbed his horned helm, cursed (the tea set was a gift from his in-laws), and gave Pavel the real answer: *"Friends aren't the people you take lives with. They're the people you share life with! ... The rest of you catch that? Remember them in the moments to come!"* As the fight turned into a disciplined counter-ambush he kept shielding a distracted [[Pavel]] from crossbow volleys and troll axes (*"Get your head back in the fight, boy!"*), his own plate soaking the hits. Worn thin by Pavel's endless "theoretical" questions, he vented an alchemical **rage-suppressant brew from a tank in his armor** — a lever-triggered "*Serenity now*" that shifted him to a detached, neutral-observer calm (he mused [[Milo]] could build a replica). His theoretical relationship advice, delivered mid-charge: *"I'd tell her I'd like to get to know her better. Maybe over a nice meal."* See [[Pavel and Edina]] and [[The Oaktop Ankou]].
 
+- **The one who gave Briara back ([[Session 108 - That Is Not Yours|Session 108]], the campaign's last scene)**: It was Astor who **remembered something unusual behind the throne** in K17 after the Great Hall fight, which led the party to the portal and to [[Nyrissa]]. At the end, [[Pavel]] picked him to carry the sword: *"Only one person here has experienced all the forms of love... As a son, a brother, a father, a husband and a friend... only one person consistently takes the blows that are meant for someone else."* Astor walked forward, **knelt as a sign of respect, and lifted [[Briar|Briara]] above his head** to offer it to her. Briara had treated him like a daughter. He was kneeling in front of Nyrissa when the white light swallowed the room.
+
 ## Sources
 
 - [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]
 
 ## Current Status
 

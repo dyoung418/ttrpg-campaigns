@@ -6,8 +6,10 @@ tags:
 sources: []
 related:
   - "[[Ashenfel]]"
+  - "[[Astor]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Heights]]"
+  - "[[Pavel]]"
   - "[[Riven]]"
   - "[[RP 6 — Reflections While Traveling]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
@@ -37,4 +39,4 @@ Formidable rock formations rising from the eastern edge of the [[Nomen Heights]]
 ## GM Notes
 
 > [!secret] GM Only
-> - Visible from the Nomen Heights as a distant, storm-lit landmark. The party was traveling toward them when the conversation between Riven, Pavel, and Astor took place.
+> - Visible from the Nomen Heights as a distant, storm-lit landmark. The party was traveling toward them when the conversation between [[Riven]], [[Pavel]], and [[Astor]] took place.

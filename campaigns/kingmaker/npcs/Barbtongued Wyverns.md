@@ -7,6 +7,7 @@ tags:
   - creature-type/dragon
 sources:
   - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
@@ -23,7 +24,10 @@ related:
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
   - "[[The Wriggling Man]]"
-status: alive
+status: deceased
+role: "Nyrissa's pets — guardians of the Great Hall (L1)"
+faction: "[[Nyrissa]]"
+location: "[[House at the Edge of Time]] — L1, Great Hall"
 created: "2026-08-04"
 ---
 
@@ -38,7 +42,12 @@ reasoned with; they have **no Shame entry**, so **Forgive Foe does not work on t
 
 ## Current Status
 
-**Engaged — combat is live.** The party walked into the Great Hall at the end of
+**Both dead — [[Session 108 - That Is Not Yours|Session 108]].** The fight was as short as Danny promised. Their real threat was reach and
+abilities with about a 30-ft range; most of the party moved into the room and took them apart. When
+[[The Wriggling Man]] reappeared, the party **contained them** — one **immobilized**, the other
+**taken over by [[Milo]]** — and finished them while the fight turned onto him.
+
+**Before that (end of 107): engaged — combat is live.** The party walked into the Great Hall at the end of
 [[Session 107 - I Cant Wait Until You Meet Her|Session 107]] and found them **hiding beneath the long
 tables.** The instant they were spotted they **flew out to attack.** The session ended on the first
 round of initiative; **108 resumes here.**
@@ -95,3 +104,4 @@ this is an archer's fight after a night that punished archery. [[Lucas]] still h
 ## Sources
 
 - [[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

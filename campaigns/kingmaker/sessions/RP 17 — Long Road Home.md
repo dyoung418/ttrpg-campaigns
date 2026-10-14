@@ -21,9 +21,11 @@ related:
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[The Arsonist of Bronzeshield Hold]]"
+  - "[[Varnhold]]"
   - "[[Vordakai]]"
 date: ""
-session_number: 17
+rp_number: 17
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -42,7 +44,7 @@ created: 2026-06-17
 > **Source**: RP17 (campfire farewell; Astor plays [[Benedin]])
 > **Status**: `rp-scene`
 > **Players present**: [[Riven]], [[Pavel]], [[Astor]] (as [[Benedin]]), [[Lucas]], [[Milo]], [[Lee]]
-> **Setting**: A campfire in untamed wilderness on the long journey back from [[Fort Drevlev]] after defeating [[Armag Reborn]].
+> **Setting**: A campfire in untamed wilderness on the long journey home after the [[Fort Drevlev]] arc and the defeat of [[Armag Reborn]] at the vault (Session 65).
 
 ## Summary
 
@@ -56,7 +58,7 @@ On the road home, the wounded [[Benedin]] (cut deep by [[Ovinrbaane]]) thanks th
 
 **Pavel's resistance.** [[Pavel]] argues (via concern for [[Hyram]] and the Hold's smell of "industry and people") that Benedin should stay — *"You're part of us now."* Benedin agrees he always will be, and promises visits and letters (and to do something about the smell).
 
-**Riven's blessing & the recap.** [[Riven]] honors the choice and recounts their shared deeds — saving Varnhold and the Nomen, destroying [[Vordakai]], breaking the army at Bronzeshield, stopping the [[The Arsonist of Bronzeshield Hold|arsonist]], freeing Drevlev, and ending [[Armag Reborn]]. Benedin praises the party's open, inclusive leadership and leaves Milo with a teaser of engineering questions to come.
+**Riven's blessing & the recap.** [[Riven]] honors the choice and recounts their shared deeds — saving [[Varnhold]] and the Nomen, destroying [[Vordakai]], breaking the army at Bronzeshield, stopping the [[The Arsonist of Bronzeshield Hold|arsonist]], freeing Drevlev, and ending [[Armag Reborn]]. Benedin praises the party's open, inclusive leadership and leaves Milo with a teaser of engineering questions to come.
 
 ## Characters Present / Mentioned
 

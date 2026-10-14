@@ -3,7 +3,8 @@ type: character
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
@@ -11,6 +12,7 @@ related:
   - "[[Benedin]]"
   - "[[Book of Warding Prayers]]"
   - "[[Briar]]"
+  - "[[Candlemere Island]]"
   - "[[Cat]]"
   - "[[Fox-Head Pendant]]"
   - "[[Freehaven]]"
@@ -53,10 +55,12 @@ related:
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
+  - "[[Stolen Lands]]"
   - "[[Tarlaxian]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Wriggling Man]]"
   - "[[Tol-Kin]]"
+  - "[[Varnhold]]"
 aliases:
   - Lucas Sato
 player: Jon
@@ -86,7 +90,7 @@ Lucas is foxfolk (kitsune) — evident from his fox-shaped pupils, his orange ey
 
 **How the oracle gift awakened:** As a child, his great grandmother told amazing stories about ancestors from 300 years ago giving her advice — Lucas was too young to realize how strange that was. He knew [[Great Aunt Sumi]] personally; she was terrifying to all the children in the family. She taught him to use a healer's kit. When she caught the wasting fever, Lucas was 12 and the only one present — he tried to help but could only make her comfortable. After she died, he threw himself into studying healing (even considered becoming a cleric), reading her old books on herbs and wound care. After about two weeks he realized Sumi was telling him things *not in the books* — things she'd never told anyone. Then [[Great Great Aunt Gina]] appeared and told him "the ancestors have chosen you." He thought he was crazy and ignored it for months. Only when he healed a stranger who described a stern woman scowling at him — describing [[Great Aunt Sumi]] in exact detail — did he finally accept what was happening.
 
-**Original goal and how it changed:** Kitsune were often unwelcome in the Stolen Lands; his people stuck to shadows and close-knit groups. Lucas came to the Stolen Lands wanting to claim noble heritage and force his way into Brevoy's upper class. That goal changed over four years. Once the party established [[Nightmarch]], he discovered that many of his kin had settled there long ago — before his time, before even [[Great Great Aunt Gina]]'s time. He now has a different goal: make Freehaven welcoming to all people and races rather than forcing himself into a structure that never wanted him.
+**Original goal and how it changed:** Kitsune were often unwelcome in the [[Stolen Lands]]; his people stuck to shadows and close-knit groups. Lucas came to the Stolen Lands wanting to claim noble heritage and force his way into Brevoy's upper class. That goal changed over four years. Once the party established [[Nightmarch]], he discovered that many of his kin had settled there long ago — before his time, before even [[Great Great Aunt Gina]]'s time. He now has a different goal: make Freehaven welcoming to all people and races rather than forcing himself into a structure that never wanted him.
 
 His mother is named Cana. He has a sister whose birth was difficult enough that [[Great Aunt Sumi]] had to intervene to save Cana's life. His father knew Sumi in life.
 
@@ -139,13 +143,13 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
 - **The Ancestor Dream / "By Uncle Tarn's drooping mustaches" (night camp — ancestor vision)**: Sitting alone by the fire on a moonless, starless night — the kind when the ancestors press close — Lucas was startled by [[Pavel]] appearing silently across the fire with [[Cat]]. Pavel said they needed to talk about [[Great Aunt Sumi]]. The conversation that followed revealed that Lucas had been treating Sumi as a reference book rather than a person, and never communing just to talk — only when he needed something. A moment of genuine self-reflection: he realized he'd frozen his view of her at age 11, when she set his broken arm after he fell from an apple tree and told his parents he'd never amount to anything. He admitted [[Pavel]] and Sumi are alike — both care for those others fear or discount, both free of guile. He pulled out the [[Book of Warding Prayers]] (recovered from [[Hargulka]]'s lair, containing generations of the Sato family's sacred history) to look up appropriate gifts for ancestor marriages. Things escalated quickly. What appeared to be Pavel revealed itself — after Cat's terrifying roar — to be [[Great Uncle Olaf]] in possession of Pavel's form, with [[Great Aunt Sumi]] appearing in a wedding dress beside him. Lucas used Sending to reach the real Pavel's consciousness; Pavel's reply came back screaming in terror about Cat. Lucas stepped between Cat and the ancestors; Cat's roar dissolved the entire vision. Lucas woke to dawn and found Cat standing over him with teeth bared, guarding. Pavel was at the fire's edge, Bird on his arm. Lucas attributed it to "Pavel's surprise stew." It was a long time before he slept again.
 
-- **Drools dignifiedly (campfire at the Varnhold camp — post-Vordakai)**: Lucas was unconscious and pale through the post-Vordakai campfire conversation — the group's condition drawing quiet worried glances. [[Pavel]] nursed him with broth delivered via a mechanical udder built by [[Milo]]. [[Great Aunt Sumi]] apparently had opinions about the treatment that Pavel was ignoring.
+- **Drools dignifiedly (campfire at the [[Varnhold]] camp — post-Vordakai)**: Lucas was unconscious and pale through the post-Vordakai campfire conversation — the group's condition drawing quiet worried glances. [[Pavel]] nursed him with broth delivered via a mechanical udder built by [[Milo]]. [[Great Aunt Sumi]] apparently had opinions about the treatment that Pavel was ignoring.
 
 - **"So much for familial loyalty." (with Cat — post-Vordakai morning)**: While meditating, Lucas noticed [[Cat]] staring intently at the empty air to his left, then padding over to circle that exact spot, tail raised, rumbling low, bobbing her head as if rubbing it against something invisible. An ancestor. Lucas did a double-take, rolled his eyes, and addressed both Cat and the ancestor: *"After all that convincing to bring it back, now you like it? Of course! Sure! The Cat isn't a disappointment! Fine! So much for familial loyalty..."* He tossed Cat a piece of dried meat. Cat approached, sniffed, did not eat it, and sauntered off into the brush, tail high. Lucas watched this with an exasperated expression, mumbled something to himself, and went back to meditating.
 
 - **"I can be polite. You should try it sometime." (with Riven, Pavel, Benedin — in a cave after the undead mage fight)**: While being patched up by Pavel, [[Riven]] asked when the ancestor-talking started. Lucas gave the full origin story: knowing Sumi personally as a child (terrifying, but never turned anyone away); her death when he was 12; studying her books; her voice guiding him to things not written down; [[Great Great Aunt Gina]] appearing to tell him he was chosen; months of denial; finally confirmed by a stranger he healed who described Sumi exactly. He paused mid-story to murmur at the empty air — *"See Auntie? I can be polite. You should try it sometime."* — and then continued normally. He also revealed his changed motivation: he came to the Stolen Lands to claim noble Brevoy heritage, but after founding Nightmarch and discovering how long kitsune have lived there in shadow, his goal shifted to making Freehaven a place that welcomes everyone rather than forcing his way into a class that never wanted him. He fielded [[Benedin]]'s question about kitsune by briefly letting his foxfolk features show, noted that their kind had lived in the Stolen Lands long but stayed hidden, and said plainly: *"I'm not altogether human."*
 
-- **Tsk tsk (Candlemere Island aftermath — Session 23)**: Moving confidently from wounded person to wounded person in the aftermath of the cult fight, pressing bandages, offering encouragement. "Vaguely perceived sounds of 'tsk tsk' emanate from the air behind him, but nobody pays much mind." An ancestor — probably [[Great Aunt Sumi]], whose views on healing methods are well documented — was making her opinions known about his technique.
+- **Tsk tsk ([[Candlemere Island]] aftermath — Session 90 / RP23)**: Moving confidently from wounded person to wounded person in the aftermath of the cult fight, pressing bandages, offering encouragement. "Vaguely perceived sounds of 'tsk tsk' emanate from the air behind him, but nobody pays much mind." An ancestor — probably [[Great Aunt Sumi]], whose views on healing methods are well documented — was making her opinions known about his technique.
 
 - **"Lucas and His Jolly Band" / The Feast of Freehaven (Great Feast — storytelling circle)**: During the first portion of the feast, Lucas held court for the children — combining cantrips of light and illusion with his natural narrative skill to keep a growing crowd of young faces in rapt attention. He told the parents to go get food and he'd watch the children. Very few parents left. Most claimed they stayed because they don't trust a trickster like Lucas. Most were as enthralled as their children. He always did have a knack for the theatrics. He'd finished his second story ("Lucas and His Jolly Band") and excused himself for a drink when an old man sat down beside him, uninvited, and told him he'd rushed the ending. Didn't even look at him.
 
@@ -155,9 +159,12 @@ His mother is named Cana. He has a sister whose birth was difficult enough that 
 
 - **The illusion at Oaktop (RP25.1)**: During the night ambush on [[Nyrissa]]'s forces at the [[Oaktop]] silver mine, the enemy troll shaman loosed a fireball into the grouped archers. Lucas's illusion magic turned the moment to the party's advantage — half the "casualties" vanished in illusory mist while the rest feigned a panicked rout, baiting the trolls and satyrs into a charge straight into the ambush. [[Pavel]] noted dryly that Lucas would be bragging about it for a week.
 
+- **The roll that ended the campaign ([[Session 108 - That Is Not Yours|Session 108]])**: Lucas and [[Riven]] did most of the talking with [[Nyrissa]], trying to read her intentions and talk her out of destroying [[Freehaven]]. When the deal had to be sealed, **the party stacked every buff on him**: the Silver Tongue Mutagen (+3 item), *guidance* (+1), Riven's master-level Aid (+3), and Riven's *Bon Mot* quip about how often the party had foiled her (−3 to her Will DC). He needed about 52 and came up short, then **spent a hero point and hit 53**. Nyrissa had already studied him and Riven *"for an even longer time, as if trying to read their minds"* before she agreed. [[Briar|Briara]] had been his best friend.
+
 ## Sources
 
 - [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]
 
 ## Current Status
 

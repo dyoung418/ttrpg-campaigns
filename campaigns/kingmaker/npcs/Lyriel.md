@@ -4,10 +4,14 @@ campaign: kingmaker
 tags:
   - campaign/kingmaker
   - backstory
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
+  - "[[Astor]]"
   - "[[Avennara]]"
+  - "[[Briar]]"
   - "[[Candlemere Island]]"
+  - "[[Freehaven]]"
   - "[[Freehaven-Kyonin Treaty]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[House at the Edge of Time]]"
@@ -23,6 +27,7 @@ related:
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 15 — Holiday Shopping]]"
   - "[[RP 18 — Word from Afar]]"
   - "[[RP 23 — Deep Under Candlemere]]"
@@ -38,22 +43,23 @@ related:
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
+  - "[[Stolen Lands]]"
   - "[[Thaelirian]]"
   - "[[The Horned Hunter]]"
   - "[[The Wriggling Man]]"
 aliases: ["Lyriel Anarindë"]
-status: captive
-role: "Riven's former love; held with Nyrissa herself in the moonlit plaza (M7c)"
+status: alive
+role: "Riven's former love; freed from Nyrissa in Session 108"
 faction: ""
-location: "House at the Edge of Time — M7c, the moonlit plaza (Nyrissa's control room)"
+location: "With the party, returning to Freehaven (freed from M7c in Session 108)"
 created: "2026-05-29"
 ---
 
 # Lyriel
 
 > **Role**: Riven's former love; the reason for his fall from grace
-> **Location**: [[House at the Edge of Time]] — **M7c**, the moonlit plaza, held with [[Nyrissa]]
-> **Status**: Captive, alive — leverage, not a trophy
+> **Location**: [[House at the Edge of Time]] — freed from M7c with the party, [[Session 108 - That Is Not Yours|Session 108]]
+> **Status**: Alive and free — rescued by the party's bargain with [[Nyrissa]]
 
 ## Description
 
@@ -85,7 +91,7 @@ He told her the truth — that he loved her, that he left, that shame had master
 
 *"I loved you. I do not say that as accusation. I loved you. Some part of that has survived, though not unchanged, and not obediently. But love is not trust. It is not a life."*
 
-They agreed to speak again — she told him to come the day after, not the next day: she wanted to paint well and not have her mind on him. He returned the following evening. She stopped him giving a report on Freehaven: *"I did not ask for a report. Tell me what it is like."* He told her about Nightmarch after rain, about farmers who brought food to neighbors before being asked, about children daring one another to touch Brumble's paw. He told her about his friends — their tempers, their habits, the ways they had saved him and refused to become the kind of companions who could be praised simply. She listened with more than politeness. *"You love it,"* she said. *"I do."* She looked toward the birches: *"Good."*
+They agreed to speak again — she told him to come the day after, not the next day: she wanted to paint well and not have her mind on him. He returned the following evening. She stopped him giving a report on [[Freehaven]]: *"I did not ask for a report. Tell me what it is like."* He told her about Nightmarch after rain, about farmers who brought food to neighbors before being asked, about children daring one another to touch Brumble's paw. He told her about his friends — their tempers, their habits, the ways they had saved him and refused to become the kind of companions who could be praised simply. She listened with more than politeness. *"You love it,"* she said. *"I do."* She looked toward the birches: *"Good."*
 
 He invited her to come to Freehaven. She did not answer at once. He added that even if not at his side, Silverstep at sunrise was worth the road. She said she was *"not saying no."* She asked him to write — ordinary letters, not formal ones. Which flowers come first in spring. What the council argues about. Whether the bear is real. He said he would write. She said she might answer.
 
@@ -95,7 +101,14 @@ Later, at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Unde
 
 ## Current Status
 
-**Captive in the [[House at the Edge of Time]] — held with [[Nyrissa]] herself in M7c.** She answered Riven's invitation and traveled to [[Nightmarch]] — and was abducted upon arrival by a fey and trolls (the fey was [[The Wriggling Man]] in disguise, acting on [[Nyrissa]]'s orders). In the struggle she dropped [[Riven's Letter to Lyriel|Riven's letter]], which was found by witnesses and reported to [[Linzi]], who sent Riven a Sending mid-bloom. [[Nyrissa]] holds her as leverage — alive, not as a trophy. [[Nyrissa]] knew she was coming because she had been mining Riven's dreams.
+> [!success] **Freed — [[Session 108 - That Is Not Yours|Session 108]]**
+> She was held at Nyrissa's side when the party came through the throne portal. Nyrissa's price for
+> her was [[Briar|Briara]], and the party, after a long argument, agreed to pay it. When [[Astor]]
+> came forward with the sword, Nyrissa **let Lyriel go without bargaining.** Lyriel was across the
+> courtyard before the sword reached the Queen. [[Riven]] **ran to meet her and held her.**
+> See [[Lyriel's Wait]].
+
+**Before 108 — captive in the [[House at the Edge of Time]] — held with [[Nyrissa]] herself in M7c.** She traveled to [[Nightmarch]] of her own accord — no invitation; her choice — — and was abducted upon arrival by a fey and trolls (the fey was [[The Wriggling Man]] in disguise, acting on [[Nyrissa]]'s orders). In the struggle she dropped Riven's most recent letter, which was found by witnesses and reported to [[Linzi]], who sent Riven a Sending mid-bloom. [[Nyrissa]] holds her as leverage — alive, not as a trophy. [[Nyrissa]] knew she was coming because she had been mining Riven's dreams.
 
 > [!important] Changed in [[Session 106 - The Thing He Wears|Session 106]] — she is **not** in the throne room
 > The party reached K17 expecting to find her with [[The Wriggling Man]]. **She was never there.** She has
@@ -118,12 +131,13 @@ Later, at the Star Hole beneath [[Candlemere Island]] (see [[RP 23 — Deep Unde
 ## Sources
 
 - [[_sources/processed/roleplay/RP23 Deep Under Candlemere|RP23 — Deep Under Candlemere]] — Riven speaks of her to Pavel
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]
 
 ## GM Notes
 
 > [!secret] GM Only
 > - Lyriel is not just a love interest — she is a mirror for Riven's arc. Facing her means he can no longer hide behind heroic deeds.
-> - Does she know what became of him? Has she heard of the kingdom-builder in the Stolen Lands?
+> - Does she know what became of him? Has she heard of the kingdom-builder in the [[Stolen Lands]]?
 > - She may carry guilt of her own — not for anything she did, but for *being the reason he came to her* that day.
 > - A reunion between Riven and Lyriel should be earned, not easy.
 > - ~~**The rescue (Throne Room K17):** the *two-Lyriels* illusion — decoy at center stage, the real Lyriel veiled elsewhere, the amulet as homing beacon.~~ **Retired in [[Session 106 - The Thing He Wears|Session 106]]** — she was never in K17. See the superseded section in [[The Wriggling Man]].

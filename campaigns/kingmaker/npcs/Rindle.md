@@ -9,8 +9,8 @@ related:
   - "[[Glimmerhaven]]"
   - "[[Milo]]"
   - "[[Milo's Lost Brother]]"
-  - "[[Pavel]]"
   - "[[Rindle (Construct)]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: missing
 role: "Milo's older brother; taken captive by bandits; Milo's construct is named after him"
@@ -51,7 +51,7 @@ His fate is unknown. Milo has never stopped wanting to find him.
 
 > [!secret] GM Only
 > - Rindle's capture is the wound at the center of Milo's story. Every invention, every adventure, points back here.
-> - The bandits who took him may still be findable. Are they connected to anything in the Stolen Lands?
+> - The bandits who took him may still be findable. Are they connected to anything in the [[Stolen Lands]]?
 > - If Rindle is alive, what has he been through? What has he become?
 
 ## Session History

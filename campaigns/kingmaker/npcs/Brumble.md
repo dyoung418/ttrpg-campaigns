@@ -5,7 +5,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Bird]]"
   - "[[Ekundayo]]"
+  - "[[Freehaven]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"
   - "[[Riven]]"
@@ -53,4 +55,4 @@ When the party's path grew too dangerous, Riven left Brumble in [[Nightmarch]]. 
 
 ## Session History
 
-- Great Feast of Freehaven: Present and stretched out by the fire in the grand hall. [[Ekundayo]] nudged him to produce a deep roar that silenced the hall before Riven's speech — sparking laughter first. Fat, warm, and happy.
+- Great Feast of [[Freehaven]]: Present and stretched out by the fire in the grand hall. [[Ekundayo]] nudged him to produce a deep roar that silenced the hall before Riven's speech — sparking laughter first. Fat, warm, and happy.

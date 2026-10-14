@@ -59,7 +59,7 @@ created: "2026-07-27"
 
 **The party finally met [[The Wriggling Man]].** After a run-up seeded since
 [[Session 100 - She Dropped Your Letter|Session 100]] — the abduction at the gate, Linzi's Sending, the
-freed guards' whisper that *"the one with many faces keeps the elf-woman"* — the party reached the Throne
+~~freed guards' whisper~~ *(GM ruling 2026-10-13: no such whisper was ever said at the table — see [[Session 105 - The Thing That Cannot Be Forgiven|105]])* — the party reached the Throne
 Room (K17) and the House's arch-deceiver is finally on-screen.
 
 **[[Lyriel]] is not with him.** This is the session's structural ruling and it overturns a lot of prep. She
@@ -72,9 +72,8 @@ reveal — worn openly. It confirms he is the fey from the [[Nightmarch]] gate, 
 his hands, and it announces that she is *not in this room*. See [[Lyriel's Stolen Jewelry]]. *(The specific
 piece is still an open GM decision — options are laid out in that note.)*
 
-**The session ended mid-combat.** The fight is live; **107 resumes in initiative.** This is the third
-session in a row to end mid-fight ([[Session 103 - The Shape of Where I Used to Be|103]] on the Rimebridge,
-[[Session 104 - The First Mercy|104]] in the guardhouse) — worth noting as a pacing pattern, not
+**The session ended mid-combat.** The fight is live; **107 resumes in initiative.** This is the fourth session in a row to end mid-fight ([[Session 103 - The Shape of Where I Used to Be|103]] on the Rimebridge,
+[[Session 104 - The First Mercy|104]] in the guardhouse, [[Session 105 - The Thing That Cannot Be Forgiven|105]] in the Lower Hall) — worth noting as a pacing pattern, not
 necessarily a problem.
 
 ---
@@ -85,7 +84,7 @@ necessarily a problem.
 > Two big fights with a short exploration bridge between them. The **Ankou fight carried over from 105**
 > and ran long — most of the session — before the party got a rest, looted a telescope, and walked into a
 > **fireball ambush** in the throne room that turned into the [[The Wriggling Man|Wriggling Man]] reveal.
-> Third session in a row to end mid-combat.
+> Fourth session in a row to end mid-combat (103, 104, 105, 106).
 
 ### The Ankou, finished (K4)
 
@@ -193,8 +192,8 @@ necessarily a problem.
 
 ## Threads closed / advanced
 
-- **"The one with many faces" is identified.** The whisper from the freed gate guards resolves onto the
-  Wriggling Man, confirmed by the jewelry — he was the fey at the Nightmarch gate.
+- **The fey from the gate is identified.** The jewelry confirms the Wriggling Man was the fey at the
+  Nightmarch gate. *(There was never a guards' whisper pointing here — GM ruling; the party found K17 on their own.)*
 - **The rescue-before-the-Queen structure is dead.** [[Lyriel]]'s rescue no longer happens *before* the
   Nyrissa confrontation to inform it. They are now the same scene. See the revised spine below.
 

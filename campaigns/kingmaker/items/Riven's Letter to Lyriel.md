@@ -6,6 +6,7 @@ tags:
 sources: []
 related:
   - "[[Astor]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
@@ -35,6 +36,13 @@ created: "2026-05-29"
 
 ## Description
 
+> [!note] Two letters — this is the **first**
+> This sealed letter was never sent; it stayed with Astor through the end of the campaign. The letter Lyriel actually
+> received — the **invitation to the [[Grand Tournament of Freehaven]]** — was a *second, separate* letter (see
+> [[Lyriel's Wait]], [[RP 26 — Riven's Journey to Kyonin|RP26]]), and the ordinary letters that followed were a third
+> thread again. The one she dropped at the Nightmarch gate (Session 100) was the most recent of those.
+
+
 A letter written by [[Riven]] to [[Lyriel]] — the woman he left in Kyonin when he fled his shame. The parchment is described as worn but carefully sealed. The envelope bears her name in flowing Elven script: *Lyriel Anarindë*.
 
 [[Riven]] wrote it with [[Linzi]]'s help (Linzi offered to help him write it at [[Silverstep]]). He has given it to [[Astor]] with instructions: send it to Kyonin only if Riven does not return from the coming dangers.
@@ -46,7 +54,7 @@ A letter written by [[Riven]] to [[Lyriel]] — the woman he left in Kyonin when
 ## Significance
 
 - The physical existence of this letter marks a major step in Riven's arc — he has committed something to paper he's avoided for years
-- If he dies, Lyriel will finally hear from him after years of silence
+- If he dies, Lyriel will finally hear from him *(written before the invitation and the correspondence that followed; by Session 100 she had heard from him many times)*
 - If he survives, the letter still exists — and someday he may choose to send it himself
 - Astor now carries the weight of this secret
 

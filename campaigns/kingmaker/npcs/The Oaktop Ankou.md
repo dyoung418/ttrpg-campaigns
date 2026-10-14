@@ -15,6 +15,7 @@ related:
   - "[[Briar]]"
   - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
+  - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
@@ -39,7 +40,7 @@ created: "2026-07-07"
 
 ## Summary
 
-An **Ankou** — a fey nightmare from the First World — that commanded [[Nyrissa]]'s garrison occupying the [[Oaktop]] silver mine. It was the intelligence behind the garrison's surprising **discipline**: when the party's feint-and-bait ambush should have scattered a mob of redcaps, trolls, and satyrs, the enemy instead pivoted with drilled precision into a **counter-ambush** — pre-cranked crossbow volleys, coordinated troll bodyguards screening spellcasting shamans, and lightning called down on the party's hidden archers. Only once its minions were being put to flight did the general emerge from the shadows to rally them and test its own might against the weakened Nightmarch leaders.
+An **Ankou** — a fey nightmare from the First World — that commanded [[Nyrissa]]'s garrison occupying the [[Oaktop]] silver mine. It was the intelligence behind the garrison's surprising **discipline**: when the party's feint-and-bait ambush should have scattered a mob of redcaps, trolls, and satyrs, the enemy instead pivoted with drilled precision into a **counter-ambush** — pre-cranked crossbow volleys, coordinated troll bodyguards screening spellcasting shamans, and lightning called down on the party's hidden archers. Only once its minions were being put to flight did the general emerge from the shadows to rally them and test its own might against the weakened [[Nightmarch]] leaders.
 
 ## Appearance
 

@@ -7,6 +7,7 @@ sources: []
 related:
   - "[[Annamede Belavarah]]"
   - "[[Embeth Forest]]"
+  - "[[Freehaven]]"
   - "[[Freehaven-Kyonin Treaty]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Kyonin]]"
@@ -36,7 +37,7 @@ A broad-shouldered man in a weather-dark cloak. Beard shorter than Riven remembe
 
 ## Background
 
-An old contact of [[Riven]]'s from his years before Freehaven. Commands the wardens who operate out of a ranger hall in the [[Embeth Forest]]: tucked between two rises beside a cold stream, no banners, no carved proclamation of importance, sound roof, dry woodpile, paths swept clean.
+An old contact of [[Riven]]'s from his years before [[Freehaven]]. Commands the wardens who operate out of a ranger hall in the [[Embeth Forest]]: tucked between two rises beside a cold stream, no banners, no carved proclamation of importance, sound roof, dry woodpile, paths swept clean.
 
 When Riven's diplomatic delegation passed through the Embeth on the road to [[Kyonin]], Jameel's foresters stepped from the trees — bows unstrung but near. The reunion was brief and unsentimental: a clasped forearm, a comment about the delegation's pace, and [[Linzi]] earning her own assessment within the hour.
 

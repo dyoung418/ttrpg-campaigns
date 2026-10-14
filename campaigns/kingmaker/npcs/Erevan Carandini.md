@@ -50,7 +50,6 @@ With [[Elithya Carandini]], parented the nineteen Carandini children and — hal
 
 ## Plot Hooks Involved
 
-- [[]]
 
 ## GM Notes
 

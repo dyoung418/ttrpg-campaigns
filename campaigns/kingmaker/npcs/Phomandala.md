@@ -11,6 +11,9 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
 status: alive
+role: "Medusa sorcerer of the Ruined Halls; never fought"
+faction: "[[Nyrissa]]"
+location: "[[House at the Edge of Time]] — M3, Ruined Halls"
 created: "2026-05-29"
 ---
 

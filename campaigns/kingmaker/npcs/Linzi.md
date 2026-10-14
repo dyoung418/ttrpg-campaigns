@@ -23,6 +23,7 @@ related:
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"
   - "[[Pitax]]"
+  - "[[Restov]]"
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
@@ -38,7 +39,9 @@ related:
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Silverstep]]"
   - "[[Starberry Press]]"
+  - "[[Stolen Lands]]"
   - "[[The Horned Hunter]]"
+  - "[[The Sword and the Suitor]]"
   - "[[Tol-Kin]]"
 aliases: []
 status: alive
@@ -65,7 +68,7 @@ Perky, chatty, and very excited about nearly everything. She called the Aldori f
 
 ## Background
 
-Linzi attended [[Lady Jamandi Aldori]]'s feast at Restov as one of the adventurers invited to settle the Stolen Lands — she came hoping to chronicle the heroic establishment of a new nation. She'd spent a fair amount of time in [[Pitax]] before this, but left that kingdom after growing frustrated with [[King Irovetti]]'s persecution and oppression of the arts.
+Linzi attended [[Lady Jamandi Aldori]]'s feast at [[Restov]] as one of the adventurers invited to settle the [[Stolen Lands]] — she came hoping to chronicle the heroic establishment of a new nation. She'd spent a fair amount of time in [[Pitax]] before this, but left that kingdom after growing frustrated with [[King Irovetti]]'s persecution and oppression of the arts.
 
 She joined the party's expedition and eventually took up the role of Emissary of [[Freehaven]], managing the kingdom's communications — correspondence, diplomatic messages, inter-settlement coordination. The role suits her perfectly.
 
@@ -75,7 +78,7 @@ She has deliberately not published an article about [[Silverstep]] despite it be
 
 She offered to help [[Riven]] write a letter to [[Lyriel]] — *"Writing is my thing, you know."* Riven accepted.
 
-She traveled with Riven as councilor and foreign minister on the three-month diplomatic mission to [[Kyonin]], handling tariffs, recognition, and embassies while Riven handled terrain and field matters. She introduced herself to Kyonin's representatives as *"councilor, foreign minister, and the only thing standing between our king and several preventable diplomatic incidents."* One of Kyonin's captains reportedly began watching her the way men watch drawn steel. [[Jameel Visser]], the ranger commander of [[Embeth Forest]], advised Riven to keep her close: *"She makes you almost approachable."*
+She traveled with Riven as councilor and foreign minister on the three-month diplomatic mission to [[Kyonin]], handling tariffs, recognition, and embassies while Riven handled terrain and field matters. She introduced herself to Kyonin's representatives as *"councilor, foreign minister, and the only thing standing between our king and several preventable diplomatic incidents."* One of [[Jameel Visser|Jameel]]'s captains reportedly began watching her the way men watch drawn steel. [[Jameel Visser]], the ranger commander of [[Embeth Forest]], advised Riven to keep her close: *"She makes you almost approachable."*
 
 She was on the road home when Riven said quietly: *"I think she may come."* Her reply: *"Then you write the first letter and try not to make it unbearable."*
 

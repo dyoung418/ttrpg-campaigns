@@ -12,6 +12,7 @@ related:
   - "[[Nyrissa]]"
   - "[[Pavel]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
+  - "[[Stolen Lands]]"
   - "[[The Lantern King]]"
   - "[[The Month of Destruction]]"
   - "[[Thousandbreaths]]"
@@ -43,7 +44,7 @@ She knows the location of the entrance to [[Thousandbreaths]] — the Castle of 
 
 ## How She Came to Help
 
-The PCs befriended Evindra and gained her trust. In return, she warned them that First World forces were about to assault the Stolen Lands, and shared everything she knew about Nyrissa, Briar, and the path into Thousandbreaths. She is an ally, not a neutral party — she wants Nyrissa stopped.
+The PCs befriended Evindra and gained her trust. In return, she warned them that First World forces were about to assault the [[Stolen Lands]], and shared everything she knew about Nyrissa, Briar, and the path into Thousandbreaths. She is an ally, not a neutral party — she wants Nyrissa stopped.
 
 ## What She Told the PCs
 

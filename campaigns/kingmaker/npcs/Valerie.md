@@ -7,6 +7,8 @@ sources: []
 related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
+  - "[[Restov]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: alive
 role: "Fighter; former Shelyn aspirant; ally of the party"
@@ -33,7 +35,7 @@ Polite and extremely well-mannered, but with little patience for humor or jokes.
 
 Born into nobility, Valerie once sought to become a champion of Shelyn, goddess of beauty and love. An act of blasphemy — the details of which she does not discuss — permanently derailed that path and set her on a far more ordered and disciplined course as a fighter. She doesn't regret abandoning her original calling, but she does regret how her fellow Shelynites responded to her choice.
 
-She attended [[Lady Jamandi Aldori]]'s feast at Restov as one of the adventurers called to settle the Stolen Lands.
+She attended [[Lady Jamandi Aldori]]'s feast at [[Restov]] as one of the adventurers called to settle the [[Stolen Lands]].
 
 ## Relationships
 
@@ -48,4 +50,4 @@ She attended [[Lady Jamandi Aldori]]'s feast at Restov as one of the adventurers
 
 ## Session History
 
-- First appeared: Jamandi Aldori's Feast (pre-campaign)
+- First appeared: Jamandi Aldori's Feast (Session 1)

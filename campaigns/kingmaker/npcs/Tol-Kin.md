@@ -6,6 +6,7 @@ tags:
 sources: []
 related:
   - "[[Beneford]]"
+  - "[[Freehaven]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[Linzi]]"
   - "[[Lucas]]"
@@ -38,7 +39,7 @@ He knows the value of silence. After "The Halfling, The Dragon, and the Baker's 
 
 ## Background
 
-Has been around for decades and knows esoterica and stories from all over the world. He came to the Great Feast of Freehaven not by his own initiative, but because of a request from a trainee of one of his former students — [[Linzi]], whose teacher was [[Beneford]], who studied under Tol-Kin.
+Has been around for decades and knows esoterica and stories from all over the world. He came to the Great Feast of [[Freehaven]] not by his own initiative, but because of a request from a trainee of one of his former students — [[Linzi]], whose teacher was [[Beneford]], who studied under Tol-Kin.
 
 He offered [[Lucas]] a month of mentorship — to travel together, seek story-worthy adventures, and perhaps explore a rumor he'd heard about a specific location — and Lucas accepted on the spot.
 

@@ -22,7 +22,8 @@ related:
   - "[[Tamary Numesti]]"
   - "[[Terrion Numesti]]"
 date: ""
-session_number: 16
+rp_number: 16
+session_number:
 status: complete
 players_present:
   - "[[Astor]]"

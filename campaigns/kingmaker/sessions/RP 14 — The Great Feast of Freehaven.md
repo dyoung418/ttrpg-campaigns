@@ -23,6 +23,7 @@ related:
   - "[[Lee]]"
   - "[[Linzi]]"
   - "[[Lucas]]"
+  - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"
   - "[[Maegar Varn]]"
   - "[[Milo]]"
@@ -36,10 +37,12 @@ related:
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[The Stag Lord]]"
+  - "[[The Stag Lord's Fort]]"
   - "[[Varnhold]]"
   - "[[Vordakai]]"
 date: ""
-session_number: 14
+rp_number: 14
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -68,7 +71,7 @@ The great feast of [[Freehaven]] — banners of the seven towns and the [[Nomen 
 
 **Riven's speech & the hooded guest.** Riven toasts Freehaven and "allies old and new," nodding to a hooded figure — the disguised [[Lady Jamandi Aldori]], whose identity [[Pavel]] is assigned to guard.
 
-**Riven's testament to Astor.** Privately, Riven tells [[Astor]] he's learned **[[Nyrissa]]** ("Narissa") is behind everything — [[The Stag Lord]], [[Hargulka]], the Owlbear, the [[Cult of the Bloom]], even [[Vordakai]] — and he must see it through. He gives Astor a sealed letter for **Lyriel Anarindë** in [[Kyonin]] (see [[Riven's Letter to Lyriel]]) and names him successor should he not return. Astor, citing his family motto *"Endurance overcomes All,"* vows to keep the letter and return it on his *own* deathbed.
+**Riven's testament to Astor.** Privately, Riven tells [[Astor]] he's learned **[[Nyrissa]]** ("Narissa") is behind everything — [[The Stag Lord]], [[Hargulka]], the Owlbear, the [[Cult of the Bloom]], even [[Vordakai]] — and he must see it through. He gives Astor a sealed letter for **[[Lyriel|Lyriel Anarindë]]** in [[Kyonin]] (see [[Riven's Letter to Lyriel]]) and names him successor should he not return. Astor, citing his family motto *"Endurance overcomes All,"* vows to keep the letter and return it on his *own* deathbed.
 
 **Octavia & Varnhold.** Riven offers [[Octavia]] the mayorship of [[Varnhold]]; she asks for time to think.
 

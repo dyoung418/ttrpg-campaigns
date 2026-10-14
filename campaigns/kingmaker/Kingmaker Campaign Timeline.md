@@ -3,13 +3,15 @@ type: lore
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Aecora]]"
   - "[[Amiri]]"
   - "[[Ankou Assassins]]"
   - "[[Annamede Belavarah]]"
   - "[[Armag Reborn]]"
+  - "[[Astor]]"
   - "[[Atlee Quinge]]"
   - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
@@ -18,21 +20,23 @@ related:
   - "[[Bronzeshield Hold]]"
   - "[[Candlemere Island]]"
   - "[[Cassandra]]"
+  - "[[Cat]]"
   - "[[Cult of the Bloom]]"
   - "[[Edina Aldori]]"
   - "[[Ekundayo]]"
   - "[[Eri Malai]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
+  - "[[Freehaven-Kyonin Treaty]]"
   - "[[Gaspere Liacenza]]"
   - "[[Ghostly Guards]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[Great Aunt Sumi]]"
   - "[[Grigori]]"
   - "[[Hannis Drevlev]]"
   - "[[Hargulka]]"
   - "[[Harrim]]"
   - "[[Hateful Hermit]]"
-  - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Imeckus Stroon]]"
   - "[[Iron Wraiths]]"
@@ -43,6 +47,7 @@ related:
   - "[[King Irovetti]]"
   - "[[King Vesket]]"
   - "[[Kisandra Numesti]]"
+  - "[[Kyonin]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Lee]]"
   - "[[Linzi]]"
@@ -53,6 +58,8 @@ related:
   - "[[Lyriel's Wait]]"
   - "[[Maegar Varn]]"
   - "[[Melianse]]"
+  - "[[Milo]]"
+  - "[[Misbegotten Troll]]"
   - "[[Nightmarch]]"
   - "[[Nomen Centaurs]]"
   - "[[Nomen Heights]]"
@@ -65,6 +72,7 @@ related:
   - "[[Pavetta Stroon-Drevlev]]"
   - "[[Pitax]]"
   - "[[Restov]]"
+  - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[RP 1 — Camping with Ekundayo]]"
   - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
@@ -107,7 +115,9 @@ related:
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
+  - "[[Stolen Lands]]"
   - "[[Svetlana Leveton]]"
   - "[[Tarlaxian]]"
   - "[[Tartuccio]]"
@@ -150,7 +160,7 @@ created: "2026-06-17"
 
 ## Session 1 — Feast at Jamandi Aldori's
 
-- **Feast at [[Lady Jamandi Aldori]]'s estate** in [[Restov]], where she extends invitations to the PCs and other groups to enter the Stolen Lands south of Restov and found new kingdoms allied with Restov. Other groups present include [[Maegar Varn]], [[Harrim]], [[Linzi]], [[Tartuccio]], [[Valerie]], [[Amiri]], [[Hannis Drevlev]], and the [[Iron Wraiths|Iron Wraiths]].
+- **Feast at [[Lady Jamandi Aldori]]'s estate** in [[Restov]], where she extends invitations to the PCs and other groups to enter the [[Stolen Lands]] south of Restov and found new kingdoms allied with Restov. Other groups present include [[Maegar Varn]], [[Harrim]], [[Linzi]], [[Tartuccio]], [[Valerie]], [[Amiri]], [[Hannis Drevlev]], and the [[Iron Wraiths|Iron Wraiths]].
 - The estate is attacked at night by a group called the **Black Tears**. The PCs are instrumental in defeating them, proving their worth to Jamandi.
 - The PCs receive a charter to establish a kingdom in the region known as the **Rostland Hinterlands and Greenbelt**.
 
@@ -207,7 +217,7 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 
 ## Session 40 — The Varnhold Vanishing & the Nomen
 
-- **Varnhold Vanishing** — treasure hunter [[Willas Gunderson]] mistranslated an ancient map, mistaking a warning of magical *danger* for magical *wealth*, and woke the cyclops lich [[Vordakai]] from a thousand-year slumber. Vordakai abducted the entire town of [[Varnhold]] to harvest its knowledge.
+- **Varnhold Vanishing** — treasure hunter [[Willas Gunderson]] mistranslated an ancient map, mistaking a warning of magical *danger* for magical *wealth*, and woke the cyclops lich [[Vordakai]] from a slumber of millennia. Vordakai abducted the entire town of [[Varnhold]] to harvest its knowledge.
 - At [[Lady Jamandi Aldori]]'s request the PCs investigate Varnhold, finding it empty. After fighting off Spriggans, they follow clues toward the [[Nomen Centaurs|Nomen]].
 - **Encountering the Nomen** — initially suspicious, the Nomen warm slightly when the PCs return the prized bow Skybolt. Their ruler [[Aecora|Aecora Silverfire]] fears for her daughter [[Xamanthe]], who broke the taboo of entering the [[Valley of the Dead]] and has gone missing.
   - *[[RP 6 — Reflections While Traveling]]* takes place on the steppes of the [[Nomen Heights]] toward the [[Tors of Levenies]].
@@ -251,13 +261,13 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - The PCs find the Tiger Lords at the vault of the old Armag's sword; Armag has already claimed [[Ovinrbaane]] and slain his own henchmen. The PCs defeat him, rescue the kidnapped daughter, and return home.
   - *[[RP 17 — Long Road Home]]* takes place here.
 
-## Session 70 — The Nightmarch Games
+## Session 70 — The Nightmarch Games (the [[Grand Tournament of Freehaven]])
 
-- The PCs host a competition (jousting, fighting, storytelling) for surrounding kingdoms, including [[Pitax]] under [[King Irovetti]].
-- Pitax leads early, but [[Riven]]'s archery shot in the final event wins it for Freehaven.
+- The PCs host a three-event tournament (Archery Contest, Test of the Axe, Midnight Joust) for surrounding kingdoms, including [[Pitax]] under [[King Irovetti]].
+- [[Riven]] wins the opening Archery Contest (Pitax dead last despite cheating); Pitax takes the Test of the Axe; Freehaven, with [[Pavel]] riding [[Cat]], takes the Midnight Joust.
 - As the games end, **Pitax launches an attack** — they had used the games as cover to position their best people. This begins the **War with Pitax**.
 - The PCs also meet [[Eri Malai]], going by the name of his missing master, [[Saint Flint]].
-  - *[[RP 18 — Word from Afar]]* takes place here before the Rushlight games.
+  - *[[RP 18 — Word from Afar]]* takes place here, the night of the Archery Contest.
 
 ## Session 75 — War with Pitax
 
@@ -271,8 +281,12 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - The PCs sneak into [[Pitax]] with a northern shipment and build contacts: [[Annamede Belavarah]], [[Atlee Quinge]] (Red Crescent Troop), [[Gaspere Liacenza]] (Liacenza Bandit House), and [[Jhofre Vascari]] (Vascari Bandit House).
 - With their help (especially Gaspere's) the PCs build the underground **Fox Alliance** and spread word of an uprising.
 - Finally they breach Irovetti's palace and defeat him (Pavel's silence aura is key). In his secret bedroom they find [[Briar]] — the sword holding [[Nyrissa]]'s capacity for love, forged as a punishment and hidden from her; Irovetti had found it and never told her.
-  - *[[RP 26 — Riven's Journey to Kyonin]]* takes place here.
   - *[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]* takes place here.
+
+## Between Sessions 80 and 90 — Riven's Journey to Kyonin
+
+- With the war won, [[Riven]] leads a fifty-person delegation to [[Kyonin]] for three months — the [[Freehaven-Kyonin Treaty]], and the reunion with [[Lyriel]]. He returns just in time to join the Candlemere fight late.
+  - *[[RP 26 — Riven's Journey to Kyonin]]* takes place here.
 
 ## Session 90 — Deep into Candlemere
 
@@ -293,12 +307,12 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 
 ## Session 101 — The Heads Still Dream
 
-- Entering the **[[Thousandbreaths]]** — the Baleful Lantern. → [[Session 101 - The Heads Still Dream|Session 101]]
+- Already inside **[[Thousandbreaths]]** (they walked through the gate at the end of 100), the party spends the whole session finishing the Baleful Lantern fight; the [[Misbegotten Troll]] dies when [[Rindle (Construct)|Rindle]] detonates inside the Lantern. → [[Session 101 - The Heads Still Dream|Session 101]]
 
 ## Session 102 — The Undefeated
 
 - The road deeper through [[Thousandbreaths]]. At the **High Folly** the party faces [[Ilthuliak]], the black dragon, who **wakes her petrified army** rather than fight alone.
-- They reach the long stone bridge to the [[House at the Edge of Time]] — and the session ends looking at it. → [[Session 102 - The Undefeated]]
+- Ilthuliak dies; the session ends at her hoard, the party debating whether to rest. *(Milo absent.)* → [[Session 102 - The Undefeated]]
 
 ## Session 103 — The Shape of Where I Used to Be
 
@@ -329,6 +343,14 @@ In Freehaven's early days the PCs explore, map, and clear the surrounding region
 - Then [[Lucas]]'s *divine wrath* trips his **contingency** and **he simply leaves** — alive, healing, trophy and all, to **M6**. The throne was never contested.
 - The party rests 10 minutes, reaches **Level 2**, and walks into the **Great Hall (L1)**, where two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] burst out from under the tables. Ends **on initiative**. **The party is now level 18.** → [[Session 107 - I Cant Wait Until You Meet Her]]
 
+## Session 108 — That Is Not Yours *(the final session)*
+
+- The wyvern fight ends fast. [[The Wriggling Man]] returns mid-fight, the party immobilizes one wyvern while [[Milo]] **takes control of the other**, and the worm dies to **criticals from [[Lee]] and [[Pavel]]**. A search turns up nothing, and [[Lyriel's Stolen Jewelry|the locket]] is never found.
+- [[Astor]] remembers something odd behind the throne. The party returns to K17 and passes through the portal to a First World garden courtyard, where [[Nyrissa]] is holding [[Lyriel]].
+- A long negotiation in initiative, with the party split on whether to hand over [[Briar|Briara]]. [[Riven]] offers the sword for Lyriel, safe passage, and peace for [[Freehaven]]. **[[Pavel]] adds the friendship of the First World.** [[Lucas]] seals it with a hero-pointed **53**.
+- Pavel asks [[Astor]] to give the sword. Nyrissa frees Lyriel without bargaining, asks Briara if she wants to return, hears ***"yes"***, and is made whole in a blinding white light. **The campaign ends.** → [[Session 108 - That Is Not Yours]]
+
 ## Sources
 
 - [[_sources/processed/Kingmaker Timeline|Kingmaker Timeline]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

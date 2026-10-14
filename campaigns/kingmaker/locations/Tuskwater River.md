@@ -10,6 +10,7 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lizardfolk Village]]"
   - "[[Nightmarch]]"
+  - "[[Stolen Lands]]"
   - "[[Vesket]]"
 aliases: []
 status: accessible
@@ -19,7 +20,7 @@ created: "2026-06-17"
 
 # Tuskwater River
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: River
 > **Status**: Accessible
 

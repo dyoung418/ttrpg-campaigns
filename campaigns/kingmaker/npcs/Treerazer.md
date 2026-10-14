@@ -6,10 +6,12 @@ tags:
 sources: []
 related:
   - "[[Avennara]]"
+  - "[[Kyonin]]"
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Stolen Lands]]"
   - "[[Tanglebriar]]"
 aliases: []
 status: alive
@@ -23,7 +25,7 @@ created: "2026-05-29"
 
 > **Role**: Demon; occupier of the [[Tanglebriar]]
 > **Location**: [[Tanglebriar]], south of [[Avennara|Kyonin]]
-> **Status**: Active threat (to Kyonin; background to this campaign)
+> **Status**: Active threat (to [[Kyonin]]; background to this campaign)
 
 ## Description
 
@@ -45,5 +47,5 @@ Riven's framing: *"Kyonin is beautiful and full of exquisite art, but we let our
 ## GM Notes
 
 > [!secret] GM Only
-> - Treerazer is background lore for Riven's character, not an active threat to the Stolen Lands campaign. He explains *why* Riven recognizes evil and undead with such experienced eyes.
+> - Treerazer is background lore for Riven's character, not an active threat to the [[Stolen Lands]] campaign. He explains *why* Riven recognizes evil and undead with such experienced eyes.
 > - Could be invoked as a threat to Kyonin in future plot developments — news from home, a request for aid, or Lyriel/Faelir being endangered.

@@ -13,7 +13,7 @@ related:
   - "[[Session 102 - The Undefeated]]"
   - "[[Thousandbreaths]]"
 aliases: []
-status: hostile
+status: cleared
 region: "Thousandbreaths demiplane"
 created: "2026-06-03"
 ---
@@ -21,13 +21,13 @@ created: "2026-06-03"
 # Glade J — The High Folly
 
 > **Type**: Fey glade (Thousandbreaths)
-> **Status**: Hostile
+> **Status**: Cleared — [[Ilthuliak]] killed in [[Session 102 - The Undefeated|Session 102]]
 > **Anchor**: [[Ilthuliak]]
 > **Parent**: [[Thousandbreaths]]
 
 ## Summary
 
-Mossy stone statues of a petrified First World army surrounding a 300-foot white stone tower. [[Ilthuliak]] perches atop the tower. The acid lake below; a breath weapon (22d6 acid, 100-ft line) from a creature that circles overhead.
+Mossy stone statues of a petrified First World army surrounding a 300-foot white stone tower. [[Ilthuliak]] perched atop the tower *(killed in Session 102)*. The acid lake below; a breath weapon (22d6 acid, 100-ft line) from a creature that circles overhead.
 
 ## Three Aspects
 

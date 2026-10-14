@@ -8,6 +8,7 @@ sources: []
 related:
   - "[[Embeth Forest]]"
   - "[[King Irovetti]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[Talia]]"
   - "[[Talia's Revenge]]"
@@ -28,7 +29,7 @@ created: "2026-05-29"
 
 ## Background
 
-Rowan Half Dark seized leadership of [[The Few]] after the group's original leader was killed. A ruthless and ambitious man, he quickly transformed the band of freedom fighters into common bandits — targeting not just tyrants but anyone with wealth, and eventually hiring themselves out as enforcers for petty tyrants (including [[King Irovetti]] of Pitax).
+Rowan Half Dark seized leadership of [[The Few]] after the group's original leader was killed. A ruthless and ambitious man, he quickly transformed the band of freedom fighters into common bandits — targeting not just tyrants but anyone with wealth, and eventually hiring themselves out as enforcers for petty tyrants (including [[King Irovetti]] of [[Pitax]]).
 
 When Rowan ordered [[The Few]] to begin killing innocent civilians, [[Riven]] refused outright. Rowan responded by ordering a hit on Riven's life. After defeating the assassin, Riven confronted Rowan directly — and killed him.
 

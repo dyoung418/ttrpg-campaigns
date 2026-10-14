@@ -7,7 +7,10 @@ sources: []
 related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Nyrissa]]"
+  - "[[Riven]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 6 — Reflections While Traveling]]"
+  - "[[Stolen Lands]]"
   - "[[The Month of Destruction]]"
 aliases: []
 status: defeated
@@ -23,7 +26,7 @@ created: "2026-06-17"
 
 ## Summary
 
-A cult that discovered a scar in the barrier between the First World and the mortal world within the Stolen Lands, and exploited it through ritual to create the "Blooms" — plants that burst open to expel monsters into the kingdom.
+A cult that discovered a scar in the barrier between the First World and the mortal world within the [[Stolen Lands]], and exploited it through ritual to create the "Blooms" — plants that burst open to expel monsters into the kingdom.
 
 ## Goals
 

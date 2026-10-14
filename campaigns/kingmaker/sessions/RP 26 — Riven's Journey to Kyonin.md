@@ -20,7 +20,8 @@ related:
   - "[[Riven's Letter to Lyriel]]"
   - "[[Thaelirian]]"
 date: ""
-session_number: 26
+rp_number: 26
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -72,7 +73,7 @@ The full account of [[Riven]]'s three-month absence: he leads Freehaven's delega
 ## Notable Details / Flags
 
 - **Explains Riven's three-month absence** and the signing of the [[Freehaven-Kyonin Treaty]] (the in-vault treaty note matches this).
-- The emotional core of [[Lyriel's Wait]]: Lyriel **did** get [[Riven's Letter to Lyriel|the letter]]; her reasons for not coming to the tournament are now known. They part on *"the day after"* — a fragile, hopeful opening (cf. her later kidnapping, Session 100).
+- The emotional core of [[Lyriel's Wait]]: Lyriel **did** get the invitation letter (the second letter — not the sealed [[Riven's Letter to Lyriel|first one]] Astor still keeps); her reasons for not coming to the tournament are now known. They part on *"the day after"* — a fragile, hopeful opening (cf. her later kidnapping, Session 100).
 - Centers [[Lyriels Amulet]] (moon and rose) and confirms the [[Jameel Visser]] = "Jamal Visser" identity (both Embeth, both old friends of Riven).
 
 ## Sources

@@ -5,13 +5,18 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Embeth Forest]]"
   - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Ilthuliak]]"
   - "[[King Irovetti]]"
   - "[[Pavel]]"
   - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
   - "[[Stolen Lands]]"
+  - "[[Talia's Revenge]]"
+  - "[[The Few]]"
 aliases: []
 status: accessible
 region: "River Kingdoms"

@@ -11,6 +11,7 @@ related:
   - "[[Benedin]]"
   - "[[Bronzeshield Hold]]"
   - "[[Cat]]"
+  - "[[Cult of the Bloom]]"
   - "[[Hargulka]]"
   - "[[Hyram]]"
   - "[[Kingmaker Campaign Timeline]]"
@@ -22,7 +23,8 @@ related:
   - "[[Tors of Levenies]]"
   - "[[Varnhold]]"
 date: ""
-session_number: 6
+rp_number: 6
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -46,7 +48,7 @@ Marching toward Vordakai's domain under centaur escort, [[Riven]] voices his une
 
 ## Key Beats
 
-**Riven on Varnhold.** He condemns Varnhold's leaders for delving into ancient evils and for the flayed Nomen centaur skins — *"people like that don't deserve to rule"* — but admits to a hollowness inside: he came to do great deeds and has (Stag Lord, Cult of the Bloom, Hargulka), yet it never filled him.
+**Riven on Varnhold.** He condemns Varnhold's leaders for delving into ancient evils and for the flayed Nomen centaur skins — *"people like that don't deserve to rule"* — but admits to a hollowness inside: he came to do great deeds and has (Stag Lord, [[Cult of the Bloom]], Hargulka), yet it never filled him.
 
 **Benedin pushes back.** [[Benedin]] warns against judging the dead before knowing their story, then shares his own: his dwarven clan held these mountains before the name Aldori was known; he trained as clan **lorekeeper** until trolls with unexpected magic (veils, glamours, stone-shaping) overran them.
 
@@ -63,7 +65,7 @@ Marching toward Vordakai's domain under centaur escort, [[Riven]] voices his une
 - [[Benedin]] — (played by Astor) shares his clan's fall to the trolls; defends the Varnholders
 - [[Aecora]] — admired by Riven as fiercely protective of the Nomen
 - [[Amara]] — cited by Riven (*"I think Amara was right"*)
-- [[Hyram]] — Astor's mount, along on the march
+- [[Hyram]] — [[Benedin]]'s goat and mount, along on the march
 
 ## Locations
 

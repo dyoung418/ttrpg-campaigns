@@ -51,7 +51,6 @@ One of [[Lee]]'s many younger siblings. Notable mainly for having quietly opted 
 
 ## Plot Hooks Involved
 
-- [[]]
 
 ## GM Notes
 

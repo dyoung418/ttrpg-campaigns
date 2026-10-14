@@ -8,6 +8,7 @@ related:
   - "[[Eri Malai]]"
   - "[[King Irovetti]]"
   - "[[Nightmarch]]"
+  - "[[Pitax]]"
   - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
   - "[[Saint Flint]]"
 aliases: []
@@ -21,7 +22,7 @@ created: "2026-05-30"
 
 # Engelidis
 
-> **Role**: Naga; former Pitax palace resident
+> **Role**: Naga; former [[Pitax]] palace resident
 > **Location**: In transit — was being escorted to [[Nightmarch]] by [[Eri Malai]] post-war
 > **Status**: Alive
 

@@ -8,6 +8,7 @@ related:
   - "[[Astor]]"
   - "[[Briar]]"
   - "[[Cat]]"
+  - "[[Freehaven]]"
   - "[[Jolia Aldori]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
@@ -15,6 +16,7 @@ related:
   - "[[Oaktop]]"
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"
+  - "[[Restov]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 23 — Deep Under Candlemere]]"
@@ -23,20 +25,22 @@ related:
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
+  - "[[The Stag Lord's Fort]]"
   - "[[The Sword and the Suitor]]"
+  - "[[Varnhold]]"
 aliases: []
 status: alive
 role: "Visitor from Restov; Aldori family connection"
 faction: ""
-location: "Restov (visiting Nightmarch)"
-first_appeared: "Great Feast of Freehaven"
+location: "Varnhold (originally from Restov)"
+first_appeared: "The Hunting Competition (Session 30)"
 created: "2026-05-29"
 ---
 ![[edina aldori.png]]
 # Edina Aldori
 
-> **Role**: Visitor from Restov; Aldori family connection
-> **Location**: Restov (visiting [[Nightmarch]] for the feast)
+> **Role**: Visitor from [[Restov]]; Aldori family connection
+> **Location**: [[Varnhold]] — originally from [[Restov]]
 > **Status**: Alive
 
 ## Description
@@ -53,7 +57,7 @@ Niece of [[Lady Jamandi Aldori]]. Both Edina and her sister were invited to the 
 
 [[Pavel]] was there through all of it: the fight, the failure to save her, and the aftermath. He later sought Edina out in Restov — going looking for glimpses of her, moments with her — convinced she wouldn't remember him and that he was beneath her station. He was wrong on both counts.
 
-At the Great Feast of Freehaven, she performed **The Sword and the Suitor** in the impromptu dance circle, using a **Pavel Stick** as the Sword and demonstrating clear mastery of the Lady's role. She chose [[Astor]] as her Suitor over the visiting Restov nobles. Shortly after the dance, Pavel — drunk and working toward a confrontation — stalked across the hall. She stepped between him and Astor. *"Pavel? Are you okay?"* He fell to his knees and vomited on her boots.
+At the Great Feast of [[Freehaven]], she performed **[[The Sword and the Suitor]]** in the impromptu dance circle, using a **Pavel Stick** as the Sword and demonstrating clear mastery of the Lady's role. She chose [[Astor]] as her Suitor over the visiting Restov nobles. Shortly after the dance, Pavel — drunk and working toward a confrontation — stalked across the hall. She stepped between him and Astor. *"Pavel? Are you okay?"* He fell to his knees and vomited on her boots.
 
 ## The Sister
 
@@ -100,7 +104,7 @@ She wore new boots that day. She told him the old ones had been due for replacem
 
 ## Session History
 
-- First appeared: Great Feast of Freehaven — verbal sparring with Astor; dancing the Sword and the Suitor; stepping between Pavel and Astor; addressed Pavel by name; boots ruined
+- First appeared: the Hunting Competition (Session 30), where her sister [[Jolia Aldori]] died. Then the Great Feast of Freehaven — verbal sparring with Astor; dancing the Sword and the Suitor; stepping between Pavel and Astor; addressed Pavel by name; boots ruined
 - **RP25 — Before the Latest Bloom** ("Edina Shoots Her Shot"): traveled to [[Nightmarch]] before the party marched; confessed her feelings to [[Pavel]] directly; mutually accepted "friendship"; helped him fasten his pack; told [[Cat]] to take care of him
 - **RP25.1 — Pavel's Confusion** (offscreen, via Pavel): days later, [[Pavel]] is still turning her words over — interrogating [[Astor]] about what a woman means by wanting to be "friends" on the eve of the [[Oaktop]] battle. He hasn't reached back to her yet. See [[RP 25.1 — Pavel's Confusion]].
 

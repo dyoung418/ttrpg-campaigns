@@ -38,7 +38,6 @@ players_present:
   - Darren (Pavel)
   - Slava (Astor)
   - Jon (Lucas)
-  - Billy (Milo)
   - Tom (Lee)
 created: "2026-06-09"
 ---

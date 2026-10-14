@@ -3,7 +3,8 @@ type: faction
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Aecora]]"
   - "[[Almon's Hunt for Cassandra]]"
@@ -12,42 +13,56 @@ related:
   - "[[Astor]]"
   - "[[Avennara]]"
   - "[[Benedin]]"
+  - "[[Beneford]]"
+  - "[[Briar]]"
   - "[[Bronzeshield Hold]]"
+  - "[[Brumble]]"
   - "[[Carandini Family]]"
   - "[[Cassandra]]"
+  - "[[Edina Aldori]]"
   - "[[Ekundayo]]"
   - "[[Embeth Forest]]"
+  - "[[Eri Malai]]"
   - "[[Fort Drevlev]]"
+  - "[[Freehaven-Kyonin Treaty]]"
   - "[[Gaspere Liacenza]]"
   - "[[Golden Talons]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[Grigori]]"
   - "[[Groetus]]"
   - "[[Hannis Drevlev]]"
   - "[[Hargulka]]"
   - "[[Harrim]]"
+  - "[[House at the Edge of Time]]"
   - "[[Iron Wraiths]]"
+  - "[[Jameel Visser]]"
   - "[[Jubilost Narthropple]]"
   - "[[King Irovetti]]"
   - "[[King Vesket]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
+  - "[[Kyonin]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Lee]]"
   - "[[Leveton]]"
   - "[[Linzi]]"
   - "[[Lizardfolk Village]]"
   - "[[Lucas]]"
+  - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
   - "[[Maegar Varn]]"
   - "[[Melianse]]"
   - "[[Milo]]"
   - "[[Nagaji Monastic Order]]"
   - "[[Nightmarch]]"
   - "[[Nomen Centaurs]]"
+  - "[[Nomen Heights]]"
   - "[[Nyrissa]]"
   - "[[Octavia]]"
   - "[[Oleg Leveton]]"
   - "[[Oleg's Trading Post]]"
   - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
   - "[[Pavel's Parentage]]"
   - "[[Pitax]]"
   - "[[Restov]]"
@@ -61,22 +76,30 @@ related:
   - "[[RP 24 — A Politician's Day]]"
   - "[[RP 26 — Riven's Journey to Kyonin]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
   - "[[Serenko]]"
   - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
   - "[[Stag Lord's Helm]]"
+  - "[[Starberry Press]]"
   - "[[Stolen Lands]]"
   - "[[Svetlana Leveton]]"
   - "[[Talia]]"
   - "[[Talia's Revenge]]"
   - "[[Tamary Numesti]]"
+  - "[[Terrion Numesti]]"
+  - "[[The Arsonist of Bronzeshield Hold]]"
   - "[[The Few]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Lantern King]]"
+  - "[[The Month of Destruction]]"
   - "[[The Old Beldame]]"
   - "[[The Stag Lord]]"
+  - "[[The Stag Lord's Fort]]"
+  - "[[The Sword and the Suitor]]"
   - "[[The Temple of the Elk]]"
   - "[[Tiger Lords]]"
+  - "[[Tol-Kin]]"
   - "[[Tovan]]"
   - "[[Varnhold]]"
   - "[[Vesket]]"
@@ -96,7 +119,7 @@ created: 2026-05-29
 ![[freehaven-flag.png]]
 ## Summary
 
-Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from a royal charter granted by [[Lady Jamandi Aldori]] of Brevoy. What started as a small barony formed after defeating the [[The Stag Lord|Stag Lord]] has grown into a recognized kingdom spanning the Stolen Lands. Its governance is an oligarchy led by the PCs themselves.
+Freehaven is the kingdom founded by the PCs in the [[Stolen Lands]], beginning from a royal charter granted by [[Lady Jamandi Aldori]] of Brevoy. What started as a small barony formed after defeating the [[The Stag Lord|Stag Lord]] has grown into a recognized kingdom spanning the Stolen Lands. Its governance is an oligarchy led by the PCs themselves.
 
 ## Leadership
 
@@ -115,7 +138,7 @@ Freehaven is the kingdom founded by the PCs in the Stolen Lands, beginning from 
 ## Major Settlements
 
 - [[Nightmarch]] — Capital
-- [[Leveton]] — Bustling trade town (grew from Oleg's Trading Post)
+- [[Leveton]] — Bustling trade town (grew from [[Oleg's Trading Post]])
 - [[Vesket]] — Lizardfolk/human integrated town; lumber and boat trade
 - [[Serenko]] — Industrial hub; stone masons and lumberyards
 - [[Silverstep]] — Scholarly lakeside town
@@ -130,10 +153,14 @@ Founded after the PCs defeated the [[The Stag Lord|Stag Lord]] and received the 
 
 ## Goals
 
-1. Defend and grow the kingdom against threats (currently: [[Nyrissa]] and the blooms)
+1. Defend and grow the kingdom against threats (the [[Nyrissa]] threat ended by treaty in [[Session 108 - That Is Not Yours|Session 108]])
 2. Maintain stability and prosperity for all citizens, including integrated communities
 
 ## Relationships to Other Factions
 
 - [[Nomen Centaurs]] — allied; joined Freehaven after the PCs rescued the ruler's daughter from [[Vordakai]]
-- [[Nyrissa]] — existential threat; she seeks to absorb the entire kingdom as the 1,000th grain in the Apology
+- [[Nyrissa]] — formerly the existential threat (Freehaven was meant to be the 1,000th kingdom of the Apology). **At peace since [[Session 108 - That Is Not Yours|Session 108]]:** in exchange for [[Briar|Briara]], she freed [[Lyriel]], granted safe passage home, agreed to stop interfering with Freehaven, and accepted [[Pavel]]'s demand for the First World's friendship for as long as the founders live and are remembered
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

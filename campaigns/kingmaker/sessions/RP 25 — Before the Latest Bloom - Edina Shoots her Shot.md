@@ -17,9 +17,11 @@ related:
   - "[[Pavel and Edina]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
+  - "[[The Stag Lord's Fort]]"
   - "[[The Sword and the Suitor]]"
 date: ""
-session_number: 25
+rp_number: 25
+session_number:
 status: complete
 players_present:
   - "[[Pavel]]"

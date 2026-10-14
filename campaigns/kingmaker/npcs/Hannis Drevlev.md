@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Armag Reborn]]"
   - "[[Ekundayo]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
@@ -20,6 +21,7 @@ related:
   - "[[Pitax]]"
   - "[[RP 16 — Drevlev Infiltrations]]"
   - "[[Satinder Morne]]"
+  - "[[Stolen Lands]]"
   - "[[Tamary Numesti]]"
   - "[[Terrion Numesti]]"
   - "[[The Founding of Freehaven]]"
@@ -44,7 +46,7 @@ created: "2026-05-29"
 
 ## Background
 
-One of the adventurers who received a charter from [[Lady Jamandi Aldori]] to settle the Stolen Lands, alongside the PCs. Unlike the PCs, Drevlev turned treacherous — he began conspiring against [[Freehaven]] by allying with [[Pitax]] (under [[King Irovetti]]) and the Tiger Lords. The PCs defeated both groups and Fort Drevlev was absorbed into Freehaven.
+One of the adventurers who received a charter from [[Lady Jamandi Aldori]] to settle the [[Stolen Lands]], alongside the PCs. Unlike the PCs, Drevlev turned treacherous — he began conspiring against [[Freehaven]] by allying with [[Pitax]] (under [[King Irovetti]]) and the Tiger Lords. The PCs defeated both groups and Fort Drevlev was absorbed into Freehaven.
 
 ## Relationships
 

@@ -17,7 +17,7 @@ aliases: []
 status: deceased
 role: "Pitax military commander — Golden Talons vanguard"
 faction: "Pitax (former)"
-location: "Unknown — last seen at the meadow outside Silverstep"
+location: "Dead — fell at [[Willowshade]]"
 first_appeared: "Battle of the Silverstep Meadow (Pitax War)"
 created: "2026-05-30"
 ---
@@ -25,9 +25,9 @@ created: "2026-05-30"
 # Lord Darian
 
 > **Role**: Commander — [[Golden Talons]] vanguard
-> **Location**: Unknown
+> **Location**: Dead — fell at [[Willowshade]]
 > **Faction**: [[Pitax]] (formerly)
-> **Status**: Unknown — fate at Silverstep unresolved
+> **Status**: Deceased — killed by [[Riven]]'s flaming arrow at [[Willowshade]] ([[RP 22 — The Rest of the Battle of Silverstep|RP22]])
 
 ## Description
 

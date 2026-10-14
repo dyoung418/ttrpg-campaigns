@@ -5,23 +5,28 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Amulet of the Fey Ward]]"
   - "[[Astor]]"
   - "[[Briar]]"
   - "[[Cat]]"
   - "[[Edina Aldori]]"
   - "[[Glade J — The High Folly]]"
+  - "[[Harrim]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Jolia Aldori]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Kyonin]]"
   - "[[Lee]]"
   - "[[Linzi]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
   - "[[Milo]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
   - "[[Riven]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 106 - The Thing He Wears]]"
@@ -30,6 +35,7 @@ related:
   - "[[The Horned Hunter]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
+  - "[[Vesket]]"
 date: 2026-05-30
 session_number: 100
 status: complete
@@ -46,7 +52,7 @@ created: 2026-05-30
 # Session 100 — She Dropped Your Letter
 
 > **Date**: 2026-05-30
-> **Status**: Planned
+> **Status**: Complete
 > **Previous Session**: *(vault tracking begins here)*
 
 ---
@@ -59,11 +65,11 @@ created: 2026-05-30
 | [[Pavel]] | Darren | Half-Elf Rogue/Beastmaster — Warden | Protect the party; carry Briar forward | — |
 | [[Astor]] | Slava | Human Guardian — Counselor | Keep everyone alive; protect what was built | — |
 | [[Lucas]] | Jon | Kitsune Oracle/Bard — Magister | Understand what they're walking into | — |
-| [[Milo]] | Billy | Halfling Inventor — Treasurer | Get to the House; Rindle freshly repaired | — |
+| [[Milo]] | Billy | Halfling Inventor — Treasurer | Get to the House; [[Rindle (Construct)\|Rindle]] freshly repaired | — |
 | [[Lee]] | Tom | Woodland Elf Swashbuckler — General | Kill the dragon | — |
 
 *Arc notes relevant to this session:*
-- **Riven**: The cruelest possible timing — Lyriel chose to come of her own accord, after months of correspondence following his reunion with her in Kyonin. She arrived at his gate without fanfare, without an invitation to answer. She came because she decided to. He will know what the Sending means the moment he hears "your handwriting... addressed to Lyriel." He will have to keep fighting a bloom while he absorbs it.
+- **Riven**: The cruelest possible timing — Lyriel chose to come of her own accord, after months of correspondence following his reunion with her in [[Kyonin]]. She arrived at his gate without fanfare, without an invitation to answer. She came because she decided to. He will know what the Sending means the moment he hears "your handwriting... addressed to Lyriel." He will have to keep fighting a bloom while he absorbs it.
 - **Pavel**: Carries [[Briar]] and knows the worst is coming. Sat at the Candlemere star pit and thought *"it better be worth it."* Walking through the Byway arch will make the sword blaze green in his hands — a public signal that something has shifted.
 - **Astor**: Back from retirement. He has a family to protect and holds Riven's letter to [[Lyriel]] in safekeeping. The stakes of this session are everything he came back for.
 - **Lee**: Hates aerial foes. [[Ilthuliak]] is a gargantuan flying dragon. This is Lee's nightmare fight — and his chance to define himself against it.
@@ -167,7 +173,7 @@ Riven understands before anyone asks. She came of her own choosing. And she is g
 
 | Item                   | For Character     | Story Connection                                                                                                                                                                                                                              |
 | ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Amulet of the Fey Ward | Party (to assign) | Found in [[Ilthuliak]]'s hoard; fey-made, old, feels protective — the party won't automatically know its specific power. It wards the wearer against the [[House at the Edge of Time]]'s teleport trap. Let them discover it when it matters. |
+| [[Amulet of the Fey Ward]] | Party (to assign) | Found in [[Ilthuliak]]'s hoard; fey-made, old, feels protective — the party won't automatically know its specific power. It wards the wearer against the [[House at the Edge of Time]]'s teleport trap. Let them discover it when it matters. |
 
 ---
 
@@ -189,7 +195,7 @@ Riven understands before anyone asks. She came of her own choosing. And she is g
 > **Session cliffhanger:**
 > The party defeats Ilthuliak, earns the bridge, and sees the House across the water. Tarlaxian is coiled at the far end. The faces on the doors are laughing, frowning, frightened. Somewhere inside, Lyriel is alive. End there.
 >
-> **Lyriel's Wait plot hook:**
+> **[[Lyriel's Wait]] plot hook:**
 > Update status to `resolving` after this session — the wait is over, but not in any way she or Riven imagined.
 >
 > ---
@@ -199,7 +205,7 @@ Riven understands before anyone asks. She came of her own choosing. And she is g
 **What actually happened:**
 After getting the Sending, Riven believed that the abduction was in progress and wanted to teleport there immediately to try to save Lyriel.  Lucas started the teleport spell from the scroll, but it takes 10 minutes and by the time they finished it, the battle with the two remaining trolls was done (and the team was able to heal and prepare for what they thought would be a battle)
 
-However, when they got to the gates of Nightmarch, they found Linzi, Harrim and town guards there.  The abduction had happened 1 hour earlier and they were still investigating.
+However, when they got to the gates of Nightmarch, they found Linzi, [[Harrim]] and town guards there.  The abduction had happened 1 hour earlier and they were still investigating.
 
 The PCs questioned the guards.  The kidnappers had been invisible and became visible when they attacked Lyriel.  A battle ensued with gate guards during which one troll and several guards were killed.  The kidnappers escaped with Lyriel by going out the gate and eventually teleporting.
 
@@ -216,7 +222,7 @@ The session ended with the PCs surrounded by Smiledons, but still holding their 
 Lyriel's kidnapping
 
 **Threads closed:**
-The town of Vesket under attack.
+The town of [[Vesket]] under attack.
 
 **Next session setup:**
 
@@ -236,6 +242,6 @@ Pavel went completely still. Then suspicion: *"Did Astor put you up to this?"* �
 
 She lifted his pack and held it for him; he obediently slipped his arms through; she tightened the front lashings the way he would have done. Hand on his shoulder: *"Be careful. I don't want our new friendship to end just as it's getting started."* She told Cat to take care of him and walked away.
 
-*Status after the scene:* Pavel and Edina are explicitly "friends" — both knowing it is more. Cat chose Edina without hesitation. Pavel will carry this with him through the march, the Sending, and the bloom.
+*Status after the scene:* [[Pavel and Edina]] are explicitly "friends" — both knowing it is more. Cat chose Edina without hesitation. Pavel will carry this with him through the march, the Sending, and the bloom.
 
 *Source:* `_sources/processed/RP25 Before the Latest Bloom - Edina Shoots her Shot.md`

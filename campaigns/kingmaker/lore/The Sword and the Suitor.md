@@ -7,6 +7,11 @@ sources: []
 related:
   - "[[Astor]]"
   - "[[Edina Aldori]]"
+  - "[[Freehaven]]"
+  - "[[Linzi]]"
+  - "[[Nightmarch]]"
+  - "[[Pavel]]"
+  - "[[Restov]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
@@ -15,7 +20,7 @@ created: "2026-05-29"
 
 # The Sword and the Suitor
 
-A traditional courtly dance performed at celebrations, apparently well-known among Brevic and Restov nobility.
+A traditional courtly dance performed at celebrations, apparently well-known among Brevic and [[Restov]] nobility.
 
 ## Structure
 
@@ -29,11 +34,11 @@ A traditional courtly dance performed at celebrations, apparently well-known amo
 
 - The Lady chooses her Suitor from the crowd — the choice carries social weight
 - The dance is as much about reading another person as it is about movement
-- A Pavel Stick is apparently a functional substitute for a sword
-- [[Edina Aldori]] demonstrated mastery of the Lady's role at the Great Feast of Freehaven; [[Astor]] showed he knew the Suitor's role well and had clearly practiced it before his "retirement" from court life
+- A [[Pavel]] Stick is apparently a functional substitute for a sword
+- [[Edina Aldori]] demonstrated mastery of the Lady's role at the Great Feast of [[Freehaven]]; [[Astor]] showed he knew the Suitor's role well and had clearly practiced it before his "retirement" from court life
 
 ## Full Role-play text
-Lady Jamandi slips away into the night amidst the commotion after Riven's announcement of the upcoming Tournament of Nightmarch, so Pavel declares himself officially off duty.  He orders a large ale, quaffs half of it, wipes his mouth with the back of his hand, and prepares to head out into the darkness.
+Lady Jamandi slips away into the night amidst the commotion after Riven's announcement of the upcoming Tournament of [[Nightmarch]], so Pavel declares himself officially off duty.  He orders a large ale, quaffs half of it, wipes his mouth with the back of his hand, and prepares to head out into the darkness.
 
 His attention is caught, however, before he can rise more than halfway from the bench.  His table has an elevated vantage from which to look at the rest of the hall, so he can see a crowd of young people surrounding Astor Medvyed.  One face in particular stands out:  Edina Aldori, the raven-haired human swordlord, appears to be looking pensively into the dark corner of the hall where Pavel is half-standing.  Is she looking at me?
 
@@ -55,7 +60,7 @@ The crowd cheers again, and Pavel sees that Edina has entered the circle.  She p
 
 He watches, entranced, as Edina begins a complicated series of dance steps.  Pavel had half-expected her to demonstrate a dueling sword form, but this is something more intricate – and sensuous.  The footwork is reminiscent of sword training, but her body movements and arm motions are different.  As she dances, she turns a slow circle clockwise, making the occasional sweeping strike or sharp jab.  In her hands, the Pavel Stick alternates between being a weapon and a partner with whom she dances.
 
-Linzi appears at Pavel’s elbow, hopping up and down excitedly.  “Oh!  The Sword and the Suitor.  I haven’t seen this dance in ages.  I wonder who she’ll pick as Suitor?”  She slides a drink over to Pavel and picks up her own.  “Cheers!”  Pavel numbly picks up the tankard and takes a gulp, eyes never leaving the dance floor.  After a moment, Linzi – who had been holding her small mug in the air – shrugs and takes a drink herself.
+[[Linzi]] appears at Pavel’s elbow, hopping up and down excitedly.  “Oh!  The Sword and the Suitor.  I haven’t seen this dance in ages.  I wonder who she’ll pick as Suitor?”  She slides a drink over to Pavel and picks up her own.  “Cheers!”  Pavel numbly picks up the tankard and takes a gulp, eyes never leaving the dance floor.  After a moment, Linzi – who had been holding her small mug in the air – shrugs and takes a drink herself.
 . 
 Edina finishes with a complicated series of foot motions and sweeps her arms up to the sky.  She poses briefly, the Pavel Stick – which he realizes must represent the Sword in the dance title – swept upward.  On cue, the crowd goes quiet and breathless.  Edina sweeps the Sword downward in a graceful motion, pointing at Astor, and the crowd erupts into cheers.  Most of the young men look disappointed, although a few seem relieved.
 

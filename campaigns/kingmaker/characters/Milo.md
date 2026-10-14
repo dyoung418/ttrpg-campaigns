@@ -3,7 +3,8 @@ type: character
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
@@ -16,8 +17,10 @@ related:
   - "[[Ghostly Guards]]"
   - "[[Glimmerhaven]]"
   - "[[House at the Edge of Time]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Milo's Lost Brother]]"
+  - "[[Misbegotten Troll]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"
   - "[[Rindle]]"
@@ -122,8 +125,14 @@ Milo Tinkerfoot's belief system revolves around the pursuit of justice, the prot
 
 > [!todo] Needs content
 
+- **Taking the wyvern ([[Session 108 - That Is Not Yours|Session 108]])**: In the Great Hall, when [[The Wriggling Man]] dropped back into the fight, Milo **took control of one of the [[Barbtongued Wyverns]]** outright while the party immobilized the other, then turned his inventory into **explosive splash damage** on the worm, which was its known weakness. Pavel's speech named what [[Briar|Briara]] had been to him: *"To Milo, she acts like a mother figure."*
+
 ## Current Status
 
 **Level**: 18
 **Notable equipment**:
 **Conditions / ongoing effects**:
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

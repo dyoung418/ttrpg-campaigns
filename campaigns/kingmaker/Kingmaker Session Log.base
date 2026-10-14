@@ -7,6 +7,8 @@ filters:
 properties:
   session_number:
     displayName: "Session #"
+  rp_number:
+    displayName: "RP #"
   date:
     displayName: Date
   status:
@@ -20,5 +22,6 @@ views:
     order:
       - file.name
       - session_number
+      - rp_number
       - date
       - status

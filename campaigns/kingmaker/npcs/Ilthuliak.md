@@ -8,11 +8,15 @@ tags:
 sources: []
 related:
   - "[[Amulet of the Fey Ward]]"
+  - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Fox-Head Pendant]]"
   - "[[Glade J — The High Folly]]"
   - "[[House at the Edge of Time]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Mivon]]"
   - "[[Nyrissa]]"
+  - "[[Pitax]]"
+  - "[[River Kingdoms]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
@@ -21,6 +25,9 @@ related:
   - "[[The Month of Destruction]]"
   - "[[Thousandbreaths]]"
 status: deceased
+role: "Black dragon of the High Folly; one of Nyrissa's allies"
+faction: "[[Nyrissa]]"
+location: "[[Glade J — The High Folly]] (Thousandbreaths)"
 created: "2026-05-29"
 ---
 
@@ -28,7 +35,7 @@ created: "2026-05-29"
 
 **Creature 21** | Unique, CE, Gargantuan, Acid, Amphibious, Dragon (Variant female black dragon)
 
-A legendary black dragon who terrorized the River Kingdoms, Pitax, Mivon, Numeria, and Brevoy in her youth. She murdered every dragonslayer who hunted her. Two decades ago, [[Nyrissa]] wooed her to relocate her lair to **the High Folly (Glade J)** in [[Thousandbreaths]] with promises of power, treasure, and glory. Nyrissa has kept those promises.
+A legendary black dragon who terrorized the [[River Kingdoms]], [[Pitax]], [[Mivon]], Numeria, and Brevoy in her youth. She murdered every dragonslayer who hunted her. Two decades ago, [[Nyrissa]] wooed her to relocate her lair to **the High Folly (Glade J)** in [[Thousandbreaths]] with promises of power, treasure, and glory. Nyrissa has kept those promises.
 
 She is the anchor for Glade J. Defeating her drops the uprooting DC by 4.
 

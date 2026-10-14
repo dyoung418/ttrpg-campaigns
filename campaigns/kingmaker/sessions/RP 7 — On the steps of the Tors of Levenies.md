@@ -25,9 +25,11 @@ related:
   - "[[Tanglebriar]]"
   - "[[Tors of Levenies]]"
   - "[[Treerazer]]"
+  - "[[Varnhold]]"
   - "[[Vordakai]]"
 date: ""
-session_number: 7
+rp_number: 7
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -60,7 +62,7 @@ Camped on the cursed stairs, the party debates whether they're ready for what wa
 
 **Pavel the sentinel.** Pavel rejects "end goals": *"I'm going to kill some dead things, or I'm going to die."* He tallies the growing "pack" — the six of them, plus [[Cat]], [[Rindle (Construct)|Rindle]], [[Bird]], Astor, [[Brumble]] (*"a little chubby to be a defender these days"*).
 
-**Riven names the enemy.** Varnhold, the Nomen, and their research all point to **[[Vordakai]]**, an ancient undead necromancer. Riven also admits the great regret of his life: he *"let myself get distracted by love just once"* — a first hint of [[Lyriel]].
+**Riven names the enemy.** [[Varnhold]], the Nomen, and their research all point to **[[Vordakai]]**, an ancient undead necromancer. Riven also admits the great regret of his life: he *"let myself get distracted by love just once"* — a first hint of [[Lyriel]].
 
 ## Characters Present / Mentioned
 

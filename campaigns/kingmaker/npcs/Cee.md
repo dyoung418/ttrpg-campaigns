@@ -50,7 +50,6 @@ Grew up as the third of nineteen siblings and rose to become the family's Court 
 
 ## Plot Hooks Involved
 
-- [[]]
 
 ## GM Notes
 

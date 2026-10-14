@@ -2,30 +2,40 @@
 type: campaign-index
 campaign: kingmaker
 tags: []
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related: []
 system: "Pathfinder 2e"
 created: "2026-05-29"
-status: active
+status: complete
 ---
 
 # Kingmaker
 
 > **System**: Pathfinder 2e
-> **Status**: Active
+> **Status**: Complete. The campaign ended in [[Session 108 - That Is Not Yours|Session 108]].
 > **Created**: 2026-05-29
 
 ## Campaign Premise
 
-A band of mercenaries builds a kingdom from the lawless Stolen Lands, unaware they are the final piece in a centuries-old fey queen's tragic scheme to reclaim her stolen soul.
+A band of mercenaries builds a kingdom from the lawless [[Stolen Lands]], unaware they are the final piece in a centuries-old fey queen's tragic scheme to reclaim her stolen soul.
 
 ## Current State
 
-The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They cut through the glades, crossed [[The Rimebridge]] past [[Tarlaxian]], and are now **deep inside the [[House at the Edge of Time]]** — the gate forgiven open, the courtyard **skipped** (they went in by a side door, leaving the Elite Sard alive and unfought), and the Throne Room (K17) reached by way of the Lower Hall, the salon, and a taxidermy bear that exploded.
+> [!success] **The campaign is over ([[Session 108 - That Is Not Yours|Session 108]]).**
+> [[The Wriggling Man]] and Nyrissa's [[Barbtongued Wyverns|wyverns]] died in the Great Hall. The party went
+> through the throne portal to [[Nyrissa]] and, after a long and divided negotiation, **gave
+> [[Briar|Briara]] back to her** in exchange for [[Lyriel]]'s freedom, safe passage home, peace for
+> [[Freehaven]], and the friendship of the First World. [[Astor]] gave the sword; Briara chose to go;
+> Nyrissa was made whole. *"The adventure began with the friendship of these six... and now almost twenty
+> years later the friendship of these same six stood against the hatred of Nyrissa and extended that
+> friendship to Nyrissa."*
 
-**As of [[Session 107 - I Cant Wait Until You Meet Her|Session 107]]** the throne-room fight is over and **[[The Wriggling Man]] got away** — he fired his contingency and translocated out rather than dying, taking [[Lyriel's Stolen Jewelry|Lyriel's stolen jewelry]] with him. He is **alive, at large, and healing** somewhere in the House. Before he left he spoke for the first time, and what he said reframes the campaign: ***"Narissa was right to bring you here. I can't wait until you meet her."*** — the march on Thousandbreaths may have been an **invitation**, not a pursuit.
+*State going into 108:* The kingdom of [[Freehaven]] is at its height, spanning the full Stolen Lands including [[Pitax]] and [[Fort Drevlev]]. [[Nyrissa]]'s bloom assault — [[The Month of Destruction]] — has been weathered, and it drove the party into [[Thousandbreaths]], her demiplane. They cut through the glades, crossed [[The Rimebridge]] past [[Tarlaxian]], and are now **deep inside the [[House at the Edge of Time]]** — the gate forgiven open, the courtyard **skipped** (they went in by a side door, leaving the Elite Sard alive and unfought), and the Throne Room (K17) reached by way of the Lower Hall, the salon, and a taxidermy bear that exploded.
 
-[[Lyriel]] is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c), through the very throne he was defending — so the rescue and the campaign's central choice about the Queen are now the **same scene**. The throne was never contested and that portal is still shut. The party is now **level 18**, on **Level 2 of the House**, and in initiative against two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] in the Great Hall. The sword [[Briar|Briara]] has fully awakened, *speaks*, and carries Nyrissa's stolen authority.
+**As of [[Session 107 - I Cant Wait Until You Meet Her|Session 107]]** the throne-room fight is over and **[[The Wriggling Man]] got away** — he fired his contingency and translocated out rather than dying, taking [[Lyriel's Stolen Jewelry|Lyriel's stolen jewelry]] with him. He was alive, at large, and healing somewhere in the House. Before he left he spoke for the first time, and what he said reframes the campaign: ***"Narissa was right to bring you here. I can't wait until you meet her."*** — the march on Thousandbreaths may have been an **invitation**, not a pursuit.
+
+[[Lyriel]] was held **with [[Nyrissa]] herself** in the moonlit plaza (M7c), through the very throne he was defending — so the rescue and the campaign's central choice about the Queen became the **same scene**. The party was **level 18**, on **Level 2 of the House**, and in initiative against two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] in the Great Hall. The sword [[Briar|Briara]] had fully awakened, *spoke*, and carried Nyrissa's stolen authority.
 
 ## The Party
 
@@ -58,30 +68,30 @@ Live Bases views over this campaign's notes.
 
 ## Key NPCs
 
-**Current Threats**
-- [[Nyrissa]] — The Heartless Queen, true villain; nymph queen seeking to complete the Apology
-- [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks. **ESCAPED (107) — at large in the House and healing.** Fought across 106–107, then fired his contingency rather than dying. The fey who took Lyriel at the gate; still carries a piece of her jewelry, which **sinks into his chest and cannot be stolen**. A rematch is owed — and his one escape is spent
-- [[Barbtongued Wyverns]] — Nyrissa's two pets in the Great Hall (L1). **Combat live — 108 resumes in initiative**
+**The Antagonists** *(the campaign is over — final states, [[Session 108 - That Is Not Yours|Session 108]])*
+- [[Nyrissa]] — The Heartless Queen, true villain; sought to complete the Apology. **Forgiven and made whole** when the party gave Briara back; at peace with Freehaven
+- [[The Wriggling Man]] — Nyrissa's arcane advisor; worm that walks. The fey who took Lyriel at the gate. Escaped the throne-room fight in 107, then **killed in the Great Hall in 108** (crits from Lee and Pavel). Lyriel's jewelry was never found on him
+- [[Barbtongued Wyverns]] — Nyrissa's two pets in the Great Hall (L1). **Both killed in 108** (one immobilized, one taken over by Milo)
 - [[Tarlaxian]] — Tarn linnorm guarding [[The Rimebridge]] to the House; reskinned to frost as a solo boss
 - [[The Knurly Witch]] — Annis hag cleric; Glade H and Cellar K16
-- [[Ilthuliak]] — Black dragon; Glade J (High Folly)
+- [[Ilthuliak]] — Black dragon; Glade J (High Folly). **Killed in Session 102**
 - [[Phomandala]] — Medusa sorcerer; Ruined Halls M3
-- [[The Lantern King]] — the Eldest who broke Nyrissa and set the Apology bargain; behind the throne, not yet on-stage; becomes the next threat if Nyrissa falls (Chapter 11)
+- [[The Lantern King]] — the Eldest who broke Nyrissa and set the Apology bargain; never on-stage. Nyrissa was restored, not slain, so the Chapter 11 threat never materialized
 
 **Allies & Campaign NPCs**
 - [[Lady Jamandi Aldori]] — Noble patron; charter-grantor; attended Great Feast in disguise; seeking cautious alliance with Freehaven
 - [[Evindra]] — Nereid (water fey); befriended by the party; provided key intelligence on Nyrissa, Briar, and the Thousandbreaths entrance
 - [[Amiri]] — Human barbarian; met the party at Jamandi's feast; arm-wrestled Astor; settled in Nightmarch
-- [[Harrim]] — Dwarf cleric of Groetus; met the party at Jamandi's feast; Viceroy of Freehaven; seeks lost dwarven ruins
+- [[Harrim]] — Dwarf cleric of [[Groetus]]; met the party at Jamandi's feast; Viceroy of Freehaven; seeks lost dwarven ruins
 - [[Valerie]] — Human fighter; met the party at Jamandi's feast; former Shelyn aspirant; allied with the PCs
 - [[Benedin]] — Dwarven companion; Bronzeshield Hold community
 - [[Octavia]] — Ally; offered mayorship of Varnhold (pending her answer)
 - [[Cassandra]] — Silverstep Guard captain; **deceased** — died at [[Willowshade]] defending Silverstep from the [[Golden Talons]]
-- [[Edina Aldori]] — Visiting from Restov; verbal sparring partner for Astor; Pavel took notice
+- [[Edina Aldori]] — Visiting from [[Restov]]; verbal sparring partner for Astor; Pavel took notice
 
 **Other NPCs**
 - [[Grigori]] — Former Pitax envoy; caused significant trouble inside Freehaven as he spread propoganda.  Was exiled/eliminated by the PCs.
-- [[Gaspere Liacenza]] — Pitaxian bard; defected to help the PCs overthrow [[King Irovetti]] from within during the Pitax War
+- [[Gaspere Liacenza]] — Pitaxian bard and head of the Liacenza Bandit House; defected to help the PCs overthrow [[King Irovetti]] from within during the Pitax War
 - [[Eri Malai]] — Nagaji monk; traveled with the party; came to the Grand Tournament as "[[Eri Malai|Saint Flint (pseudonym)]]" (borrowed from his Master); reunited with her post-war
 - [[Saint Flint]] — Leader of the [[Nagaji Monastic Order]]; the real Saint Flint; was in hiding during the Pitax War; sternly returned post-war
 - [[Engelidis]] — Naga; former Pitax palace resident; accidentally caused the Master to flee; blithely revealed everything to Eri Malai while walking to Nightmarch
@@ -91,12 +101,12 @@ Live Bases views over this campaign's notes.
 - [[Halvik]] — Silverstep Guard sergeant; fought at Cassandra's side at Willowshade; was beside her when she fell
 - [[Senn]] — Silverstep Guard sergeant; voice of caution in the council before Willowshade
 - [[Linzi]] — Halfling bard; Emissary of Freehaven; handles all kingdom communications; publishes accounts of the party's adventures; trained under [[Beneford]] (student of Tol-Kin); traveled with Lucas and Tol-Kin for a month after the Great Feast
-- [[Tol-Kin]] — One of the greatest living bards; wandering storyteller; mentored Lucas for a month after the Great Feast; may return for the Grand Tournament's Battle of the Bards
+- [[Tol-Kin]] — One of the greatest living bards; wandering storyteller; mentored Lucas for a month after the Great Feast
 - [[Beneford]] — Former student of Tol-Kin; now Court Bard in the East; was Linzi's teacher; his connection is what brought Tol-Kin to Nightmarch
 - [[Rindle]] — Milo's missing older brother; taken captive by bandits; Milo's construct is named after him
 - [[Rindle (Construct)]] — Milo's mechanical construct; named after his brother; has fought with the party for years
 - [[Gelbin Steambender]] — Gnome inventor; Milo's mentor; connected through the restored pocket watch
-- [[Treerazer]] — Demon holding the Tanglebriar south of Kyonin; background threat; explains Riven's 50-year history fighting undead
+- [[Treerazer]] — Demon holding the Tanglebriar south of [[Kyonin]]; background threat; explains Riven's 50-year history fighting undead
 - [[Ekundayo]] — Hunter; helped overthrow the Stag Lord; settled in Nightmarch; engaged to [[Kisandra Numesti]] (daughter of Drevlev's general [[Terrion Numesti]]); her sister was taken captive by the Tiger Lords and rescued by the PCs
 - [[Kisandra Numesti]] — [[Ekundayo]]'s fiancée; daughter of [[Terrion Numesti]]; escaped Fort Drevlev to warn Freehaven of the Tiger Lords / Pitax / Drevlev attack
 - [[Terrion Numesti]] — Drevlev's general; imprisoned for refusing to surrender a daughter to the Tiger Lords; freed by the PCs
@@ -119,11 +129,13 @@ Live Bases views over this campaign's notes.
 - [[Thaelirian]] — elf in Kyonin; mutual acquaintance of Riven and Lyriel; gave Riven directions to Lyriel's house
 - [[The Old Beldame]] — hermit witch in the Stolen Lands; taught Astor herbalism and alchemy during his retirement; eccentric, skeptical of him from the start
 
+**Never fought**
+- [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard) — *encounter skipped by GM decision; still in his glade as lore*
+
 **Defeated**
 - [[The Horned Hunter]] — Satyr ranger sent on Day 9 to steal Briar; killed by the PCs mid-bloom as Linzi's Sending about Lyriel arrived (Session 100); never claimed the sword
 - [[The Oaktop Ankou]] — First World Ankou general who commanded Nyrissa's counter-ambush at the [[Oaktop]] silver mine; killed by the party (RP25.1)
 - [[Ankou Assassins]] — the four Ankou hidden in the wall paintings of the House's Lower Hall (K4); killed across Sessions 105–106, two by their own *Massacre*; their Lantern King spy role was never discovered
-- [[Kargstaad]] — Four-armed frost giant; Glade C (Frozen Boneyard) — *encounter skipped by GM decision; still in his glade as lore*
 - [[Tartuccio]] — Gnome sorcerer; Pitax spy at Jamandi's feast; later posed as a kobold chieftain; killed by the party
 - [[The Stag Lord]] — Bandit lord; first major adversary
 - [[Vordakai]] — Ancient cyclops lich; defeated mid-campaign
@@ -131,7 +143,7 @@ Live Bases views over this campaign's notes.
 - [[Hannis Drevlev]] — Treacherous charter-holder; allied with Pitax and Tiger Lords
 - [[Maegar Varn]] — Good-man charter-holder; founded Varnhold; killed by Vordakai
 - [[Hargulka]] — Troll king; defeated mid-campaign; cited as an example of tyranny
-- [[Armag Reborn]] — Legendary barbarian figure resurrected; defeated at [[Fort Drevlev]]; wielded [[Ovinrbaane]]
+- [[Armag Reborn]] — Legendary barbarian figure resurrected; defeated at the vault of old Armag's sword (Session 65); wielded [[Ovinrbaane]]
 - [[Imeckus Stroon]] — Drevlev's brother-in-law; powerful magician; defeated at Drevlev Keep
 - [[Willas Gunderson]] — treasure hunter whose blunder woke [[Vordakai]]; later an undead ghost in the tomb
 - [[Hateful Hermit]] — hostile hermit fought during the kingdom's expansion (Session 25)
@@ -151,7 +163,7 @@ Live Bases views over this campaign's notes.
 - [[Fort Drevlev]] — Former Drevlev settlement, now part of Freehaven
 
 **Regions**
-- [[Candlemere Island]] — island in the Stolen Lands; ancient cult sanctum beneath it, built for an Outer God; features the Star Hole (a pit revealing the heavens); cleared by the party (Session 23 / RP23)
+- [[Candlemere Island]] — island in the Stolen Lands; ancient cult sanctum beneath it, built for an Outer God; features the Star Hole (a pit revealing the heavens); cleared by the party (Session 90 / RP23)
 - [[Oaktop]] — southern village burned by [[Nyrissa]]'s bloom forces; its silver mine worked by trolls and redcaps until the party ambushed them (RP25.1)
 - [[Willowshade]] — valley ford near Silverstep; site of the decisive Battle of Willowshade; where Cassandra died
 - [[Nomen Heights]] — wild steppes east of the kingdom; Nomen Centaur territory
@@ -168,22 +180,25 @@ Live Bases views over this campaign's notes.
 - [[Lizardfolk Village]] — island village led by [[King Vesket]]; became [[Vesket]]
 - [[Vordakai's Island]] — the lich's tomb beyond the [[Valley of the Dead]]
 
-**Current Adventure Locations**
-- [[Thousandbreaths]] — Nyrissa's demiplane; nine glades to clear
+**The Endgame (Thousandbreaths)**
+- [[Thousandbreaths]] — Nyrissa's demiplane; nine glades, of which the party cleared the ones on their road to the House
 - [[The Rimebridge]] — iced span over the bottomless lake; the only crossing to the House, guarded by [[Tarlaxian]]
-- [[House at the Edge of Time]] — Nyrissa's mansion; three-level manor + the Fables
+- [[House at the Edge of Time]] — Nyrissa's mansion; three-level manor + the Fables. **Where the campaign ended** (M7c, Session 108)
 
-## Active Plot Hooks
+## Plot Hooks
 
+**Unresolved at campaign end** *(still open when the campaign ended in [[Session 108 - That Is Not Yours|Session 108]])*
 - [[Milo's Lost Brother]] — Milo's brother Rindle was taken by bandits; Milo's construct bears his name; status unknown
-- [[Grand Tournament of Freehaven]] — announced by Riven; 5 events; 3 months out; open to all
-- [[Lyriel's Wait]] — she came, she was taken, and the rescue has reached the Queen's door; ends in front of [[Nyrissa]] in M7c, not in a scene of its own
-- [[Pavel and Edina]] — shared history in Restov; her sister died; she knows his name; boots: ruined
-- [[Almon's Hunt for Cassandra]] — transformed; Cassandra died at Willowshade; Almon d'Avoine still unaccounted for with intelligence on Riven's command decisions
+- [[Pavel and Edina]] — met at the hunting competition; her sister [[Jolia Aldori]] died; the courtyard confession before the last bloom (RP25); never resolved
+- [[Pavel's Parentage]] — Pavel's Kyonin-elf mother; Riven offered to take him to Kyonin to learn the truth
+- [[The Demon's Legacy]] — the demon that killed Riven's parents; never identified (the Wriggling Man merge never fired)
+- [[Talia's Revenge]] — Talia's standing hit on Riven for killing Rowan; never came to a head
+- [[Almon's Hunt for Cassandra]] — moot after Cassandra died at Willowshade, but Almon d'Avoine was never accounted for
 
 **Resolved**
+- [[Grand Tournament of Freehaven]] — announced by Riven at the Great Feast; held; Riven won archery gold, and Irovetti used the final event as cover for his attack
+- [[Lyriel's Wait]] — Lyriel freed in front of [[Nyrissa]], [[Session 108 - That Is Not Yours|Session 108]]
 - [[The Month of Destruction]] — Nyrissa's bloom assault; weathered, and the party has crossed into Thousandbreaths
-- [[Talia's Revenge]] — closed
 - [[The Arsonist of Bronzeshield Hold]] — closed
 
 ## Factions
@@ -194,13 +209,14 @@ Live Bases views over this campaign's notes.
 ## Sessions
 
 - [[Session 100 - She Dropped Your Letter]] — strong start: Sending arrives mid-bloom; party marches to Thousandbreaths after Lyriel is taken
-- [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the road on toward Ilthuliak and the House
-- [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army; the bridge to the House as cliffhanger
+- [[Session 101 - The Heads Still Dream]] — the Baleful Lantern fight resumes; the troll returns healed; the whole session is the Baleful Lantern fight, won when Rindle detonates
+- [[Session 102 - The Undefeated]] — the road through Thousandbreaths; the High Folly and Ilthuliak, who wakes her petrified army and dies; ends at the hoard, debating a rest
 - [[Session 103 - The Shape of Where I Used to Be]] — Briara wakes to Nyrissa's nearness and confesses; the party rests, then reaches the House; the Rimebridge fight with Tarlaxian runs long and ends *mid-combat* (the gatehouse now opens 104)
 - [[Session 104 - The First Mercy]] — the party leaves the boxed Tarlaxian behind and forces the gate; at the guardhouse they discover the ashamed dead can be **forgiven, not just killed**, and make mercy the night's spine — ending *mid-fight* with several guards freed (continues 105)
 - [[Session 105 - The Thing That Cannot Be Forgiven]] — the gate finished by mercy (every guard freed, none killed); [[Briar|Briara]] names her price — **Nyrissa must beg** — and [[Great Aunt Sumi]] warns that something is watching. Then the party **skips the courtyard**, goes in a side door, and tears through the interior (weeping statues, a dead teleport circle, the salon, an exploding bear) into the Lower Hall, ending *mid-fight* with the [[Ankou Assassins]]
 - [[Session 106 - The Thing He Wears]] — the Ankou finally die (two by their own *Massacre*), then a telescope, then the Throne Room: a fireball from nowhere, **Reverse Gravity**, and [[The Wriggling Man]] revealed as a mass of worms wearing [[Lyriel's Stolen Jewelry|Lyriel's jewelry]] — which the party first mistook for her **remains**. **[[Lyriel]] isn't there**; she's held with [[Nyrissa]] in M7c. Ends *mid-combat* (continues 107)
 - [[Session 107 - I Cant Wait Until You Meet Her]] — the throne-room fight runs the whole night: reverse gravity, *Silence*, a wall of force splitting the room, and the party solving his statblock (**Fortitude, area & splash**). [[Pavel]] tries to lift the locket and watches it **sink into the worms**. Then [[Lucas]]'s *divine wrath* trips the **contingency** and **the Wriggling Man simply leaves** — alive, healing, trophy and all. Before he goes he speaks: ***"Narissa was right to bring you here."*** The party rests 10 minutes, climbs to Level 2, and walks into the Great Hall, where two of Nyrissa's [[Barbtongued Wyverns|pet wyverns]] burst out from under the tables (continues 108)
+- [[Session 108 - That Is Not Yours]] — **the final session.** The wyverns and [[The Wriggling Man]] die in the Great Hall (the locket is never found); [[Astor]] remembers the throne; the party passes through to [[Nyrissa]], who is holding [[Lyriel]]. [[Riven]] offers [[Briar|Briara]] for Lyriel and peace, [[Pavel]] asks for friendship instead of a trade, [[Lucas]] lands the persuasion, and **Astor kneels and gives the sword back.** Briara says yes, Nyrissa is made whole, and the credits roll
 
 ### RP Scenes
 
@@ -226,7 +242,7 @@ Live Bases views over this campaign's notes.
 - [[RP 15 — Holiday Shopping]] — downtime gear-shopping with [[Benedin]]
 - [[RP 16 — Drevlev Infiltrations]] — infiltration planning; Benedin forges the guard roster over [[Tamary Numesti]]
 - [[RP 17 — Long Road Home]] — campfire farewell after Fort Drevlev
-- [[RP 18 — Word from Afar]] — arrival at the Rushlight tournament
+- [[RP 18 — Word from Afar]] — the night of the Archery Contest at the Grand Tournament
 - [[RP 19 — The Forest Answers]] — Ranger ambush vignette; [[Almon d'Avoine]] feigns death
 - [[RP 20 — The Mud and the Blood]] — battle vignette from [[Cassandra]]'s perspective
 - [[RP 22 — The Rest of the Battle of Silverstep]] — the battle in four movements; Cassandra falls at [[Willowshade]]
@@ -248,14 +264,14 @@ Live Bases views over this campaign's notes.
 
 ## Items
 
-- [[Briar|Briara]] — Artifact sword forged from Nyrissa's soul; **fully awakened and now speaks**; key to her death or redemption
+- [[Briar|Briara]] — Artifact sword forged from Nyrissa's soul; fully awakened and spoke. **Given back to Nyrissa in 108** — she chose to return, and the sword is gone
 - [[Stag Lord's Helm]] — Magical stag horn helmet taken from the Stag Lord by Astor; worn by him ever since
 - [[Eclipsed Incantations]] — Powerful tome Benedin is studying; contains a permanent imprisonment ritual among other powerful magic
 - [[Vordakai's Eye-Gem]] — Cyclops lich's gem eye; in party's possession; exerts a psychic pull; too dangerous to use
-- [[Ovinrbaane]] — Legendary weapon wielded by [[Armag Reborn]]; wounded [[Benedin]] deep at [[Fort Drevlev]]; current location unknown
-- [[Riven's Letter to Lyriel]] — Sealed letter to Lyriel Anarindë; in Astor's keeping; send only if Riven doesn't return
+- [[Ovinrbaane]] — Legendary weapon wielded by [[Armag Reborn]]; wounded [[Benedin]] deep at the vault fight (Session 65); current location unknown
+- [[Riven's Letter to Lyriel]] — the first, sealed letter to Lyriel Anarindë; stayed in Astor's keeping to the end (the tournament invitation and later letters were separate)
 - [[Lyriels Amulet]] — moon-and-rose amulet Lyriel gave Riven when he left Kyonin; he still carries it — **the piece she gave**
-- [[Lyriel's Stolen Jewelry]] — taken from Lyriel at the Nightmarch gate and worn openly by [[The Wriggling Man]] as a trophy — **the piece he took**
+- [[Lyriel's Stolen Jewelry]] — taken from Lyriel at the Nightmarch gate and worn by [[The Wriggling Man]] as a trophy; **never recovered** — not on his body when he died
 - [[Book of Warding Prayers]] — Sato family sacred history and prayer book; recovered from Hargulka's lair; Lucas carries it
 - [[Fox-Head Pendant]] — carved pendant (a wolf's head Lucas reflavors as a fox); grants Charisma; looted from Ilthuliak's keep, worn by Lucas
 - [[Maestro's Flute]] — platinum *greater maestro's instrument* pulled from the salon (K13) of the House; Lucas kept it, nobody has identified it
@@ -265,7 +281,7 @@ Live Bases views over this campaign's notes.
 
 - [[Freehaven]] — the PCs' own kingdom (oligarchy)
 - [[Nomen Centaurs]] — allied; integrated into Freehaven
-- [[The Few]] — Riven's former freedom-fighters-turned-bandits; Talia leads; hunting Riven
+- [[The Few]] — Riven's former freedom-fighters-turned-bandits; [[Talia]] leads; her hunt for Riven never came to a head
 - [[Iron Wraiths]] — another charter-holder group; went dark; assumed dead
 - [[Golden Talons]] — Two Pitax battalions; marched on Silverstep during the war; defeated
 - [[Nagaji Monastic Order]] — nagaji religious order; operated underground in Pitax; re-emerged post-war; led by Saint Flint
@@ -275,4 +291,8 @@ Live Bases views over this campaign's notes.
 
 ## Campaign Arc
 
-Mercenaries → Barons → Kings → Fey plane incursion. The PCs must ultimately storm Nyrissa's demiplane, the [[House at the Edge of Time]], to save their kingdom from being erased from reality. The sword [[Briar]] offers a path to either her destruction or redemption.
+Mercenaries → Barons → Kings → Fey plane incursion. The PCs must ultimately storm Nyrissa's demiplane, the [[House at the Edge of Time]], to save their kingdom from being erased from reality. The sword [[Briar]] offers a path to either her destruction or redemption. **They chose redemption** ([[Session 108 - That Is Not Yours|Session 108]]).
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

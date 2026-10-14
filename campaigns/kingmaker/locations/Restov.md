@@ -5,16 +5,29 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Amiri]]"
+  - "[[Astor]]"
+  - "[[Edina Aldori]]"
   - "[[Freehaven]]"
+  - "[[Jolia Aldori]]"
+  - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
+  - "[[Linzi]]"
+  - "[[Pavel]]"
+  - "[[Pavel and Edina]]"
   - "[[Pavetta Stroon-Drevlev]]"
   - "[[Riven]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
   - "[[RP 13 — Through the Dunsward to Restov]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
+  - "[[RP 5 — One Night in Nightmarch]]"
+  - "[[RP 5.5 — Ekundayo's Feast]]"
   - "[[Stolen Lands]]"
+  - "[[Tartuccio]]"
+  - "[[The Sword and the Suitor]]"
+  - "[[Valerie]]"
 aliases: []
 status: accessible
 region: "Brevoy"

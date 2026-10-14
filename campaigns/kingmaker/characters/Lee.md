@@ -5,12 +5,14 @@ tags:
   - campaign/kingmaker
 sources:
   - "[[_sources/processed/backstories/Lees backstory|Lee's Backstory]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Aee]]"
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Barbtongued Wyverns]]"
   - "[[Benedin]]"
+  - "[[Briar]]"
   - "[[Cad]]"
   - "[[Candlemere Island]]"
   - "[[Carandini Family]]"
@@ -113,6 +115,8 @@ The [[Carandini Family]] line: [[Erevan Carandini|Erevan]] and [[Elithya Carandi
 
 > [!todo] Needs content
 
+- **The killing blow, shared ([[Session 108 - That Is Not Yours|Session 108]])**: In the Great Hall rematch, Lee and [[Pavel]] took on [[The Wriggling Man]] directly, and **timely criticals from Lee and Pavel** brought him down for good. In the final negotiation he watched and positioned himself. Pavel's speech named what [[Briar|Briara]] had been to him: *"For Lee she is a flirt."*
+
 ## Current Status
 
 **Level**: 18
@@ -122,3 +126,4 @@ The [[Carandini Family]] line: [[Erevan Carandini|Erevan]] and [[Elithya Carandi
 ## Sources
 
 - [[_sources/processed/backstories/Lees backstory|Lee's Backstory]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

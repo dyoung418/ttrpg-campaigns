@@ -255,7 +255,7 @@ beat to realize what landing the kill costs, and remember passing is a full win.
 **What actually happened:**
 
 - **Recap & the boxed linnorm.** Play resumed mid-initiative from 103: the party had trapped
-  [[Tarlaxian]] in a *Ball of Stone* prison at the bridge's far end and advanced past it to the closed
+  [[Tarlaxian]] in a *Wall of Stone* prison at the bridge's far end and advanced past it to the closed
   **portcullis** guarding the [[House at the Edge of Time]]. [[Riven]], flying high, had spotted **ghostly
   guards** in the open-topped guardhouse above the gate; they'd spotted him back.
 - **Pavel baits the linnorm.** Rather than a mechanical solve, [[Pavel]] flew onto the corner of the stone

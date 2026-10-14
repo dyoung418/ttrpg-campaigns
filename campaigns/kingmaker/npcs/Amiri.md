@@ -10,7 +10,9 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
+  - "[[Restov]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: alive
 role: "Adventurer; settled resident of Nightmarch"
@@ -37,7 +39,7 @@ Competitive, hard-drinking, and direct. At Jamandi's feast she arm-wrestled [[As
 
 ## Background
 
-One of the adventurers who answered [[Lady Jamandi Aldori]]'s call to settle the Stolen Lands — she was present at the original feast in Restov. She befriended the party during the evening and chose to follow them rather than strike out on her own. Now settled in [[Nightmarch]] as part of the kingdom the PCs built.
+One of the adventurers who answered [[Lady Jamandi Aldori]]'s call to settle the [[Stolen Lands]] — she was present at the original feast in [[Restov]]. She befriended the party during the evening and chose to follow them rather than strike out on her own. Now settled in [[Nightmarch]] as part of the kingdom the PCs built.
 
 ## Relationships
 
@@ -53,4 +55,4 @@ One of the adventurers who answered [[Lady Jamandi Aldori]]'s call to settle the
 
 ## Session History
 
-- First appeared: Jamandi Aldori's Feast (pre-campaign)
+- First appeared: Jamandi Aldori's Feast (Session 1)

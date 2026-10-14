@@ -5,8 +5,6 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
-  - "[[Astor]]"
-  - "[[Benedin]]"
   - "[[Engelidis]]"
   - "[[Eri Malai]]"
   - "[[King Irovetti]]"
@@ -17,7 +15,8 @@ related:
   - "[[Saint Flint]]"
   - "[[The Starlight Staff]]"
 date: ""
-session_number: 21
+rp_number: 21
+session_number:
 status: complete
 players_present:
   - "[[Astor]]"
@@ -28,26 +27,26 @@ created: 2026-06-17
 
 # RP 21 — The Mysterious Disappearance of St. Flint's Master
 
-> **Source**: RP21 (post-war mystery; Astor plays [[Benedin]], Danny voices [[Engelidis]] and the Master)
+> **Source**: RP21 (post-war mystery, written by Slava as a solo vignette for [[Eri Malai]] — no PC is on stage; Engelidis and the Master are voiced in the same piece)
 > **Status**: `rp-scene`
-> **Players present**: [[Astor]] (as [[Benedin]])
+> **Players present**: none — Slava writing [[Eri Malai]]'s story
 > **Setting**: [[Pitax]] after [[King Irovetti]]'s fall, then the road toward [[Nightmarch]].
 
 ## Summary
 
-With [[King Irovetti]] ousted, the [[Nagaji Monastic Order]] emerges — but their leader, the *real* **[[Saint Flint]]**, is missing. Escorting the naga [[Engelidis]] out of the city, [[Benedin]] learns the truth: Engelidis's gossip spooked the Master into hiding, and the means to call her back is the [[The Starlight Staff|Starlight Staff]] she left with her "favorite idiot student," [[Eri Malai]].
+With [[King Irovetti]] ousted, the [[Nagaji Monastic Order]] emerges — but their leader, the *real* **[[Saint Flint]]**, is missing. Escorting the naga [[Engelidis]] out of the city, [[Eri Malai]] learns the truth: Engelidis's gossip spooked the Master into hiding, and the means to call her back is the [[The Starlight Staff|Starlight Staff]] she left with her "favorite idiot student," [[Eri Malai]].
 
 ## Key Beats
 
 **Engelidis's confession.** [[Engelidis]] reveals she used to take tea with the nagaji Master in the palace, until [[King Irovetti]] grew wary of the Master's influence — and Engelidis "spilled a little tea." Petrified for her people, the Master vanished, saying her **staff** held the means to call her back, left with [[Eri Malai]].
 
-**The Starlight Staff.** [[Benedin]] examines the [[The Starlight Staff|Starlight Staff]] — silver, capped with a star-swirled crystal — and aligns it to a star, casting *Guiding Star*: *"That one will take you home, Master."*
+**The Starlight Staff.** [[Eri Malai]] examines the [[The Starlight Staff|Starlight Staff]] — silver, capped with a star-swirled crystal — and aligns it to a star, casting *Guiding Star*: *"That one will take you home, Master."*
 
 **The Master returns.** A week later, the stern Master strides into a church service, takes the staff, and **bops [[Eri Malai]]** on the head: the spell guides to where it was *cast*, so she'd waited in the woods for days. Worse — he took her name, robes, and staff. *"Did you really think you could pass for me?"*
 
 ## Characters Present / Mentioned
 
-- [[Benedin]] — (played by Astor) pieces together the mystery; wields the staff
+- [[Eri Malai]] — pieces together the mystery; casts *Guiding Star* from the staff (and gets it wrong — it guides to where it was cast, so the Master waited in the woods)
 - [[Engelidis]] — naga whose gossip drove the Master into hiding
 - [[Saint Flint]] — the real Master, returned at last; scolds her student
 - [[Eri Malai]] — the "idiot student" who took her name as "[[Saint Flint]]"

@@ -12,12 +12,14 @@ related:
   - "[[Golden Talons]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 15 — Holiday Shopping]]"
   - "[[Silverstep]]"
   - "[[Tovan]]"
 date: ""
-session_number: 19
+rp_number: 19
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -31,7 +33,7 @@ created: 2026-06-17
 > **Source**: RP19 (Ranger ambush vignette; Danny voices [[Almon d'Avoine]])
 > **Status**: `rp-scene`
 > **Players present**: [[Riven]] (with his Rangers; [[Tovan]])
-> **Setting**: A forest road during the Pitax War, ambushing an [[King Irovetti|Irovetti]] supply column bound for [[Silverstep]].
+> **Setting**: A forest road during the [[Pitax]] War, ambushing an [[King Irovetti|Irovetti]] supply column bound for [[Silverstep]].
 
 ## Summary
 

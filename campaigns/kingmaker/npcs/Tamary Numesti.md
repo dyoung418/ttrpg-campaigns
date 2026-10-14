@@ -38,7 +38,7 @@ Daughter of [[Terrion Numesti]] and sister of [[Kisandra Numesti]]. Where Kisand
 
 When the [[Tiger Lords]] demanded hostages from [[Hannis Drevlev]], Drevlev ordered [[Terrion Numesti]] to surrender a daughter. Terrion refused and was imprisoned; Tamary was held as a high-value hostage in [[Fort Drevlev]]. During the infiltration (Session 60 / [[RP 16 — Drevlev Infiltrations]]), [[Benedin]] forged the guard roster to place himself over her.
 
-She and the other prisoners [[King Irovetti]] demanded to appease [[Armag Reborn]] were then taken by Armag. The PCs rescued the kidnapped daughter when they defeated Armag (Session 65).
+She and the other hostages the [[Tiger Lords]] had demanded (with [[King Irovetti]] conspiring behind Drevlev) were then taken by [[Armag Reborn]]. The PCs rescued the kidnapped daughter when they defeated Armag (Session 65).
 
 ## Relationships
 

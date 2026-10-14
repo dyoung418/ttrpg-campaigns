@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
+  - "[[Astor]]"
   - "[[Avennara]]"
   - "[[Benedin]]"
   - "[[Bronzeshield Hold]]"
@@ -21,8 +22,10 @@ related:
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[Silverstep]]"
+  - "[[Vordakai]]"
 date: ""
-session_number: 11
+rp_number: 11
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -36,7 +39,7 @@ created: 2026-06-17
 
 # RP 11 — Rest and Relaxation at Silverstep
 
-> **Source**: RP11 (lakeside downtime; Danny voices [[Linzi]]; Astor plays [[Benedin]])
+> **Source**: RP11 (lakeside downtime; Danny voices [[Linzi]]; [[Astor]] plays [[Benedin]])
 > **Status**: `rp-scene`
 > **Setting**: The lakeshore at [[Silverstep]], the most idyllic town in [[Freehaven]].
 
@@ -69,7 +72,7 @@ Resting at [[Silverstep]], [[Riven]] is moved by how much the lakeside town rese
 ## Notable Details / Flags
 
 - **Origin point of the [[Lyriel's Wait]] plot thread** and [[Riven's Letter to Lyriel]] — the moon-and-rose amulet (see [[Lyriels Amulet]]) is shown here.
-- Not referenced in the [[Kingmaker Campaign Timeline|Campaign Timeline]]; sits between the Vordakai arc and the Great Feast.
+- Placed in the [[Kingmaker Campaign Timeline|Campaign Timeline]] under Session 55; sits between the [[Vordakai]] arc and the Great Feast.
 - *(Discord images in source stripped; the moon-and-rose gift image is referenced.)*
 
 ## Sources

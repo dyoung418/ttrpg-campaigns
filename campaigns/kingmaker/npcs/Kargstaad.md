@@ -11,6 +11,9 @@ related:
   - "[[The Month of Destruction]]"
   - "[[Thousandbreaths]]"
 status: unknown
+role: "Four-armed frost giant of the Frozen Boneyard; never fought"
+faction: "[[Nyrissa]]"
+location: "Glade C — Frozen Boneyard (Thousandbreaths)"
 created: "2026-05-29"
 ---
 

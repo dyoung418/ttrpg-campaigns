@@ -5,31 +5,41 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Astor]]"
   - "[[Cat]]"
+  - "[[Eri Malai]]"
+  - "[[Freehaven]]"
   - "[[Gaspere Liacenza]]"
   - "[[Golden Talons]]"
   - "[[Grigori]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Timeline]]"
+  - "[[Kyonin]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Wait]]"
+  - "[[Mivon]]"
+  - "[[Nightmarch]]"
   - "[[Pavel]]"
   - "[[Pitax]]"
   - "[[Riven]]"
+  - "[[Riven's Letter to Lyriel]]"
+  - "[[River Kingdoms]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 14.2 — Lucas and the Bards]]"
   - "[[RP 18 — Word from Afar]]"
   - "[[Tol-Kin]]"
 status: resolved
+priority: low
 created: "2026-05-29"
 ---
 
 # Grand Tournament of Freehaven
 
-**Status**: Resolved — ended in war; Pitax defeated; now part of Freehaven
+**Status**: Resolved — ended in war; Pitax defeated; now part of [[Freehaven]]
 
 ## Summary
 
-[[Riven]] announced the Grand Tournament at the Great Feast of Freehaven. It has since drawn delegations from across the River Kingdoms: **Tymon, Gralton, Daggermark, Mivon, and Pitax**, alongside Freehaven as host. Nightmarch is at a cosmopolitan peak — the gates swarming with traders, caravan guards, and nobles in lacquered carriages. Freehaven's colors (green, blue, black, and white) snap from every rampart.
+[[Riven]] announced the Grand Tournament at the Great Feast of Freehaven. It has since drawn delegations from across the [[River Kingdoms]]: **Tymon, Gralton, Daggermark, [[Mivon]], and Pitax**, alongside Freehaven as host. [[Nightmarch]] is at a cosmopolitan peak — the gates swarming with traders, caravan guards, and nobles in lacquered carriages. Freehaven's colors (green, blue, black, and white) snap from every rampart.
 
 [[King Irovetti]] of Pitax attended personally and attempted to bet on the outcome.
 
@@ -38,10 +48,10 @@ created: "2026-05-29"
 | Event | Status | Result |
 |---|---|---|
 | **Archery Contest** | Complete | [[Riven]] — gold; Pitax — dead last (despite cheating) |
-| **Test of the Axe** | Upcoming | Freehaven strategy: recruit from lumber mill |
-| **Midnight Joust** | Upcoming (final event) | [[Pavel]] representing Freehaven, riding [[Cat]] |
+| **Test of the Axe** | Complete | **Pitax** won |
+| **Midnight Joust** | Complete (final event) | **Freehaven** won — [[Pavel]] rode [[Cat]] for Freehaven *(GM recollection; details unrecorded)* |
 
-**Pitax's cheating at the Archery Contest**: Riven observed spells being cast and adamantine arrows being used. Pitax still finished dead last. Astor learned about the arrows from the groundskeeper and kept it quiet — Riven won cleanly and calling out Pitax would muddy that. Riven's own arrows are identifiable (all in the green target; three in the bullseye).
+**Pitax's cheating at the Archery Contest**: Riven observed spells being cast and adamantine arrows being used. Pitax still finished dead last. [[Astor]] learned about the arrows from the groundskeeper and kept it quiet — Riven won cleanly and calling out Pitax would muddy that. Riven's own arrows are identifiable (all in the green target; three in the bullseye).
 
 ## What Irovetti Was Actually Planning
 
@@ -66,6 +76,6 @@ At the final event — with all of Freehaven's rulers gathered in one place — 
 
 > [!secret] GM Only
 > - [[Tol-Kin]] expressed interest in returning for the Battle of the Bards, but the tournament was cut short by the Pitax attack
-> - [[Riven]] wrote a second, separate letter to [[Lyriel]] specifically inviting her to attend with the Kyonin delegation; she did not appear; see [[Lyriel's Wait]]
+> - [[Riven]] wrote a second, separate letter to [[Lyriel]] specifically inviting her to attend with the [[Kyonin]] delegation; she did not appear; see [[Lyriel's Wait]]
 > - Riven won the Archery Contest and scanned the stands for Lyriel with every shot — she was not there; see his Notable Moment
-> - The tournament's other events (Test of the Axe, Midnight Joust) may never have happened — the Pitax attack intervened before they were completed
+> - ~~The tournament's other events (Test of the Axe, Midnight Joust) may never have happened~~ **GM ruling (2026-10-13): they ran** — Pitax took the Axe, Freehaven the Joust; Irovetti's attack came at the final event

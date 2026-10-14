@@ -17,10 +17,12 @@ related:
   - "[[Nightmarch]]"
   - "[[Riven]]"
   - "[[RP 19 — The Forest Answers]]"
+  - "[[Silverstep]]"
   - "[[Thaelirian]]"
   - "[[The Old Beldame]]"
 date: ""
-session_number: 15
+rp_number: 15
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -53,7 +55,7 @@ Flush with treasure, the party visits the kingdom's best runesmiths. [[Benedin]]
 - [[Benedin]] — (played by Astor) upgrades gear with the [[The Old Beldame|Old Beldame]]
 - [[The Old Beldame|Old Beldame]] (Elga) — Benedin's old sorcery teacher; rune-crafter
 - [[Thaelirian]] — master bowyer; his Kyonin friend becomes Riven's hope
-- [[Ekundayo]], [[Cassandra]] — referenced (the shop; bows for the Silverstep Guard)
+- [[Ekundayo]], [[Cassandra]] — referenced (the shop; bows for the [[Silverstep]] Guard)
 
 ## Locations
 

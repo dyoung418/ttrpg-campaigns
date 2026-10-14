@@ -10,6 +10,7 @@ related:
   - "[[Leveton]]"
   - "[[Oleg Leveton]]"
   - "[[Oleg's Trading Post]]"
+  - "[[Stolen Lands]]"
   - "[[The Stag Lord]]"
   - "[[Thorn River Camp]]"
 aliases: []
@@ -28,7 +29,7 @@ created: "2026-06-17"
 
 ## Description
 
-Wife of [[Oleg Leveton]] and co-runner of the frontier trading post the PCs found on first entering the Stolen Lands.
+Wife of [[Oleg Leveton]] and co-runner of the frontier trading post the PCs found on first entering the [[Stolen Lands]].
 
 ## Background
 

@@ -10,10 +10,12 @@ related:
   - "[[Evindra]]"
   - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
+  - "[[Ilthuliak]]"
+  - "[[Misbegotten Troll]]"
   - "[[Nyrissa]]"
+  - "[[Stolen Lands]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Lantern King]]"
-  - "[[The Misbegotten Troll]]"
   - "[[The Month of Destruction]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
@@ -33,7 +35,7 @@ Chapter 10 is the climax of the Kingmaker Adventure Path, structured in three pa
 ## The Calm Before
 
 Chapter 10 should not begin until:
-- The kingdom spans all four regions of the Stolen Lands
+- The kingdom spans all four regions of the [[Stolen Lands]]
 - Any lingering loose ends (Candlemere, wilderness encounters) are wrapped up
 - PCs have ideally recovered [[Briar]] from Irovetti's palace
 
@@ -43,7 +45,7 @@ Chapter 10 should not begin until:
 
 **The Houten Legacy** (30 XP) — Aristocrat Belinda Houten will give the PCs a copy of *Zuddiger's Picnic* (a children's book that maps Thousandbreaths) if they build a Theater and four Monuments in her honor. **Critical item for navigating Part 2.**
 
-**A Heroic Challenge** (30 XP) — Aurex Thewsen dares the PCs to slay the black dragon Ilthuliak. Reward: +1 max Fame/Infamy, monument from her remains.
+**A Heroic Challenge** (30 XP) — Aurex Thewsen dares the PCs to slay the black dragon [[Ilthuliak]]. Reward: +1 max Fame/Infamy, monument from her remains.
 
 ## Briar Awakening
 
@@ -51,7 +53,7 @@ When recovered from Irovetti's palace, Briar is a *+3 greater striking cold iron
 
 ## Chapter Outcome Options
 
-- **Nyrissa slain** — Thousandbreaths uproots and erodes to become the Castle of Knives. Her body rises on a pyre of black lightning. The Lantern King becomes a new threat (Chapter 11).
+- **Nyrissa slain** — Thousandbreaths uproots and erodes to become the Castle of Knives. Her body rises on a pyre of black lightning. [[The Lantern King]] becomes a new threat (Chapter 11).
 - **Nyrissa forgiven** — Possible via Forgive Foe action after defeating or cornering her; see Chapter 11 for the redemption path.
 - **Nyrissa absorbs the Stolen Lands** — If blooms are not all defeated by Day 30 and Nyrissa succeeds on a flat check. Catastrophic outcome (see page 477).
 

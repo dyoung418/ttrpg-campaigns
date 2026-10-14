@@ -18,7 +18,7 @@ related:
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"
 aliases: []
-status: unknown
+status: alive
 role: A centaur female who was held captive by Vordekai and freed by the PCs.
 faction: ""
 location: "[[Nomen Heights]]"
@@ -49,7 +49,7 @@ Daughter of [[Aecora]], the leader of the [[Nomen Centaurs]]. Was captured by [[
 
 She explicitly acknowledged a debt to the party: *"I will never forget your kindness. Somehow I will pay my debt to you."* She notes that humans have generally not been good to centaur kind — her gratitude is genuine but given against that backdrop.
 
-She expressed concern for her herd after the encounter: Vordakai was far worse than centaur legends told, and she wonders what brought him back after 100,000 years and how her people will survive such a threat. She takes comfort in her mother being a strong leader, but the scale of what she faced is beyond anything their traditions prepared them for.
+She expressed concern for her herd after the encounter: Vordakai was far worse than centaur legends told, and she wonders what brought him back after what she called "100,000 years" (millennia, in truth) and how her people will survive such a threat. She takes comfort in her mother being a strong leader, but the scale of what she faced is beyond anything their traditions prepared them for.
 
 ## Relationships
 

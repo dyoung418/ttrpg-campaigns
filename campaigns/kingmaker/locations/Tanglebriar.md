@@ -6,6 +6,7 @@ tags:
 sources: []
 related:
   - "[[Avennara]]"
+  - "[[Kyonin]]"
   - "[[Riven]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
@@ -18,7 +19,7 @@ created: "2026-05-29"
 
 # Tanglebriar
 
-> **Region**: Kyonin (south)
+> **Region**: [[Kyonin]] (south)
 > **Type**: Corrupted forest / demon-held territory
 > **Status**: Hostile — held by Treerazer
 

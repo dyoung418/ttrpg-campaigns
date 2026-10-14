@@ -17,7 +17,8 @@ related:
   - "[[Vordakai]]"
   - "[[Xamanthe]]"
 date: ""
-session_number: 10
+rp_number: 10
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"

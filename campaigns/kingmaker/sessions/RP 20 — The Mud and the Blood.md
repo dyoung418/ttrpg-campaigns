@@ -10,12 +10,14 @@ related:
   - "[[Halvik]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lord Darian]]"
+  - "[[Pitax]]"
   - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[Silverstep]]"
   - "[[The Stag Lord]]"
   - "[[Willowshade]]"
 date: ""
-session_number: 20
+rp_number: 20
+session_number:
 status: complete
 players_present: []
 sources:
@@ -27,8 +29,8 @@ created: 2026-06-17
 
 > **Source**: RP20 (battle vignette from [[Cassandra]]'s perspective; written by Wes/Riven)
 > **Status**: `rp-scene`
-> **Players present**: None (GM/author vignette — POV [[Cassandra]])
-> **Setting**: The meadows outside [[Silverstep]], the first clash against the Pitax vanguard.
+> **Players present**: None (Wes's authored vignette — POV [[Cassandra]], no PC on stage)
+> **Setting**: The meadows outside [[Silverstep]], the first clash against the [[Pitax]] vanguard.
 
 ## Summary
 
@@ -57,7 +59,7 @@ created: 2026-06-17
 ## Notable Details / Flags
 
 - The opening engagement of the **Battle of Silverstep**, setting up the decisive Battle of [[Willowshade]] (continued in [[RP 22 — The Rest of the Battle of Silverstep]]).
-- No PCs present — a GM-authored perspective piece on [[Cassandra]] and the Guard.
+- No PCs present — a perspective piece on [[Cassandra]] and the Guard, written by Wes (Riven's player).
 
 ## Sources
 

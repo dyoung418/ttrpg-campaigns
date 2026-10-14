@@ -11,6 +11,8 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: alive
 role: "Viceroy of Freehaven; Cleric of Groetus"
@@ -37,7 +39,7 @@ Calm, level-headed, and surprisingly good at talking to people — until he inev
 
 ## Background
 
-Harrim answered [[Lady Jamandi Aldori]]'s call for heroes after learning of possible lost dwarven ruins in the Stolen Lands. He hoped to rediscover them before they crumbled away entirely — or before the world ends, whichever comes first. He joined the party's expedition and has since taken up the role of Viceroy in the [[Freehaven]] government, operating out of [[Nightmarch]].
+Harrim answered [[Lady Jamandi Aldori]]'s call for heroes after learning of possible lost dwarven ruins in the [[Stolen Lands]]. He hoped to rediscover them before they crumbled away entirely — or before the world ends, whichever comes first. He joined the party's expedition and has since taken up the role of Viceroy in the [[Freehaven]] government, operating out of [[Nightmarch]].
 
 His interest in the dwarven ruins may connect to the history of [[Bronzeshield Hold]].
 
@@ -55,4 +57,4 @@ His interest in the dwarven ruins may connect to the history of [[Bronzeshield H
 
 ## Session History
 
-- First appeared: Jamandi Aldori's Feast (pre-campaign)
+- First appeared: Jamandi Aldori's Feast (Session 1)

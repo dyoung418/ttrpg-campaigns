@@ -8,6 +8,7 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
@@ -43,7 +44,10 @@ related:
   - "[[The Demon's Legacy]]"
   - "[[The Horned Hunter]]"
   - "[[Thousandbreaths]]"
-status: alive
+status: deceased
+role: "Nyrissa's arcane advisor; worm that walks; killed in the Great Hall (Session 108)"
+faction: "[[Nyrissa]]"
+location: "Dead — fell in [[House at the Edge of Time]] L1"
 created: "2026-05-29"
 ---
 
@@ -51,11 +55,21 @@ created: "2026-05-29"
 
 **Creature 21** | Unique, CE, Medium, Aberration, Swarm (Variant male worm that walks wizard)
 
-[[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G). He held the **Throne Room (K17)** ([[Chapter 10 - Sound of a Thousand Screams|Chapter 10]]) of the [[House at the Edge of Time]] until Session 107, when he **escaped the fight alive** — he is now in **M6, Nyrissa's Garden**, healing, and hunting the party.
+[[Nyrissa]]'s arcane advisor. A worm that walks — a swarm of worms inhabiting the shape of a man. He died long ago on a failed mission to the First World and was reborn as this abomination. His aid has been instrumental in helping Nyrissa manipulate hundreds of kingdoms across worlds. He normally lives in **the Mire** (Glade G). He held the **Throne Room (K17)** ([[Chapter 10 - Sound of a Thousand Screams|Chapter 10]]) of the [[House at the Edge of Time]] until Session 107, when he **escaped the fight alive**. He came back for the rematch in the Great Hall in Session 108 and **died there.**
 
 ## Current Status
 
-**⚠️ ESCAPED — at large, healing, and owed a rematch.** He fought the party across
+> [!success] **DEAD — killed in the Great Hall (L1), [[Session 108 - That Is Not Yours|Session 108]]**
+> He rejoined the party's fight with the [[Barbtongued Wyverns]] still carrying damage from 107, and the
+> fight turned onto him once the wyverns were contained. [[Lee]] and [[Pavel]] worked him down, [[Milo]]
+> added splash damage from his inventory, and the rest of the party threw area spells. He went down soon
+> after the wyverns, **to timely criticals from Lee and Pavel.** The party searched him and the room and
+> **found nothing of note** — [[Lyriel's Stolen Jewelry|Lyriel's locket]] did not turn up.
+>
+> The demon-and-the-worm merge (see [[The Demon's Legacy]]) **never fired.** He dies as Nyrissa's
+> advisor and nothing more. Everything below is the record of the 106–107 fights and the 108 prep.
+
+**⚠️ ESCAPED (after 107) — at large, healing, and owed a rematch.** He fought the party across
 [[Session 106 - The Thing He Wears|106]] and all of
 [[Session 107 - I Cant Wait Until You Meet Her|107]], then **triggered his contingency and translocated
 out of the throne room mid-fight** rather than dying. By his statblock that is *dimension door* to
@@ -185,7 +199,7 @@ picks the time and the room; they don't.
 
 ---
 
-## ⚔️ Session 108 — The Ambush in the Great Hall *(planned with the GM — RUN THIS)*
+## ⚔️ Session 108 — The Ambush in the Great Hall *(the prep — he died in this fight)*
 
 > [!important] The rematch is **108**, not later. He interrupts the wyvern fight.
 > The party is already in initiative in **L1** against two [[Barbtongued Wyverns]]. **He drops from the
@@ -748,3 +762,4 @@ If he incapacitates a PC, he cannot resist using **Squirming Embrace** on them.
 ## Sources
 
 - [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

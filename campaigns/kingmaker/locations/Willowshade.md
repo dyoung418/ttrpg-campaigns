@@ -5,16 +5,19 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Almon d'Avoine]]"
   - "[[Almon's Hunt for Cassandra]]"
   - "[[Cassandra]]"
   - "[[Golden Talons]]"
   - "[[Halvik]]"
   - "[[Lord Darian]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 20 — The Mud and the Blood]]"
   - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[Senn]]"
   - "[[Silverstep]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: accessible
 region: "Stolen Lands — near Silverstep"
@@ -23,9 +26,9 @@ created: "2026-05-30"
 
 # Willowshade
 
-> **Region**: Stolen Lands — a valley hollow between [[Silverstep]] and the surrounding hills
+> **Region**: [[Stolen Lands]] — a valley hollow between [[Silverstep]] and the surrounding hills
 > **Type**: Natural terrain — valley, ford, ridges
-> **Status**: Battlefield; the decisive site of the Pitax War's assault on Silverstep
+> **Status**: Battlefield; the decisive site of the [[Pitax]] War's assault on Silverstep
 
 ## Description
 

@@ -11,6 +11,7 @@ related:
   - "[[Briar]]"
   - "[[Evindra]]"
   - "[[Fox-Head Pendant]]"
+  - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Kingmaker Campaign Timeline]]"
@@ -61,7 +62,7 @@ created: "2026-06-29"
 | [[Astor]] | Slava | Human Guardian — Counselor | Hold the line; came back from retirement with a family to lose; still carries [[Riven's Letter to Lyriel]]. | — |
 | [[Lucas]] | Jon | Kitsune Oracle/Bard — Magister | Protect Freehaven's soul; the veil is thin in [[Thousandbreaths]]; his 9th-level *fascination* is a fight-breaker. | — |
 | [[Milo]] | Billy | Halfling Inventor — Treasurer | Push forward; [[Rindle (Construct)]] repaired and online. | — |
-| [[Lee]] | Tom | Woodland Elf Swashbuckler — General | Killed the undefeated dragon last session — his proving fight is *won*. What's the next mountain? | — |
+| [[Lee]] | Tom | Woodland Elf Swashbuckler — General | Fought the undefeated dragon to her death last session (who struck the final blow isn't recorded) — his proving fight is *won*. What's the next mountain? | — |
 
 *Arc notes relevant to this session:*
 - **Wish lists are still empty across the party** — collect them before Session 104 (the House is the most loot-dense location in the campaign; don't walk in blind).
@@ -112,7 +113,7 @@ The cold open belongs to Briara — her awakening *is* proximity to her origin (
 - **The flickering far shore** — the [[House at the Edge of Time\|House]] oscillates between mountain ranges and open starfield; [[Briar\|Briara]] gets *louder* the further across they get (Secrets 1–2).
 
 ### [[House at the Edge of Time#Level 1 (K Areas)|The Gatehouse]] *(K1 — cliffhanger)*
-- **The ashamed dead** — 8 Ghostly Guards of Nyrissa's first kingdom; *Shame* −2 attacking apparent elves/Calistrians (Riven, Lee); **Forgive Foe frees them** (Secret 6 made tangible).
+- **The ashamed dead** — 8 [[Ghostly Guards]] of Nyrissa's first kingdom; *Shame* −2 attacking apparent elves/Calistrians (Riven, Lee); **Forgive Foe frees them** (Secret 6 made tangible).
 - **The portcullis** — Hardness 18, HP 72; the choke after the choke.
 - **Doors of faces** — every door carved laughing/frowning/frightened; the House is *watching* (Secret 3).
 
@@ -181,7 +182,7 @@ A lone Creature 20 loses the action-economy war against six honed PCs (they foun
 
 **What actually happened:**
 
-- **Recap of [[Session 102 - The Undefeated]].** The night opened with a recap: the fight through the trolls and cats, the talk with [[Briar|Briara]], the skull-lantern barricade, and the battle at [[Ilthuliak]]'s keep — the dragon animated the surrounding statues into a layered vertical fight, **[[Riven]] landed the killing arrow**, and once it fell the statues stopped moving. The party looted the keep afterward (haul below).
+- **Recap of [[Session 102 - The Undefeated]].** The night opened with a recap: the fight through the trolls and cats, the talk with [[Briar|Briara]], the skull-lantern barricade, and the battle at [[Ilthuliak]]'s keep — the dragon animated the surrounding statues into a layered vertical fight, **who landed the kill is not recorded**, and once it fell the statues stopped moving. The party looted the keep afterward (haul below).
 - **Briara's confession** *(the cold open, as prepped).* Mid rest-debate, [[Briar|Briara]] went suddenly, uncharacteristically quiet, then spoke in a changed, serious voice: *"Oh. Oh, she's close. I can feel the shape of where I used to be."* [[Pavel]] took her aside; she said she had not felt [[Nyrissa]]'s presence *"for ages, ages and ages"* and confirmed she had been torn out of herself as punishment **"for love."** The banter dissolved into a real conversation about identity, reunion, and whether Briara should be **destroyed, restored, or returned** to Nyrissa. Pavel cross-referenced the party's notes and prior interviews (including [[Evindra]]'s account) and found the stories contradictory. No decision was reached.
 - **Scouting the path north.** Pavel climbed the keep tower. The way forward dimmed into *"a patch of darker darkness"* — not true darkness, just a deeper dimming than the realm's twilight. No imminent danger; he judged Nyrissa might be somewhere *ahead on the same plane* rather than just outside the walls.
 - **The rest fork — resolved toward resting.** [[Lucas]] argued for giving [[Lyriel]] *"the best chance"* rather than charging in exhausted. [[Lee]] aided (+1 circumstance), and Lucas landed a **DC 40 Diplomacy** on a **hero-point reroll** to bring the anxious Riven around. Before resting, Lucas nearly cast a planar spell (*Planar Palace*), but [[Astor]] warned that dimensional magic had already misbehaved in the pocket-realm (the earlier teleport trouble in the troll-and-cats fight); Lucas held off. **The party long-rested in the keep.** *(Per prep, the rest secretly gated the party's level-up.)* [[Milo]] rejoined here, having missed the previous session.
@@ -191,7 +192,7 @@ A lone Creature 20 loses the action-economy war against six honed PCs (they foun
   - **Astor** used a lucky rabbit's foot to reroll a save, **critically shoved** Tarlaxian, and used Avalanche Boot effects to drive it toward the water; he innovated with big leaps to beat the iced greater difficult terrain.
   - **Milo** flew [[Rindle (Construct)|Rindle]] over the bridge, crit a Crafting check to trigger Overdrive, and traded a healing potion with Astor.
   - **Lee** was grabbed and **Coil-Dragged off the bridge into the lake**; **Pavel** hauled him back up with an Athletics check, and Lee then used Battle Medicine.
-- **Cliffhanger — the fight is nearly over, but positional.** The party's plan is **not to kill Tarlaxian — it's to get past him.** They correctly believe he **won't pursue beyond the bridge**, so reaching the far shore ends the threat. As the session closed they were **~3/4 of the way across**, but **Tarlaxian sits at the far end, blocking the exit.** He hits hard: **every PC except [[Riven]] has taken significant damage.** The open question they're solving is **how to shift him out of the doorway** — shove him off, force him under, or slip past — to cover the last stretch. Continues in Session 104.
+- **Cliffhanger — the fight is nearly over, but positional.** The party's plan is **not to kill Tarlaxian — it's to get past him.** They correctly believe he **won't pursue beyond the bridge**, so reaching the far shore ends the threat. As the session closed they were **~3/4 of the way across**, but **Tarlaxian sits at the far end, blocking the exit.** He hits hard: **every PC except [[Riven]] has taken significant damage.** The open question they're solving is **how to shift him out of the doorway** — shove him off, force him under, or slip past — to cover the last stretch. Continues in Session 104. *(Per [[Session 104 - The First Mercy|104]]'s recap: before the session actually closed, the party boxed Tarlaxian in a* Wall of Stone *at the bridge's far end and advanced past him to the closed portcullis — so 104 opens at the gate, not mid-bridge.)*
 
 **Loot from Ilthuliak's keep** *(distributed this session):* thundering *returning starknife*; *bracers of armor*; *rod of negation*; a **wolf's-head pendant** (Lucas flavors it as a **fox head**; grants Charisma — Lucas now wears it, see [[Fox-Head Pendant]]); *cloak of the bat*; *silver tongue mutagen* (Milo — later offered for the coming negotiation); *elixir of life*; *minor healing potion*.
 

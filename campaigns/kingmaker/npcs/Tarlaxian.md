@@ -20,6 +20,7 @@ related:
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Session 101 - The Heads Still Dream]]"
   - "[[Session 102 - The Undefeated]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"

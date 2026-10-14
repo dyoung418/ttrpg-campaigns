@@ -28,9 +28,11 @@ related:
   - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[Silverstep]]"
+  - "[[Stolen Lands]]"
   - "[[The Starlight Staff]]"
 date: ""
-session_number: 23
+rp_number: 23
+session_number:
 status: complete
 players_present:
   - "[[Pavel]]"
@@ -49,7 +51,7 @@ created: 2026-06-17
 > **Source**: RP23 (expanded re-ingest — the conversation extends well past the original cut)
 > **Status**: `rp-scene`
 > **Players present**: [[Pavel]], [[Riven]], [[Astor]], [[Lucas]], [[Milo]], [[Lee]] (whole party)
-> **Setting**: The cleared sanctum beneath [[Candlemere Island]], at the edge of the Star Hole, in the aftermath of the cult battle. Set during the bloom phase, before [[Lyriel]]'s arrival at [[Nightmarch]] (Session 100).
+> **Setting**: The cleared sanctum beneath [[Candlemere Island]], at the edge of the Star Hole, in the aftermath of the cult battle. Set in Session 90, after the Pitax war and Riven's return from [[Kyonin]], before the blooms (Session 95) and [[Lyriel]]'s arrival at [[Nightmarch]] (Session 100).
 
 ## Summary
 
@@ -61,11 +63,11 @@ Pavel sits at the edge of the Star Hole with [[Cat]] asleep beside him and [[Bri
 
 **The opening barb.** Without turning, Pavel tells Riven *"I hope you learned your lesson... This is what happens when you leave us to make our own decisions. We make a right mess of things."* Riven answers dryly: they defeated an ancient evil, kept Briar, and lived to be smug about it. *"Try not to make a habit of proving you don't need me."*
 
-**Pavel's crisis of conscience.** Pavel admits the fight was bad: [[Cat]] was bleeding out and he had to seal him into his statue mid-flight because there was no way to heal him. He describes the powerful mage they trapped in a box, who *"died flailing away with his fist like a child"* — and how wrong it felt, *"like the gods were having a laugh at his expense."* Then the deeper wound: *"when did it get so complicated?"* He used to fight only for survival and his pack; now he carries worries. When he thought he might die, he was ashamed — ashamed he'd let Riven down, and afraid for all the people in [[Nightmarch]] who depend on them: [[Linzi]], [[Astor]], [[Brumble]], [[Ekundayo]]… and, almost inaudibly, [[Edina Aldori|Edina]]. *"I don't feel right."*
+**Pavel's crisis of conscience.** Pavel admits the fight was bad: [[Cat]] was bleeding out and he had to seal her into her statue mid-flight because there was no way to heal her. He describes the powerful mage they trapped in a box, who *"died flailing away with his fist like a child"* — and how wrong it felt, *"like the gods were having a laugh at his expense."* Then the deeper wound: *"when did it get so complicated?"* He used to fight only for survival and his pack; now he carries worries. When he thought he might die, he was ashamed — ashamed he'd let Riven down, and afraid for all the people in [[Nightmarch]] who depend on them: [[Linzi]], [[Astor]], [[Brumble]], [[Ekundayo]]… and, almost inaudibly, [[Edina Aldori|Edina]]. *"I don't feel right."*
 
 **Riven's reassurance.** *"You feel as you should."* It was simpler before because there were fewer names to carry. Now Pavel fights for Freehaven, for the people he named. He did not let Riven down — he was afraid and kept going; *"that is courage."* As for the mage: he chose his road and would have killed them all. *"Nothing is broken in you, Pavel. You have more to lose now. So hold fast to it."*
 
-**Kyonin and the confession about Lyriel.** Pavel asks if Riven accomplished what he hoped in [[Kyonin]]. Riven: for [[Freehaven]], yes — recognition, trade, a place at the table. But that wasn't why Pavel asked. He admits the lie he'd told himself for years: that the Stolen Lands would make him *"strong enough, worth enough, whole enough"* to deserve [[Lyriel]]. He went to her only after he *"stopped trying to become the man who deserved to be loved"* — and offered her *"the man I am, faults and all. She may accept that. She may not."* He did not hide from her; he offered her his heart. *"That, I think, is what I hoped for."*
+**Kyonin and the confession about Lyriel.** Pavel asks if Riven accomplished what he hoped in [[Kyonin]]. Riven: for [[Freehaven]], yes — recognition, trade, a place at the table. But that wasn't why Pavel asked. He admits the lie he'd told himself for years: that the [[Stolen Lands]] would make him *"strong enough, worth enough, whole enough"* to deserve [[Lyriel]]. He went to her only after he *"stopped trying to become the man who deserved to be loved"* — and offered her *"the man I am, faults and all. She may accept that. She may not."* He did not hide from her; he offered her his heart. *"That, I think, is what I hoped for."*
 
 **"Do we get to meet her?"** Riven hopes to show Lyriel the sunrise over [[Silverstep]] Lake. He tells Pavel he wrote to her about his companions — *"she has heard a great deal about all of you. Especially about brave Pavel, who has saved my life more often than is reasonable."* Pavel offers to stay out of sight; Riven refuses plainly: *"You will meet her."*
 

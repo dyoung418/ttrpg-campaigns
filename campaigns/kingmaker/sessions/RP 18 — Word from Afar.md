@@ -20,12 +20,14 @@ related:
   - "[[Lyriel's Wait]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[Starberry Press]]"
   - "[[Tovan]]"
 date: ""
-session_number: 18
+rp_number: 18
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -49,11 +51,11 @@ The Grand Tournament draws kingdoms to [[Nightmarch]]. [[Riven]] wins the openin
 
 ## Key Beats
 
-**No reply, no Lyriel.** At the [[Starberry Press]], [[Linzi]] confirms there's been no answer to Riven's letter (see [[Lyriel's Wait]], [[Riven's Letter to Lyriel]]) — but hopes Lyriel might come with the Kyonin delegation. After winning archery gold, Riven scans the crowd; she isn't there.
+**No reply, no Lyriel.** At the [[Starberry Press]], [[Linzi]] confirms there's been no answer to Riven's invitation letter (see [[Lyriel's Wait]]; this is the *second* letter, not the sealed [[Riven's Letter to Lyriel|first one]] Astor keeps) — but hopes Lyriel might come with the Kyonin delegation. After winning archery gold, Riven scans the crowd; she isn't there.
 
 **Watching the road.** Pavel and Astor join him on the wall. Pavel, reading him, offers: *"if you need to go home to figure this out... you won't go alone."* Astor is quietly confused that Riven calls Kyonin "home."
 
-**The games & the cheating.** They plan the remaining events (the Grand Banquet, the Test of the Axe — Astor proposes recruiting a real **lumberjack** champion; the Midnight Joust — [[Pavel]] will ride [[Cat]]). Riven notes Pitax already cheated at archery (spells, adamantine arrows that *missed*) yet placed dead last — suggesting [[King Irovetti]]'s real aim lies elsewhere. He sends [[Pavel]] to spy on Irovetti's subordinates; [[Lee]] has the army on alert.
+**The games & the cheating.** They plan the remaining events (the Grand Banquet, the Test of the Axe — Astor proposes recruiting a real **lumberjack** champion; the Midnight Joust — [[Pavel]] will ride [[Cat]]). Riven notes [[Pitax]] already cheated at archery (spells, adamantine arrows that *missed*) yet placed dead last — suggesting [[King Irovetti]]'s real aim lies elsewhere. He sends [[Pavel]] to spy on Irovetti's subordinates; [[Lee]] has the army on alert.
 
 ## Characters Present / Mentioned
 

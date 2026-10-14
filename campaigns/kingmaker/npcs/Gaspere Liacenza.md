@@ -18,7 +18,7 @@ related:
   - "[[RP 23 — Deep Under Candlemere]]"
 aliases: []
 status: alive
-role: "Pitaxian bard; defected to help the PCs overthrow King Irovetti"
+role: "Pitaxian bard and head of the Liacenza Bandit House; defected to help the PCs overthrow King Irovetti"
 faction: "Freehaven (former Pitax)"
 location: "Pitax (now part of Freehaven)"
 first_appeared: "Pitax infiltration — war with Pitax"
@@ -27,13 +27,13 @@ created: "2026-05-29"
 
 # Gaspere Liacenza
 
-> **Role**: Pitaxian bard; defected to help overthrow [[King Irovetti]]
+> **Role**: Pitaxian bard and head of the **Liacenza Bandit House**; defected to help overthrow [[King Irovetti]]
 > **Location**: [[Pitax]] (now part of [[Freehaven]])
 > **Status**: Alive
 
 ## Background
 
-A bard from [[Pitax]] who chose to help the party overthrow [[King Irovetti]] from within. When Irovetti used the [[Grand Tournament of Freehaven]] as cover to launch a military assault on Freehaven's cities, most of the party infiltrated Pitax directly. Gaspere was their ally on the inside — a Pitaxian who turned against his king.
+A bard from [[Pitax]] — and the head of the Liacenza Bandit House, one of the city's underworld families (alongside [[Jhofre Vascari]]'s Vascari house) — who chose to help the party overthrow [[King Irovetti]] from within. When Irovetti used the [[Grand Tournament of Freehaven]] as cover to launch a military assault on Freehaven's cities, most of the party infiltrated Pitax directly. Gaspere was their ally on the inside — a Pitaxian who turned against his king.
 
 His specific role, motivations for defecting, and what he did during the infiltration are not yet detailed.
 

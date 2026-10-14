@@ -21,6 +21,7 @@ related:
   - "[[Lucas]]"
   - "[[Milo]]"
   - "[[Nyrissa]]"
+  - "[[Oaktop]]"
   - "[[Pavel]]"
   - "[[Rindle (Construct)]]"
   - "[[Riven]]"
@@ -36,6 +37,7 @@ status: deceased
 role: "Ankou assassins hidden in the wall paintings of the Lower Hall (K4); also the Lantern King's spies inside the House"
 location: "[[House at the Edge of Time]] — Lower Hall (K4)"
 first_appeared: "Session 105 — The Thing That Cannot Be Forgiven"
+faction: "[[Nyrissa]]"
 created: "2026-07-28"
 ---
 
@@ -56,7 +58,7 @@ created: "2026-07-28"
 
 Ankou are First World nightmares — shadow-killers that serve powerful fey. [[Pavel]] recognized the type
 on sight from prior experience (the party killed [[The Oaktop Ankou]], a thirty-foot Ankou general, during
-the Oaktop campaign), and the table established that these things answer to **powerful fey or the eldest
+the [[Oaktop]] campaign), and the table established that these things answer to **powerful fey or the eldest
 beings of the First World.** That read is correct and incomplete: they report to Nyrissa, and they report
 on Nyrissa to the Lantern King.
 

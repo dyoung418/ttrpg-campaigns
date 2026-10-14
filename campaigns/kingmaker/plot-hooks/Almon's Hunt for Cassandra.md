@@ -13,16 +13,18 @@ related:
   - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 19 — The Forest Answers]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
   - "[[Willowshade]]"
 aliases: []
-status: resolved
+status: unresolved
+priority: low
 created: "2026-05-30"
 ---
 
 # Almon's Hunt for Cassandra
 
-> **Status**: Transformed — the original target is dead; Almon himself remains unaccounted for
+> **Status**: Unresolved — the original target is dead; Almon himself was never accounted for before the campaign ended ([[Session 108 - That Is Not Yours|Session 108]])
 > **Threat level**: Unknown
 
 ## Summary

@@ -7,10 +7,14 @@ tags:
   - creature-type/hag
 sources: []
 related:
+  - "[[Ghostly Guards]]"
   - "[[House at the Edge of Time]]"
   - "[[Nyrissa]]"
   - "[[Thousandbreaths]]"
 status: alive
+role: "Annis hag cleric of Gyronna; one of Nyrissa's allies"
+faction: "[[Nyrissa]]"
+location: "Glade H — The Knurly House / cellar K16"
 created: "2026-05-29"
 ---
 
@@ -50,7 +54,7 @@ Combat order:
 
 **K16 encounter**: If cornered here after retreating, she fights to the death.
 
-**K15 servant wing**: If the Knurly Witch is in K16 and the Ghostly Guards in K15 raise an alarm, she joins the fight and uses *harm* to keep the ghosts healed.
+**K15 servant wing**: If the Knurly Witch is in K16 and the [[Ghostly Guards]] in K15 raise an alarm, she joins the fight and uses *harm* to keep the ghosts healed.
 
 ## Treasure (Knurly House)
 

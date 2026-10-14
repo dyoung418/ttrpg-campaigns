@@ -8,6 +8,7 @@ tags:
 sources: []
 related:
   - "[[Briar]]"
+  - "[[House at the Edge of Time]]"
   - "[[Linzi]]"
   - "[[Lyriel]]"
   - "[[Nyrissa]]"
@@ -15,6 +16,9 @@ related:
   - "[[The Month of Destruction]]"
   - "[[The Wriggling Man]]"
 status: deceased
+role: "Satyr ranger sent to steal Briar; killed by the PCs (Session 100)"
+faction: "[[Nyrissa]]"
+location: "Dead — killed in Thousandbreaths"
 created: "2026-05-29"
 ---
 
@@ -60,7 +64,7 @@ Appears at the Castle of Knives with 3× Jotund Trolls (CR 15). Immediately seek
 
 ## What Happens If He Gets Briar
 
-If Nyrissa gains Briar, she will not send the lesser jabberwock on Day 28 (she no longer fears the prophecy). The PCs will find Briar in her personal chambers (Fable M7d) when they reach the House at the Edge of Time.
+If Nyrissa gains Briar, she will not send the lesser jabberwock on Day 28 (she no longer fears the prophecy). The PCs will find Briar in her personal chambers (Fable M7d) when they reach the [[House at the Edge of Time]].
 
 ## Related Notes
 

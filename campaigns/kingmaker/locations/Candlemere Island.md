@@ -16,6 +16,7 @@ related:
   - "[[Kyonin]]"
   - "[[Lee]]"
   - "[[Lizardfolk Village]]"
+  - "[[Lucas]]"
   - "[[Lyriel]]"
   - "[[Milo]]"
   - "[[Nightmarch]]"
@@ -39,7 +40,7 @@ created: "2026-05-30"
 
 > **Region**: Stolen Lands
 > **Type**: Island / Underground Sanctum
-> **Status**: Cleared — cult defeated by the party (Session 23)
+> **Status**: Cleared — cult defeated by the party (Session 90 / [[RP 23 — Deep Under Candlemere|RP23]])
 
 ## Description
 
@@ -50,7 +51,7 @@ An island in the Stolen Lands harboring a deep underground sanctum built in serv
 - **The Star Hole**: A pit deep within the sanctum through which the entirety of the heavens is visible — stars shining and slowly wheeling underfoot, as if looking through the floor of the world into open space. The pit is real, or real enough: something pushed in does not come back up.
 - **Underground sanctum**: A cult complex, now cleared. Contained enchanted items and weapons recovered from the slain by [[Lee]], [[Eri Malai]], and [[Gaspere Liacenza]] in the aftermath.
 
-## What Happened Here (Session 23)
+## What Happened Here (Session 90 / RP23)
 
 The party fought and defeated an ancient cult beneath the island. The battle was costly: [[Rindle (Construct)|Rindle]] was destroyed (or badly damaged) and had to be collected in pieces by [[Milo]] for eventual repair. [[Eri Malai]] lost [[The Starlight Staff]] somewhere in the fight — it may have gone into the Star Hole with someone [[Pavel]] pushed in.
 

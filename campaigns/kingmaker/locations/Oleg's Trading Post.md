@@ -12,7 +12,9 @@ related:
   - "[[Oleg Leveton]]"
   - "[[RP 1 — Camping with Ekundayo]]"
   - "[[RP 2 — After the Thylacine Fight]]"
+  - "[[Stolen Lands]]"
   - "[[Svetlana Leveton]]"
+  - "[[The Founding of Freehaven]]"
   - "[[The Stag Lord]]"
   - "[[Thorn River Camp]]"
 aliases: []
@@ -29,7 +31,7 @@ created: "2026-06-17"
 
 ## Description
 
-A small frontier trading post run by [[Oleg Leveton]] and his wife [[Svetlana Leveton]] — the PCs' first stop on entering the Stolen Lands (Session 5), and the seed from which the trade town of [[Leveton]] would later grow.
+A small frontier trading post run by [[Oleg Leveton]] and his wife [[Svetlana Leveton]] — the PCs' first stop on entering the [[Stolen Lands]] (Session 5), and the seed from which the trade town of [[Leveton]] would later grow.
 
 ## History
 

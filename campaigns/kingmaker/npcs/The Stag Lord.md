@@ -21,6 +21,7 @@ related:
   - "[[RP 3 — After the Stag Lord Fight]]"
   - "[[RP 5 — One Night in Nightmarch]]"
   - "[[Stag Lord's Helm]]"
+  - "[[Stolen Lands]]"
   - "[[Svetlana Leveton]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Stag Lord's Fort]]"
@@ -35,7 +36,7 @@ created: "2026-05-29"
 
 # The Stag Lord
 
-> **Role**: Bandit lord of the Stolen Lands
+> **Role**: Bandit lord of the [[Stolen Lands]]
 > **Status**: Dead — defeated by the PCs
 
 ## Description

@@ -31,7 +31,7 @@ updated: "2026-05-30"
 
 > **Role**: Propagandist; orator; Pitaxian saboteur
 > **Location**: [[Nightmarch]] (formerly)
-> **Status**: Exiled/eliminated by the PCs
+> **Status**: Deceased — exiled by the PCs, then quietly eliminated on the road
 
 ## Description
 
@@ -51,7 +51,7 @@ His method was precise: every governance decision creates winners and losers. Gr
 
 He took deliberate and careful pains to avoid breaking any of Freehaven's laws, ensuring the PCs had no legal justification to arrest him. Doing so would have meant silencing a man who had broken no laws — which would have validated every word he'd said about them.
 
-He was ultimately exiled or eliminated by the PCs. [[Riven]] later cited him at the [[Grand Tournament of Freehaven]] as a standing reason why Pitax must be watched carefully.
+He was exiled by the PCs — who then saw to it that he didn't get far (Session 21). [[Riven]] later cited him at the [[Grand Tournament of Freehaven]] as a standing reason why Pitax must be watched carefully.
 
 ## The Deception (GM Knowledge)
 

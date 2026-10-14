@@ -13,12 +13,14 @@ related:
   - "[[Bronzeshield Hold]]"
   - "[[Brumble]]"
   - "[[Candlemere Island]]"
+  - "[[Cat]]"
   - "[[Edina Aldori]]"
   - "[[Ekundayo]]"
   - "[[Engelidis]]"
   - "[[Eri Malai]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[Grigori]]"
   - "[[Harrim]]"
   - "[[Kingmaker Campaign Timeline]]"
@@ -49,6 +51,7 @@ related:
   - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
   - "[[RP 23 — Deep Under Candlemere]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
+  - "[[RP 25.1 — Pavel's Confusion]]"
   - "[[RP 3 — After the Stag Lord Fight]]"
   - "[[RP 4 — Returning to Nightmarch after Hargulka's Fortress]]"
   - "[[RP 5 — One Night in Nightmarch]]"
@@ -62,14 +65,17 @@ related:
   - "[[Stolen Lands]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Month of Destruction]]"
+  - "[[The Oaktop Ankou]]"
   - "[[The Stag Lord]]"
   - "[[The Stag Lord's Fort]]"
+  - "[[The Sword and the Suitor]]"
   - "[[The Temple of the Elk]]"
   - "[[The Wriggling Man]]"
   - "[[Tol-Kin]]"
   - "[[Tuskwater River]]"
   - "[[Varnhold]]"
   - "[[Vesket]]"
+  - "[[Vordakai]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"
@@ -78,20 +84,20 @@ created: "2026-05-29"
 
 # Nightmarch
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: City — Capital
 > **Status**: Accessible
 
 ## Description
 
-The capital city of the kingdom of [[Freehaven]] and the seat of its oligarchic government. Built on the former site of [[The Stag Lord]]'s fort — the stronghold the party destroyed in the campaign's opening arc. The choice to build the capital here was deliberate: the seat of bandit power became the seat of the kingdom that replaced it.
+The capital city of the kingdom of [[Freehaven]] and the seat of its oligarchic government. Built around [[The Stag Lord]]'s fort — [[The Stag Lord's Fort|the stronghold the party took]] in the campaign's opening arc and kept as the city's **Old Fortress**. The choice to build the capital here was deliberate: the seat of bandit power became the seat of the kingdom that replaced it.
 
 ## Notable Features
 
 - Seat of the [[Freehaven]] oligarchy
 - Home base of the ruling PCs
-- **Rise n Dine** — inn and tavern; gathering place; has a chalkboard where locals keep a tally of how many times they've successfully hit [[Pavel]] from behind with a stick (the "Pavel Stick" game)
-- **Grove** — being built at [[Riven]]'s persistent request; not yet complete as of the Vordakai arc
+- **[[Rise n Dine]]** — inn and tavern; gathering place; has a chalkboard where locals keep a tally of how many times they've successfully hit [[Pavel]] from behind with a stick (the "Pavel Stick" game)
+- **Grove** — being built at [[Riven]]'s persistent request; not yet complete as of the [[Vordakai]] arc
 - **Astor's mansion** — [[Astor]] has built a personal residence; reported to have an enormous couch
 
 ## NPCs Found Here

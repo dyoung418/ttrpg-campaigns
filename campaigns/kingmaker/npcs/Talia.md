@@ -6,6 +6,7 @@ tags:
   - backstory
 sources: []
 related:
+  - "[[Embeth Forest]]"
   - "[[Freehaven]]"
   - "[[Jameel Visser]]"
   - "[[Riven]]"
@@ -24,7 +25,7 @@ created: "2026-05-29"
 
 > **Role**: Current leader of the Few; actively hunting Riven
 > **Faction**: [[The Few]]
-> **Status**: Alive — active threat
+> **Status**: Alive — the vendetta against [[Riven]] was never played out; unresolved at campaign end
 
 ## Description
 

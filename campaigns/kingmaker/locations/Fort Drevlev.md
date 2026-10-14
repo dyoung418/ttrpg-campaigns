@@ -14,16 +14,17 @@ related:
   - "[[Kisandra Numesti]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Nightmarch]]"
-  - "[[Ovinrbaane]]"
   - "[[Pavetta Stroon-Drevlev]]"
   - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 16 — Drevlev Infiltrations]]"
   - "[[RP 17 — Long Road Home]]"
   - "[[Satinder Morne]]"
+  - "[[Stolen Lands]]"
   - "[[Tamary Numesti]]"
   - "[[Terrion Numesti]]"
   - "[[The Founding of Freehaven]]"
+  - "[[Tiger Lords]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"
@@ -32,13 +33,13 @@ created: "2026-05-29"
 
 # Fort Drevlev
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: Settlement / Fort
 > **Status**: Accessible (now part of Freehaven)
 
 ## Description
 
-A settlement originally founded by [[Hannis Drevlev]], one of the other adventurers who received a charter from [[Lady Jamandi Aldori]] alongside the PCs. Drevlev eventually turned treacherous, conspiring against [[Freehaven]] by allying with [[Pitax]] and the Tiger Lords. After the PCs defeated both Drevlev and his allies, Fort Drevlev was absorbed into Freehaven.
+A settlement originally founded by [[Hannis Drevlev]], one of the other adventurers who received a charter from [[Lady Jamandi Aldori]] alongside the PCs. Drevlev eventually turned treacherous, conspiring against [[Freehaven]] by allying with [[Pitax]] and the [[Tiger Lords]]. After the PCs defeated both Drevlev and his allies, Fort Drevlev was absorbed into Freehaven.
 
 ## Aspects
 

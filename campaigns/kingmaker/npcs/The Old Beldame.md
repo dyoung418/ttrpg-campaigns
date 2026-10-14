@@ -16,6 +16,7 @@ aliases:
 status: alive
 role: "Hermit witch; herbalist; alchemist"
 location: "Stolen Lands (hut, exact location unrecorded)"
+faction: "Independent"
 created: 2026-06-03
 ---
 

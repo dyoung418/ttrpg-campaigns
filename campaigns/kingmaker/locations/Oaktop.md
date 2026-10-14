@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Ankou Assassins]]"
   - "[[Astor]]"
   - "[[Briar]]"
   - "[[Edina Aldori]]"
@@ -23,7 +24,7 @@ related:
   - "[[The Month of Destruction]]"
   - "[[The Oaktop Ankou]]"
 aliases: []
-status: contested
+status: cleared
 region: "Stolen Lands"
 created: 2026-06-17
 ---

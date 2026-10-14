@@ -14,6 +14,7 @@ related:
   - "[[Lucas]]"
   - "[[Nightmarch]]"
   - "[[RP 13 — Through the Dunsward to Restov]]"
+  - "[[Stolen Lands]]"
 status: held
 created: "2026-05-29"
 ---
@@ -33,7 +34,7 @@ When the ancestor vision produced a potential wedding between [[Great Aunt Sumi]
 
 ## Significance
 
-- A rare surviving record of the Sato family's history — particularly meaningful given that kitsune kept to the shadows in the Stolen Lands for generations, leaving few written traces
+- A rare surviving record of the Sato family's history — particularly meaningful given that kitsune kept to the shadows in the [[Stolen Lands]] for generations, leaving few written traces
 - Contains prayers and rituals that Lucas understands and uses
 - May contain information relevant to the kitsune history in [[Nightmarch]] (pre-dating even [[Great Great Aunt Gina]]'s time)
 

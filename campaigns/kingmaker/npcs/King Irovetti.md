@@ -20,6 +20,7 @@ related:
   - "[[Grigori]]"
   - "[[Hannis Drevlev]]"
   - "[[Jhofre Vascari]]"
+  - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Linzi]]"
@@ -40,6 +41,7 @@ related:
   - "[[Tartuccio]]"
   - "[[The Few]]"
   - "[[The Founding of Freehaven]]"
+  - "[[Tiger Lords]]"
 aliases: ["Castruccio Irovetti", "King Irrovetti"]
 status: deceased
 role: "Vain tyrant; king of Pitax; Nyrissa's pawn"
@@ -65,7 +67,7 @@ The vain and antagonistic ruler of [[Pitax]], a rival kingdom that aggressively 
 
 Unknown to most, Irovetti was a pawn of [[Nyrissa]] — his madness was engineered by her to make Freehaven stronger and more worthy of being her 1,000th kingdom. The sword [[Briar]] was found hidden in his palace.
 
-He also conspired with [[Hannis Drevlev]] and the Tiger Lords against Freehaven.
+He also conspired with [[Hannis Drevlev]] and the [[Tiger Lords]] against Freehaven.
 
 ## Secret History (Intelligence from Lady Jamandi)
 
@@ -75,7 +77,7 @@ He also conspired with [[Hannis Drevlev]] and the Tiger Lords against Freehaven.
 - Birth name believed to be **Mandalarucio**
 - Past intersects with the **Technic League** (possibly why he changed his name)
 - Came into possession of powerful devices — likely Technic League in origin — which fueled his rise to power from obscurity to king
-- [[Riven]] noted that Irovetti's rise "left scars on more than just his enemies" — he has personal history with Irovetti from his time with [[The Few]] (Irovetti was one of the petty tyrants The Few aided under Rowan Half Dark)
+- [[Riven]] noted that Irovetti's rise "left scars on more than just his enemies" — he has personal history with Irovetti from his time with [[The Few]] (Irovetti was one of the petty tyrants The Few aided under [[Rowan Half Dark]])
 
 ## Relationships
 
@@ -85,5 +87,5 @@ He also conspired with [[Hannis Drevlev]] and the Tiger Lords against Freehaven.
 
 ## Session History
 
-- **Grand Tournament of Freehaven — the trap**: Attended in person. Pitax entered all events and cheated at the Archery Contest (spells and adamantine arrows; still finished dead last). Irovetti wanted to bet on the overall outcome. The tournament was a calculated trap: at the final event, with all of Freehaven's rulers gathered in one place, Irovetti launched a coordinated military assault on Freehaven's cities. He had correctly identified that the tournament would concentrate the kingdom's leadership and thin the borders.
+- **[[Grand Tournament of Freehaven]] — the trap**: Attended in person. Pitax entered all events and cheated at the Archery Contest (spells and adamantine arrows; still finished dead last). Irovetti wanted to bet on the overall outcome. The tournament was a calculated trap: at the final event, with all of Freehaven's rulers gathered in one place, Irovetti launched a coordinated military assault on Freehaven's cities. He had correctly identified that the tournament would concentrate the kingdom's leadership and thin the borders.
 - **Defeat**: While [[Riven]] stayed in [[Freehaven]] to command the armies against the invasion, the rest of the party infiltrated [[Pitax]] and overthrew Irovetti from within. They were aided by **[[Gaspere Liacenza]]**, a Pitaxian bard who turned against the king. Irovetti was defeated. Pitax was absorbed into Freehaven.

@@ -13,7 +13,9 @@ related:
   - "[[Riven]]"
   - "[[RP 18 — Word from Afar]]"
   - "[[RP 19 — The Forest Answers]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[Silverstep]]"
+  - "[[Willowshade]]"
 aliases: []
 status: unknown
 role: "Pitax intelligence operative; spy"
@@ -45,7 +47,7 @@ Embedded as cover in a [[Pitax]] supply convoy during the war — likely running
 1. The [[Golden Talons]] (two battalions) are marching on [[Silverstep]].
 2. The Rangers' commander is racing to protect someone named **Cassandra**, who outnumbers his force two to one.
 
-**Cassandra** is now Almon's target.
+**Cassandra** became Almon's target — and then died at [[Willowshade]] ([[RP 22 — The Rest of the Battle of Silverstep|RP22]]), so the hunt is moot; Almon himself was never accounted for. See [[Almon's Hunt for Cassandra]].
 
 ## GM Notes
 

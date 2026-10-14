@@ -5,11 +5,14 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
+  - "[[Almon d'Avoine]]"
   - "[[Cassandra]]"
   - "[[Ekundayo]]"
+  - "[[Golden Talons]]"
   - "[[Halvik]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lord Darian]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 20 — The Mud and the Blood]]"
   - "[[Senn]]"
@@ -17,7 +20,8 @@ related:
   - "[[Silverstep]]"
   - "[[Willowshade]]"
 date: ""
-session_number: 22
+rp_number: 22
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -39,7 +43,7 @@ The conclusion of the Battle of Silverstep, in four movements: [[Lord Darian]]'s
 
 ## Key Beats
 
-**The Empty Goblet.** [[Lord Darian]] vows not to drink until it's Silverstep's wine in his cup, dismissing [[Cassandra]] as a thief and bandit. Two hundred Golden Talons dress ranks.
+**The Empty Goblet.** [[Lord Darian]] vows not to drink until it's Silverstep's wine in his cup, dismissing [[Cassandra]] as a thief and bandit. Two hundred [[Golden Talons]] dress ranks.
 
 **Council in the Dark.** [[Riven]] arrives with thirty Rangers (having sent [[Ekundayo]] north to reinforce [[Serenko]]). With Cassandra and sergeants [[Halvik]] and [[Senn]], they reject suicide and street-fighting for a trap: bait Darian's host across the ford into the valley throat at [[Willowshade]].
 
@@ -51,7 +55,7 @@ The conclusion of the Battle of Silverstep, in four movements: [[Lord Darian]]'s
 
 - [[Riven]] — architect of the Willowshade trap; kills [[Lord Darian]]; cannot save Cassandra
 - [[Cassandra]] — wins the day and **dies** at Willowshade
-- [[Lord Darian]] — Pitax commander; slain by Riven's arrow
+- [[Lord Darian]] — [[Pitax]] commander; slain by Riven's arrow
 - [[Halvik]] — sergeant at Cassandra's side when she falls
 - [[Senn]] — sergeant; the council's voice of caution
 - [[Ekundayo]] — sent north to reinforce [[Serenko]]

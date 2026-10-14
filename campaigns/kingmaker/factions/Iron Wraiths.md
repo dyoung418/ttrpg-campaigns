@@ -9,6 +9,9 @@ related:
   - "[[Hannis Drevlev]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
+  - "[[Nyrissa]]"
+  - "[[Stolen Lands]]"
+  - "[[Varnhold]]"
 aliases:
   - The Iron Wraiths
 status: unknown
@@ -22,7 +25,7 @@ created: "2026-05-29"
 
 ## Summary
 
-One of the other charter-holder groups issued a charter by [[Lady Jamandi Aldori]] to settle portions of the Stolen Lands. Unlike [[Freehaven]], the Iron Wraiths went dark and are assumed dead. Their fate is unknown.
+One of the other charter-holder groups issued a charter by [[Lady Jamandi Aldori]] to settle portions of the [[Stolen Lands]]. Unlike [[Freehaven]], the Iron Wraiths went dark and are assumed dead. Their fate is unknown.
 
 ## What's Known
 
@@ -33,11 +36,11 @@ One of the other charter-holder groups issued a charter by [[Lady Jamandi Aldori
 ## Open Questions
 
 - What happened to them?
-- Did they fall to monsters, political enemies, internal conflict — or something connected to Nyrissa?
+- Did they fall to monsters, political enemies, internal conflict — or something connected to [[Nyrissa]]?
 - Is anyone left? Could a survivor appear?
 
 ## GM Notes
 
 > [!secret] GM Only
-> - Mentioned by [[Lady Jamandi Aldori]] in her internal monologue at the Great Feast, alongside the fall of Varnhold and Hannis Drevlev's collapse. The picture is: of all the charter-holders, only Freehaven is standing.
+> - Mentioned by [[Lady Jamandi Aldori]] in her internal monologue at the Great Feast, alongside the fall of [[Varnhold]] and her unease about [[Hannis Drevlev]] (his fort didn't fall until Session 60). The picture is: of all the charter-holders, only Freehaven is standing.
 > - Could be used as a mystery or backstory seed — what did the Iron Wraiths encounter?

@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Freehaven]]"
   - "[[Linzi]]"
   - "[[RP 14.2 — Lucas and the Bards]]"
   - "[[Tol-Kin]]"
@@ -25,7 +26,7 @@ created: "2026-05-29"
 
 ## Background
 
-A student of [[Tol-Kin]] who has since settled into the role of Court Bard for a noble family somewhere in the East. [[Linzi]] trained under him before joining Freehaven as Emissary.
+A student of [[Tol-Kin]] who has since settled into the role of Court Bard for a noble family somewhere in the East. [[Linzi]] trained under him before joining [[Freehaven]] as Emissary.
 
 [[Tol-Kin]] scoffs at his settling down: *"A Bard who stays in one place is one whose stories grow stale."* [[Linzi]] says he seems happy there.
 

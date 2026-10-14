@@ -18,7 +18,9 @@ related:
   - "[[Riven]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
   - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Silverstep]]"
+  - "[[Stolen Lands]]"
   - "[[Tanglebriar]]"
   - "[[Treerazer]]"
 aliases: []
@@ -31,7 +33,7 @@ created: "2026-05-29"
 
 > **Region**: Kyonin
 > **Type**: City — ancient elven city
-> **Status**: Accessible (distant from the Stolen Lands)
+> **Status**: Accessible (distant from the [[Stolen Lands]])
 
 ## Description
 
@@ -39,13 +41,13 @@ The ancient elven city within the lush, mystical forests of [[Kyonin]] where [[R
 
 The primary threat: [[Treerazer]], a demon who holds the [[Tanglebriar]] to the south and has never been fully expelled. The elves repelled him from the heart of Kyonin but lost the Tanglebriar to him permanently. [[Riven]] fought Treerazer's undead for over fifty years before leaving.
 
-Riven left Avennara in shame after his court-martial. He returned thirty years later as king of [[Freehaven]], leading a diplomatic delegation that produced the [[Freehaven-Kyonin Treaty]].
+Riven left Avennara in shame after his court-martial. He returned twenty years later as king of [[Freehaven]], leading a diplomatic delegation that produced the [[Freehaven-Kyonin Treaty]].
 
 ## NPCs Found Here
 
 - [[Aelir and Lytha]] — Riven's parents; deceased
 - [[Faelir]] — Riven's druid mentor; presumably still here
-- [[Lyriel]] — lives at the edge of the city where the gardens meet the wood; she and Riven had their reunion here during his diplomatic visit; she is now captive in the [[House at the Edge of Time]]
+- [[Lyriel]] — lives at the edge of the city where the gardens meet the wood; she and Riven had their reunion here during his diplomatic visit; she was taken captive to the [[House at the Edge of Time]] and freed by the party in [[Session 108 - That Is Not Yours|Session 108]]
 
 ## GM Notes
 

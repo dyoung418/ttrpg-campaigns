@@ -47,9 +47,9 @@ status_vocab() {
     npc)        echo "alive deceased missing captive unknown" ;;
     character)  echo "active retired deceased" ;;
     location)   echo "accessible hostile contested cleared ruined" ;;
-    plot-hook)  echo "open active resolved abandoned" ;;
+    plot-hook)  echo "open active resolved abandoned unresolved" ;;
     faction)    echo "active defeated destroyed unknown" ;;
-    item)       echo "unacquired held lost destroyed" ;;
+    item)       echo "unacquired held lost destroyed returned" ;;
     lore)       echo "stub established" ;;
     session)    echo "planned complete" ;;
     *)          echo "" ;;

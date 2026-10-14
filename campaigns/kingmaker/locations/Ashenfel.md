@@ -10,6 +10,7 @@ related:
   - "[[Nightmarch]]"
   - "[[Nomen Centaurs]]"
   - "[[Nomen Heights]]"
+  - "[[Stolen Lands]]"
   - "[[The Founding of Freehaven]]"
   - "[[Tors of Levenies]]"
   - "[[Vordakai]]"
@@ -21,7 +22,7 @@ created: "2026-05-29"
 
 # Ashenfel
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: Town — Centaur settlement
 > **Status**: Accessible
 

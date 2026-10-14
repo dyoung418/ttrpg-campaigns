@@ -7,7 +7,6 @@ sources: []
 related:
   - "[[Armag Reborn]]"
   - "[[Benedin]]"
-  - "[[Fort Drevlev]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Pavel]]"
@@ -20,7 +19,7 @@ created: "2026-05-29"
 # Ovinrbaane
 
 > **Type**: Legendary weapon
-> **Status**: Unknown — last associated with [[Armag Reborn]] at [[Fort Drevlev]]
+> **Status**: Unknown — last associated with [[Armag Reborn]] at the vault of the old Armag's sword (Session 65)
 
 ## Description
 

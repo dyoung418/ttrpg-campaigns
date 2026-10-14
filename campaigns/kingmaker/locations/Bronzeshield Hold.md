@@ -21,9 +21,12 @@ related:
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[RP 17 — Long Road Home]]"
   - "[[RP 6 — Reflections While Traveling]]"
+  - "[[Stolen Lands]]"
   - "[[Terrion Numesti]]"
   - "[[The Arsonist of Bronzeshield Hold]]"
+  - "[[The Founding of Freehaven]]"
   - "[[Tiger Lords]]"
+  - "[[Vordakai]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"
@@ -32,7 +35,7 @@ created: "2026-05-29"
 
 # Bronzeshield Hold
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: Dwarven Hold / Settlement
 > **Status**: Accessible
 
@@ -62,9 +65,9 @@ Built from the ancient remains of a dwarven stronghold. When the PCs first arriv
 
 A village (<400 people). Linzi's Freehaven Gazette article worked — some young dwarven cousins (<100 years old) have moved in. Benedin describes them as "mostly useless, the lot" but expects them to grow into it. The population is still mostly builders and merchants alongside the new arrivals.
 
-**Active threat:** An arsonist — a "red-haired devil" — has been emboldened by the party's absence. [[Benedin]] isn't sure how to deal with them: he's not suited to lying in wait, and trap rituals risk catching innocent townsfolk. He plans to stay home after the Vordakai arc in hopes his presence will deter the arsonist or give him a chance to catch them in the act. See: [[The Arsonist of Bronzeshield Hold]].
+**Former threat (resolved — see [[The Arsonist of Bronzeshield Hold]]):** An arsonist — a "red-haired devil" — was emboldened by the party's absence. [[Benedin]] isn't sure how to deal with them: he's not suited to lying in wait, and trap rituals risk catching innocent townsfolk. He plans to stay home after the [[Vordakai]] arc in hopes his presence will deter the arsonist or give him a chance to catch them in the act. See: [[The Arsonist of Bronzeshield Hold]].
 
-Linzi noted that "when the troll scent dies down," Bronzeshield Hold will likely become Freehaven's most active vacation destination.
+[[Linzi]] noted that "when the troll scent dies down," Bronzeshield Hold will likely become Freehaven's most active vacation destination.
 
 ## GM Notes
 

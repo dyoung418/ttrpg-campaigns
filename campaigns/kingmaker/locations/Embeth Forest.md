@@ -11,8 +11,10 @@ related:
   - "[[Kyonin]]"
   - "[[Linzi]]"
   - "[[Riven]]"
+  - "[[River Kingdoms]]"
   - "[[Rowan Half Dark]]"
   - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Talia]]"
   - "[[The Few]]"
 aliases: []
 status: accessible
@@ -22,7 +24,7 @@ created: "2026-05-29"
 
 # Embeth Forest
 
-> **Region**: River Kingdoms
+> **Region**: [[River Kingdoms]]
 > **Type**: Wilderness — forest
 > **Status**: Accessible (distant)
 
@@ -48,6 +50,6 @@ An informal accord reached during the diplomatic mission: safe conduct for [[Fre
 ## GM Notes
 
 > [!secret] GM Only
-> - Embeth Forest is effectively The Few's home territory — and also Jameel's. If Talia encroaches, she'll run into his wardens.
+> - Embeth Forest is effectively The Few's home territory — and also Jameel's. If [[Talia]] encroaches, she'll run into his wardens.
 > - If Talia is hunting Riven, agents from the Embeth Forest are the likely vector — but Jameel may be a counterweight.
 > - The Embeth Agreement means Freehaven caravans have friends in the forest.

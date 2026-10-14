@@ -5,7 +5,9 @@ tags:
   - campaign/kingmaker
 sources: []
 related:
+  - "[[Freehaven]]"
   - "[[Linzi]]"
+  - "[[Lyriel's Wait]]"
   - "[[Nightmarch]]"
   - "[[RP 18 — Word from Afar]]"
   - "[[RP 5 — One Night in Nightmarch]]"
@@ -26,4 +28,4 @@ created: "2026-06-03"
 Linzi's publishing office in [[Nightmarch]]. Stub — needs fleshing out.
 
 > [!todo] Needs content
-> Establish: what does Starberry Press publish? Books, broadsheets, the official Freehaven chronicle? How is it tied to Linzi's role as the kingdom's chronicler? Who else works there?
+> Establish: what does Starberry Press publish? Books, broadsheets, the official [[Freehaven]] chronicle? How is it tied to Linzi's role as the kingdom's chronicler? Who else works there?

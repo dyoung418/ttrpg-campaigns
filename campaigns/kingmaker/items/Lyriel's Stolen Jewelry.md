@@ -7,6 +7,7 @@ tags:
 sources:
   - "[[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]"
   - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Astor]]"
   - "[[House at the Edge of Time]]"
@@ -32,7 +33,7 @@ created: "2026-07-27"
 # Lyriel's Stolen Jewelry
 
 > **Rarity**: Unique (no known magical properties)
-> **Status**: Lost — worn by [[The Wriggling Man]]
+> **Status**: Lost — **not found** when [[The Wriggling Man]] died
 
 ## Description
 
@@ -105,7 +106,11 @@ He kept this. He did not have to.
 
 ## Current Location / Holder
 
-**[[The Wriggling Man]] — and gone with him.** He wore it openly in the Throne Room (K17) of the
+> [!warning] **Unrecovered — [[Session 108 - That Is Not Yours|Session 108]].** [[The Wriggling Man]] was killed in the Great Hall, and the party
+> **searched him and the room and found nothing of note.** The locket never came out of the worms. The
+> campaign ended without it. [[Lyriel]] herself was freed, so it no longer carries the plot.
+
+*Before 108:* **[[The Wriggling Man]] — and gone with him.** He wore it openly in the Throne Room (K17) of the
 [[House at the Edge of Time]] across [[Session 106 - The Thing He Wears|106]] and
 [[Session 107 - I Cant Wait Until You Meet Her|107]]. When his contingency fired at the end of 107 he
 **translocated out of the fight still carrying it** — by his statblock, to **M6, Nyrissa's Garden**.
@@ -117,7 +122,7 @@ The party never got it. **They have to beat him a second time.**
 **It is the proof, and it is the taunt.** It tells [[Riven]] three things at once:
 
 1. **She was real and he had his hands on her** — this is the fey from the gate, confirmed.
-2. **She is not here** — every breadcrumb (*"the one with many faces keeps the elf-woman"*) pointed the party at this room expecting a rescue. The plan was right; the destination was wrong. She is held deeper in, **with [[Nyrissa]]** in M7c.
+2. **She is not here** — the party came to this room expecting a rescue. The plan was right; the destination was wrong. She was held deeper in, **with [[Nyrissa]]** in M7c *(freed in Session 108)*.
 3. **He kept it because it was worth keeping** — he is not a jailer doing a job. He collects.
 
 > [!tip] The mirror — the given and the taken
@@ -146,3 +151,4 @@ The party never got it. **They have to beat him a second time.**
 ## Sources
 
 - [[_sources/processed/session_notes/Session 106|Session 106 — Actual-Play Notes]]
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

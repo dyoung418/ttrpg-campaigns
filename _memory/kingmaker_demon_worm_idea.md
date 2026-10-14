@@ -1,11 +1,13 @@
 ---
 name: kingmaker-demon-worm-idea
-description: "STILL LIVE as of Session 107 (2026-08-03) — the Wriggling Man ESCAPED the throne-room fight, so the window to canonize him as the demon that killed Riven's parents reopened; a rematch is owed. Seeds in 'The Demon and the Worm Ideas' canvas"
+description: "CLOSED (Session 108) — the Wriggling Man died in the Great Hall rematch without the merge ever firing, and the campaign ended that session. He is not the demon; Riven's parents' killer stays unidentified. Historical only."
 metadata: 
   node_type: memory
   type: project
   originSessionId: 1043221e-691d-492d-86e1-fc8e84ce5d95
 ---
+
+> [!success] **CLOSED — Session 108.** The Wriggling Man was killed in the Great Hall and the campaign ended the same night. The merge never fired, so the demon stays unidentified (see `campaigns/kingmaker/plot-hooks/The Demon's Legacy.md`). Kept for history only; nothing to act on.
 
 The GM is considering making [[The Wriggling Man]] and the demon that killed Riven's parents (Aelir and Lytha, Kyonin ambush — see the open plot hook `campaigns/kingmaker/plot-hooks/The Demon's Legacy.md`) **one and the same entity**. Brainstormed 2026-07-02 via /ideate; **not yet canon** — no campaign note asserts the merge yet.
 

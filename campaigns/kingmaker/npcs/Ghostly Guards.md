@@ -22,16 +22,19 @@ related:
   - "[[Nyrissa]]"
   - "[[Pavel]]"
   - "[[Riven]]"
+  - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Tarlaxian]]"
+  - "[[The Knurly Witch]]"
   - "[[The Wriggling Man]]"
 aliases:
   - The Ashamed Dead
 status: alive
 role: "Bound elven dead of Nyrissa's first kingdom; gatehouse (K1) and servants' wing (K15) of the House"
 location: "House at the Edge of Time — Gatehouse (K1) and Servants' Wing (K15)"
+faction: "[[Nyrissa]] (her first kingdom's dead)"
 created: "2026-07-07"
 ---
 

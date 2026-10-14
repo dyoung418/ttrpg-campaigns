@@ -15,6 +15,7 @@ related:
   - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 19 — The Forest Answers]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[Silverstep]]"
   - "[[Tovan]]"
   - "[[Willowshade]]"

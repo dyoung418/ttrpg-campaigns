@@ -10,6 +10,7 @@ related:
   - "[[Benedin]]"
   - "[[Eclipsed Incantations]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Nyrissa]]"
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"
@@ -31,7 +32,7 @@ The singular gem eye taken from [[Vordakai]]'s skull after his defeat. It is wra
 ## Known Properties
 
 - Psychic draw — generates an urge to examine it in those nearby; the compulsion is noticeable but so far resistible
-- Origin: cyclops lich; the eye of a creature who could perceive and harvest souls and who slept for over 100,000 years
+- Origin: cyclops lich; the eye of a creature who could perceive and harvest souls and who slept for millennia
 
 ## Why the Party Hasn't Used It
 
@@ -43,7 +44,7 @@ The combination of a felt psychic compulsion and unknown scope of power has made
 > - The passive compulsion at the campfire scene is a useful recurring pressure point — it doesn't have to do anything dramatic to stay present in the narrative
 > - What *does* it actually do? What did Vordakai use it for?
 > - Could it be connected to [[Benedin]]'s research into the *[[Eclipsed Incantations]]* — specifically the imprisonment ritual? An eye that can perceive souls + a ritual that can trap them forever is a dangerous combination
-> - Could be relevant to the Nyrissa endgame — Nyrissa's condition involves her soul being severed; Vordakai harvested souls; the eye saw things ordinary sight cannot
+> - Could be relevant to the [[Nyrissa]] endgame — Nyrissa's condition involves her soul being severed; Vordakai harvested souls; the eye saw things ordinary sight cannot
 > - If someone were to use it — willingly or under compulsion — that would be a significant story moment
 
 ## Session History

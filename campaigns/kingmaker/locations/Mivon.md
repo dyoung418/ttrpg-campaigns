@@ -6,6 +6,9 @@ tags:
 sources: []
 related:
   - "[[Amara]]"
+  - "[[Grand Tournament of Freehaven]]"
+  - "[[Ilthuliak]]"
+  - "[[Riven]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
 aliases: []
 status: accessible

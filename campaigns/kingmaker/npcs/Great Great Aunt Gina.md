@@ -13,6 +13,7 @@ related:
   - "[[RP 13 — Through the Dunsward to Restov]]"
   - "[[RP 7 — On the steps of the Tors of Levenies]]"
   - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Stolen Lands]]"
   - "[[Vordakai]]"
 aliases: ["Gina"]
 status: deceased
@@ -58,7 +59,7 @@ Grants him both the **Ancestral Touch** and **Inner Radiance Torrent** Oracle An
 > [!secret] GM Only
 > - Gina is becoming more active because of the party's undead/shadow foes — she hated undead in life and is energized by the current fight.
 > - Grants [[Lucas]] both Ancestral Touch and Inner Radiance Torrent — two abilities from one ancestor reflects her power; worth exploring why.
-> - Could be a source of lore about the kitsune history in the Stolen Lands — she lived long enough to span generations of that hidden settlement.
+> - Could be a source of lore about the kitsune history in the [[Stolen Lands]] — she lived long enough to span generations of that hidden settlement.
 
 ## Session History
 

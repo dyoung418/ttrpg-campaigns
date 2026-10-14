@@ -8,6 +8,7 @@ related:
   - "[[Astor]]"
   - "[[Freehaven]]"
   - "[[Nightmarch]]"
+  - "[[Stolen Lands]]"
   - "[[The Stag Lord]]"
   - "[[The Stag Lord's Fort]]"
 aliases: ["Stag Lord's Helmet"]
@@ -32,7 +33,7 @@ Astor has worn it ever since.
 
 ## History
 
-[[The Stag Lord]] wore this helm as a symbol of his dominion over the Stolen Lands. When [[Astor]] claimed it, he turned that symbol on its head — the bandit lord's trophy now worn by one of the founders of the kingdom that replaced him.
+[[The Stag Lord]] wore this helm as a symbol of his dominion over the [[Stolen Lands]]. When [[Astor]] claimed it, he turned that symbol on its head — the bandit lord's trophy now worn by one of the founders of the kingdom that replaced him.
 
 The helm was taken at [[The Stag Lord's Fort]], on the very ground where [[Nightmarch]] now stands.
 

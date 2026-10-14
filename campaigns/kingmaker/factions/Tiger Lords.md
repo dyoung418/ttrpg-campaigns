@@ -8,14 +8,17 @@ related:
   - "[[Armag Reborn]]"
   - "[[Bronzeshield Hold]]"
   - "[[Ekundayo]]"
+  - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
   - "[[Hannis Drevlev]]"
+  - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
   - "[[Ovinrbaane]]"
   - "[[Pitax]]"
   - "[[Tamary Numesti]]"
   - "[[Terrion Numesti]]"
+  - "[[The Founding of Freehaven]]"
 aliases: []
 status: defeated
 alignment: "Chaotic Evil"

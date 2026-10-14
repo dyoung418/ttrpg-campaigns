@@ -12,7 +12,9 @@ related:
   - "[[Jameel Visser]]"
   - "[[King Irovetti]]"
   - "[[Kyonin]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
+  - "[[River Kingdoms]]"
   - "[[Rowan Half Dark]]"
   - "[[Talia]]"
   - "[[Talia's Revenge]]"
@@ -25,13 +27,13 @@ created: "2026-05-29"
 # The Few
 
 > **Type**: Mercenary band (formerly freedom fighters)
-> **Status**: Active — hostile to Riven
+> **Status**: Active — hostile to Riven; never confronted before the campaign ended
 
 ## Summary
 
-Originally a band of freedom fighters in the River Kingdoms dedicated to resisting tyranny. [[Riven]] joined them after leaving [[Kyonin]], seeing in their cause a chance for atonement. Under their original leader they accomplished genuine good — striking at despotic lords and bringing hope to the oppressed.
+Originally a band of freedom fighters in the [[River Kingdoms]] dedicated to resisting tyranny. [[Riven]] joined them after leaving [[Kyonin]], seeing in their cause a chance for atonement. Under their original leader they accomplished genuine good — striking at despotic lords and bringing hope to the oppressed.
 
-When the original leader was killed, [[Rowan Half Dark]] took over and rapidly transformed the group into common bandits — targeting the wealthy indiscriminately and eventually hiring out as enforcers for petty tyrants, including [[King Irovetti]] of Pitax. When Rowan ordered the murder of innocent civilians, Riven refused, was marked for death, killed Rowan, and fled.
+When the original leader was killed, [[Rowan Half Dark]] took over and rapidly transformed the group into common bandits — targeting the wealthy indiscriminately and eventually hiring out as enforcers for petty tyrants, including [[King Irovetti]] of [[Pitax]]. When Rowan ordered the murder of innocent civilians, Riven refused, was marked for death, killed Rowan, and fled.
 
 [[Talia]], Rowan's sister, now leads the Few and has made hunting Riven her personal mission.
 
@@ -46,7 +48,7 @@ When the original leader was killed, [[Rowan Half Dark]] took over and rapidly t
 
 ## Base of Operations
 
-Embeth Forest / River Kingdoms (mobile)
+[[Embeth Forest]] / River Kingdoms (mobile)
 
 ## Goals
 

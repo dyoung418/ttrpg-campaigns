@@ -13,6 +13,7 @@ related:
   - "[[Riven]]"
   - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[Silverstep]]"
+  - "[[Stolen Lands]]"
 aliases:
   - Fort Serenko
 status: accessible
@@ -22,7 +23,7 @@ created: "2026-05-29"
 
 # Serenko
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: Town
 > **Status**: Accessible
 

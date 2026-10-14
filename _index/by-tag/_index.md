@@ -11,7 +11,7 @@ tags: []
 - [[ancestor|ancestor]] — 3 note(s)
 - [[artifact|artifact]] — 3 note(s)
 - [[backstory|backstory]] — 18 note(s)
-- [[campaign--kingmaker|campaign/kingmaker]] — 217 note(s)
+- [[campaign--kingmaker|campaign/kingmaker]] — 216 note(s)
 - [[campaign--lost-memories|campaign/lost-memories]] — 8 note(s)
 - [[companion|companion]] — 3 note(s)
 - [[creature-type--aberration|creature-type/aberration]] — 1 note(s)

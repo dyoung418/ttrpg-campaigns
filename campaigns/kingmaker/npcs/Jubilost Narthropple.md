@@ -7,6 +7,7 @@ sources: []
 related:
   - "[[Freehaven]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: alive
 role: "Gnome explorer and cartographer; leader of a nine-gnome expedition; joined Freehaven"
@@ -23,7 +24,7 @@ created: "2026-06-17"
 
 ## Description
 
-The sharp-tongued leader of a nine-gnome expedition attempting to map the Stolen Lands.
+The sharp-tongued leader of a nine-gnome expedition attempting to map the [[Stolen Lands]].
 
 ## Background
 

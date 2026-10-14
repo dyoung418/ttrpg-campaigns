@@ -50,7 +50,6 @@ The eldest Carandini and current head of the line. Runs the family that [[Lee]],
 
 ## Plot Hooks Involved
 
-- [[]]
 
 ## GM Notes
 

@@ -45,7 +45,7 @@ Underneath the exasperation is evident care — she called him "one of her favor
 
 The leader of the [[Nagaji Monastic Order]], which operated inside [[Pitax]] during [[King Irovetti]]'s rule. Irovetti grew uneasy about her growing influence, and [[Engelidis]] — who enjoyed their tea conversations — inadvertently mentioned enough to put her at risk. She made a calculated decision: disappear so that Irovetti would not take reprisals against her people. She left her staff and vestments with [[Eri Malai]] (her "favorite idiot student") and no note, trusting him to understand that the staff's Guiding Star property could recall her when the time was right.
 
-He didn't cast the spell. He wore her robes and her name for the duration of the war instead.
+He didn't cast the spell during the war. He wore her robes and her name for the duration instead — and only cast *Guiding Star* afterwards, on the road out of Pitax, once [[Engelidis]] told him what the staff was for ([[RP 21 — The Mysterious Disappearance of St. Flint's Master|RP21]]).
 
 She learned Irovetti was dead from a traveling merchant. She came out of the woods and walked back into Pitax herself.
 

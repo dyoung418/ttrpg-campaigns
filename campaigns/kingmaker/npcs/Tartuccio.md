@@ -9,6 +9,8 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[Pitax]]"
+  - "[[Restov]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: deceased
 role: "Pitax spy; later posed as a kobold leader"
@@ -30,11 +32,11 @@ Impeccably dressed in fine robes and silks, Tartuccio looked more like a stately
 
 ## Personality
 
-Brash, obnoxious, and convinced of his own superiority. At the Aldori feast he insulted anyone within earshot and loudly proclaimed himself the only attendee worthy enough to rule the Stolen Lands. His arrogance wasn't bluster hiding insecurity — he genuinely believed it. Made him easy to underestimate as comic relief, which was the point.
+Brash, obnoxious, and convinced of his own superiority. At the Aldori feast he insulted anyone within earshot and loudly proclaimed himself the only attendee worthy enough to rule the [[Stolen Lands]]. His arrogance wasn't bluster hiding insecurity — he genuinely believed it. Made him easy to underestimate as comic relief, which was the point.
 
 ## Background
 
-Tartuccio was a spy dispatched by [[Pitax]] — likely at [[King Irovetti]]'s direction — to observe the feast at Restov and monitor the Black Tears bandit attack that was meant to follow. He had no real intention of joining the settlement effort.
+Tartuccio was a spy dispatched by [[Pitax]] — likely at [[King Irovetti]]'s direction — to observe the feast at [[Restov]] and monitor the Black Tears bandit attack that was meant to follow. He had no real intention of joining the settlement effort.
 
 After the feast, he resurfaced in the Stolen Lands posing as a kobold chieftain, stirring up trouble among the kobold tribes to disrupt the party's efforts to establish their barony. The party confronted and killed him.
 
@@ -52,5 +54,5 @@ After the feast, he resurfaced in the Stolen Lands posing as a kobold chieftain,
 
 ## Session History
 
-- First appeared: Jamandi Aldori's Feast (pre-campaign)
+- First appeared: Jamandi Aldori's Feast (Session 1)
 - Defeated: Stolen Lands (kobold leader disguise)

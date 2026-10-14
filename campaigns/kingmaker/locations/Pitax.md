@@ -8,8 +8,12 @@ related:
   - "[[Almon d'Avoine]]"
   - "[[Almon's Hunt for Cassandra]]"
   - "[[Annamede Belavarah]]"
+  - "[[Astor]]"
   - "[[Atlee Quinge]]"
   - "[[Briar]]"
+  - "[[Cassandra]]"
+  - "[[Ekundayo]]"
+  - "[[Engelidis]]"
   - "[[Eri Malai]]"
   - "[[Fort Drevlev]]"
   - "[[Freehaven]]"
@@ -18,25 +22,39 @@ related:
   - "[[Grand Tournament of Freehaven]]"
   - "[[Grigori]]"
   - "[[Hannis Drevlev]]"
+  - "[[Ilthuliak]]"
   - "[[Jhofre Vascari]]"
   - "[[King Irovetti]]"
+  - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Kisandra Numesti]]"
+  - "[[Lady Jamandi Aldori]]"
   - "[[Linzi]]"
   - "[[Lord Darian]]"
   - "[[Nagaji Monastic Order]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
+  - "[[Pavel]]"
+  - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[River Kingdoms]]"
+  - "[[Rowan Half Dark]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 18 — Word from Afar]]"
+  - "[[RP 19 — The Forest Answers]]"
+  - "[[RP 20 — The Mud and the Blood]]"
   - "[[RP 21 — The Mysterious Disappearance of St. Flint's Master]]"
+  - "[[RP 22 — The Rest of the Battle of Silverstep]]"
+  - "[[RP 24 — A Politician's Day]]"
   - "[[Saint Flint]]"
+  - "[[Silverstep]]"
   - "[[Tartuccio]]"
+  - "[[The Few]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Month of Destruction]]"
   - "[[Tiger Lords]]"
   - "[[Tovan]]"
+  - "[[Willowshade]]"
 aliases: []
 status: accessible
 region: "Stolen Lands / River Kingdoms"
@@ -45,7 +63,7 @@ created: "2026-05-29"
 
 # Pitax
 
-> **Region**: River Kingdoms (now part of Freehaven)
+> **Region**: [[River Kingdoms]] (now part of Freehaven)
 > **Type**: City — former rival kingdom capital
 > **Status**: Accessible
 

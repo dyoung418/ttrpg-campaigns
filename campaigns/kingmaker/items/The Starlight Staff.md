@@ -40,7 +40,7 @@ The staff is enchanted with the Guiding Star spell (Pathfinder 2e). The spell gu
 
 Saint Flint recovered the staff at the post-war reunion (she bopped [[Eri Malai]] on the head with it). At some point thereafter the staff returned to Eri's care — presumably Saint Flint gave it back to him for the Candlemere mission or for some other purpose.
 
-During the party's assault on [[Candlemere Island]] (Session 23), Eri lost the staff in the chaos of combat. His first concern after the fight was finding it; his second was that Saint Flint is going to be *"SO upset."* [[Pavel]] noted that the man he pushed into the Star Hole wasn't holding a staff — making its location genuinely unclear.
+During the party's assault on [[Candlemere Island]] (Session 90 / RP23), Eri lost the staff in the chaos of combat. His first concern after the fight was finding it; his second was that Saint Flint is going to be *"SO upset."* [[Pavel]] noted that the man he pushed into the Star Hole wasn't holding a staff — making its location genuinely unclear.
 
 The staff may have gone into the Star Hole (the pit from which stars are visible and into which things fall and don't return), or it may still be somewhere in the sanctum.
 

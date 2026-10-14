@@ -16,6 +16,7 @@ related:
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
   - "[[Kargstaad]]"
+  - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Misbegotten Troll]]"
   - "[[Nyrissa]]"
@@ -26,9 +27,9 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Stolen Lands]]"
   - "[[Tarlaxian]]"
   - "[[The Knurly Witch]]"
-  - "[[The Misbegotten Troll]]"
   - "[[The Month of Destruction]]"
   - "[[The Nightmare Rook]]"
   - "[[The Rimebridge]]"
@@ -73,7 +74,7 @@ Each time the PCs defeat all guardians of a glade, roll a flat DC 20 check — o
 | I | Destroy the Baleful Lantern | −1 |
 | J | Ilthuliak | −4 |
 
-When uprooted: all active blooms in the Stolen Lands end instantly. Nyrissa can no longer use the Apology to absorb the kingdom. She shifts to vengeance mode (daily primal call rituals). +120 XP story award.
+When uprooted: all active blooms in the [[Stolen Lands]] end instantly. Nyrissa can no longer use the Apology to absorb the kingdom. She shifts to vengeance mode (daily primal call rituals). +120 XP story award.
 
 ## The Nine Glades
 
@@ -104,7 +105,7 @@ Waterfall between carved stone hands into a crystal pool. **The one safe rest ar
 *No associated bloom*. Creatures: 2× Winged Owlbears (CR 18) — territorial pair, not Nyrissa's agents.
 
 ### G. The Mire (Moderate 18)
-Foul-smelling marsh, about a mile across. Average 10 ft deep with 30-ft troughs; ridges just below surface. Moving along ridges: DC 30 Acrobatics or fall into 30-ft trough. The [[The Wriggling Man|Wriggling Man]] normally lives here but is in the House. **Anchor**: Wriggling Man (his glade tether, fought in area K17).
+Foul-smelling marsh, about a mile across. Average 10 ft deep with 30-ft troughs; ridges just below surface. Moving along ridges: DC 30 Acrobatics or fall into 30-ft trough. The [[The Wriggling Man|Wriggling Man]] normally lived here; he was fought in the House (K17 in 106–107, killed in L1 in 108). **Anchor**: Wriggling Man (his glade tether).
 *Bloom trophy*: Twitching worms (linked to Rise of the Mire Worms bloom).
 
 ### H. The Knurly House (Moderate 18)

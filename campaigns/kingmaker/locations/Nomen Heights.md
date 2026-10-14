@@ -8,12 +8,15 @@ related:
   - "[[Aecora]]"
   - "[[Ashenfel]]"
   - "[[Benedin]]"
+  - "[[Freehaven]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Nomen Centaurs]]"
+  - "[[Pavel]]"
   - "[[Riven]]"
   - "[[RP 10 — Traveling back to the Nomen Heights with Xamanthe]]"
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[RP 6 — Reflections While Traveling]]"
+  - "[[Stolen Lands]]"
   - "[[Tors of Levenies]]"
   - "[[Valley of the Dead]]"
   - "[[Varnhold]]"
@@ -27,7 +30,7 @@ created: "2026-05-29"
 
 # Nomen Heights
 
-> **Region**: Stolen Lands (east)
+> **Region**: [[Stolen Lands]] (east)
 > **Type**: Region — wild steppes
 > **Status**: Accessible; Nomen Centaur territory
 
@@ -48,7 +51,7 @@ Wild, open steppes stretching toward the mountains. The grass runs long and the 
 ## Connected Locations
 
 - [[Tors of Levenies]] — mountain formation to the east
-- [[Ashenfel]] — Nomen Centaur town; centaur community within Freehaven
+- [[Ashenfel]] — Nomen Centaur town; centaur community within [[Freehaven]]
 - [[Varnhold]] — the ghost town discovered on the edge of this territory
 
 ## GM Notes

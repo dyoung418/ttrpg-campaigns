@@ -7,20 +7,23 @@ sources: []
 related:
   - "[[Freehaven]]"
   - "[[Riven]]"
+  - "[[River Kingdoms]]"
   - "[[Rowan Half Dark]]"
+  - "[[Session 108 - That Is Not Yours]]"
   - "[[Talia]]"
   - "[[The Few]]"
-status: resolved
+status: unresolved
+priority: low
 created: 2026-05-29
 ---
 
 # Talia's Revenge
 
-**Status**: Active — latent threat that could arrive at any time
+**Status**: Unresolved — a latent threat that never arrived; the campaign ended in [[Session 108 - That Is Not Yours|Session 108]] with the vendetta still standing
 
 ## Summary
 
-[[Talia]], sister of [[Rowan Half Dark]] and current leader of [[The Few]], has placed a standing hit on [[Riven]]'s life for killing Rowan. Riven fled the River Kingdoms ahead of the Few's pursuit, but the vendetta has not ended.
+[[Talia]], sister of [[Rowan Half Dark]] and current leader of [[The Few]], has placed a standing hit on [[Riven]]'s life for killing Rowan. Riven fled the [[River Kingdoms]] ahead of the Few's pursuit, but the vendetta has not ended.
 
 Riven is now the Ruler of [[Freehaven]] — a king. If Talia doesn't already know this, she will discover it eventually. The question is what she does with that information.
 

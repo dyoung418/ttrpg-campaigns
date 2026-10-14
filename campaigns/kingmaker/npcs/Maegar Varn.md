@@ -10,6 +10,7 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[Stolen Lands]]"
   - "[[The Founding of Freehaven]]"
   - "[[Varnhold]]"
   - "[[Vordakai]]"
@@ -33,7 +34,7 @@ created: "2026-05-29"
 
 ## Background
 
-A good man who, like the PCs, received a charter from [[Lady Jamandi Aldori]] to settle part of the Stolen Lands. He founded the thriving town of [[Varnhold]]. Unlike [[Hannis Drevlev]], Maegar was never corrupt or treacherous — he was simply the target of a catastrophe beyond his control.
+A good man who, like the PCs, received a charter from [[Lady Jamandi Aldori]] to settle part of the [[Stolen Lands]]. He founded the thriving town of [[Varnhold]]. Unlike [[Hannis Drevlev]], Maegar was never corrupt or treacherous — he was simply the target of a catastrophe beyond his control.
 
 When [[Vordakai]] reawakened from centuries of sleep, he descended on Varnhold and harvested the souls of every resident — including Maegar — to fill in the gaps in his knowledge of the modern world. The PCs discovered the empty town and eventually tracked down Vordakai's lair to free the souls, but Maegar had already been killed.
 

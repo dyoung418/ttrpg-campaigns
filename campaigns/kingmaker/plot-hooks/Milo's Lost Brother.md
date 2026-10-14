@@ -11,13 +11,15 @@ related:
   - "[[Milo]]"
   - "[[Rindle]]"
   - "[[Session 108 - That Is Not Yours]]"
-status: open
+  - "[[Stolen Lands]]"
+status: unresolved
+priority: low
 created: "2026-05-29"
 ---
 
 # Milo's Lost Brother
 
-**Status**: Open — the wound at the center of Milo's story
+**Status**: Unresolved. The campaign ended in [[Session 108 - That Is Not Yours|Session 108]] with this thread still open.
 
 ## Summary
 
@@ -37,7 +39,7 @@ He built his mechanical construct and named it Rindle — a walking reminder of 
 
 ## Possible Developments
 
-- **A lead surfaces** — a bandit group in the Stolen Lands matches the description; a prisoner knows something
+- **A lead surfaces** — a bandit group in the [[Stolen Lands]] matches the description; a prisoner knows something
 - **Word from [[Glimmerhaven]]** — someone has news about Rindle, good or bad
 - **Rindle finds Milo** — after all this time, Rindle tracks down his brother; what has he become?
 - **[[Gelbin Steambender]] knows more** — Gelbin may have information about the bandits or Rindle's fate that he's never mentioned

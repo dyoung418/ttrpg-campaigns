@@ -17,17 +17,21 @@ related:
   - "[[Linzi]]"
   - "[[Lord Darian]]"
   - "[[Lyriel]]"
+  - "[[Lyriel's Wait]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[Riven's Letter to Lyriel]]"
   - "[[RP 11 — Rest and Relaxation at Silverstep]]"
+  - "[[RP 15 — Holiday Shopping]]"
   - "[[RP 19 — The Forest Answers]]"
   - "[[RP 20 — The Mud and the Blood]]"
   - "[[RP 22 — The Rest of the Battle of Silverstep]]"
   - "[[RP 23 — Deep Under Candlemere]]"
   - "[[Senn]]"
   - "[[Serenko]]"
+  - "[[Stolen Lands]]"
   - "[[Willowshade]]"
 aliases: []
 status: accessible
@@ -37,7 +41,7 @@ created: "2026-05-29"
 
 # Silverstep
 
-> **Region**: Stolen Lands — lakeside, forested, mountainous
+> **Region**: [[Stolen Lands]] — lakeside, forested, mountainous
 > **Type**: Town
 > **Status**: Accessible
 
@@ -69,7 +73,7 @@ The bells of Desna echo across the lake and are audible from the meadow road. Th
 
 ## The Pitax War — The Battle of Silverstep
 
-The [[Golden Talons]] under [[Lord Darian]] targeted Silverstep during the Pitax War. The battle unfolded in three phases:
+The [[Golden Talons]] under [[Lord Darian]] targeted Silverstep during the [[Pitax]] War. The battle unfolded in three phases:
 
 1. **The Meadow Skirmish**: [[Cassandra]]'s twenty Guard held the hedgerow ditch against sixty of Darian's vanguard, inflicted casualties, and withdrew in order. Three Guard killed, five wounded.
 2. **Council in the Dark**: [[Riven]] arrived with thirty Rangers (having sent [[Ekundayo]] north to [[Serenko]]). He and Cassandra planned the Willowshade trap in the grove overnight.

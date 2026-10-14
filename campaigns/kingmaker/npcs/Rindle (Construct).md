@@ -9,9 +9,13 @@ related:
   - "[[Ankou Assassins]]"
   - "[[Barbtongued Wyverns]]"
   - "[[Candlemere Island]]"
+  - "[[Hargulka]]"
+  - "[[Kingmaker Campaign Timeline]]"
   - "[[Milo]]"
+  - "[[Misbegotten Troll]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
+  - "[[Pitax]]"
   - "[[Rindle]]"
   - "[[RP 23 — Deep Under Candlemere]]"
   - "[[RP 25.1 — Pavel's Confusion]]"
@@ -22,7 +26,9 @@ related:
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
   - "[[Session 106 - The Thing He Wears]]"
+  - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
+  - "[[Vordakai]]"
 aliases: ["Rindle"]
 status: alive
 role: "Milo's mechanical construct; Inventor class feature; named after Milo's lost brother"
@@ -45,7 +51,7 @@ A droid built by [[Milo]]. Named after his missing older brother [[Rindle]], bot
 
 ## Background
 
-Milo built this mechanical companion to help him track down the bandits responsible for his brother [[Rindle]]'s capture. It has fought alongside the party since Milo joined up — years of campaigns, including the defeat of the Stag Lord, Hargulka, Vordakai, and the war against Pitax.
+Milo built this mechanical companion to help him track down the bandits responsible for his brother [[Rindle]]'s capture. It has fought alongside the party since Milo joined up — years of campaigns, including the defeat of the Stag Lord, [[Hargulka]], [[Vordakai]], and the war against [[Pitax]].
 
 [[Pavel]] spotted it standing perfectly motionless next to a cliff face during the night watch at Vordakai's lair and counted it as the eighth member of "the pack."
 

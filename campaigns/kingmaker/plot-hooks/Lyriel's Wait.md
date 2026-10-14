@@ -3,11 +3,14 @@ type: plot-hook
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Astor]]"
   - "[[Avennara]]"
+  - "[[Briar]]"
   - "[[Faelir]]"
+  - "[[Freehaven]]"
   - "[[Grand Tournament of Freehaven]]"
   - "[[House at the Edge of Time]]"
   - "[[Kingmaker Campaign Timeline]]"
@@ -26,22 +29,28 @@ related:
   - "[[RP 15 — Holiday Shopping]]"
   - "[[RP 18 — Word from Afar]]"
   - "[[RP 26 — Riven's Journey to Kyonin]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
+  - "[[Session 108 - That Is Not Yours]]"
+  - "[[Silverstep]]"
+  - "[[Starberry Press]]"
+  - "[[Stolen Lands]]"
   - "[[The Wriggling Man]]"
-status: active
+status: resolved
+priority: low
 created: "2026-05-29"
 ---
 
 # Lyriel's Wait
 
-**Status**: Resolving — she came, she was taken, and the rescue has arrived at the Queen's door
+**Status**: Resolved — [[Session 108 - That Is Not Yours|Session 108]]. She came, she was taken, and Riven got her back.
 
 ## Summary
 
 When [[Riven]] left [[Kyonin]], he promised [[Lyriel]] he would return. He gave her no timeline, no plan — just hollow words and her [[Lyriels Amulet|amulet]] in his hand as he walked away.
 
-That was long ago. He is now a king in the Stolen Lands, and Lyriel is still in [[Avennara]] (presumably). She doesn't know where he is. He carries her amulet. He has not returned.
+That was long ago. *(As the hook began:)* he was a king in the [[Stolen Lands]], Lyriel was still in [[Avennara]], she didn't know where he was, he carried her amulet, and he had not returned.
 
 ## The Unresolved Question
 
@@ -51,23 +60,24 @@ Either answer is painful. Either answer is a story.
 
 ## Current Status
 
-At Silverstep, [[Riven]] said aloud for the first time — to the full party — that he is thinking of reaching out to Lyriel. He pulled out the amulet, named it a foolish mistake to have left, and asked [[Linzi]] whether he should write a letter or return to Kyonin. Linzi offered to help him write the letter.
+At [[Silverstep]], [[Riven]] said aloud for the first time — to the full party — that he is thinking of reaching out to Lyriel. He pulled out the amulet, named it a foolish mistake to have left, and asked [[Linzi]] whether he should write a letter or return to Kyonin. Linzi offered to help him write the letter.
 
-**The letter was sent.** With Linzi's help, Riven wrote to Lyriel and specifically invited her to attend the Grand Tournament of Freehaven with the Kyonin delegation.
+**A second letter was sent.** (The first, written with Linzi's help, stayed sealed with [[Astor]] — see [[Riven's Letter to Lyriel]].) Riven wrote to Lyriel again and specifically invited her to attend the [[Grand Tournament of Freehaven]] with the Kyonin delegation.
 
 **She did not come.** At the Archery Contest, Riven won gold — and spent every shot and every moment afterward scanning the stands for her. She was not there. That night, on the outer wall of Nightmarch while the city celebrated below, he said quietly to the night: *"She wasn't there."* [[Pavel]] and [[Astor]] found him watching the road. Riven told Pavel: *"Hope's not much of a reason, but it kept me looking."*
 
-Linzi's quiet comfort at the Starberry Press, before the tournament: *"But with so many kingdoms gathering here… she might just bring her answer herself."* She didn't.
+Linzi's quiet comfort at the [[Starberry Press]], before the tournament: *"But with so many kingdoms gathering here… she might just bring her answer herself."* She didn't.
 
 **The reunion happened — in Kyonin.** Three months after the Grand Tournament, Riven led a diplomatic mission to Kyonin. He found Lyriel in her garden, painting birches. They spoke. He told her the truth; she told him she would have stayed. She asked him to write ordinary letters — not formal ones, not declarations. Which flowers come first in spring. What the council argues about. Whether the bear is real. He said he would. She said she might answer. See full account under [[Lyriel]].
 
 **She came — but not as imagined.** After months of correspondence, Lyriel decided to make the journey to [[Nightmarch]] of her own accord. No invitation — her choice. She arrived at the gate and was abducted by [[The Wriggling Man]] in disguise (acting on [[Nyrissa]]'s orders) and a group of trolls. She dropped Riven's most recent letter in the struggle. A guard found it. The report reached [[Linzi]], who saw the handwriting, read the address — *Lyriel Anarindë* — and sent Riven a Sending mid-bloom:
 
 > *"A woman taken at the city gate — fey and trolls. She dropped a letter. Your handwriting, Riven. Addressed to Lyriel Anarindë. She came."*
+> *(Paraphrase — the Sending as actually sent at the table is quoted in [[Session 100 - She Dropped Your Letter|Session 100]].)*
 
-Lyriel is now captive in the [[House at the Edge of Time]]. [[Nyrissa]] holds her as leverage — she had been mining Riven's dreams and knew Lyriel was coming before Lyriel arrived. The timing was deliberate: she waited until the relationship was healing to strike.
+Lyriel was then captive in the [[House at the Edge of Time]]. [[Nyrissa]] holds her as leverage — she had been mining Riven's dreams and knew Lyriel was coming before Lyriel arrived. The timing was deliberate: she waited until the relationship was healing to strike.
 
-**The throne room was the wrong door ([[Session 106 - The Thing He Wears|Session 106]]).** Every breadcrumb — the freed guards' whisper that *"the one with many faces keeps the elf-woman"* — pointed the party at K17 and [[The Wriggling Man]]. They got there. **She wasn't in it.** What the worm has is a **piece of her jewelry, worn openly as a trophy**, which [[Riven]] recognized on him ([[Lyriel's Stolen Jewelry]]). She has been moved deeper into the House and is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c) — through the very throne he's standing on. The fight for that door is still running; the session ended mid-combat.
+**The throne room was the wrong door ([[Session 106 - The Thing He Wears|Session 106]]).** The party's own reasoning pointed them at K17 and [[The Wriggling Man]]. *(No guards' whisper ever pointed there — GM ruling.)* They got there. **She wasn't in it.** What the worm has is a **piece of her jewelry, worn openly as a trophy**, which [[Riven]] recognized on him ([[Lyriel's Stolen Jewelry]]). She has been moved deeper into the House and is held **with [[Nyrissa]] herself** in the moonlit plaza (M7c) — through the very throne he's standing on. The fight for that door is still running; the session ended mid-combat.
 
 So the wait doesn't end with a rescue scene of its own any more. **It ends in front of the Queen.** Riven reaches Lyriel and makes the campaign's central choice about Nyrissa *in the same breath* — see the revised endgame spine in [[Session 106 - The Thing He Wears|Session 106]].
 
@@ -78,6 +88,11 @@ So the wait doesn't end with a rescue scene of its own any more. **It ends in fr
 - **the one thing he did give them**, which is worse than nothing: ***"Narissa was right to bring you here. I can't wait until you meet her."*** If that is true, Lyriel was not taken to hurt Riven. **She was taken to fetch him.**
 
 The wait is now longer than it was before the fight started. That is the cost of the boss getting away, and it should be felt — [[Riven]] has been three rooms from her twice now.
+
+**It ended in front of the Queen, as predicted ([[Session 108 - That Is Not Yours|Session 108]]).** Riven negotiated with [[Nyrissa]] for her
+directly, offering [[Briar|Briara]] for her freedom, safe passage home, and peace for [[Freehaven]]. When the
+deal was struck, Nyrissa let Lyriel go before the sword reached her. **Riven ran to meet her and held her.**
+That is how the campaign ends for him.
 
 ## Possible Developments
 
@@ -92,6 +107,10 @@ The backstory states plainly: "true redemption lies not in great deeds, but in s
 
 ## Key NPCs
 
-- [[Lyriel]] — waiting (or not)
+- [[Lyriel]] — freed in Session 108
 - [[Riven]] — the one who left
 - [[Faelir]] — may be a go-between or source of news
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

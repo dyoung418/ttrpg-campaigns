@@ -13,6 +13,7 @@ related:
   - "[[Halvik]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lord Darian]]"
+  - "[[Pitax]]"
   - "[[Riven]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 15 — Holiday Shopping]]"
@@ -31,7 +32,7 @@ status: deceased
 role: "Silverstep Guard captain; polearm specialist"
 faction: "Freehaven"
 location: "[[Silverstep]]"
-first_appeared: "Great Feast of Freehaven"
+first_appeared: "Thorn River Camp (Session 5)"
 created: "2026-05-29"
 ---
 
@@ -40,7 +41,7 @@ created: "2026-05-29"
 > **Role**: Silverstep Guard — captain
 > **Location**: [[Silverstep]] (buried on the lake)
 > **Faction**: [[Freehaven]]
-> **Status**: **Deceased** — died at the [[Willowshade]] valley ford, Pitax War
+> **Status**: **Deceased** — died at the [[Willowshade]] valley ford, [[Pitax]] War
 
 ## Description
 

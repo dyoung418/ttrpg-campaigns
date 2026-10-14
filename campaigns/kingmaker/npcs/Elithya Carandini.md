@@ -50,7 +50,6 @@ With [[Erevan Carandini]], parented the nineteen Carandini children and establis
 
 ## Plot Hooks Involved
 
-- [[]]
 
 ## GM Notes
 

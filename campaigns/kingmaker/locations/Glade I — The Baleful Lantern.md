@@ -11,7 +11,7 @@ related:
   - "[[Session 101 - The Heads Still Dream]]"
   - "[[Thousandbreaths]]"
 aliases: []
-status: hostile
+status: cleared
 region: "Thousandbreaths demiplane"
 created: "2026-06-05"
 ---
@@ -19,13 +19,13 @@ created: "2026-06-05"
 # Glade I — The Baleful Lantern
 
 > **Type**: Fey glade (Thousandbreaths)
-> **Status**: Hostile
+> **Status**: Cleared — the [[Misbegotten Troll]] and all eight Black Smilodons killed in [[Session 101 - The Heads Still Dream|Session 101]]; the glade released the party
 > **Anchor**: The Lantern structure itself
 > **Parent**: [[Thousandbreaths]]
 
 ## Summary
 
-A beehive-shaped tower lit by decapitated heads used as lanterns, casting sick orange light across the glade. The anchor is the building itself (AC 30, Hardness 20, HP 400, BT 200; DC 43 Athletics to collapse) — the glade ends only when the structure falls or its guardian dies. Eight Black Smilodons — corrupted First World echoes of [[Cat]] — prowl the perimeter, commanded by a [[Misbegotten Troll]]. [[Cat]] is here too, facing twisted reflections of herself.
+A beehive-shaped tower lit by decapitated heads used as lanterns, casting sick orange light across the glade. The anchor is the building itself (AC 30, Hardness 20, HP 400, BT 200; DC 43 Athletics to collapse) — the glade ends only when the structure falls or its guardian dies. Eight Black Smilodons — corrupted First World echoes of [[Cat]] — prowled the perimeter, commanded by a [[Misbegotten Troll]] *(all dead as of Session 101)*. [[Cat]] is here too, facing twisted reflections of herself.
 
 ## Interactable Aspects
 

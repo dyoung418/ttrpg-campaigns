@@ -23,6 +23,7 @@ related:
   - "[[Milo]]"
   - "[[Nyrissa]]"
   - "[[Pavel]]"
+  - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[Session 100 - She Dropped Your Letter]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
@@ -31,7 +32,7 @@ related:
   - "[[The Demon's Legacy]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
-date: "2026-08-03"
+date: "2026-07-27"
 session_number: 107
 status: complete
 players_present:
@@ -46,7 +47,7 @@ created: "2026-08-04"
 
 # Session 107 — I Can't Wait Until You Meet Her
 
-> **Date**: 2026-08-03
+> **Date**: 2026-07-27
 > **Status**: Complete — **ended at the start of a new fight**
 > **Previous Session**: [[Session 106 - The Thing He Wears]]
 
@@ -144,7 +145,7 @@ turn.
   down. **Astor** improvised **Quick Alchemy** acid, missed, splashed his own allies (both had acid
   resistance), then **shoved** the worm for bludgeoning — the table having worked out it **resists
   grapple but not shove**. [[Milo]] asked what happens if he leaves the gravity zone, was told
-  *40 feet, 20 damage*, and had **Rindle** ferry him down in stages instead; he drew the **Mind
+  *40 feet, 20 damage*, and had **[[Rindle (Construct)|Rindle]]** ferry him down in stages instead; he drew the **Mind
   Renderer's Baton** and held it. [[Lee]] feinted for a bleeding finisher and **critically missed** —
   then burned a **hero point** and missed again.
 

@@ -12,6 +12,7 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lucas]]"
   - "[[Pavel]]"
+  - "[[Rindle (Construct)]]"
   - "[[Riven]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
   - "[[RP 17 — Long Road Home]]"

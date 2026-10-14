@@ -7,6 +7,7 @@ tags:
   - enemy
 sources:
   - "[[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Briar]]"
@@ -15,9 +16,11 @@ related:
   - "[[Freehaven]]"
   - "[[Kingmaker Campaign Summary]]"
   - "[[Nyrissa]]"
+  - "[[Riven]]"
   - "[[Session 103 - The Shape of Where I Used to Be]]"
   - "[[Session 104 - The First Mercy]]"
   - "[[Session 105 - The Thing That Cannot Be Forgiven]]"
+  - "[[Session 108 - That Is Not Yours]]"
 aliases: []
 status: alive
 role: "The Eldest who punished Nyrissa; author of the Apology bargain; the threat behind the throne"
@@ -30,7 +33,7 @@ created: "2026-07-07"
 # The Lantern King
 
 > **Role**: The Eldest who broke [[Nyrissa]] and set the terms of her long penance — never on stage, always behind it
-> **Status**: Alive; a background power, not yet a direct antagonist. Becomes the campaign's next threat if Nyrissa falls (Chapter 11).
+> **Status**: Alive; a background power, never on stage. The campaign ended ([[Session 108 - That Is Not Yours|Session 108]]) with [[Nyrissa]] **restored, not slain**. The party offered her help against him, and she is now their friend.
 
 ## Summary
 
@@ -62,3 +65,4 @@ In [[Session 103 - The Shape of Where I Used to Be|Session 103]], as [[Briar|Bri
 ## Sources
 
 - [[_sources/processed/session_notes/Session103-notes|Session 103 — Actual-Play Notes]] — the Lantern King's bargain discussed at length during the Briara debate
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

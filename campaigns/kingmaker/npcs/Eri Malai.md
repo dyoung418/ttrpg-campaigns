@@ -9,6 +9,8 @@ related:
   - "[[Benedin]]"
   - "[[Candlemere Island]]"
   - "[[Engelidis]]"
+  - "[[Freehaven]]"
+  - "[[Grand Tournament of Freehaven]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Nagaji Monastic Order]]"
@@ -24,7 +26,7 @@ aliases:
 status: alive
 role: "Nagaji monk; member of the monastic order; traveled with the party"
 faction: "[[Nagaji Monastic Order]]"
-location: "[[Pitax]] (post-war); traveling with the party"
+location: "[[Freehaven]] (background NPC since Session 100)"
 first_appeared: "Grand Tournament of Freehaven (Pitax delegation)"
 created: "2026-05-30"
 ---
@@ -32,13 +34,13 @@ created: "2026-05-30"
 # Eri Malai
 
 > **Also known as**: Saint Flint *(alias — taken from his Master without her knowledge)*
-> **Role**: Nagaji monk; junior member of the monastic order; companion to the party
+> **Role**: Nagaji monk; junior member of the monastic order; former companion to the party (background NPC since Session 100)
 > **Faction**: [[Nagaji Monastic Order]]
 > **Status**: Alive
 
 ## Description
 
-A nagaji monk who arrived with the Pitax delegation at the Grand Tournament of Freehaven, presenting himself as "Saint Flint." He was secretly opposed to [[King Irovetti]] and joined the PCs in resisting him, traveling with the group through several adventures.
+A nagaji monk who arrived with the Pitax delegation at the [[Grand Tournament of Freehaven]], presenting himself as "Saint Flint." He was secretly opposed to [[King Irovetti]] and joined the PCs in resisting him, traveling with the group through several adventures.
 
 He carried [[The Starlight Staff]] as a symbol of office — not understanding until much later that it was a magical instrument specifically left behind to call his Master back.
 
@@ -67,7 +69,7 @@ After Irovetti's fall, Eri Malai helped the order come out of hiding, searched t
 
 ## Items
 
-- [[The Starlight Staff]] — returned to his Master at the reunion
+- [[The Starlight Staff]] — returned to his Master at the reunion; back in Eri's care by Candlemere, where he lost it (see the item note)
 
 ## GM Notes
 
@@ -76,12 +78,12 @@ After Irovetti's fall, Eri Malai helped the order come out of hiding, searched t
 
 ## Session History
 
-- Grand Tournament of Freehaven: arrived with the Pitax delegation as "Saint Flint"; revealed opposition to Irovetti; joined the PCs
+- Grand Tournament of [[Freehaven]]: arrived with the Pitax delegation as "Saint Flint"; revealed opposition to Irovetti; joined the PCs
 - Pitax War: traveled with the party through the campaign against Irovetti
 - Post-war: helped the order re-emerge; searched unsuccessfully for his Master
 - Road to Nightmarch (with Engelidis): learned about the Guiding Star property of the staff; cast the spell that night
 - One week later: reunited with his Master mid-sermon; received a bop on the head; staff returned to Saint Flint
-- **Session 23 / RP23 — Candlemere Island**: Fought alongside the party as a blazing torch through the sanctum corridors. In the aftermath, realized [[The Starlight Staff]] was missing — more panicked about this than about the cult. Considered running away to live as a hermit rather than face Saint Flint. [[Pavel]] suggested the staff might have gone into the star pit with someone he'd pushed in, but the question was unresolved.
+- **Session 23 / RP23 — [[Candlemere Island]]**: Fought alongside the party as a blazing torch through the sanctum corridors. In the aftermath, realized [[The Starlight Staff]] was missing — more panicked about this than about the cult. Considered running away to live as a hermit rather than face Saint Flint. [[Pavel]] suggested the staff might have gone into the star pit with someone he'd pushed in, but the question was unresolved.
 
 ## Sources
 

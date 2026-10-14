@@ -7,8 +7,14 @@ sources: []
 related:
   - "[[Briar]]"
   - "[[House at the Edge of Time]]"
+  - "[[King Irovetti]]"
   - "[[Nyrissa]]"
+  - "[[Pitax]]"
+  - "[[Restov]]"
+  - "[[Stolen Lands]]"
   - "[[The Lantern King]]"
+  - "[[Thousandbreaths]]"
+  - "[[Vordakai]]"
 created: "2026-05-29"
 ---
 
@@ -24,7 +30,7 @@ The *Pathfinder 2e Kingmaker* Adventure Path is an epic, open-world campaign whe
 
 ### 1. Taming the Stolen Lands
 
-The campaign begins with a charter from the city of Restov in the nation of Brevoy. The PCs are sent into the **Stolen Lands**—a lawless, monster-infested border region—to eliminate a notorious bandit leader known as the **Stag Lord**. Upon defeating him, the PCs are granted the right to establish their own independent barony.
+The campaign begins with a charter from the city of [[Restov]] in the nation of Brevoy. The PCs are sent into the **[[Stolen Lands]]**—a lawless, monster-infested border region—to eliminate a notorious bandit leader known as the **Stag Lord**. Upon defeating him, the PCs are granted the right to establish their own independent barony.
 
 ### 2. The Seeds of a Nation
 
@@ -32,7 +38,7 @@ As the PCs build their capital and expand their territory, they face hostile mon
 
 ### 3. Regional Rivalries and Ancient Horrors
 
-As the barony grows into a recognized kingdom, it draws the attention of neighbors. The PCs must navigate a localized zombie apocalypse sparked by the ancient cyclops lich **Vordakai** and manage diplomatic tensions with **Pitax**, a rival neighboring kingdom ruled by the vain and antagonistic **King Castruccio Irovetti**.
+As the barony grows into a recognized kingdom, it draws the attention of neighbors. The PCs must navigate a localized zombie apocalypse sparked by the ancient cyclops lich **[[Vordakai]]** and manage diplomatic tensions with **[[Pitax]]**, a rival neighboring kingdom ruled by the vain and antagonistic **King [[King Irovetti|Castruccio Irovetti]]**.
 
 ### 4. The Final Harvest
 
@@ -49,7 +55,7 @@ After defeating Irovetti, the PCs discover that Pitax was merely a pawn. The tru
 
 ### Her Backstory
 
-Eons ago, Nyrissa was a Nymph Queen in the First World who sought to elevate herself to the status of the **Eldest**—the demigod-like rulers of the fey realm—by carving out her own grand domain, *Thousandbreaths*. The Eldest (chiefly the trickster deity the **Lantern King**) viewed this as unforgivable hubris. They sent the **Jabberwock** to devastate her realm, overthrew her, and passed a cruel ironic sentence.
+Eons ago, Nyrissa was a Nymph Queen in the First World who sought to elevate herself to the status of the **Eldest**—the demigod-like rulers of the fey realm—by carving out her own grand domain, *[[Thousandbreaths]]*. The Eldest (chiefly the trickster deity the **Lantern King**) viewed this as unforgivable hubris. They sent the **Jabberwock** to devastate her realm, overthrew her, and passed a cruel ironic sentence.
 
 ### Her Punishment: The Apology
 

@@ -8,6 +8,7 @@ related:
   - "[[Freehaven]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[RP 4 — Returning to Nightmarch after Hargulka's Fortress]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: alive
 role: "Pixie protector of the forest; dispute with loggers settled by the PCs"
@@ -23,7 +24,7 @@ created: "2026-06-17"
 
 ## Description
 
-A pixie of the Stolen Lands who fiercely opposed the felling of her trees.
+A pixie of the [[Stolen Lands]] who fiercely opposed the felling of her trees.
 
 ## Background
 

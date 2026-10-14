@@ -10,6 +10,8 @@ related:
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lizardfolk Village]]"
   - "[[Nightmarch]]"
+  - "[[Session 100 - She Dropped Your Letter]]"
+  - "[[Stolen Lands]]"
   - "[[Tuskwater River]]"
 aliases: []
 status: accessible
@@ -19,7 +21,7 @@ created: "2026-05-29"
 
 # Vesket
 
-> **Region**: Stolen Lands — swamps and dense forests
+> **Region**: [[Stolen Lands]] — swamps and dense forests
 > **Type**: Town
 > **Status**: Accessible
 

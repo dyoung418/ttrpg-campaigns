@@ -9,7 +9,9 @@ related:
   - "[[Nightmarch]]"
   - "[[Oleg Leveton]]"
   - "[[Oleg's Trading Post]]"
+  - "[[Stolen Lands]]"
   - "[[Svetlana Leveton]]"
+  - "[[The Founding of Freehaven]]"
 aliases: []
 status: accessible
 region: "Stolen Lands"
@@ -18,13 +20,13 @@ created: "2026-05-29"
 
 # Leveton
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: Town
 > **Status**: Accessible
 
 ## Description
 
-A bustling trade town that grew from the foundations of Oleg's Trading Post — one of the first locations the PCs visited when they set out to found their kingdom. From a frontier outpost to a thriving trade hub.
+A bustling trade town that grew from the foundations of [[Oleg's Trading Post]] — one of the first locations the PCs visited when they set out to found their kingdom. From a frontier outpost to a thriving trade hub.
 
 ## Notable Features
 

@@ -8,7 +8,7 @@ tags: []
 > [!warning] Generated file — do not hand-edit
 > Rebuilt by `_scripts/vault-rebuild-index.py` (see `_meta/conventions.md` §5).
 
-217 note(s) tagged `campaign/kingmaker`.
+216 note(s) tagged `campaign/kingmaker`.
 
 ## kingmaker
 
@@ -199,7 +199,6 @@ tags: []
 - [[The Horned Hunter]] — `npc`
 - [[The Knurly Witch]] — `npc`
 - [[The Lantern King]] — `npc`
-- [[The Misbegotten Troll]] — `npc`
 - [[The Month of Destruction]] — `plot-hook`
 - [[The Nightmare Rook]] — `npc`
 - [[The Oaktop Ankou]] — `npc`

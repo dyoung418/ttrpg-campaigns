@@ -24,7 +24,8 @@ related:
   - "[[Vordakai]]"
   - "[[Vordakai's Eye-Gem]]"
 date: ""
-session_number: 12
+rp_number: 12
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"

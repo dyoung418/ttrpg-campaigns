@@ -9,6 +9,7 @@ related:
   - "[[Milo]]"
   - "[[Milo's Lost Brother]]"
   - "[[Rindle]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: accessible
 region: "Unknown (distant from Stolen Lands)"
@@ -19,7 +20,7 @@ created: "2026-05-29"
 
 > **Region**: Unknown
 > **Type**: City — halfling settlement
-> **Status**: Accessible (distant from the Stolen Lands)
+> **Status**: Accessible (distant from the [[Stolen Lands]])
 
 ## Description
 

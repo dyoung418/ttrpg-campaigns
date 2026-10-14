@@ -5,6 +5,7 @@ tags:
   - campaign/kingmaker
   - rp-scene
 related:
+  - "[[Astor]]"
   - "[[Benedin]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Pavel]]"
@@ -13,7 +14,8 @@ related:
   - "[[Vordakai's Island]]"
   - "[[Xamanthe]]"
 date: ""
-session_number: 9
+rp_number: 9
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -29,7 +31,7 @@ created: 2026-06-17
 
 # RP 9 — In the Sepulchar Chamber
 
-> **Source**: RP9 (dungeon investigation; Astor plays [[Benedin]])
+> **Source**: RP9 (dungeon investigation; [[Astor]] plays [[Benedin]])
 > **Status**: `rp-scene`
 > **Setting**: A ritual sepulchre deep in [[Vordakai's Island]], under the gaze of stone skeletal watchers.
 

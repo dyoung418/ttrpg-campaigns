@@ -23,7 +23,7 @@ created: "2026-06-03"
 # Senn
 
 > **Role**: Sergeant under [[Cassandra]]; lean; voice of caution
-> **Status**: Alive (fought through Willowshade)
+> **Status**: Alive (fought through [[Willowshade]])
 > **Faction**: [[Silverstep]] Guard
 
 ## Description

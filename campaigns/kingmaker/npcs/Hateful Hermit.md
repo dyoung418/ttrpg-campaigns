@@ -6,6 +6,7 @@ tags:
 sources: []
 related:
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Stolen Lands]]"
 aliases: []
 status: deceased
 role: "Hostile hermit encountered and fought during the kingdom's expansion"
@@ -21,7 +22,7 @@ created: "2026-06-17"
 
 ## Description
 
-A hateful hermit the PCs fought during their exploration of the Stolen Lands.
+A hateful hermit the PCs fought during their exploration of the [[Stolen Lands]].
 
 ## Background
 

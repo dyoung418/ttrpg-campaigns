@@ -10,6 +10,7 @@ related:
   - "[[Lady Jamandi Aldori]]"
   - "[[Pavel]]"
   - "[[Pavel and Edina]]"
+  - "[[Restov]]"
   - "[[RP 14.1 — Pavel Shoots his Shot]]"
   - "[[RP 25 — Before the Latest Bloom - Edina Shoots her Shot]]"
   - "[[Session 100 - She Dropped Your Letter]]"
@@ -22,7 +23,7 @@ first_appeared: "Hunting competition (early campaign)"
 created: "2026-05-29"
 ---
 
-# Edina's Sister
+# Jolia Aldori
 
 > **Role**: [[Edina Aldori]]'s sister; niece of [[Lady Jamandi Aldori]]
 > **Status**: Deceased — killed during the hunting competition
@@ -36,6 +37,5 @@ One of two Aldori sisters (nieces of [[Lady Jamandi Aldori]]) who participated i
 ## GM Notes
 
 > [!secret] GM Only
-> - Her name is not yet established — fill in when decided.
-> - Her death is the origin of the connection between [[Pavel]] and [[Edina Aldori]]: it bound them in shared loss and set Pavel searching for Edina in Restov afterward.
+> - Her death is the origin of the connection between [[Pavel]] and [[Edina Aldori]]: it bound them in shared loss and set Pavel searching for Edina in [[Restov]] afterward.
 > - How Edina has processed her sister's death — especially knowing the party tried to save her — is unexplored and worth developing.

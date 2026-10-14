@@ -15,7 +15,8 @@ related:
   - "[[The Stag Lord]]"
   - "[[The Stag Lord's Fort]]"
 date: ""
-session_number: 3
+rp_number: 3
+session_number:
 status: complete
 players_present:
   - "[[Pavel]]"

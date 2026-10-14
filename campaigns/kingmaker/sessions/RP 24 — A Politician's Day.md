@@ -10,9 +10,11 @@ related:
   - "[[Freehaven]]"
   - "[[Grigori]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Pitax]]"
   - "[[The Old Beldame]]"
 date: ""
-session_number: 24
+rp_number: 24
+session_number:
 status: complete
 players_present:
   - "[[Astor]]"
@@ -33,7 +35,7 @@ A quiet solo scene following [[Astor]] through the end of a long day as Councilo
 
 ## Key Beats
 
-**The land dispute ruling.** Astor adjudicated a bitter land claim — two families, a shared creek, a fence post that may or may not have been moved three feet east since the start of the Pitax War. He split the ruling: a surveyor to come after wartime, the creek treated as common water, the fence to stay untouched until then. His governing philosophy in plain terms: *a judgment that leaves everyone mildly unhappy is often the mark of a fair one.*
+**The land dispute ruling.** Astor adjudicated a bitter land claim — two families, a shared creek, a fence post that may or may not have been moved three feet east since the start of the [[Pitax]] War. He split the ruling: a surveyor to come after wartime, the creek treated as common water, the fence to stay untouched until then. His governing philosophy in plain terms: *a judgment that leaves everyone mildly unhappy is often the mark of a fair one.*
 
 **The herbal tea.** Instead of the Cayden Cailean tankard of his youth, Astor now takes his ease with hot herbal tea in a shot glass — a brew [[The Old Beldame]] taught him. Her instructions were never precise (*"it should look like the end of Spring"*). She had doubted he could ever sit still long enough to learn alchemy; he proved her wrong, though she probably hasn't updated her first impression.
 

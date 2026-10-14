@@ -6,16 +6,26 @@ tags:
 sources: []
 related:
   - "[[Aecora]]"
+  - "[[Benedin]]"
+  - "[[Edina Aldori]]"
   - "[[Freehaven]]"
+  - "[[Iron Wraiths]]"
   - "[[Kingmaker Campaign Timeline]]"
   - "[[Lady Jamandi Aldori]]"
+  - "[[Lucas]]"
   - "[[Maegar Varn]]"
   - "[[Nightmarch]]"
   - "[[Nomen Heights]]"
   - "[[Octavia]]"
+  - "[[Pavel]]"
+  - "[[Riven]]"
   - "[[RP 12 — Once again traveling to Nomen Heights]]"
   - "[[RP 14 — The Great Feast of Freehaven]]"
+  - "[[RP 17 — Long Road Home]]"
   - "[[RP 6 — Reflections While Traveling]]"
+  - "[[RP 7 — On the steps of the Tors of Levenies]]"
+  - "[[RP 7 — Patching up after the Undead Mage]]"
+  - "[[Stolen Lands]]"
   - "[[The Founding of Freehaven]]"
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"
@@ -28,7 +38,7 @@ created: "2026-05-29"
 
 # Varnhold
 
-> **Region**: Stolen Lands
+> **Region**: [[Stolen Lands]]
 > **Type**: Town (part of Freehaven)
 > **Status**: Accessible — recovered and integrated into Freehaven
 
@@ -36,7 +46,7 @@ created: "2026-05-29"
 
 A town with a haunted past. Originally founded by [[Maegar Varn]], a good-hearted adventurer who received a charter from [[Lady Jamandi Aldori]] alongside the PCs. Varnhold grew into a thriving settlement — until [[Vordakai]] descended upon it.
 
-The lich, freshly reawakened from centuries of sleep, pulled the souls of every resident into his lair to harvest their memories and knowledge of the modern world. The town was left a perfect ghost town — empty, untouched, as if everyone had simply vanished in the middle of their lives.
+The lich, freshly reawakened from millennia of sleep, pulled the souls of every resident into his lair to harvest their memories and knowledge of the modern world. The town was left a perfect ghost town — empty, untouched, as if everyone had simply vanished in the middle of their lives.
 
 ## History
 

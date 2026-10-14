@@ -15,8 +15,10 @@ related:
   - "[[Riven]]"
   - "[[RP 5 — One Night in Nightmarch]]"
   - "[[RP 6 — Reflections While Traveling]]"
+  - "[[Stolen Lands]]"
 date: ""
-session_number: 1
+rp_number: 1
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -53,7 +55,7 @@ On a long scouting expedition with the enigmatic ranger [[Ekundayo]], the party 
 
 ## Locations
 
-- Northern reaches of the Greenbelt (the Stolen Lands wilds around [[Nightmarch]])
+- Northern reaches of the Greenbelt (the [[Stolen Lands]] wilds around [[Nightmarch]])
 
 ## Notable Details / Flags
 

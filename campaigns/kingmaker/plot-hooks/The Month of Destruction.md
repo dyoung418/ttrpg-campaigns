@@ -9,19 +9,22 @@ related:
   - "[[Chapter 10 - Sound of a Thousand Screams]]"
   - "[[Cult of the Bloom]]"
   - "[[Evindra]]"
+  - "[[Freehaven]]"
   - "[[Ilthuliak]]"
   - "[[Kargstaad]]"
+  - "[[Misbegotten Troll]]"
   - "[[Nightmarch]]"
   - "[[Nyrissa]]"
   - "[[Oaktop]]"
   - "[[Pavel]]"
   - "[[Pitax]]"
+  - "[[Stolen Lands]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Horned Hunter]]"
-  - "[[The Misbegotten Troll]]"
   - "[[The Oaktop Ankou]]"
   - "[[Thousandbreaths]]"
 status: resolved
+priority: low
 created: 2026-05-29
 ---
 
@@ -49,7 +52,7 @@ Part 1 of [[Chapter 10 - Sound of a Thousand Screams]]. A single month, one King
 | 16 | The Frozen Bloom | Mountain hex | Ice gravestone (Hardness 14, HP 150); 6× Kargstaad's Giants (CR 15) | Icy gravestone shards → Glade C (Frozen Boneyard) |
 | 17 | The Knurly Briars | Hill or plains hex | 3× Bloomborn Athachs (CR 17); destroy 3 pods after | Knotted brambles → Glade H (Knurly House) |
 | 22 | Rise of the Mire Worms | Hooktongue Slough | 4× Mire Worms (Elite Azure Worm, CR 16) | Twitching worms → Glade G (The Mire) |
-| 25 | The Misbegotten Troll | Hex with explored ruin | [[The Misbegotten Troll]] (CR 18) + 4 Black Smilodons (CR 14); troll IS the bloom | Broken cages → Glade I (Baleful Lantern) |
+| 25 | The Misbegotten Troll | Hex with explored ruin | [[Misbegotten Troll|The Misbegotten Troll]] (CR 18) + 4 Black Smilodons (CR 14); troll IS the bloom | Broken cages → Glade I (Baleful Lantern) |
 | 26 | War of the High Folly | Hex adj. to capital | Bloom Sard (CR 20 elite) + 4 First World Armies (Army 16); automatic notice | Sand from scar → Glade J (High Folly) |
 | 28 | Beware the Jabberwock | Wherever PCs are | Lesser Jabberwock (CR 21) — only if House not yet manifested AND Nyrissa hasn't reclaimed Briar | — |
 | 30 | Month's End | — | Nyrissa tries to absorb kingdom (flat check, DC 19 – 2 per active bloom) | — |
@@ -73,15 +76,15 @@ Secret kingdom skill check when a bloom manifests:
 
 ## Unbloomed Bonus
 
-If PCs enter Thousandbreaths before a bloom manifests in the Stolen Lands, the corresponding glade becomes a **Severe 18 encounter** instead of Moderate 18. Defeating all glade guardians before a bloom's scheduled day prevents it from appearing.
+If PCs enter Thousandbreaths before a bloom manifests in the [[Stolen Lands]], the corresponding glade becomes a **Severe 18 encounter** instead of Moderate 18. Defeating all glade guardians before a bloom's scheduled day prevents it from appearing.
 
-## Current State (as of Session 23)
+## State as of RP23 / Session 90 *(historical — the bloom was weathered and the campaign ended in Session 108)*
 
-Several blooms have been cleared. The party has a lead on how to find [[Nyrissa]] — the bloom phase is functionally converging toward the path into [[Thousandbreaths]]. Next session context: Briar is nearly fully awakened, the PCs are close to being able to confront Nyrissa, and she is desperate — Freehaven is her 1,000th and final kingdom, and she will fight to absorb it.
+Several blooms have been cleared. The party has a lead on how to find [[Nyrissa]] — the bloom phase is functionally converging toward the path into [[Thousandbreaths]]. Next session context: Briar is nearly fully awakened, the PCs are close to being able to confront Nyrissa, and she is desperate — [[Freehaven]] is her 1,000th and final kingdom, and she will fight to absorb it.
 
 ## Related Notes
 
 - [[Thousandbreaths]]
 - [[The Horned Hunter]]
 - [[Chapter 10 - Sound of a Thousand Screams]]
-- [[Briar]] — the sword that can kill or redeem Nyrissa; in [[Pavel]]'s possession
+- [[Briar]] — the sword that can kill or redeem Nyrissa; in [[Pavel]]'s possession at the time *(given back to Nyrissa in Session 108)*

@@ -7,6 +7,7 @@ tags:
   - creature-type/fey
 sources:
   - "[[_sources/processed/session_notes/Session 107|Session 107 — Actual-Play Notes]]"
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Ankou Assassins]]"
   - "[[Astor]]"
@@ -23,10 +24,12 @@ related:
   - "[[Great Aunt Sumi]]"
   - "[[House at the Edge of Time]]"
   - "[[Ilthuliak]]"
+  - "[[Iron Wraiths]]"
   - "[[Kargstaad]]"
   - "[[King Irovetti]]"
   - "[[Kingmaker Campaign Summary]]"
   - "[[Kingmaker Campaign Timeline]]"
+  - "[[Lady Jamandi Aldori]]"
   - "[[Lucas]]"
   - "[[Lyriel]]"
   - "[[Lyriel's Stolen Jewelry]]"
@@ -51,7 +54,10 @@ related:
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
+  - "[[Stolen Lands]]"
   - "[[Tarlaxian]]"
+  - "[[The Arsonist of Bronzeshield Hold]]"
+  - "[[The Demon's Legacy]]"
   - "[[The Founding of Freehaven]]"
   - "[[The Horned Hunter]]"
   - "[[The Knurly Witch]]"
@@ -62,7 +68,11 @@ related:
   - "[[The Rimebridge]]"
   - "[[The Wriggling Man]]"
   - "[[Thousandbreaths]]"
+  - "[[Vordakai's Eye-Gem]]"
 status: alive
+role: "The Heartless Queen — the campaign's antagonist; forgiven and restored in Session 108"
+faction: "Her own court (Thousandbreaths)"
+location: "[[House at the Edge of Time]] — M7c"
 created: "2026-05-29"
 ---
 
@@ -107,6 +117,32 @@ If Thousandbreaths has been **uprooted** before this fight, she starts the comba
 >   "protect the fragile thing from your own AoE" tax to the trophy in K17. Let [[Riven]] fight this one
 >   with his hands free. Full guidance in [[Lyriel]]'s GM notes.
 
+## How it ended — [[Session 108 - That Is Not Yours|Session 108]]
+
+> [!success] **Forgiven — Briara returned, freely given.** The campaign ends here.
+> The party came through the throne portal into a small garden courtyard, more First World than the
+> rest of the House, and found Nyrissa holding [[Lyriel]] about 60 feet away. Anyone who came within
+> 30 feet had to save against being **blinded by her beauty** and against serious damage.
+>
+> - **Her price was [[Briar|Briara]] for Lyriel.** She would not drop her ambitions on request, but
+>   because the asks were *Shameless Requests*, she wasn't angered either, only impatient.
+> - **[[Riven]]'s offer:** Briara in exchange for (1) Lyriel, (2) safe passage for everyone back to
+>   [[Freehaven]], and (3) no more interference with Freehaven. **She offered a ritual to bind both
+>   sides to it.**
+> - **[[Pavel]] raised the price.** As Warden, he said one life was not enough: *"We want your
+>   friendship, not just an exchange of prisoners"*, the friendship of the First World for as long as
+>   the founders live and are remembered. She studied him, then [[Lucas]] and Riven, and nodded.
+> - **[[Lucas]] sealed it** with a fully buffed Diplomacy check: needed about 52, got 53 with a hero point.
+> - **Pavel chose the giver:** Briara's love came from Nyrissa, and love can only be given, so the gift
+>   had to come from the one companion who knew every form of it. He asked [[Astor]].
+> - **She let Lyriel go without bargaining**, so overwhelmed she didn't notice Lyriel cross the
+>   courtyard. Astor knelt and raised the sword. Before touching it she asked Briara, ***"Is it your
+>   desire to be reunited with me?"*** After a pause: ***"Yes."*** A blinding white light, and then
+>   Nyrissa lying on her side on the floor, **silently sobbing, no sword in sight.**
+>
+> This is the AP's **forgive** ending, reached by **negotiation rather than Forgive Foe**. The party
+> also offered help against [[The Lantern King]].
+
 ## The Shame Mechanic
 
 Nyrissa bears the Shame condition. What triggers it and what Forgive Foe does to her is detailed in Chapter 11, but the DC is:
@@ -123,7 +159,7 @@ Nyrissa bears the Shame condition. What triggers it and what Forgive Foe does to
 
 See [[Kingmaker Campaign Summary]] for full backstory. Short version: she earned a punishment from the Eldest (chiefly the Lantern King) for trying to make herself an Eldest. They sent the Jabberwock to destroy her, then tore out her emotions and forged them into [[Briar]], telling her she could earn her soul back by capturing 1,000 kingdoms as *The Apology*. She has 999 so far. The PCs' kingdom is meant to be the last.
 
-She has been watching the PCs since they arrived in the Stolen Lands, subtly helping threats against them to make their kingdom stronger and more worthy of being the 1,000th kingdom. She is genuinely surprised and increasingly terrified that they might actually stop her.
+She has been watching the PCs since they arrived in the [[Stolen Lands]], subtly helping threats against them to make their kingdom stronger and more worthy of being the 1,000th kingdom. She is genuinely surprised and increasingly terrified that they might actually stop her.
 
 **A critical blind spot**: [[King Irovetti]] discovered [[Briar]] and kept it in his palace — *without Nyrissa's knowledge*. Her own pawn was sitting on the one object that could destroy her. The PCs found it when they killed him. Nyrissa does not know how long it was hidden from her, or what she missed while Briar was out of her awareness.
 
@@ -161,8 +197,8 @@ something to say so. See [[Barbtongued Wyverns]].
 
 ## Key Allies
 
-- [[The Wriggling Man]] — arcane advisor. Fought the party in throne room K17 across Sessions 106–107 and **escaped alive** via his contingency; **at large and healing** somewhere in the House (M6 by his statblock)
-- [[Barbtongued Wyverns]] — her two pets in the Great Hall (L1); **combat live as of 107**
+- [[The Wriggling Man]] — arcane advisor. **Killed in the Great Hall, [[Session 108 - That Is Not Yours|Session 108]].** Before that, he fought the party in throne room K17 across Sessions 106–107 and **escaped alive** via his contingency; **at large and healing** somewhere in the House (M6 by his statblock)
+- [[Barbtongued Wyverns]] — her two pets in the Great Hall (L1); **both killed, [[Session 108 - That Is Not Yours|Session 108]]**
 - [[The Knurly Witch]] — hag cleric, in glade H / cellar K16
 - [[Ilthuliak]] — black dragon, in glade J
 - [[The Horned Hunter]] — satyr ranger, sent to steal Briar during Part 1; **dead** — killed by the PCs (Session 100), ending her Fey Conduit view of the party
@@ -185,3 +221,4 @@ During the bloom assault (see [[The Month of Destruction]]), her forces struck s
 ## Sources
 
 - [[_sources/processed/roleplay/RP25.1 Pavels Confusion|RP25.1 — Pavel's Confusion]] — her forces at the Oaktop silver mine
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

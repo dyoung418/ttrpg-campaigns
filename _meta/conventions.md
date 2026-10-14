@@ -32,7 +32,7 @@ Five fields are **index-critical** — they drive cross-note behaviour and must 
 | `sources` | Where the content came from. Always a **list** (plural), even for a single entry. |
 | `related` | Auto-derived, script-maintained list of the note's wikilink connections — a quick-reference index of everything the note touches. **Not hand-curated** (see §5). |
 
-Notes also carry **housekeeping fields** (`campaign`, `aliases`, `created`) and **type-specific
+RP-scene session notes carry `rp_number` (their RP document number) and leave `session_number` blank — the two numbering systems are independent (see the Campaign Timeline). Notes also carry **housekeeping fields** (`campaign`, `aliases`, `created`) and **type-specific
 fields** (e.g. `player`/`class` on characters, `region` on locations, `rarity` on items). Those
 are governed by the templates in `_templates/`; the five above are the ones indexing depends on.
 
@@ -49,15 +49,19 @@ nuance ("destroyed — routed at Willowshade; Darian killed") belongs in the **n
 | `npc`       | `alive`, `deceased`, `missing`, `captive`, `unknown` |
 | `character` | `active`, `retired`, `deceased` |
 | `location`  | `accessible`, `hostile`, `contested`, `cleared`, `ruined` |
-| `plot-hook` | `open`, `active`, `resolved`, `abandoned` |
+| `plot-hook` | `open`, `active`, `resolved`, `abandoned`, `unresolved` |
 | `faction`   | `active`, `defeated`, `destroyed`, `unknown` |
-| `item`      | `unacquired`, `held`, `lost`, `destroyed` |
+| `item`      | `unacquired`, `held`, `lost`, `destroyed`, `returned` |
 | `lore`      | `stub`, `established` *(optional — lore may omit `status`)* |
 | `session`   | `planned`, `complete` |
 
 > [!note] Session sub-type
 > Roleplay-scene session notes carry the `rp-scene` **tag** (a legitimate cross-cutting axis) and
 > a normal lifecycle `status` (usually `complete`) — `status` is never overloaded to mark them.
+
+`returned` marks an item deliberately given back to its rightful owner (e.g. Briar to Nyrissa) — distinct from `lost`, which implies the party would still want it back.
+
+`unresolved` marks a plot hook that was still open when its campaign **ended**. It was never closed in play, but it is no longer live. (Compare `abandoned`, which marks a thread dropped while the campaign is still running.)
 
 When a note's real-world state doesn't match an allowed value, pick the closest enum and record
 the specifics in the body. Extending a type's vocabulary is a deliberate change to this table.

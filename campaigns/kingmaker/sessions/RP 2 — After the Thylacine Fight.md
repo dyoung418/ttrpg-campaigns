@@ -11,7 +11,8 @@ related:
   - "[[Pavel]]"
   - "[[Riven]]"
 date: ""
-session_number: 2
+rp_number: 2
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"

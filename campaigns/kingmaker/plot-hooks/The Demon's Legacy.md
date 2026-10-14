@@ -3,24 +3,28 @@ type: plot-hook
 campaign: kingmaker
 tags:
   - campaign/kingmaker
-sources: []
+sources:
+  - "[[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]"
 related:
   - "[[Aelir and Lytha]]"
   - "[[Faelir]]"
   - "[[Feywind]]"
   - "[[Kyonin]]"
+  - "[[Nyrissa]]"
   - "[[Riven]]"
   - "[[Session 106 - The Thing He Wears]]"
   - "[[Session 107 - I Cant Wait Until You Meet Her]]"
   - "[[Session 108 - That Is Not Yours]]"
+  - "[[Stolen Lands]]"
   - "[[The Wriggling Man]]"
-status: open
+status: unresolved
+priority: low
 created: "2026-05-29"
 ---
 
 # The Demon's Legacy
 
-**Status**: Open — unresolved, could be introduced at any time
+**Status**: Unresolved. The campaign ended in [[Session 108 - That Is Not Yours|Session 108]] with this thread still open.
 
 ## Summary
 
@@ -34,7 +38,7 @@ Riven swore on his parents' deaths to carry on their legacy of service and prote
 
 - **The demon still lives** — and Riven eventually learns this. Does he abandon Freehaven's needs to pursue personal vengeance?
 - **The ambush wasn't random** — Aelir and Lytha were targeted for something they knew, something they protected, or something they were about to do.
-- **A connection to the current threat** — Nyrissa has manipulated many things in the Stolen Lands. Could she or the Eldest have any connection to what killed Riven's parents centuries ago?
+- **A connection to the current threat** — [[Nyrissa]] has manipulated many things in the [[Stolen Lands]]. Could she or the Eldest have any connection to what killed Riven's parents centuries ago?
 - **Faelir knows something** — Riven's druid mentor may have knowledge about the demon, the ambush, or what Aelir and Lytha were investigating.
 
 ## The parked idea — and the window that just reopened
@@ -66,8 +70,17 @@ Riven swore on his parents' deaths to carry on their legacy of service and prote
 > **His contingency is spent**, so the rematch is the last round of this fight. That is the real
 > deadline now.
 
+> [!note] **Closed without firing — [[Session 108 - That Is Not Yours|Session 108]]**
+> [[The Wriggling Man]] died in the Great Hall rematch and the merge was never played, so **he is not
+> the demon.** The campaign ended in the same session, and the demon that killed [[Aelir and Lytha]] was
+> **never identified**, which is the "stay forever unidentified" ending above.
+
 ## Key NPCs
 
 - [[Riven]] — the son; the one left with the oath
 - [[Aelir and Lytha]] — the parents; their story is incomplete
 - [[Faelir]] — may know more than Riven realizes
+
+## Sources
+
+- [[_sources/processed/session_notes/Session 108 notes from the actual play|Session 108 — Actual-Play Notes]]

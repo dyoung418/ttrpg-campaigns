@@ -12,10 +12,12 @@ related:
   - "[[Linzi]]"
   - "[[Nightmarch]]"
   - "[[Pavel]]"
+  - "[[Restov]]"
   - "[[Rise n Dine]]"
   - "[[Riven]]"
 date: ""
-session_number: 5.5
+rp_number: 5.5
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -41,7 +43,7 @@ Even as the kingdom reels from the Beast of Nightmarch, [[Linzi]] bustles up wit
 
 **Linzi's pitch.** Linzi (gesticulating wildly, narrating as if it were an epic) reports she can't detect even a flicker of satisfaction in Ekundayo and proposes a thank-you feast for his help against Hargulka. She'll arrange everything.
 
-**Pavel chips in.** Pavel empties his purse — three gold, six silver, *"I spent everything else in Restov"* — and reminds them to buy something for **Dog** too. He suggests using [[Hargulka]]'s (now skeletonized) head to make a party hat.
+**Pavel chips in.** Pavel empties his purse — three gold, six silver, *"I spent everything else in [[Restov]]"* — and reminds them to buy something for **Dog** too. He suggests using [[Hargulka]]'s (now skeletonized) head to make a party hat.
 
 **Riven's plan.** Riven warms to it: seat Ekundayo at the head of the table, have Linzi compose a song about his flaming arrows and the trolls' destruction, and (to others' cringe) display Hargulka's head — *outside*, in the open air. A running gag: he misremembers whether Pavel meant a hat *for* Hargulka's head.
 

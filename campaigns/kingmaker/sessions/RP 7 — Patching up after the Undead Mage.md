@@ -9,6 +9,7 @@ related:
   - "[[Benedin]]"
   - "[[Brumble]]"
   - "[[Feywind]]"
+  - "[[Freehaven]]"
   - "[[Great Aunt Sumi]]"
   - "[[Great Great Aunt Gina]]"
   - "[[Hyram]]"
@@ -20,13 +21,16 @@ related:
   - "[[Pavel]]"
   - "[[Riven]]"
   - "[[River Kingdoms]]"
+  - "[[Stolen Lands]]"
   - "[[Tanglebriar]]"
   - "[[Treerazer]]"
+  - "[[Varnhold]]"
   - "[[Vordakai]]"
   - "[[Vordakai's Island]]"
   - "[[Xamanthe]]"
 date: ""
-session_number: 7
+rp_number: 7
+session_number:
 status: complete
 players_present:
   - "[[Riven]]"
@@ -53,11 +57,11 @@ Patching wounds after killing the undead mage, [[Riven]] and [[Lucas]] trade ori
 
 ## Key Beats
 
-**Lucas's origin.** [[Great Aunt Sumi]] taught him the healer's kit before dying of wasting fever when he was twelve. Studying her books, he began hearing her voice — then **Great Grandmother [[Great Great Aunt Gina|Gina]]** told him the ancestors had chosen him. He confirms he is **kitsune** (foxfolk), and that he wants Freehaven to welcome all peoples — abandoning his old plan to claim noble Brevic heritage.
+**Lucas's origin.** [[Great Aunt Sumi]] taught him the healer's kit before dying of wasting fever when he was twelve. Studying her books, he began hearing her voice — then **Great Great Aunt [[Great Great Aunt Gina|Gina]]** told him the ancestors had chosen him. He confirms he is **kitsune** (foxfolk), and that he wants [[Freehaven]] to welcome all peoples — abandoning his old plan to claim noble Brevic heritage.
 
-**Riven's origin.** Born in [[Kyonin]] over a century ago; his ranger parents died fighting [[Treerazer]]'s demons in the [[Tanglebriar]] when he was a boy. He rose to command, then lost his rank when undead wiped out a village he failed to protect. He wandered the [[River Kingdoms]], fell in with the wrong crowd, and came to the Stolen Lands with nothing — where he found an orphaned cub, [[Brumble]]. *"He ended up saving me at my darkest time."*
+**Riven's origin.** Born in [[Kyonin]] over a century ago; his ranger parents died fighting [[Treerazer]]'s demons in the [[Tanglebriar]] when he was a boy. He rose to command, then lost his rank when undead wiped out a village he failed to protect. He wandered the [[River Kingdoms]], fell in with the wrong crowd, and came to the [[Stolen Lands]] with nothing — where he found an orphaned cub, [[Brumble]]. *"He ended up saving me at my darkest time."*
 
-**The terrible clue.** The mage *thanked them* for killing it. Pavel realizes it resembled a figure from a Varnhold painting. They reason they face either a force powerful enough to enslave great mages, or one that grants undead servants great power — *"neither is a comfortable thought."*
+**The terrible clue.** The mage *thanked them* for killing it. Pavel realizes it resembled a figure from a [[Varnhold]] painting. They reason they face either a force powerful enough to enslave great mages, or one that grants undead servants great power — *"neither is a comfortable thought."*
 
 **Pavel grounds Riven.** Privately, Pavel calls Riven out for being distracted by his past, demanding the *new* Riven for the fight ahead. Riven confides he *left* Kyonin — wasn't exiled — and means to return one day on his own terms. An iridescent amulet ([[Feywind]]? — see flags) slips from his tunic.
 
